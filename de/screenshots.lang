@@ -5,107 +5,107 @@
 
 # Screen 1 (Music App): provide fictional items, DO NOT TRANSLATE the original string and remove the brackets in your translation.
 ;[made up song title]
-[made up song title]
+Last Tuesday
 
 
 # Screen 1 (Music App): provide a fictional band and artist
 ;[made up local artist or band]
-[made up local artist or band]
+Vanessa Adelaide
 
 
 # Screen 1 (Music App):
 ;[made up local album title]
-[made up local album title]
+Sanctuary
 
 
 # Screen 2 (Music), screen 6 (Icon Grid), screen 11 (e.me party)
 ;Music
-Music
+Musik
 
 
 # Screen 3 (Video)
 ;Happy birthday
-Happy birthday
+Alles Gute zum Geburtstag
 
 
 # Screen 3 (Video)
 ;Summer vacation fun
-Summer vacation fun
+Spaß in den Sommerferien
 
 
 # Screen 3 (Video)
 ;Hanging out with the family
-Hanging out with the family
+Zusammenkunft mit der Familie
 
 
 # Screen 3 (Video)
 ;Dinner with the gang/friends
-Dinner with the gang/friends
+Abendessen mit Freunden
 
 
 # Screen 4 (Markeplace)
 ;Search
-Search
+Suche
 
 
 # Screen 4 (Markeplace)
 ;All Categories
-All Categories
+Alle Kategorien
 
 
 # Screen 4 (Markeplace)
 ;Featured Apps
-Featured Apps
+Vorgestellte Apps
 
 
 # Screen 4 (Markeplace)
 ;View All
-View All
+Alle ansehen
 
 
 # Screen 4 (Markeplace)
 ;Popular
-Popular
+Beliebt
 
 
 # Screen 4 (Markeplace)
 ;New
-New
+Neu
 
 
 # Screen 4 (Markeplace)
 ;Free
-Free
+Kostenlos
 
 
 # Screen 5 (Homescreen)
 ;I’m thinking of…
-I’m thinking of…
+Ich denke an…
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Gallery
-Gallery
+Galerie
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Camera
-Camera
+Kamera
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Calendar
-Calendar
+Kalender
 
 
 # Screen 6 (Icon Grid)
 ;Clock
-Clock
+Uhr
 
 
 # Screen 6 (Icon Grid), screen 18 (Usage)
 ;Usage
-Usage
+Verbrauch
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
@@ -115,87 +115,87 @@ Video
 
 # Screen 6 (Icon Grid)
 ;Email
-Email
+E-Mail
 
 
 # Screen 6 (Icon Grid)
 ;FM Radio
-FM Radio
+UKW-Radio
 
 
 # Screen 6 (Icon Grid)
 ;Settings
-Settings
+Einstellungen
 
 
 # Screen 7 (Here Maps)
 ;Cafe
-Cafe
+Café
 
 
 # Screen 7 (Here Maps), screen 11 (e.me party), screen 12 (e.me party)
 ;Results Simulated
-Results Simulated
+Fiktionale Ergebnisse
 
 
 # Screen 8 (Gallery)
 ;June 2014
-June 2014
+Juni 2014
 
 
 # Screen 9 (Gallery with Filters)
 ;Edit
-Edit
+Bearbeiten
 
 
 # Screen 9 (Gallery with Filters)
 ;Done
-Done
+Fertig
 
 
 # Screen 11 (e.me party)
 ;Party
-Party
+Party {ok}
 
 
 # Screen 11 (e.me party)
 ;Everything Party
-Everything Party
+Everything Party {ok}
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;EzGift
-EzGift
+Geschenk im Nu
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Cater Girls
-Cater Girls
+Catering-Mädels
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Quickvite
-Quickvite
+Einfache Einladung
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Balloonies
-Balloonies
+Balloonies {ok}
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Flowerettes
-Flowerettes
+Flowerettes {ok}
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;My Bulletin
-My Bulletin
+Meine Mitteilung
 
 
 # Screen 11 (e.me party)
 ;Notes
-Notes
+Notizen
 
 
 # Screen 12 (e.me party)
@@ -205,241 +205,241 @@ Café
 
 # Screen 12 (e.me party)
 ;Everything Cafe
-Everything Cafe
+Everything Café
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Cafe Calories
-Cafe Calories
+Kaffee-Kalorien
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Caffeine Diaries
-Caffeine Diaries
+Koffein-Tagebücher
 
 
 # Screen 12 (e.me party) NOTE: fictional; DIY=Do It Yourself
 ;D.I.Y. Barista
-D.I.Y. Barista
+Selbst Barista
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Coffee Addicts
-Coffee Addicts
+Koffein-Junkies
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Java Spotter
-Java Spotter
+Café-Finder
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Join Up
-Join Up
+Treffpunkt
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;MyGrubber
-MyGrubber
+Meine Ecke
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Park It Here
-Park It Here
+Hier parken
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Bookclub Finder
-Bookclub Finder
+Bookclub Finder {ok}
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Book Beamer
-Book Beamer
+Buchlieferung
 
 
 # Screen 13 (Contacts)
 ;Contacts
-Contacts
+Kontakte
 
 
 # Screen 13 (Contacts)
 ;Search…
-Search…
+Suchen…
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #1]
-[made up name #1]
+[made up name #1] {ok}
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #2]
-[made up name #2]
+[made up name #2] {ok}
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #3]
-[made up name #3]
+[made up name #3] {ok}
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #4]
-[made up name #4]
+[made up name #4] {ok}
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #5]
-[made up name #5]
+[made up name #5] {ok}
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #6]
-[made up name #6]
+[made up name #6] {ok}
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #7]
-[made up name #7]
+[made up name #7] {ok}
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #8]
-[made up name #8]
+[made up name #8] {ok}
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #9]
-[made up name #9]
+[made up name #9] {ok}
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #10]
-[made up name #10]
+[made up name #10] {ok}
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #11]
-[made up name #11]
+[made up name #11] {ok}
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #12]
-[made up name #12]
+[made up name #12] {ok}
 
 
 # Screen 14 (Email)
 ;Inbox (2)
-Inbox (2)
+Posteingang (2)
 
 
 # Screen 14 (Email)
 ;Re:
-Re:
+Re: {ok}
 
 
 # Screen 14 (Email)
 ;Send photos please / You 're the best! Thanks so…
-Send photos please / You 're the best! Thanks so…
+Bitte Fotos senden / Du bist die Beste! Vielen Dank…
 
 
 # Screen 14 (Email)
 ;Road trip next weekend / I've been wanting to visit that place…
-Road trip next weekend / I've been wanting to visit that place…
+Ausflug nächstes Wochenende? / Ich will unbedingt nach...
 
 
 # Screen 14 (Email)
 ;You might like this / Great find! I'll definitely check with you
-You might like this / Great find! I'll definitely check with you
+Das könnte dir gefallen / Schöner Fund! Ich melde mich auf jeden Fall bei dir
 
 
 # Screen 14 (Email)
 ;We're moving! / Hello Friends! Join us on Saturday to…
-We're moving! / Hello Friends! Join us on Saturday to…
+Wir ziehen um! / Hallo Freunde! Trefft Euch mit uns am Samstag…
 
 
 # Screen 14 (Email)
 ;It was nice meeting you! I heard you are going the…
-It was nice meeting you! I heard you are going the…
+War schön, dich zu treffen! Ich hörte, du gehst zum…
 
 
 # Screen 14 (Email)
 ;Yesterday
-Yesterday
+Gestern
 
 
 # Screen 14 (Email)
 ;1 week ago
-1 week ago
+Vor 1 Woche
 
 
 # Screen 14 (Email)
 ;May 25
-May 25
+25. Mai
 
 
 # Screen 15 and 16 (Dialer) NOTE: provide a fake phone number that complies to your country’s phone number format
 ;[fake local phone number]
-[fake local phone number]
+01710011223
 
 
 # Screen 16 (Outgoing Call)
 ;Connecting
-Connecting
+Verbinden…
 
 
 # Screen 16 (Outgoing Call) NOTE: use the same fake name provided in the Contact screen.
 ;[fake name from Contact list]
-[fake name from Contact list]
+[fake name from Contact list] {ok}
 
 
 # Screen 17 (Browser)
 ;Firefox Start Page
-Firefox Start Page
+Firefox-Startseite
 
 
 # Screen 17 (Browser)
 ;Top Sites
-Top Sites
+Beliebteste Seiten
 
 
 # Screen 18 (Usage)
 ;3G Usage
-3G Usage
+Datenverbrauch
 
 
 # Screen 18 (Usage)
 ;Wifi Usage
-Wifi Usage
+WLAN-Verbrauch
 
 
 # Screen 18 (Usage)
 ;May 1, May 20, May 30
-May 1, May 20, May 30
+1. Mai, 20. Mai, 30. Mai
 
 
 # Screen 19 (Lock Screen)
 ;Carrier
-Carrier
+Anbieter
 
 
 # Screen 19 (Lock Screen)
 ;8:36PM
-8:36PM
+8:36
 
 
 # Screen 19 (Lock Screen)
 ;Friday, May 26
-Friday, May 26
+Freitag, 26. Mai
 
 
 # Screen 20 (Lock Screen 2 )  NOTE: use the same title provided in Music App screen)
 ;[song title]
-[song title]
+Last Tuesday
 
 
 # Screen 20 (Lock Screen 2 )  NOTE: use the same artist provided in Music App screen)
 ;[artist]
-[artist]
+Vanessa Adelaide
 
 
