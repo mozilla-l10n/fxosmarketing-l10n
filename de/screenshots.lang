@@ -45,7 +45,7 @@ Abendessen mit Freunden
 
 # Screen 4 (Markeplace)
 ;Search
-Suche
+Suchen
 
 
 # Screen 4 (Markeplace)
@@ -80,7 +80,7 @@ Kostenlos
 
 # Screen 5 (Homescreen)
 ;I’m thinking of…
-Ich denke an…
+Ich suche nach…
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
@@ -105,12 +105,12 @@ Uhr
 
 # Screen 6 (Icon Grid), screen 18 (Usage)
 ;Usage
-Verbrauch
+Nutzung
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Video
-Video
+Video {ok}
 
 
 # Screen 6 (Icon Grid)
@@ -170,7 +170,7 @@ Geschenk im Nu
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Cater Girls
-Catering-Mädels
+Catering Mädels
 
 
 # Screen 11 (e.me party) NOTE: fictional
@@ -200,7 +200,7 @@ Notizen
 
 # Screen 12 (e.me party)
 ;Café
-Café
+Café {ok}
 
 
 # Screen 12 (e.me party)
@@ -210,27 +210,27 @@ Everything Café
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Cafe Calories
-Kaffee-Kalorien
+Kaffee Kalorien
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Caffeine Diaries
-Koffein-Tagebücher
+Koffein Tagebücher
 
 
 # Screen 12 (e.me party) NOTE: fictional; DIY=Do It Yourself
 ;D.I.Y. Barista
-Selbst Barista
+D.I.Y. Barista
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Coffee Addicts
-Koffein-Junkies
+Koffein Junkies
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Java Spotter
-Café-Finder
+Café Finder
 
 
 # Screen 12 (e.me party) NOTE: fictional
@@ -255,7 +255,7 @@ Bookclub Finder {ok}
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Book Beamer
-Buchlieferung
+Buch Lieferung
 
 
 # Screen 13 (Contacts)
@@ -265,67 +265,67 @@ Kontakte
 
 # Screen 13 (Contacts)
 ;Search…
-Suchen…
+Suche
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #1]
-[made up name #1] {ok}
+Michael Landmann / Ingenieurbüro Dietz & Co.
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #2]
-[made up name #2] {ok}
+Konrad Lansky
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #3]
-[made up name #3] {ok}
+Sarah Liebers
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #4]
-[made up name #4] {ok}
+Anja Lohmeyer
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #5]
-[made up name #5] {ok}
+Johann Miersch / Erdem Dentaltechnik
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #6]
-[made up name #6] {ok}
+Kira Mirali / Mirali Immobilien
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #7]
-[made up name #7] {ok}
+Hannes Mrozek / Augustus-Gymnasium
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #8]
-[made up name #8] {ok}
+Nadja Müller
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #9]
-[made up name #9] {ok}
+Thomas Neumann
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #10]
-[made up name #10] {ok}
+Katrin Niemeyer / Niezelt-Verlag
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #11]
-[made up name #11] {ok}
+Daniel Nobis
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #12]
-[made up name #12] {ok}
+Stefanie Nowak / Financial Trust
 
 
 # Screen 14 (Email)
@@ -345,7 +345,7 @@ Bitte Fotos senden / Du bist die Beste! Vielen Dank…
 
 # Screen 14 (Email)
 ;Road trip next weekend / I've been wanting to visit that place…
-Ausflug nächstes Wochenende? / Ich will unbedingt nach...
+Ausflug nächstes Wochenende? / Ich will unbedingt nach…
 
 
 # Screen 14 (Email)
@@ -390,7 +390,7 @@ Verbinden…
 
 # Screen 16 (Outgoing Call) NOTE: use the same fake name provided in the Contact screen.
 ;[fake name from Contact list]
-[fake name from Contact list] {ok}
+Stefanie Nowak
 
 
 # Screen 17 (Browser)
@@ -400,17 +400,17 @@ Firefox-Startseite
 
 # Screen 17 (Browser)
 ;Top Sites
-Beliebteste Seiten
+Meistbesuchte Seiten
 
 
 # Screen 18 (Usage)
 ;3G Usage
-Datenverbrauch
+3G
 
 
 # Screen 18 (Usage)
 ;Wifi Usage
-WLAN-Verbrauch
+WLAN
 
 
 # Screen 18 (Usage)
@@ -425,7 +425,7 @@ Anbieter
 
 # Screen 19 (Lock Screen)
 ;8:36PM
-8:36
+20:36
 
 
 # Screen 19 (Lock Screen)
