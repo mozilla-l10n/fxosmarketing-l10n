@@ -115,7 +115,7 @@
 
 # Screen 6 (Icon Grid)
 ;Email
-Email
+Email {ok}
 
 
 # Screen 6 (Icon Grid)
@@ -279,7 +279,7 @@ Book Beamer {οκ}
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
-;[made up name #3
+;[made up name #3]
 Μαρία Ιωακειμίδη (f)
 
 
@@ -300,32 +300,26 @@ Book Beamer {οκ}
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #7]
-[made up name #7]
 Μαρίνα Κεχαγιά (f) / Κύμα Resort & Spa
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #8]
-[made up name #8]
 Σοφία Κυριακίδου (f)
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #9]
-[made up name #9]
 Πέτρος Λασκαρίδης (m) / Photo Studio
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #10]
-[made up name #10]
 Μάριος Λέκκας (m)
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #11]
-[made up name #11]
 Χριστίνα Λινάρδου (f) / A-Plan Οργάνωση Εκδηλώσεων
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #12]
-[made up name #12]
 Σταμάτης Λοβέρδος (m)
 
 # Screen 14 (Email)
