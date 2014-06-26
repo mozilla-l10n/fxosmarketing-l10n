@@ -5,112 +5,112 @@
 
 # Screen 1 (Music App): provide fictional items, DO NOT TRANSLATE the original string and remove the brackets in your translation.
 ;[made up song title]
-[made up song title]
+Καλοκαιρινές Διακοπές
 
 
 # Screen 1 (Music App): provide a fictional band and artist
 ;[made up local artist or band]
-[made up local artist or band]
+Εύη Δανιηλίδου
 
 
 # Screen 1 (Music App):
 ;[made up local album title]
-[made up local album title]
+Διαδρομές
 
 
 # Screen 2 (Music), screen 6 (Icon Grid), screen 11 (e.me party)
 ;Music
-Music
+Μουσική
 
 
 # Screen 3 (Video)
 ;Happy birthday
-Happy birthday
+Χρόνια πολλά
 
 
 # Screen 3 (Video)
 ;Summer vacation fun
-Summer vacation fun
+Καλοκαιρινή διασκέδαση
 
 
 # Screen 3 (Video)
 ;Hanging out with the family
-Hanging out with the family
+Παρέα με την οικογένεια
 
 
 # Screen 3 (Video)
 ;Dinner with the gang/friends
-Dinner with the gang/friends
+Φαγητό με την παρέα
 
 
 # Screen 4 (Markeplace)
 ;Search
-Search
+Αναζήτηση
 
 
 # Screen 4 (Markeplace)
 ;All Categories
-All Categories
+Όλες οι κατηγορίες
 
 
 # Screen 4 (Markeplace)
 ;Featured Apps
-Featured Apps
+Προβεβλημένες εφαρμογές
 
 
 # Screen 4 (Markeplace)
 ;View All
-View All
+Προβολή όλων
 
 
 # Screen 4 (Markeplace)
 ;Popular
-Popular
+Δημοφιλείς
 
 
 # Screen 4 (Markeplace)
 ;New
-New
+Νέες
 
 
 # Screen 4 (Markeplace)
 ;Free
-Free
+Δωρεάν
 
 
 # Screen 5 (Homescreen)
 ;I’m thinking of…
-I’m thinking of…
+Ψάχνω για…
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Gallery
-Gallery
+Πολυμέσα
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Camera
-Camera
+Κάμερα
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Calendar
-Calendar
+Ημερολόγιο
 
 
 # Screen 6 (Icon Grid)
 ;Clock
-Clock
+Ρολόι
 
 
 # Screen 6 (Icon Grid), screen 18 (Usage)
 ;Usage
-Usage
+Χρήση
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Video
-Video
+Βίντεο
 
 
 # Screen 6 (Icon Grid)
@@ -120,326 +120,326 @@ Email
 
 # Screen 6 (Icon Grid)
 ;FM Radio
-FM Radio
+Ραδιόφωνο
 
 
 # Screen 6 (Icon Grid)
 ;Settings
-Settings
+Ρυθμίσεις
 
 
 # Screen 7 (Here Maps)
 ;Cafe
-Cafe
+Καφέ
 
 
 # Screen 7 (Here Maps), screen 11 (e.me party), screen 12 (e.me party)
 ;Results Simulated
-Results Simulated
+Υποθετικά αποτελέσματα
 
 
 # Screen 8 (Gallery)
 ;June 2014
-June 2014
+Ιούνιος 2014
 
 
 # Screen 9 (Gallery with Filters)
 ;Edit
-Edit
+Επεξεργασία
 
 
 # Screen 9 (Gallery with Filters)
 ;Done
-Done
+ΟΚ
 
 
 # Screen 11 (e.me party)
 ;Party
-Party
+Πάρτυ
 
 
 # Screen 11 (e.me party)
 ;Everything Party
-Everything Party
+Τα πάντα: πάρτυ
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;EzGift
-EzGift
+ΔώραΤώρα
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Cater Girls
-Cater Girls
+Cater Girls {οκ}
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Quickvite
-Quickvite
+Quickvite {οκ}
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Balloonies
-Balloonies
+Balloonies {οκ}
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Flowerettes
-Flowerettes
+Flowerettes {οκ}
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;My Bulletin
-My Bulletin
+My Bulletin {οκ}
 
 
 # Screen 11 (e.me party)
 ;Notes
-Notes
+Σημειώσεις
 
 
 # Screen 12 (e.me party)
 ;Café
-Café
+Καφέ
 
 
 # Screen 12 (e.me party)
 ;Everything Cafe
-Everything Cafe
+Τα πάντα: Καφέ
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Cafe Calories
-Cafe Calories
+Θερμίδες Καφέ
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Caffeine Diaries
-Caffeine Diaries
+Καφεδολογία
 
 
 # Screen 12 (e.me party) NOTE: fictional; DIY=Do It Yourself
 ;D.I.Y. Barista
-D.I.Y. Barista
+Γίνε Barista
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Coffee Addicts
-Coffee Addicts
+Καφεθισμένοι
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Java Spotter
-Java Spotter
+Java Spotter {οκ}
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Join Up
-Join Up
+Join Up {οκ}
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;MyGrubber
-MyGrubber
+MyGrubber {οκ}
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Park It Here
-Park It Here
+Park It Here {οκ}
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Bookclub Finder
-Bookclub Finder
+Βρες Βιβλία
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Book Beamer
-Book Beamer
+Book Beamer {οκ}
 
 
 # Screen 13 (Contacts)
 ;Contacts
-Contacts
+Επαφές
 
 
 # Screen 13 (Contacts)
 ;Search…
-Search…
+Αναζήτηση…
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #1]
-[made up name #1]
+Δημήτρης Ιακωβίδης (m) / Επιγραφές Ιακωβίδη
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #2]
-[made up name #2]
+Μανώλης Ιγνατιάδης (m)
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
-;[made up name #3]
-[made up name #3]
+;[made up name #3
+Μαρία Ιωακειμίδη (f)
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #4]
-[made up name #4]
+Ελένη Ιωάννου (f) / ΚΕΤ Τεχνολογίες
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #5]
-[made up name #5]
+Γωγώ Καπετανάκη (f)
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #6]
-[made up name #6]
+Χρήστος Καρράς (m) / Άλφα Α.Ε.
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #7]
 [made up name #7]
-
+Μαρίνα Κεχαγιά (f) / Κύμα Resort & Spa
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #8]
 [made up name #8]
-
+Σοφία Κυριακίδου (f)
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #9]
 [made up name #9]
-
+Πέτρος Λασκαρίδης (m) / Photo Studio
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #10]
 [made up name #10]
-
+Μάριος Λέκκας (m)
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #11]
 [made up name #11]
-
+Χριστίνα Λινάρδου (f) / A-Plan Οργάνωση Εκδηλώσεων
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #12]
 [made up name #12]
-
+Σταμάτης Λοβέρδος (m)
 
 # Screen 14 (Email)
 ;Inbox (2)
-Inbox (2)
+Εισερχόμενα (2)
 
 
 # Screen 14 (Email)
 ;Re:
-Re:
+Απ:
 
 
 # Screen 14 (Email)
 ;Send photos please / You 're the best! Thanks so…
-Send photos please / You 're the best! Thanks so…
+Παρακαλώ στείλε μου φωτογραφίες / Είσαι θησαυρός! Ευχαριστώ τόσο…
 
 
 # Screen 14 (Email)
 ;Road trip next weekend / I've been wanting to visit that place…
-Road trip next weekend / I've been wanting to visit that place…
+Πάμε πουθενά το άλλο σαββατοκύριακο / Ήθελα να επισκεφτώ εκείνο το μέρος…
 
 
 # Screen 14 (Email)
 ;You might like this / Great find! I'll definitely check with you
-You might like this / Great find! I'll definitely check with you
+Μπορεί να σου αρέσει / Πολύ καλό! Σίγουρα θα το ελέγξω
 
 
 # Screen 14 (Email)
 ;We're moving! / Hello Friends! Join us on Saturday to…
-We're moving! / Hello Friends! Join us on Saturday to…
+Μετακομίζουμε! / Γεια παιδιά! Επισκεφθείτε μας το Σάββατο για να…
 
 
 # Screen 14 (Email)
 ;It was nice meeting you! I heard you are going the…
-It was nice meeting you! I heard you are going the…
+Χάρηκα που σε γνώρισα! Έμαθα ότι θα πας στο…
 
 
 # Screen 14 (Email)
 ;Yesterday
-Yesterday
+Χθες
 
 
 # Screen 14 (Email)
 ;1 week ago
-1 week ago
+1 εβδ. πριν
 
 
 # Screen 14 (Email)
 ;May 25
-May 25
+25 Μαΐου
 
 
 # Screen 15 and 16 (Dialer) NOTE: provide a fake phone number that complies to your country’s phone number format
 ;[fake local phone number]
-[fake local phone number]
+6971237654
 
 
 # Screen 16 (Outgoing Call)
 ;Connecting
-Connecting
+Γίνεται σύνδεση
 
 
 # Screen 16 (Outgoing Call) NOTE: use the same fake name provided in the Contact screen.
 ;[fake name from Contact list]
-[fake name from Contact list]
+Ελένη Ιωάννου
 
 
 # Screen 17 (Browser)
 ;Firefox Start Page
-Firefox Start Page
+Αρχική σελίδα Firefox
 
 
 # Screen 17 (Browser)
 ;Top Sites
-Top Sites
+Δημοφιλείς σελίδες
 
 
 # Screen 18 (Usage)
 ;3G Usage
-3G Usage
+Χρήση 3G
 
 
 # Screen 18 (Usage)
 ;Wifi Usage
-Wifi Usage
+Χρήση Wifi
 
 
 # Screen 18 (Usage)
 ;May 1, May 20, May 30
-May 1, May 20, May 30
+1 Μαΐου, 20 Μαΐου, 30 Μαΐου
 
 
 # Screen 19 (Lock Screen)
 ;Carrier
-Carrier
+Πάροχος
 
 
 # Screen 19 (Lock Screen)
 ;8:36PM
-8:36PM
+8:36 μ.μ.
 
 
 # Screen 19 (Lock Screen)
 ;Friday, May 26
-Friday, May 26
+Παρασκευή, 26 Μαΐου
 
 
 # Screen 20 (Lock Screen 2 )  NOTE: use the same title provided in Music App screen)
 ;[song title]
-[song title]
+Καλοκαιρινές Διακοπές
 
 
 # Screen 20 (Lock Screen 2 )  NOTE: use the same artist provided in Music App screen)
 ;[artist]
-[artist]
+Εύη Δανιηλίδου
 
 
