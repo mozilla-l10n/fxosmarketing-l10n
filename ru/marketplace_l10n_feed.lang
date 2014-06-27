@@ -1,66 +1,67 @@
 ## NOTE: the mockup of L10n feed can be found here: https://drive.google.com/a/mozilla.com/?usp=sheets_web&usp=sheets_web&urp=https://drive.google.com/?usp%3Dsheets_web#folders/0B7u_NzvpgGcgeG1xZXFKS3JTalE
 
+
 ;Today's Top App
-Today's Top App
+Сегодняшнее Топ Приложение
 
 
 ;Today's Top Apps
-Today's Top Apps
+Сегодняшний Топ Приложений
 
 
 # Note: A great app that's relatively unknown.
 ;Hidden Gem
-Hidden Gem
+Скрытая жемчужина
 
 
 ;Hidden Gems
-Hidden Gems
+Скрытые жемчужины
 
 
 # Note: An app that is revolutionary in some manner.
 ;Groundbreaking App
-Groundbreaking App
+Революционное приложение
 
 
 ;Groundbreaking Apps
-Groundbreaking Apps
+Революционные приложения
 
 
 # Note: Our editorial persona will be a fox. Think of "Fox Favortie" as akin to "Editor's Pick" because the Fox is the editor.
 ;Fox Favorite
-Fox Favorite
+Любимец лисы
 
 
 ;Fox Favorites
-Fox Favorites
+Любимцы лисы
 
 
 # Note: An app that is popular in a particular region.
 ;Local Favorite
-Local Favorite
+Местный фаворит
 
 
 # Note: An alternative to "Fox Favorite".
 ;Editors' Pick
-Editors' Pick
+Выбор редакции
 
 
 ;Editors' Picks
-Editors' Picks
+Выбор редакции
 
 
 # Note: Another potential option to use instead of "Fox Favorite" or Editors' Pick".
 ;Staff Pick
-Staff Pick
+Выбор команды
 
 
 ;Staff Picks
-Staff Picks
+Выбор команды
 
 
 # Note: This will be used to promote an app that does something completely random, strange, or unexpected. Think of this as a fun way to feature an app that will surprise users.
 ;Mystery App!
-Mystery App!
+Приложение-загадка!
 
 
 # Note: Used to promote apps that let you create, like painting apps, music-making apps, writing apps, etc.
@@ -69,219 +70,219 @@ Featured Creativity App
 
 
 ;Featured Creativity Apps
-Featured Creativity Apps
+Избранные в Креативности
 
 
 ;Get Creative
-Get Creative
+Будьте креативны
 
 
 # Note: We have a number of education apps on MP, like math or science learning apps.
 ;Education
-Education
+Образование
 
 
 ;Apps for Education
-Apps for Education
+Образовательные приложения
 
 
 ;Education Spotlight
-Education Spotlight
+Избранное в Образовании
 
 
 # Note: Used to promote exercise or diet apps.
 ;Health & Fitness
-Health & Fitness
+Здоровье и Фитнес
 
 
 ;Healthy Living
-Healthy Living
+Здоровый образ жизни
 
 
 ;Live Healthy
-Live Healthy
+Живите здоровой жизнью
 
 
 ;Maps & Navigation
-Maps & Navigation
+Карты и Навигация
 
 
 ;Getting Around
-Getting Around
+Передвижение
 
 
 ;Maps & Navigation Spotlight
-Maps & Navigation Spotlight
+Избранное в Картах и Навигации
 
 
 ;News & Weather
-News & Weather
+Новости и Погода
 
 
 ;News & Weather Spotlight
-News & Weather Spotlight
+Избранное в Новостях и Погоде
 
 
 ;Book
-Book
+Книга
 
 
 ;Books
-Books
+Книги
 
 
 ;Great Read
-Great Read
+Отличная книга
 
 
 ;Great Reads
-Great Reads
+Отличные книги
 
 
 ;Shopping
-Shopping
+Шоппинг
 
 
 ;Smart Shopping Apps
-Smart Shopping Apps
+Приложения для умного шоппинга
 
 
 ;Sports
-Sports
+Спорт
 
 
 ;The Sporting Life
-The Sporting Life
+Спортивная жизнь
 
 
 # Note: For utilitarian and efficiency apps like task managers or contact list importers, etc.
 ;Tools & Time Savers
-Tools & Time Savers
+Инструменты и Экономия времени
 
 
 ;Games
-Games
+Игры
 
 
 ;Hot Game
-Hot Game
+Горячая игра
 
 
 ;Hot Games
-Hot Games
+Горячие игры
 
 
 ;Great Game
-Great Game
+Отличная игра
 
 
 ;Great Games
-Great Games
+Отличные игры
 
 
 ;Play This Game Right Now
-Play This Game Right Now
+Поиграйте в эту игру прямо сейчас
 
 
 ;Instant Fun!
-Instant Fun!
+Мгновенный заряд веселья!
 
 
 ;Work & Business
-Work & Business
+Работа и Бизнес
 
 
 ;Featured Apps for Work & Business
-Featured Apps for Work & Business
+Избранные приложения для Работы и Бизнеса
 
 
 ;Featured App for Work & Business
-Featured App for Work & Business
+Избранное приложение для Работы и Бизнеса
 
 
 ;Be More Productive
-Be More Productive
+Станьте более продуктивным
 
 
 ;Get Things Done
-Get Things Done
+Выполнение своих задач
 
 
 ;Better Business
-Better Business
+Улучшите свой бизнес
 
 
 ;Arts & Entertainment
-Arts & Entertainment
+Искусство и Развлечения
 
 
 ;Arts & Entertainment Spotlight
-Arts & Entertainment Spotlight
+Избранное в Искусстве и Развлечениях
 
 
 ;Lifestyle
-Lifestyle
+Образ жизни
 
 
 ;Featured Lifestyle App
-Featured Lifestyle App
+Избранное в Образе жизни
 
 
 ;Featured Lifestyle Apps
-Featured Lifestyle Apps
+Избранные в Образе жизни
 
 
 ;Lifestyle & Culture
-Lifestyle & Culture
+Образ жизни и Культура
 
 
 # Note: Think Streaming internet radio or music news apps.
 ;Music
-Music
+Музыка
 
 
 ;For Music Lovers
-For Music Lovers
+Для любителей музыки
 
 
 ;Photo & Video
-Photo & Video
+Фото и Видео
 
 
 ;Featured Camera App
-Featured Camera App
+Избранное для Камеры
 
 
 ;Featured Camera Apps
-Featured Camera Apps
+Избранные для Камеры
 
 
 ;Social
-Social
+Социальные
 
 
 ;Featured Social Apps
-Featured Social Apps
+Избранные социальные приложения
 
 
 ;Get Connected
-Get Connected
+Оставайтесь на связи
 
 
 ;Travel
-Travel
+Путешествия
 
 
 ;Travel Guide
-Travel Guide
+Путеводитель
 
 
 ;Travel Guides
-Travel Guides
+Путеводители
 
 
 ;For Travelers
-For Travelers
+Для путешественников
 
 
 ;Top 5 Community Picks
@@ -414,4 +415,5 @@ Apps for Costa Rica
 
 ;Apps for Japan
 Apps for Japan
+
 

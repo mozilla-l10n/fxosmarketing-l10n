@@ -1,190 +1,191 @@
 ## NOTE: the mockup of L10n feed can be found here: https://drive.google.com/a/mozilla.com/?usp=sheets_web&usp=sheets_web&urp=https://drive.google.com/?usp%3Dsheets_web#folders/0B7u_NzvpgGcgeG1xZXFKS3JTalE
 
+
 ;Today's Top App
-Today's Top App
+আজকের শীর্ষ অ্যাপ
 
 
 ;Today's Top Apps
-Today's Top Apps
+আজকের শীর্ষ অ্যাপসমূহ
 
 
 # Note: A great app that's relatively unknown.
 ;Hidden Gem
-Hidden Gem
+লুকানো জহরত
 
 
 ;Hidden Gems
-Hidden Gems
+লুকানো হিরে জহরত
 
 
 # Note: An app that is revolutionary in some manner.
 ;Groundbreaking App
-Groundbreaking App
+যুগান্তকারী অ্যাপ
 
 
 ;Groundbreaking Apps
-Groundbreaking Apps
+যুগান্তকারী অ্যাপসমূহ
 
 
 # Note: Our editorial persona will be a fox. Think of "Fox Favortie" as akin to "Editor's Pick" because the Fox is the editor.
 ;Fox Favorite
-Fox Favorite
+ফক্সের প্রিয়
 
 
 ;Fox Favorites
-Fox Favorites
+ফক্সের প্রিয়গুলো
 
 
 # Note: An app that is popular in a particular region.
 ;Local Favorite
-Local Favorite
+স্থানীয় প্রিয়
 
 
 # Note: An alternative to "Fox Favorite".
 ;Editors' Pick
-Editors' Pick
+সম্পাদকের বাছাই
 
 
 ;Editors' Picks
-Editors' Picks
+সম্পাদকের বাছাইসমূহ
 
 
 # Note: Another potential option to use instead of "Fox Favorite" or Editors' Pick".
 ;Staff Pick
-Staff Pick
+কর্মীদের বাছাই
 
 
 ;Staff Picks
-Staff Picks
+কর্মীদের বাছাইসমূহ
 
 
 # Note: This will be used to promote an app that does something completely random, strange, or unexpected. Think of this as a fun way to feature an app that will surprise users.
 ;Mystery App!
-Mystery App!
+রহস্য অ্যাপ
 
 
 # Note: Used to promote apps that let you create, like painting apps, music-making apps, writing apps, etc.
 ;Featured Creativity App
-Featured Creativity App
+আলোচিত সৃজনশীলতা অ্যাপ
 
 
 ;Featured Creativity Apps
-Featured Creativity Apps
+আলোচিত সৃজনশীলতা অ্যাপসমূহ
 
 
 ;Get Creative
-Get Creative
+সৃজনশীল হউন
 
 
 # Note: We have a number of education apps on MP, like math or science learning apps.
 ;Education
-Education
+শিক্ষা
 
 
 ;Apps for Education
-Apps for Education
+শিক্ষাভিত্তিক অ্যাপসমূহ
 
 
 ;Education Spotlight
-Education Spotlight
+শিক্ষা স্পটলাইট
 
 
 # Note: Used to promote exercise or diet apps.
 ;Health & Fitness
-Health & Fitness
+স্বাস্থ্য ও সুস্থতা
 
 
 ;Healthy Living
-Healthy Living
+স্বাস্থ্যকর জীবনযাপন
 
 
 ;Live Healthy
-Live Healthy
+সুস্থা জীবনযাপন করুন
 
 
 ;Maps & Navigation
-Maps & Navigation
+মানচিত্র ও পরিভ্রমণ
 
 
 ;Getting Around
-Getting Around
+এদিক সেদিক ঘোরাঘুরি
 
 
 ;Maps & Navigation Spotlight
-Maps & Navigation Spotlight
+মানচিত্র ও পরিভ্রমণ স্পটলাইট
 
 
 ;News & Weather
-News & Weather
+সংবাদ ও আবহাওয়া
 
 
 ;News & Weather Spotlight
-News & Weather Spotlight
+সংবাদ ও আবহাওয়া স্পটলাইট
 
 
 ;Book
-Book
+বই
 
 
 ;Books
-Books
+বইসমূহ
 
 
 ;Great Read
-Great Read
+চমৎকার পাঠ্য
 
 
 ;Great Reads
-Great Reads
+চমৎকার পাঠ্যসমূহ
 
 
 ;Shopping
-Shopping
+কেনাকাটা
 
 
 ;Smart Shopping Apps
-Smart Shopping Apps
+স্মার্ট শপিং অ্যাপসমূহ
 
 
 ;Sports
-Sports
+ক্রীড়া
 
 
 ;The Sporting Life
-The Sporting Life
+ক্রীড়াময় জীবন
 
 
 # Note: For utilitarian and efficiency apps like task managers or contact list importers, etc.
 ;Tools & Time Savers
-Tools & Time Savers
+হাতিয়ার ও সময় সহায়ক
 
 
 ;Games
-Games
+গেমস
 
 
 ;Hot Game
-Hot Game
+হট গেমস
 
 
 ;Hot Games
-Hot Games
+হট গেমসমূহ
 
 
 ;Great Game
-Great Game
+চমৎকার গেম
 
 
 ;Great Games
-Great Games
+চমৎকার গেমসমূহ
 
 
 ;Play This Game Right Now
-Play This Game Right Now
+গেমটি এক্ষুণি খেলুন
 
 
 ;Instant Fun!
-Instant Fun!
+তাৎক্ষণিক মজা!
 
 
 ;Work & Business
@@ -196,92 +197,92 @@ Featured Apps for Work & Business
 
 
 ;Featured App for Work & Business
-Featured App for Work & Business
+কাজ ও ব্যবসার জন্যে বৈশিষ্ট্যপূর্ণ অ্যাপ
 
 
 ;Be More Productive
-Be More Productive
+আরও উৎপাদনশীল হউন
 
 
 ;Get Things Done
-Get Things Done
+কাজ করিয়ে নিন
 
 
 ;Better Business
-Better Business
+উন্নত ব্যবসা
 
 
 ;Arts & Entertainment
-Arts & Entertainment
+আর্টস ও মনোরঞ্জন
 
 
 ;Arts & Entertainment Spotlight
-Arts & Entertainment Spotlight
+আর্টস ও মনোরঞ্জন স্পটলাইট
 
 
 ;Lifestyle
-Lifestyle
+লাইফস্টাইল
 
 
 ;Featured Lifestyle App
-Featured Lifestyle App
+লাইফস্টাইল বৈশিষ্ট্যপূর্ণ অ্যাপ
 
 
 ;Featured Lifestyle Apps
-Featured Lifestyle Apps
+লাইফস্টাইল বৈশিষ্ট্যপূর্ণ অ্যাপসমূহ
 
 
 ;Lifestyle & Culture
-Lifestyle & Culture
+লাইফস্টাইল ও কালচার
 
 
 # Note: Think Streaming internet radio or music news apps.
 ;Music
-Music
+সঙ্গীত
 
 
 ;For Music Lovers
-For Music Lovers
+সঙ্গীত প্রেমীদের জন্যে
 
 
 ;Photo & Video
-Photo & Video
+ছবি ও চলচ্চিত্র
 
 
 ;Featured Camera App
-Featured Camera App
+বৈশিষ্ট্যপূর্ণ ক্যামেরা অ্যাপ
 
 
 ;Featured Camera Apps
-Featured Camera Apps
+বৈশিষ্ট্যপূর্ণ ক্যামেরা অ্যাপসমূহ
 
 
 ;Social
-Social
+সামাজিক
 
 
 ;Featured Social Apps
-Featured Social Apps
+বৈশিষ্ট্যপূর্ণ সামাজিক অ্যাপসমূহ
 
 
 ;Get Connected
-Get Connected
+সংযুক্ত হউন
 
 
 ;Travel
-Travel
+ভ্রমণ
 
 
 ;Travel Guide
-Travel Guide
+ভ্রমন সহায়িকা
 
 
 ;Travel Guides
-Travel Guides
+ভ্রমন সহায়িকা
 
 
 ;For Travelers
-For Travelers
+ভ্রমনকারীদের জন্যে
 
 
 ;Top 5 Community Picks
@@ -414,4 +415,5 @@ Apps for Costa Rica
 
 ;Apps for Japan
 Apps for Japan
+
 

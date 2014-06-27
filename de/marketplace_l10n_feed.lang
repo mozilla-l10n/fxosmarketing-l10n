@@ -1,79 +1,80 @@
 ## NOTE: the mockup of L10n feed can be found here: https://drive.google.com/a/mozilla.com/?usp=sheets_web&usp=sheets_web&urp=https://drive.google.com/?usp%3Dsheets_web#folders/0B7u_NzvpgGcgeG1xZXFKS3JTalE
 
+
 ;Today's Top App
-Today's Top App
+Heute vorgestellte App
 
 
 ;Today's Top Apps
-Today's Top Apps
+Heute vorgestellte Apps
 
 
 # Note: A great app that's relatively unknown.
 ;Hidden Gem
-Hidden Gem
+Verborgener Schatz
 
 
 ;Hidden Gems
-Hidden Gems
+Verborgene Schätze
 
 
 # Note: An app that is revolutionary in some manner.
 ;Groundbreaking App
-Groundbreaking App
+Bahnbrechende App
 
 
 ;Groundbreaking Apps
-Groundbreaking Apps
+Bahnbrechende Apps
 
 
 # Note: Our editorial persona will be a fox. Think of "Fox Favortie" as akin to "Editor's Pick" because the Fox is the editor.
 ;Fox Favorite
-Fox Favorite
+Liebling des Fuchs
 
 
 ;Fox Favorites
-Fox Favorites
+Lieblinge des Fuchs
 
 
 # Note: An app that is popular in a particular region.
 ;Local Favorite
-Local Favorite
+Deutschlands beliebteste
 
 
 # Note: An alternative to "Fox Favorite".
 ;Editors' Pick
-Editors' Pick
+Empfehlung der Redaktion
 
 
 ;Editors' Picks
-Editors' Picks
+Empfehlungen der Redaktion
 
 
 # Note: Another potential option to use instead of "Fox Favorite" or Editors' Pick".
 ;Staff Pick
-Staff Pick
+Empfehlung des Teams
 
 
 ;Staff Picks
-Staff Picks
+Empfehlungen des Teams
 
 
 # Note: This will be used to promote an app that does something completely random, strange, or unexpected. Think of this as a fun way to feature an app that will surprise users.
 ;Mystery App!
-Mystery App!
+Geheimnisvolle App!
 
 
 # Note: Used to promote apps that let you create, like painting apps, music-making apps, writing apps, etc.
 ;Featured Creativity App
-Featured Creativity App
+Vorgestellte Kreativitäts-App
 
 
 ;Featured Creativity Apps
-Featured Creativity Apps
+Vorgestellte Kreativitäts-Apps
 
 
 ;Get Creative
-Get Creative
+Werden Sie kreativ
 
 
 # Note: We have a number of education apps on MP, like math or science learning apps.
@@ -82,129 +83,129 @@ Education
 
 
 ;Apps for Education
-Apps for Education
+Apps zur Bildung
 
 
 ;Education Spotlight
-Education Spotlight
+Vorgestellt für Bildung
 
 
 # Note: Used to promote exercise or diet apps.
 ;Health & Fitness
-Health & Fitness
+Gesundheit & Fitness
 
 
 ;Healthy Living
-Healthy Living
+Gesund leben
 
 
 ;Live Healthy
-Live Healthy
+Gesund leben
 
 
 ;Maps & Navigation
-Maps & Navigation
+Karten & Navigation
 
 
 ;Getting Around
-Getting Around
+Unterwegs
 
 
 ;Maps & Navigation Spotlight
-Maps & Navigation Spotlight
+Vorgestellt in Karten & Navigation
 
 
 ;News & Weather
-News & Weather
+Nachrichten & Wetter
 
 
 ;News & Weather Spotlight
-News & Weather Spotlight
+Vorgestellt in Nachrichten & Wetter
 
 
 ;Book
-Book
+Buch
 
 
 ;Books
-Books
+Bücher
 
 
 ;Great Read
-Great Read
+Lesenswertes Buch
 
 
 ;Great Reads
-Great Reads
+Lesenswerte Bücher
 
 
 ;Shopping
-Shopping
+Einkaufen
 
 
 ;Smart Shopping Apps
-Smart Shopping Apps
+Apps zum intelligenten Einkaufen
 
 
 ;Sports
-Sports
+Sport
 
 
 ;The Sporting Life
-The Sporting Life
+Für das Sportlerleben
 
 
 # Note: For utilitarian and efficiency apps like task managers or contact list importers, etc.
 ;Tools & Time Savers
-Tools & Time Savers
+Werkzeuge & Zeitsparer
 
 
 ;Games
-Games
+Spiele
 
 
 ;Hot Game
-Hot Game
+Beliebtes Spiel
 
 
 ;Hot Games
-Hot Games
+Beliebte Spiele
 
 
 ;Great Game
-Great Game
+Tolles Spiel
 
 
 ;Great Games
-Great Games
+Tolle Spiele
 
 
 ;Play This Game Right Now
-Play This Game Right Now
+Spielen Sie jetzt dieses Spiel
 
 
 ;Instant Fun!
-Instant Fun!
+Sofortiger Spaß!
 
 
 ;Work & Business
-Work & Business
+Arbeit & Geschäftsleben
 
 
 ;Featured Apps for Work & Business
-Featured Apps for Work & Business
+Vorgestellte Apps für Arbeit & Geschäftsleben
 
 
 ;Featured App for Work & Business
-Featured App for Work & Business
+Vorgestellte App für Arbeit & Geschäftsleben
 
 
 ;Be More Productive
-Be More Productive
+Seien Sie produktiver
 
 
 ;Get Things Done
-Get Things Done
+Dinge erledigen
 
 
 ;Better Business
@@ -216,7 +217,7 @@ Arts & Entertainment
 
 
 ;Arts & Entertainment Spotlight
-Arts & Entertainment Spotlight
+Vorgestellt in Kunst & Unterhaltung
 
 
 ;Lifestyle
@@ -224,64 +225,64 @@ Lifestyle
 
 
 ;Featured Lifestyle App
-Featured Lifestyle App
+Vorgestellte Lifestyle-App
 
 
 ;Featured Lifestyle Apps
-Featured Lifestyle Apps
+Vorgestellte Lifestyle-Apps
 
 
 ;Lifestyle & Culture
-Lifestyle & Culture
+Lifestyle & Kultur
 
 
 # Note: Think Streaming internet radio or music news apps.
 ;Music
-Music
+Musik
 
 
 ;For Music Lovers
-For Music Lovers
+Für Musikliebhaber
 
 
 ;Photo & Video
-Photo & Video
+Foto & Video
 
 
 ;Featured Camera App
-Featured Camera App
+Vorgestellte Kamera-App
 
 
 ;Featured Camera Apps
-Featured Camera Apps
+Vorgestellte Kamera-Apps
 
 
 ;Social
-Social
+Sozial
 
 
 ;Featured Social Apps
-Featured Social Apps
+Vorgestellte soziale Apps
 
 
 ;Get Connected
-Get Connected
+Kontakte knüpfen
 
 
 ;Travel
-Travel
+Reise
 
 
 ;Travel Guide
-Travel Guide
+Reiseführer
 
 
 ;Travel Guides
-Travel Guides
+Reiseführer
 
 
 ;For Travelers
-For Travelers
+Für Reisende
 
 
 ;Top 5 Community Picks
@@ -325,7 +326,7 @@ Apps for Uruguay
 
 
 ;Apps for Germany
-Apps for Germany
+Apps für Deutschland
 
 
 ;Apps for Italy
@@ -414,4 +415,5 @@ Apps for Costa Rica
 
 ;Apps for Japan
 Apps for Japan
+
 

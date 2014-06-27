@@ -1,287 +1,288 @@
 ## NOTE: the mockup of L10n feed can be found here: https://drive.google.com/a/mozilla.com/?usp=sheets_web&usp=sheets_web&urp=https://drive.google.com/?usp%3Dsheets_web#folders/0B7u_NzvpgGcgeG1xZXFKS3JTalE
 
+
 ;Today's Top App
-Today's Top App
+Aplikace dneška
 
 
 ;Today's Top Apps
-Today's Top Apps
+Aplikace dneška
 
 
 # Note: A great app that's relatively unknown.
 ;Hidden Gem
-Hidden Gem
+Skrytý drahokam
 
 
 ;Hidden Gems
-Hidden Gems
+Skryté drahokamy
 
 
 # Note: An app that is revolutionary in some manner.
 ;Groundbreaking App
-Groundbreaking App
+Průkopnická aplikace
 
 
 ;Groundbreaking Apps
-Groundbreaking Apps
+Průkopnické aplikace
 
 
 # Note: Our editorial persona will be a fox. Think of "Fox Favortie" as akin to "Editor's Pick" because the Fox is the editor.
 ;Fox Favorite
-Fox Favorite
+Nejoblíbenější
 
 
 ;Fox Favorites
-Fox Favorites
+Nejoblíbenější
 
 
 # Note: An app that is popular in a particular region.
 ;Local Favorite
-Local Favorite
+Místně oblíbená
 
 
 # Note: An alternative to "Fox Favorite".
 ;Editors' Pick
-Editors' Pick
+Volba redaktora
 
 
 ;Editors' Picks
-Editors' Picks
+Volby redaktora
 
 
 # Note: Another potential option to use instead of "Fox Favorite" or Editors' Pick".
 ;Staff Pick
-Staff Pick
+Náš výběr
 
 
 ;Staff Picks
-Staff Picks
+Náš výběr
 
 
 # Note: This will be used to promote an app that does something completely random, strange, or unexpected. Think of this as a fun way to feature an app that will surprise users.
 ;Mystery App!
-Mystery App!
+Mystická aplikace!
 
 
 # Note: Used to promote apps that let you create, like painting apps, music-making apps, writing apps, etc.
 ;Featured Creativity App
-Featured Creativity App
+Doporučovaná kreativní aplikace
 
 
 ;Featured Creativity Apps
-Featured Creativity Apps
+Doporučovaná kreativní aplikace
 
 
 ;Get Creative
-Get Creative
+Buďte kreativní
 
 
 # Note: We have a number of education apps on MP, like math or science learning apps.
 ;Education
-Education
+Vzdělávání
 
 
 ;Apps for Education
-Apps for Education
+Aplikace pro vzdělávání
 
 
 ;Education Spotlight
-Education Spotlight
+Vzdělávání
 
 
 # Note: Used to promote exercise or diet apps.
 ;Health & Fitness
-Health & Fitness
+Zdraví a fitnes
 
 
 ;Healthy Living
-Healthy Living
+Zdravý životní styl
 
 
 ;Live Healthy
-Live Healthy
+Zdravý život
 
 
 ;Maps & Navigation
-Maps & Navigation
+Mapy a navigace
 
 
 ;Getting Around
-Getting Around
+Cestování
 
 
 ;Maps & Navigation Spotlight
-Maps & Navigation Spotlight
+Mapy a navigace
 
 
 ;News & Weather
-News & Weather
+Novinky a počasí
 
 
 ;News & Weather Spotlight
-News & Weather Spotlight
+Novinky a počasí
 
 
 ;Book
-Book
+Kniha
 
 
 ;Books
-Books
+Knihy
 
 
 ;Great Read
-Great Read
+Dobré čtení
 
 
 ;Great Reads
-Great Reads
+Dobré čtení
 
 
 ;Shopping
-Shopping
+Nakupování
 
 
 ;Smart Shopping Apps
-Smart Shopping Apps
+Chytré aplikace pro nakupování
 
 
 ;Sports
-Sports
+Sport
 
 
 ;The Sporting Life
-The Sporting Life
+Sportovní život
 
 
 # Note: For utilitarian and efficiency apps like task managers or contact list importers, etc.
 ;Tools & Time Savers
-Tools & Time Savers
+Nástroje na šetření času
 
 
 ;Games
-Games
+Hry
 
 
 ;Hot Game
-Hot Game
+Nová hra
 
 
 ;Hot Games
-Hot Games
+Nové hry
 
 
 ;Great Game
-Great Game
+Skvělá hra
 
 
 ;Great Games
-Great Games
+Skvělé hry
 
 
 ;Play This Game Right Now
-Play This Game Right Now
+Zahrejte si hru právě teď
 
 
 ;Instant Fun!
-Instant Fun!
+Okamžitá zábava
 
 
 ;Work & Business
-Work & Business
+Práce a business
 
 
 ;Featured Apps for Work & Business
-Featured Apps for Work & Business
+Doporučované aplikace pro práci a business
 
 
 ;Featured App for Work & Business
-Featured App for Work & Business
+Doporučovaná aplikace pro práci a business
 
 
 ;Be More Productive
-Be More Productive
+Buďte produktivnější
 
 
 ;Get Things Done
-Get Things Done
+Mějte vše hotovo
 
 
 ;Better Business
-Better Business
+Lepší business
 
 
 ;Arts & Entertainment
-Arts & Entertainment
+Umění a zábava
 
 
 ;Arts & Entertainment Spotlight
-Arts & Entertainment Spotlight
+Umění a zábava
 
 
 ;Lifestyle
-Lifestyle
+Životní styl
 
 
 ;Featured Lifestyle App
-Featured Lifestyle App
+Doporučená aplikace pro životní styl
 
 
 ;Featured Lifestyle Apps
-Featured Lifestyle Apps
+Doporučené aplikace pro životní styl
 
 
 ;Lifestyle & Culture
-Lifestyle & Culture
+Životní styl a kultura
 
 
 # Note: Think Streaming internet radio or music news apps.
 ;Music
-Music
+Hudba
 
 
 ;For Music Lovers
-For Music Lovers
+Pro milovníky hudby
 
 
 ;Photo & Video
-Photo & Video
+Fotky a videa
 
 
 ;Featured Camera App
-Featured Camera App
+Doporučovaná aplikace pro fotoaparát
 
 
 ;Featured Camera Apps
-Featured Camera Apps
+Doporučované aplikace pro fotoaparát
 
 
 ;Social
-Social
+Sociální
 
 
 ;Featured Social Apps
-Featured Social Apps
+Doporučované sociální aplikace
 
 
 ;Get Connected
-Get Connected
+Buďte připojeni
 
 
 ;Travel
-Travel
+Cestování
 
 
 ;Travel Guide
-Travel Guide
+Cestovní průvodce
 
 
 ;Travel Guides
-Travel Guides
+Cestovní průvodci
 
 
 ;For Travelers
-For Travelers
+Pro cestovatele
 
 
 ;Top 5 Community Picks
@@ -414,4 +415,5 @@ Apps for Costa Rica
 
 ;Apps for Japan
 Apps for Japan
+
 

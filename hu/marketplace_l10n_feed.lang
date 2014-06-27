@@ -1,287 +1,288 @@
 ## NOTE: the mockup of L10n feed can be found here: https://drive.google.com/a/mozilla.com/?usp=sheets_web&usp=sheets_web&urp=https://drive.google.com/?usp%3Dsheets_web#folders/0B7u_NzvpgGcgeG1xZXFKS3JTalE
 
+
 ;Today's Top App
-Today's Top App
+Mai népszerű app
 
 
 ;Today's Top Apps
-Today's Top Apps
+Mai népszerű appok
 
 
 # Note: A great app that's relatively unknown.
 ;Hidden Gem
-Hidden Gem
+Rejtett gyöngyszem
 
 
 ;Hidden Gems
-Hidden Gems
+Rejtett gyöngyszemek
 
 
 # Note: An app that is revolutionary in some manner.
 ;Groundbreaking App
-Groundbreaking App
+Úttörő app
 
 
 ;Groundbreaking Apps
-Groundbreaking Apps
+Úttörő appok
 
 
 # Note: Our editorial persona will be a fox. Think of "Fox Favortie" as akin to "Editor's Pick" because the Fox is the editor.
 ;Fox Favorite
-Fox Favorite
+Róka kedvence
 
 
 ;Fox Favorites
-Fox Favorites
+Róka kedvencei
 
 
 # Note: An app that is popular in a particular region.
 ;Local Favorite
-Local Favorite
+Helyi kedvenc
 
 
 # Note: An alternative to "Fox Favorite".
 ;Editors' Pick
-Editors' Pick
+Szerkesztő ajánlása
 
 
 ;Editors' Picks
-Editors' Picks
+Szerkesztő ajánlásai
 
 
 # Note: Another potential option to use instead of "Fox Favorite" or Editors' Pick".
 ;Staff Pick
-Staff Pick
+Stáb ajánlása
 
 
 ;Staff Picks
-Staff Picks
+Stáb ajánlásai
 
 
 # Note: This will be used to promote an app that does something completely random, strange, or unexpected. Think of this as a fun way to feature an app that will surprise users.
 ;Mystery App!
-Mystery App!
+Rejtélyes app
 
 
 # Note: Used to promote apps that let you create, like painting apps, music-making apps, writing apps, etc.
 ;Featured Creativity App
-Featured Creativity App
+Kiemelt kreatív app
 
 
 ;Featured Creativity Apps
-Featured Creativity Apps
+Kiemelt kreativ appok
 
 
 ;Get Creative
-Get Creative
+Légy kreatív
 
 
 # Note: We have a number of education apps on MP, like math or science learning apps.
 ;Education
-Education
+Oktatás
 
 
 ;Apps for Education
-Apps for Education
+Oktatási appok
 
 
 ;Education Spotlight
-Education Spotlight
+Oktatás kiemeltjei
 
 
 # Note: Used to promote exercise or diet apps.
 ;Health & Fitness
-Health & Fitness
+Egészség és fittség
 
 
 ;Healthy Living
-Healthy Living
+Egészséges élet
 
 
 ;Live Healthy
-Live Healthy
+Élj egészségesen
 
 
 ;Maps & Navigation
-Maps & Navigation
+Térképek és navigáció
 
 
 ;Getting Around
-Getting Around
+Találj oda
 
 
 ;Maps & Navigation Spotlight
-Maps & Navigation Spotlight
+Térképek és navigáció kiemeltjei
 
 
 ;News & Weather
-News & Weather
+Hírek és időjárás
 
 
 ;News & Weather Spotlight
-News & Weather Spotlight
+Hírek és időjárás kiemeltjei
 
 
 ;Book
-Book
+Könyv
 
 
 ;Books
-Books
+Könyvek
 
 
 ;Great Read
-Great Read
+Nagyszerű olvasmány
 
 
 ;Great Reads
-Great Reads
+Nagyszerű olvasmányok
 
 
 ;Shopping
-Shopping
+Vásárlás
 
 
 ;Smart Shopping Apps
-Smart Shopping Apps
+Okos vásárlási appok
 
 
 ;Sports
-Sports
+Sport
 
 
 ;The Sporting Life
-The Sporting Life
+Sportélet
 
 
 # Note: For utilitarian and efficiency apps like task managers or contact list importers, etc.
 ;Tools & Time Savers
-Tools & Time Savers
+Eszközök és gyors megoldások
 
 
 ;Games
-Games
+Játékok
 
 
 ;Hot Game
-Hot Game
+Friss játék
 
 
 ;Hot Games
-Hot Games
+Friss játékok
 
 
 ;Great Game
-Great Game
+Nagyszerű játék
 
 
 ;Great Games
-Great Games
+Nagyszerű játékok
 
 
 ;Play This Game Right Now
-Play This Game Right Now
+Játék azonnali indítása
 
 
 ;Instant Fun!
-Instant Fun!
+Azonnali szórakozás
 
 
 ;Work & Business
-Work & Business
+Munka és üzlet
 
 
 ;Featured Apps for Work & Business
-Featured Apps for Work & Business
+Kiemelt appok munkához és üzlethez
 
 
 ;Featured App for Work & Business
-Featured App for Work & Business
+Kiemelt app munkához és üzlethez
 
 
 ;Be More Productive
-Be More Productive
+Legyen hatékonyabb
 
 
 ;Get Things Done
-Get Things Done
+Végezze el dolgait
 
 
 ;Better Business
-Better Business
+Jobb üzlet
 
 
 ;Arts & Entertainment
-Arts & Entertainment
+Művészet és szórakozás
 
 
 ;Arts & Entertainment Spotlight
-Arts & Entertainment Spotlight
+Művészet és szórakozás kiemeltjei
 
 
 ;Lifestyle
-Lifestyle
+Életmód
 
 
 ;Featured Lifestyle App
-Featured Lifestyle App
+Kiemelt életmód app
 
 
 ;Featured Lifestyle Apps
-Featured Lifestyle Apps
+Kiemelt életmód appok
 
 
 ;Lifestyle & Culture
-Lifestyle & Culture
+Életmód és kultúra
 
 
 # Note: Think Streaming internet radio or music news apps.
 ;Music
-Music
+Zene
 
 
 ;For Music Lovers
-For Music Lovers
+Zenekedvelőknek
 
 
 ;Photo & Video
-Photo & Video
+Fotók és videók
 
 
 ;Featured Camera App
-Featured Camera App
+Kiemelt kamera app
 
 
 ;Featured Camera Apps
-Featured Camera Apps
+Kiemelt kamera appok
 
 
 ;Social
-Social
+Közösség
 
 
 ;Featured Social Apps
-Featured Social Apps
+Kiemelt közösségi appok
 
 
 ;Get Connected
-Get Connected
+Maradj kapcsolatban
 
 
 ;Travel
-Travel
+Utazás
 
 
 ;Travel Guide
-Travel Guide
+Utikalauz
 
 
 ;Travel Guides
-Travel Guides
+Utikalauzok
 
 
 ;For Travelers
-For Travelers
+Utazóknak
 
 
 ;Top 5 Community Picks
@@ -414,4 +415,5 @@ Apps for Costa Rica
 
 ;Apps for Japan
 Apps for Japan
+
 

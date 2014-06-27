@@ -1,79 +1,80 @@
 ## NOTE: the mockup of L10n feed can be found here: https://drive.google.com/a/mozilla.com/?usp=sheets_web&usp=sheets_web&urp=https://drive.google.com/?usp%3Dsheets_web#folders/0B7u_NzvpgGcgeG1xZXFKS3JTalE
 
+
 ;Today's Top App
-Today's Top App
+Σημερινή κορυφαία εφαρμογή
 
 
 ;Today's Top Apps
-Today's Top Apps
+Σημερινές κορυφαίες εφαρμογές
 
 
 # Note: A great app that's relatively unknown.
 ;Hidden Gem
-Hidden Gem
+Κρυμμένος θησαυρός
 
 
 ;Hidden Gems
-Hidden Gems
+Κρυμμένοι θησαυροί
 
 
 # Note: An app that is revolutionary in some manner.
 ;Groundbreaking App
-Groundbreaking App
+Πρωτοποριακή εφαρμογή
 
 
 ;Groundbreaking Apps
-Groundbreaking Apps
+Πρωτοποριακές εφαρμογές
 
 
 # Note: Our editorial persona will be a fox. Think of "Fox Favortie" as akin to "Editor's Pick" because the Fox is the editor.
 ;Fox Favorite
-Fox Favorite
+Αγαπημένη της αλεπούς
 
 
 ;Fox Favorites
-Fox Favorites
+Αγαπημένες της αλεπούς
 
 
 # Note: An app that is popular in a particular region.
 ;Local Favorite
-Local Favorite
+Τοπικη αγαπημένη
 
 
 # Note: An alternative to "Fox Favorite".
 ;Editors' Pick
-Editors' Pick
+Επιλογή του συντάκτη
 
 
 ;Editors' Picks
-Editors' Picks
+Επιλογές του συντάκτη
 
 
 # Note: Another potential option to use instead of "Fox Favorite" or Editors' Pick".
 ;Staff Pick
-Staff Pick
+Επιλογή του προσωπικού
 
 
 ;Staff Picks
-Staff Picks
+Επιλογές του προσωπικού
 
 
 # Note: This will be used to promote an app that does something completely random, strange, or unexpected. Think of this as a fun way to feature an app that will surprise users.
 ;Mystery App!
-Mystery App!
+Εφαρμογή μυστήριο!
 
 
 # Note: Used to promote apps that let you create, like painting apps, music-making apps, writing apps, etc.
 ;Featured Creativity App
-Featured Creativity App
+Προβεβλημένη εφαρμογή δημιουργίας
 
 
 ;Featured Creativity Apps
-Featured Creativity Apps
+Προβεβλημένες εφαρμογές δημιουργίας
 
 
 ;Get Creative
-Get Creative
+Γίνετε δημιουργικοί
 
 
 # Note: We have a number of education apps on MP, like math or science learning apps.
@@ -82,117 +83,117 @@ Education
 
 
 ;Apps for Education
-Apps for Education
+Εφαρμογές για την εκπαίδευση
 
 
 ;Education Spotlight
-Education Spotlight
+Εκπαίδευση Προσκήνιο
 
 
 # Note: Used to promote exercise or diet apps.
 ;Health & Fitness
-Health & Fitness
+Υγεία & Ευεξία
 
 
 ;Healthy Living
-Healthy Living
+Υγιεινός τρόπος ζωής
 
 
 ;Live Healthy
-Live Healthy
+Ζήστε υγιεινά
 
 
 ;Maps & Navigation
-Maps & Navigation
+Χάρτες & Πλοήγηση
 
 
 ;Getting Around
-Getting Around
+Τριγυρίζοντας
 
 
 ;Maps & Navigation Spotlight
-Maps & Navigation Spotlight
+Χάρτες & Πλοήγηση στο προσκήνιο
 
 
 ;News & Weather
-News & Weather
+Νέα & Καιρός
 
 
 ;News & Weather Spotlight
-News & Weather Spotlight
+Χάρτες & Καιρός στο προσκήνιο
 
 
 ;Book
-Book
+Βιβλίο
 
 
 ;Books
-Books
+Βιβλία
 
 
 ;Great Read
-Great Read
+Εξαιρετικό κείμενο
 
 
 ;Great Reads
-Great Reads
+Εξαιρετικά κείμενα
 
 
 ;Shopping
-Shopping
+Αγορές
 
 
 ;Smart Shopping Apps
-Smart Shopping Apps
+Έξυπνες αγορές εφαρμογών
 
 
 ;Sports
-Sports
+Σπορ
 
 
 ;The Sporting Life
-The Sporting Life
+Αθλητική ζωή
 
 
 # Note: For utilitarian and efficiency apps like task managers or contact list importers, etc.
 ;Tools & Time Savers
-Tools & Time Savers
+Εργαλεία & Εξοικονόμηση χρόνου
 
 
 ;Games
-Games
+Παιχνίδια
 
 
 ;Hot Game
-Hot Game
+Καυτό παιχνίδι
 
 
 ;Hot Games
-Hot Games
+Καυτά παιχνίδια
 
 
 ;Great Game
-Great Game
+Εξαιρετικό παιχνίδι
 
 
 ;Great Games
-Great Games
+Εξαιρετικά παιχνίδια
 
 
 ;Play This Game Right Now
-Play This Game Right Now
+Παίξε αυτό το παιχνίδι τώρα
 
 
 ;Instant Fun!
-Instant Fun!
+Άμεση χαρά!
 
 
 ;Work & Business
-Work & Business
+Εργασία & Επιχειρήσεις
 
 
 ;Featured Apps for Work & Business
-Featured Apps for Work & Business
+Προβεβλημένες εφαρμογές για εργασία & επιχειρήσεις
 
 
 ;Featured App for Work & Business
@@ -200,11 +201,11 @@ Featured App for Work & Business
 
 
 ;Be More Productive
-Be More Productive
+Γίνετε πιο παραγωγικοί
 
 
 ;Get Things Done
-Get Things Done
+Ολοκληρώστε τις υποχρεώσεις
 
 
 ;Better Business
@@ -216,7 +217,7 @@ Arts & Entertainment
 
 
 ;Arts & Entertainment Spotlight
-Arts & Entertainment Spotlight
+Τέχνες & Διασκέδαση στο προσκήνιο
 
 
 ;Lifestyle
@@ -224,11 +225,11 @@ Lifestyle
 
 
 ;Featured Lifestyle App
-Featured Lifestyle App
+Προβεβλημένη εφαρμογή lifestyle
 
 
 ;Featured Lifestyle Apps
-Featured Lifestyle Apps
+Προβεβλημένες εφαρμογές lifestyle
 
 
 ;Lifestyle & Culture
@@ -237,51 +238,51 @@ Lifestyle & Culture
 
 # Note: Think Streaming internet radio or music news apps.
 ;Music
-Music
+Μουσική
 
 
 ;For Music Lovers
-For Music Lovers
+Για λάτρεις της μουσικής
 
 
 ;Photo & Video
-Photo & Video
+Φωτογραφία & Βίντεο
 
 
 ;Featured Camera App
-Featured Camera App
+Προβεβλημένη εφαρμογή κάμερας
 
 
 ;Featured Camera Apps
-Featured Camera Apps
+Προβεβλημένες εφαρμογές κάμερας
 
 
 ;Social
-Social
+Κοινωνικά
 
 
 ;Featured Social Apps
-Featured Social Apps
+Προβεβλημένες κοινωνικές εφαρμογές
 
 
 ;Get Connected
-Get Connected
+Μείνετε συνδεδεμένοι
 
 
 ;Travel
-Travel
+Ταξίδι
 
 
 ;Travel Guide
-Travel Guide
+Οδηγός ταξιδιού
 
 
 ;Travel Guides
-Travel Guides
+Οδηγοί ταξιδιού
 
 
 ;For Travelers
-For Travelers
+Για ταξιδιώτες
 
 
 ;Top 5 Community Picks
@@ -333,7 +334,7 @@ Apps for Italy
 
 
 ;Apps for Greece
-Apps for Greece
+Εφαμοργές για Ελλάδα
 
 
 ;Apps for Poland
@@ -414,4 +415,5 @@ Apps for Costa Rica
 
 ;Apps for Japan
 Apps for Japan
+
 
