@@ -1,3 +1,4 @@
+Screenshot pt-BR:
 ## NOTE: the 1.1 screenshots can be found here - proceed to your locale: https://mozilla.app.box.com/files/0/f/1165468421/1.1
 ## NOTE: the 1.3 screesnshots can be found here: https://mozilla.app.box.com/files/0/f/1894864735/320x480
 ## NOTE: the diff between 1.1 and 1.3 in English can be found here: https://docs.google.com/a/mozilla.com/presentation/d/136_Z8LiBaXeguy7tjRwh8qSdNd9VXToTGocoB2NjvPw/edit#slide=id.p36
@@ -5,441 +6,433 @@
 
 # Screen 1 (Music App): provide fictional items, DO NOT TRANSLATE the original string and remove the brackets in your translation.
 ;[made up song title]
-[made up song title]
+A felicidade
 
 
 # Screen 1 (Music App): provide a fictional band and artist
 ;[made up local artist or band]
-[made up local artist or band]
+Elias Santana
 
 
 # Screen 1 (Music App):
 ;[made up local album title]
-[made up local album title]
+As melhores de Elias Santana
 
 
 # Screen 2 (Music), screen 6 (Icon Grid), screen 11 (e.me party)
 ;Music
-Music
+Música
 
 
 # Screen 3 (Video)
 ;Happy birthday
-Happy birthday
+Feliz aniversário
 
 
 # Screen 3 (Video)
 ;Summer vacation fun
-Summer vacation fun
+Diversão nas férias de verão
 
 
 # Screen 3 (Video)
 ;Hanging out with the family
-Hanging out with the family
+Curtindo com a família
 
 
 # Screen 3 (Video)
 ;Dinner with the gang/friends
-Dinner with the gang/friends
+Jantar com os amigos
 
 
 # Screen 4 (Markeplace)
 ;Search
-Search
+Pesquisar
 
 
 # Screen 4 (Markeplace)
 ;All Categories
-All Categories
+Todas as categorias
 
 
 # Screen 4 (Markeplace)
 ;Featured Apps
-Featured Apps
+Apps em destaque
 
 
 # Screen 4 (Markeplace)
 ;View All
-View All
+Ver todas
 
 
 # Screen 4 (Markeplace)
 ;Popular
-Popular
+Populares
 
 
 # Screen 4 (Markeplace)
 ;New
-New
+Novidades
 
 
 # Screen 4 (Markeplace)
 ;Free
-Free
+Gratis
 
 
 # Screen 5 (Homescreen)
 ;I’m thinking of…
-I’m thinking of…
+Estou pensando em...
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Gallery
-Gallery
+Galeria
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Camera
-Camera
+Câmera
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Calendar
-Calendar
+Calendário
 
 
 # Screen 6 (Icon Grid)
 ;Clock
-Clock
-
+Relógio
 
 # Screen 6 (Icon Grid), screen 18 (Usage)
 ;Usage
-Usage
+Consumo
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Video
-Video
+Vídeo
 
 
 # Screen 6 (Icon Grid)
 ;Email
-Email
+E-mail
 
 
 # Screen 6 (Icon Grid)
 ;FM Radio
-FM Radio
+Rádio FM
 
 
 # Screen 6 (Icon Grid)
 ;Settings
-Settings
+Configurações
 
 
 # Screen 7 (Here Maps)
 ;Cafe
-Cafe
+Café
 
 
 # Screen 7 (Here Maps), screen 11 (e.me party), screen 12 (e.me party)
 ;Results Simulated
-Results Simulated
+Resultados simulados
 
 
 # Screen 8 (Gallery)
 ;June 2014
-June 2014
+Junho de 2014
 
 
 # Screen 9 (Gallery with Filters)
 ;Edit
-Edit
+Editar
 
 
 # Screen 9 (Gallery with Filters)
 ;Done
-Done
+Feito
 
 
 # Screen 11 (e.me party)
 ;Party
-Party
+Festa
 
 
 # Screen 11 (e.me party)
 ;Everything Party
-Everything Party
+Todos com Festa
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;EzGift
-EzGift
+PresenteFacil
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Cater Girls
-Cater Girls
+Cater Girls {ok}
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Quickvite
-Quickvite
+Quickvite {ok}
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Balloonies
-Balloonies
+Balões
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Flowerettes
-Flowerettes
+Flores
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;My Bulletin
-My Bulletin
+Organizador
 
 
 # Screen 11 (e.me party)
 ;Notes
-Notes
+Notas
 
 
 # Screen 12 (e.me party)
 ;Café
-Café
+Café {ok}
 
 
 # Screen 12 (e.me party)
 ;Everything Cafe
-Everything Cafe
+Todos com café
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Cafe Calories
-Cafe Calories
+Calorias do café
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Caffeine Diaries
-Caffeine Diaries
+Cafeína diária
 
 
 # Screen 12 (e.me party) NOTE: fictional; DIY=Do It Yourself
 ;D.I.Y. Barista
-D.I.Y. Barista
+SuperBarista
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Coffee Addicts
-Coffee Addicts
+Viciados em Café
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Java Spotter
-Java Spotter
+A casa do Java
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Join Up
-Join Up
+Reunião
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;MyGrubber
-MyGrubber
+MyGrubber {ok}
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Park It Here
-Park It Here
+EstacionaFácil
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Bookclub Finder
-Bookclub Finder
+Clubes de leitura
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Book Beamer
-Book Beamer
+Amigos do livro
 
 
 # Screen 13 (Contacts)
 ;Contacts
-Contacts
+Contatos
 
 
 # Screen 13 (Contacts)
 ;Search…
-Search…
+Pesquisar....
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #1]
-[made up name #1]
+Arthur Gonçalves
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #2]
-[made up name #2]
+Anderson Pereira / Analista de Sistemas
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #3]
-[made up name #3]
+Brenda Oliveira / Secretaria
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #4]
-[made up name #4]
+Bruno Cavalcanti
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #5]
-[made up name #5]
+Carlos Monteiro / Arquiteto
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #6]
-[made up name #6]
-
-
+Carolina Barbosa
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #7]
-[made up name #7]
+Alexandre Dias / Jornalista
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #8]
-[made up name #8]
+Carlos Gomes
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #9]
-[made up name #9]
+Aline Ribeiro / Advogada
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #10]
-[made up name #10]
+Carla da Silva
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #11]
-[made up name #11]
+Amanda Lombarde / Médica
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #12]
-[made up name #12]
+Marisa Silva
 
 
 # Screen 14 (Email)
 ;Inbox (2)
-Inbox (2)
+Caixa de entrada (2)
 
 
 # Screen 14 (Email)
 ;Re:
-Re:
+Re: {ok}
 
 
 # Screen 14 (Email)
 ;Send photos please / You 're the best! Thanks so…
-Send photos please / You 're the best! Thanks so…
-
+Por favor, manda as fotos / Você é demais! Obrigado....
 
 # Screen 14 (Email)
 ;Road trip next weekend / I've been wanting to visit that place…
-Road trip next weekend / I've been wanting to visit that place…
-
+Viagem semana que vem / Estou louco pra conhecer aquele lugar...
 
 # Screen 14 (Email)
 ;You might like this / Great find! I'll definitely check with you
-You might like this / Great find! I'll definitely check with you
+Acho que você vai gostar / Ótima ideia! Vou dar uma olhada
 
 
 # Screen 14 (Email)
 ;We're moving! / Hello Friends! Join us on Saturday to…
-We're moving! / Hello Friends! Join us on Saturday to…
+Estamos de mudança! / Olá amigos, neste sábado venham...
 
 
 # Screen 14 (Email)
 ;It was nice meeting you! I heard you are going the…
-It was nice meeting you! I heard you are going the…
+Foi ótimo te conhecer! Me disseram que você vai...
 
 
 # Screen 14 (Email)
 ;Yesterday
-Yesterday
+Ontem
 
 
 # Screen 14 (Email)
 ;1 week ago
-1 week ago
+Há uma 1 semana
 
 
 # Screen 14 (Email)
 ;May 25
-May 25
+25 de maio
 
 
 # Screen 15 and 16 (Dialer) NOTE: provide a fake phone number that complies to your country’s phone number format
 ;[fake local phone number]
-[fake local phone number]
+99642-1182
 
 
 # Screen 16 (Outgoing Call)
 ;Connecting
-Connecting
+Conectando
 
 
 # Screen 16 (Outgoing Call) NOTE: use the same fake name provided in the Contact screen.
 ;[fake name from Contact list]
-[fake name from Contact list]
+Marisa Silva
 
 
 # Screen 17 (Browser)
 ;Firefox Start Page
-Firefox Start Page
+Página inicial do Firefox
 
 
 # Screen 17 (Browser)
 ;Top Sites
-Top Sites
+Sites em destaque
 
 
 # Screen 18 (Usage)
 ;3G Usage
-3G Usage
+Uso de 3G
 
 
 # Screen 18 (Usage)
 ;Wifi Usage
-Wifi Usage
+Uso de wifi
 
 
 # Screen 18 (Usage)
 ;May 1, May 20, May 30
-May 1, May 20, May 30
+1º de maio, 20 de maio, 31 de maio
 
 
 # Screen 19 (Lock Screen)
 ;Carrier
-Carrier
+Operadora
 
 
 # Screen 19 (Lock Screen)
 ;8:36PM
-8:36PM
+8:36
 
 
 # Screen 19 (Lock Screen)
 ;Friday, May 26
-Friday, May 26
+Sexta-feira, 26 de maio
 
 
 # Screen 20 (Lock Screen 2 )  NOTE: use the same title provided in Music App screen)
 ;[song title]
-[song title]
-
+A felicidade
 
 # Screen 20 (Lock Screen 2 )  NOTE: use the same artist provided in Music App screen)
 ;[artist]
-[artist]
-
-
+Elias Santana
