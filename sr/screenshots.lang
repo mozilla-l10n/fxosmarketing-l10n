@@ -5,441 +5,441 @@
 
 # Screen 1 (Music App): provide fictional items, DO NOT TRANSLATE the original string and remove the brackets in your translation.
 ;[made up song title]
-[made up song title]
+Povratak
 
 
 # Screen 1 (Music App): provide a fictional band and artist
 ;[made up local artist or band]
-[made up local artist or band]
+Beogradski Sindikat
 
 
 # Screen 1 (Music App):
 ;[made up local album title]
-[made up local album title]
+Svi zajedno
 
 
 # Screen 2 (Music), screen 6 (Icon Grid), screen 11 (e.me party)
 ;Music
-Music
+Muzika
 
 
 # Screen 3 (Video)
 ;Happy birthday
-Happy birthday
+Srećan rođendan
 
 
 # Screen 3 (Video)
 ;Summer vacation fun
-Summer vacation fun
+Zabava na letnjem raspustu
 
 
 # Screen 3 (Video)
 ;Hanging out with the family
-Hanging out with the family
+Druženje sa porodicom
 
 
 # Screen 3 (Video)
 ;Dinner with the gang/friends
-Dinner with the gang/friends
+Večera sa društvom/prijateljima
 
 
 # Screen 4 (Markeplace)
 ;Search
-Search
+Pretraži
 
 
 # Screen 4 (Markeplace)
 ;All Categories
-All Categories
+Sve kategorije
 
 
 # Screen 4 (Markeplace)
 ;Featured Apps
-Featured Apps
+Istaknute
 
 
 # Screen 4 (Markeplace)
 ;View All
-View All
+Pregledaj sve
 
 
 # Screen 4 (Markeplace)
 ;Popular
-Popular
+Popularne
 
 
 # Screen 4 (Markeplace)
 ;New
-New
+Nove
 
 
 # Screen 4 (Markeplace)
 ;Free
-Free
+Besplatno
 
 
 # Screen 5 (Homescreen)
 ;I’m thinking of…
-I’m thinking of…
+Mislim o…
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Gallery
-Gallery
+Galerija
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Camera
-Camera
+Kamera
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Calendar
-Calendar
+Kalendar
 
 
 # Screen 6 (Icon Grid)
 ;Clock
-Clock
+Sat
 
 
 # Screen 6 (Icon Grid), screen 18 (Usage)
 ;Usage
-Usage
+Troškovi
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Video
-Video
+Video {ok}
 
 
 # Screen 6 (Icon Grid)
 ;Email
-Email
+E-pošta
 
 
 # Screen 6 (Icon Grid)
 ;FM Radio
-FM Radio
+FM radio
 
 
 # Screen 6 (Icon Grid)
 ;Settings
-Settings
+Postavke
 
 
 # Screen 7 (Here Maps)
 ;Cafe
-Cafe
+Kafić
 
 
 # Screen 7 (Here Maps), screen 11 (e.me party), screen 12 (e.me party)
 ;Results Simulated
-Results Simulated
+Simulirani rezultati
 
 
 # Screen 8 (Gallery)
 ;June 2014
-June 2014
+jun 2014
 
 
 # Screen 9 (Gallery with Filters)
 ;Edit
-Edit
+Uredi
 
 
 # Screen 9 (Gallery with Filters)
 ;Done
-Done
+Gotovo
 
 
 # Screen 11 (e.me party)
 ;Party
-Party
+Žurka
 
 
 # Screen 11 (e.me party)
 ;Everything Party
-Everything Party
+Sve Žurka
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;EzGift
-EzGift
+E-poklon
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Cater Girls
-Cater Girls
+Ugosti me
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Quickvite
-Quickvite
+Quickvite {ok}
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Balloonies
-Balloonies
+Baloni
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Flowerettes
-Flowerettes
+Cvećare
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;My Bulletin
-My Bulletin
+My bilten
 
 
 # Screen 11 (e.me party)
 ;Notes
-Notes
+Notes {ok}
 
 
 # Screen 12 (e.me party)
 ;Café
-Café
+Kafić
 
 
 # Screen 12 (e.me party)
 ;Everything Cafe
-Everything Cafe
+Sve Kafić
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Cafe Calories
-Cafe Calories
+Kalorije u kafi
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Caffeine Diaries
-Caffeine Diaries
+Dnevnici kofeina
 
 
 # Screen 12 (e.me party) NOTE: fictional; DIY=Do It Yourself
 ;D.I.Y. Barista
-D.I.Y. Barista
+Uradi sam: Barista
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Coffee Addicts
-Coffee Addicts
+Zavisni o kafi
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Java Spotter
-Java Spotter
+Java pronalazač
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Join Up
-Join Up
+Pridruži nam se
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;MyGrubber
-MyGrubber
+MojKopač
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Park It Here
-Park It Here
+Parkiraj ovde
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Bookclub Finder
-Bookclub Finder
+Klubovi ljubitelja knjiga
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Book Beamer
-Book Beamer
+Projektor knjiga
 
 
 # Screen 13 (Contacts)
 ;Contacts
-Contacts
+Kontakti
 
 
 # Screen 13 (Contacts)
 ;Search…
-Search…
+Pretraga
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #1]
-[made up name #1]
+Vanja Galić (m) / Veb programer
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #2]
-[made up name #2]
+Saša Gojić (m) / Marketing menadžer
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #3]
-[made up name #3]
+Oskar Hajduković (m) / Freelancer
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #4]
-[made up name #4]
+Boris Hristić (m)
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #5]
-[made up name #5]
+Dejan Kujundžić (m)
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #6]
-[made up name #6]
+Marko Kraljević (m)
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #7]
-[made up name #7]
+Aleksandra Gavrilović (f) / Dizajner
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #8]
-[made up name #8]
+Aneta Gluhović (f) / Fotograf
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #9]
-[made up name #9]
+Branislava Horvat (f) / Pizza majstor
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #10]
-[made up name #10]
+Sandra Hristić (f)
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #11]
-[made up name #11]
+Kristina Katić (f)
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #12]
-[made up name #12]
+Božana Knežević (f)
 
 
 # Screen 14 (Email)
 ;Inbox (2)
-Inbox (2)
+Prijemno sanduče (2)
 
 
 # Screen 14 (Email)
 ;Re:
-Re:
+Re: {ok}
 
 
 # Screen 14 (Email)
 ;Send photos please / You 're the best! Thanks so…
-Send photos please / You 're the best! Thanks so…
+Pošalji slike / Odlične su! Hvala ti najlepše!
 
 
 # Screen 14 (Email)
 ;Road trip next weekend / I've been wanting to visit that place…
-Road trip next weekend / I've been wanting to visit that place…
+Izlet sledećeg vikenda / Jedva smo čekali da posetimo to mesto…
 
 
 # Screen 14 (Email)
 ;You might like this / Great find! I'll definitely check with you
-You might like this / Great find! I'll definitely check with you
+Možda ti se svidi / Kakav pronalazak! Definitivno ću pitati društvo…
 
 
 # Screen 14 (Email)
 ;We're moving! / Hello Friends! Join us on Saturday to…
-We're moving! / Hello Friends! Join us on Saturday to…
+Selimo se! / Zdravo, prijatelji! Pridružite nam se u nedelju kako bismo…
 
 
 # Screen 14 (Email)
 ;It was nice meeting you! I heard you are going the…
-It was nice meeting you! I heard you are going the…
+Drago mi je što smo se upoznali! / Priča se da ćeš ići…
 
 
 # Screen 14 (Email)
 ;Yesterday
-Yesterday
+Juče
 
 
 # Screen 14 (Email)
 ;1 week ago
-1 week ago
+prošle nedelje
 
 
 # Screen 14 (Email)
 ;May 25
-May 25
+25. maj
 
 
 # Screen 15 and 16 (Dialer) NOTE: provide a fake phone number that complies to your country’s phone number format
 ;[fake local phone number]
-[fake local phone number]
+024108252
 
 
 # Screen 16 (Outgoing Call)
 ;Connecting
-Connecting
+Povezivanje
 
 
 # Screen 16 (Outgoing Call) NOTE: use the same fake name provided in the Contact screen.
 ;[fake name from Contact list]
-[fake name from Contact list]
+Aleksandra Gavrilović
 
 
 # Screen 17 (Browser)
 ;Firefox Start Page
-Firefox Start Page
+Početna strana Firefox-a
 
 
 # Screen 17 (Browser)
 ;Top Sites
-Top Sites
+Najposećeniji sajtovi
 
 
 # Screen 18 (Usage)
 ;3G Usage
-3G Usage
+Mobilne mreže
 
 
 # Screen 18 (Usage)
 ;Wifi Usage
-Wifi Usage
+Wi-fi
 
 
 # Screen 18 (Usage)
 ;May 1, May 20, May 30
-May 1, May 20, May 30
+maj 1, maj 20, maj 30
 
 
 # Screen 19 (Lock Screen)
 ;Carrier
-Carrier
+Operater
 
 
 # Screen 19 (Lock Screen)
 ;8:36PM
-8:36PM
+20:36
 
 
 # Screen 19 (Lock Screen)
 ;Friday, May 26
-Friday, May 26
+Petak, 26 maj
 
 
 # Screen 20 (Lock Screen 2 )  NOTE: use the same title provided in Music App screen)
 ;[song title]
-[song title]
+Povratak
 
 
 # Screen 20 (Lock Screen 2 )  NOTE: use the same artist provided in Music App screen)
 ;[artist]
-[artist]
+Beogradski Sindikat
 
 
