@@ -1,296 +1,295 @@
 ## NOTE: the mockup of L10n feed can be found here: https://drive.google.com/a/mozilla.com/?usp=sheets_web&usp=sheets_web&urp=https://drive.google.com/?usp%3Dsheets_web#folders/0B7u_NzvpgGcgeG1xZXFKS3JTalE
 
-
 ;Today's Top App
-今日热门应用
+Günün Uygulaması
 
 
 ;Today's Top Apps
-今日热门应用
+Günün Uygulamaları
 
 
 # Note: A great app that's relatively unknown.
 ;Hidden Gem
-沧海遗珠
+Saklı Cevher
 
 
 ;Hidden Gems
-沧海遗珠
+Saklı Cevherler
 
 
 # Note: An app that is revolutionary in some manner.
 ;Groundbreaking App
-开创性应用
+Çığır Açan Uygulama
 
 
 ;Groundbreaking Apps
-开创性应用
+Çığır Açan Uygulamalar
 
 
 # Note: Our editorial persona will be a fox. Think of "Fox Favortie" as akin to "Editor's Pick" because the Fox is the editor.
 ;Fox Favorite
-火狐狸的收藏
+Tilkinin Önerisi
 
 
 ;Fox Favorites
-火狐狸的收藏
+Tilkinin Önerileri
 
 
 # Note: An app that is popular in a particular region.
 ;Local Favorite
-地区性收藏
+Yerel Favori
 
 
 # Note: An alternative to "Fox Favorite".
 ;Editors' Pick
-编辑精选
+Editörün Seçimi
 
 
 ;Editors' Picks
-编辑精选
+Editörün Seçimleri
 
 
 # Note: Another potential option to use instead of "Fox Favorite" or Editors' Pick".
 ;Staff Pick
-职员精选
+Ekibin Seçimi
 
 
 ;Staff Picks
-职员精选
+Ekibin Seçimleri
 
 
 # Note: This will be used to promote an app that does something completely random, strange, or unexpected. Think of this as a fun way to feature an app that will surprise users.
 ;Mystery App!
-神秘应用！
+Gizemli uygulama!
 
 
 # Note: Used to promote apps that let you create, like painting apps, music-making apps, writing apps, etc.
 ;Featured Creativity App
-特色创意应用
+Öne Çıkan Yaratıcılık Uygulaması
 
 
 ;Featured Creativity Apps
-特色创意应用
+Öne Çıkan Yaratıcılık Uygulamaları
 
 
 ;Get Creative
-获得创意
+Yaratıcılığınızı konuşturun
 
 
 # Note: We have a number of education apps on MP, like math or science learning apps.
 ;Education
-Education
+Eğitim
 
 
 ;Apps for Education
-教育应用
+Eğitim Uygulamaları
 
 
 ;Education Spotlight
-教育界明星
+Eğitim Vitrini
 
 
 # Note: Used to promote exercise or diet apps.
 ;Health & Fitness
-健康与健身
+Sağlık ve Zindelik
 
 
 ;Healthy Living
-健康生活
+Sağlıklı Yaşam
 
 
 ;Live Healthy
-生活健康
+Sağlıklı yaşayın
 
 
 ;Maps & Navigation
-地图和导航
+Haritalar ve Navigasyon
 
 
 ;Getting Around
-四处逛逛
+Harita ve Navigasyon Uygulamaları
 
 
 ;Maps & Navigation Spotlight
-地图和导航明星
+Haritalar ve Navigasyon Vitrini
 
 
 ;News & Weather
-新闻和天气
+Haberler ve Hava Durumu
 
 
 ;News & Weather Spotlight
-新闻和天气类明星
+Haberler ve Hava Durumu Vitrini
 
 
 ;Book
-书籍
+Kitap
 
 
 ;Books
-书籍
+Kitaplar
 
 
 ;Great Read
-超棒阅读
+Okumaya Değer
 
 
 ;Great Reads
-超棒阅读
+Okumaya Değer Şeyler
 
 
 ;Shopping
-购物
+Alışveriş
 
 
 ;Smart Shopping Apps
-智能购物应用
+Akıllı Alışveriş Uygulamaları
 
 
 ;Sports
-运动
+Spor
 
 
 ;The Sporting Life
-运动休闲
+Spor Dünyası
 
 
 # Note: For utilitarian and efficiency apps like task managers or contact list importers, etc.
 ;Tools & Time Savers
-工具和效率
+Araçlar
 
 
 ;Games
-游戏
+Oyunlar
 
 
 ;Hot Game
-热门游戏
+Yeni Oyun
 
 
 ;Hot Games
-热门游戏
+Yeni Oyunlar
 
 
 ;Great Game
-超棒游戏
+Harika Oyun
 
 
 ;Great Games
-超棒游戏
+Harika Oyunlar
 
 
 ;Play This Game Right Now
-马上来玩这个游戏
+Bu oyunu hemen oynayın
 
 
 ;Instant Fun!
-即刻享乐！
+Anında eğlence!
 
 
 ;Work & Business
-工作和商务
+İş Dünyası
 
 
 ;Featured Apps for Work & Business
-工作和商务的特色应用
+Vitrindeki İş Dünyası Uygulamaları
 
 
 ;Featured App for Work & Business
-工作和商务的特色应用
+Vitrindeki İş Dünyası Uygulaması
 
 
 ;Be More Productive
-提高工作效率
+Üretkenliğinizi artırın
 
 
 ;Get Things Done
-搞定一切 (GTD)
+İşleri daha kolay bitirin
 
 
 ;Better Business
-改善商务
+Daha iyi işletme
 
 
 ;Arts & Entertainment
-艺术和娱乐
+Sanat ve Eğlence
 
 
 ;Arts & Entertainment Spotlight
-艺术和娱乐明星
+Sanat ve Eğlence Vitrini
 
 
 ;Lifestyle
-生活方式
+Yaşam Tarzı
 
 
 ;Featured Lifestyle App
-生活方式特色应用
+Vitrindeki Yaşam Tarzı Uygulaması
 
 
 ;Featured Lifestyle Apps
-生活方式特色应用
+Vitrindeki Yaşam Tarzı Uygulamaları
 
 
 ;Lifestyle & Culture
-生活方式与文化
+Yaşam tarzı ve kültür
 
 
 # Note: Think Streaming internet radio or music news apps.
 ;Music
-音乐
+Müzik
 
 
 ;For Music Lovers
-适合音乐爱好者
+Müzik severler için
 
 
 ;Photo & Video
-照片和视频
+Fotoğraf ve Video
 
 
 ;Featured Camera App
-特色相机应用
+Öne Çıkan Kamera Uygulaması
 
 
 ;Featured Camera Apps
-特色相机应用
+Öne Çıkan Kamera Uygulamaları
 
 
 ;Social
-社交
+Sosyal
 
 
 ;Featured Social Apps
-特色社交应用
+Öne Çıkan Sosyal Uygulamalar
 
 
 ;Get Connected
-自由沟通
+İletişime geçin
 
 
 ;Travel
-旅行
+Seyahat
 
 
 ;Travel Guide
-旅行指南
+Seyahat Rehberi
 
 
 ;Travel Guides
-旅行指南
+Seyahat Rehberleri
 
 
 ;For Travelers
-适合游客
+Gezginler için
 
 
 ;Top 5 Community Picks
-Top 5 Community Picks
+Üyelerin Seçtiği En İyi 5
 
 
 ;Local Community Favorites
-Local Community Favorites
+Yerel Topluluğun Sevdikleri
 
 
 ;Apps for Venezuela
@@ -326,7 +325,7 @@ Apps for Uruguay
 
 
 ;Apps for Germany
-Apps for Germany
+Almanya uygulamaları
 
 
 ;Apps for Italy
@@ -382,7 +381,7 @@ Apps for Russia
 
 
 ;Apps for China
-适合中国的应用
+Apps for China
 
 
 ;Apps for Hungary

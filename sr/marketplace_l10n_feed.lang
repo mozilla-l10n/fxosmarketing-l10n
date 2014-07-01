@@ -1,211 +1,210 @@
 ## NOTE: the mockup of L10n feed can be found here: https://drive.google.com/a/mozilla.com/?usp=sheets_web&usp=sheets_web&urp=https://drive.google.com/?usp%3Dsheets_web#folders/0B7u_NzvpgGcgeG1xZXFKS3JTalE
 
-
 ;Today's Top App
-Today's Top App
+Данашња најпопуларнија апликација
 
 
 ;Today's Top Apps
-Today's Top Apps
+Данашњe најпопуларнијe апликацијe
 
 
 # Note: A great app that's relatively unknown.
 ;Hidden Gem
-Hidden Gem
+Скривени драгуљ
 
 
 ;Hidden Gems
-Hidden Gems
+Скривени драгуљи
 
 
 # Note: An app that is revolutionary in some manner.
 ;Groundbreaking App
-Groundbreaking App
+Револуционарна апликација
 
 
 ;Groundbreaking Apps
-Groundbreaking Apps
+Револуционарне апликације
 
 
 # Note: Our editorial persona will be a fox. Think of "Fox Favortie" as akin to "Editor's Pick" because the Fox is the editor.
 ;Fox Favorite
-Fox Favorite
+Фаворит лисице
 
 
 ;Fox Favorites
-Fox Favorites
+Фаворити лисице
 
 
 # Note: An app that is popular in a particular region.
 ;Local Favorite
-Local Favorite
+Локални фаворит
 
 
 # Note: An alternative to "Fox Favorite".
 ;Editors' Pick
-Editors' Pick
+Препорука уредника
 
 
 ;Editors' Picks
-Editors' Picks
+Препоруке уредника
 
 
 # Note: Another potential option to use instead of "Fox Favorite" or Editors' Pick".
 ;Staff Pick
-Staff Pick
+Препорука особља
 
 
 ;Staff Picks
-Staff Picks
+Препоруке особља
 
 
 # Note: This will be used to promote an app that does something completely random, strange, or unexpected. Think of this as a fun way to feature an app that will surprise users.
 ;Mystery App!
-Mystery App!
+Мистериозна апликација!
 
 
 # Note: Used to promote apps that let you create, like painting apps, music-making apps, writing apps, etc.
 ;Featured Creativity App
-Featured Creativity App
+Истакнута апликација за креативност
 
 
 ;Featured Creativity Apps
-Featured Creativity Apps
+Истакнуте апликације за креативност
 
 
 ;Get Creative
-Get Creative
+Будите креативни
 
 
 # Note: We have a number of education apps on MP, like math or science learning apps.
 ;Education
-Education
+Образовање
 
 
 ;Apps for Education
-Apps for Education
+Апликације за образовање
 
 
 ;Education Spotlight
-Education Spotlight
+Истакнуто у образовању
 
 
 # Note: Used to promote exercise or diet apps.
 ;Health & Fitness
-Health & Fitness
+Здравље и фитнес
 
 
 ;Healthy Living
-Healthy Living
+Здрав живот
 
 
 ;Live Healthy
-Live Healthy
+Живите здраво
 
 
 ;Maps & Navigation
-Maps & Navigation
+Мапе и навигација
 
 
 ;Getting Around
-Getting Around
+Сналажење
 
 
 ;Maps & Navigation Spotlight
-Maps & Navigation Spotlight
+Истакнуте мапе и навигација
 
 
 ;News & Weather
-News & Weather
+Вести и време
 
 
 ;News & Weather Spotlight
-News & Weather Spotlight
+Истакнуте вести и време
 
 
 ;Book
-Book
+Књига
 
 
 ;Books
-Books
+Књиге
 
 
 ;Great Read
-Great Read
+Препорука за читање
 
 
 ;Great Reads
-Great Reads
+Препоруке за читање
 
 
 ;Shopping
-Shopping
+Куповина
 
 
 ;Smart Shopping Apps
-Smart Shopping Apps
+Паметне апликације за куповину
 
 
 ;Sports
-Sports
+Спортови
 
 
 ;The Sporting Life
-The Sporting Life
+Спортски живот
 
 
 # Note: For utilitarian and efficiency apps like task managers or contact list importers, etc.
 ;Tools & Time Savers
-Tools & Time Savers
+Алати и апликације за продуктивност
 
 
 ;Games
-Games
+Игрице
 
 
 ;Hot Game
-Hot Game
+Популарна игрица
 
 
 ;Hot Games
-Hot Games
+Популарне игрице
 
 
 ;Great Game
-Great Game
+Одлична игрица
 
 
 ;Great Games
-Great Games
+Одличне игрице
 
 
 ;Play This Game Right Now
-Play This Game Right Now
+Играјте одмах ову игрицу
 
 
 ;Instant Fun!
-Instant Fun!
+Тренутна забава!
 
 
 ;Work & Business
-Work & Business
+Посао и бизнис
 
 
 ;Featured Apps for Work & Business
-Featured Apps for Work & Business
+Истакнуте апликације за посао и бизнис
 
 
 ;Featured App for Work & Business
-Featured App for Work & Business
+Истакнута апликација за посао и бизнис
 
 
 ;Be More Productive
-Be More Productive
+Будите продуктивнији
 
 
 ;Get Things Done
-Get Things Done
+Обавите задатке
 
 
 ;Better Business
@@ -213,76 +212,76 @@ Better Business
 
 
 ;Arts & Entertainment
-Arts & Entertainment
+Уместност и забава
 
 
 ;Arts & Entertainment Spotlight
-Arts & Entertainment Spotlight
+Истакнуто у уметности и забави
 
 
 ;Lifestyle
-Lifestyle
+Стил живота
 
 
 ;Featured Lifestyle App
-Featured Lifestyle App
+Истакнута апликација о стилу живота
 
 
 ;Featured Lifestyle Apps
-Featured Lifestyle Apps
+Истакнуте апликације о стилу живота
 
 
 ;Lifestyle & Culture
-Lifestyle & Culture
+Стил живота и култура
 
 
 # Note: Think Streaming internet radio or music news apps.
 ;Music
-Music
+Музика
 
 
 ;For Music Lovers
-For Music Lovers
+За љубитеље музике
 
 
 ;Photo & Video
-Photo & Video
+Фотографије и видео снимци
 
 
 ;Featured Camera App
-Featured Camera App
+Истакнута апликација за камеру
 
 
 ;Featured Camera Apps
-Featured Camera Apps
+Истакнуте апликације за камеру
 
 
 ;Social
-Social
+Друштвено
 
 
 ;Featured Social Apps
-Featured Social Apps
+Истакнуте друштвене апликације
 
 
 ;Get Connected
-Get Connected
+Повежите се
 
 
 ;Travel
-Travel
+Путовања
 
 
 ;Travel Guide
-Travel Guide
+Туристички водич
 
 
 ;Travel Guides
-Travel Guides
+Туристички водичи
 
 
 ;For Travelers
-For Travelers
+За путнике
 
 
 ;Top 5 Community Picks
@@ -346,11 +345,11 @@ Apps for Brazil
 
 
 ;Apps for Serbia
-Apps for Serbia
+Апликације за Србији
 
 
 ;Apps for Montenegro
-Apps for Montenegro
+Апликације за Црну Гору
 
 
 ;Apps for Czech Republic
