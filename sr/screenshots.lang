@@ -85,17 +85,17 @@ Mislim o…
 
 # Screen 5 (Homescreen):
 ;Social
-Social
+Društvene
 
 
 # Screen 5 (Homescreen):
 ;Games
-Games
+Igrice
 
 
 # Screen 5 (Homescreen):
 ;ShowBiz
-ShowBiz
+Slavni
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
@@ -150,12 +150,12 @@ Kafić
 
 # Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
 ;[local street name#1]
-[local street name#1]
+Somborska
 
 
 # Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
 ;[local street name#2]
-[local street name#2]
+Jovana Mikića
 
 
 # Screen 7 (Here Maps), screen 11 (e.me party), screen 12 (e.me party)
@@ -215,7 +215,7 @@ Cvećare
 
 # Screen 11 (e.me party) NOTE: fictional
 ;My Bulletin
-My bilten
+Moj bilten
 
 
 # Screen 11 (e.me party)
@@ -240,7 +240,7 @@ Kalorije u kafi
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Caffeine Diaries
-Dnevnici kofeina
+Kofeinski dnevnici
 
 
 # Screen 12 (e.me party) NOTE: fictional; DIY=Do It Yourself
