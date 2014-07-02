@@ -50,7 +50,7 @@ Cerca
 
 # Screen 4 (Markeplace)
 ;All Categories
-Tutte le categorie 
+Tutte le categorie
 
 
 # Screen 4 (Markeplace)
@@ -81,6 +81,21 @@ Gratuita
 # Screen 5 (Homescreen)
 ;I’m thinking of…
 Pensavo a…
+
+
+# Screen 5 (Homescreen):
+;Social
+Social
+
+
+# Screen 5 (Homescreen):
+;Games
+Games
+
+
+# Screen 5 (Homescreen):
+;ShowBiz
+ShowBiz
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
@@ -131,6 +146,16 @@ Impostaz.
 # Screen 7 (Here Maps)
 ;Cafe
 Bar
+
+
+# Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
+;[local street name#1]
+[local street name#1]
+
+
+# Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
+;[local street name#2]
+[local street name#2]
 
 
 # Screen 7 (Here Maps), screen 11 (e.me party), screen 12 (e.me party)
@@ -348,7 +373,7 @@ Invia foto, grazie / Sei il migliore.
 Viaggio per prossimo weekend? / Ho sempre voluto andarci…
 
 
-# Screen 14 00Email)
+# Screen 14 (Email)
 ;You might like this / Great find! I'll definitely check with you
 Questo potrebbe piacerti / Interessante! Lo guarderò sicuramente…
 
@@ -441,6 +466,5 @@ la ballata di Firefox
 # Screen 20 (Lock Screen 2 )  NOTE: use the same artist provided in Music App screen)
 ;[artist]
 I panda rossi
-
 
 

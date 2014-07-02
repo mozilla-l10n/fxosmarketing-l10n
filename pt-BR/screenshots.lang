@@ -1,4 +1,3 @@
-Screenshot pt-BR:
 ## NOTE: the 1.1 screenshots can be found here - proceed to your locale: https://mozilla.app.box.com/files/0/f/1165468421/1.1
 ## NOTE: the 1.3 screesnshots can be found here: https://mozilla.app.box.com/files/0/f/1894864735/320x480
 ## NOTE: the diff between 1.1 and 1.3 in English can be found here: https://docs.google.com/a/mozilla.com/presentation/d/136_Z8LiBaXeguy7tjRwh8qSdNd9VXToTGocoB2NjvPw/edit#slide=id.p36
@@ -84,6 +83,21 @@ Gratis
 Estou pensando em...
 
 
+# Screen 5 (Homescreen):
+;Social
+Social
+
+
+# Screen 5 (Homescreen):
+;Games
+Games
+
+
+# Screen 5 (Homescreen):
+;ShowBiz
+ShowBiz
+
+
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Gallery
 Galeria
@@ -102,6 +116,7 @@ Calendário
 # Screen 6 (Icon Grid)
 ;Clock
 Relógio
+
 
 # Screen 6 (Icon Grid), screen 18 (Usage)
 ;Usage
@@ -131,6 +146,16 @@ Configurações
 # Screen 7 (Here Maps)
 ;Cafe
 Café
+
+
+# Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
+;[local street name#1]
+[local street name#1]
+
+
+# Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
+;[local street name#2]
+[local street name#2]
 
 
 # Screen 7 (Here Maps), screen 11 (e.me party), screen 12 (e.me party)
@@ -296,6 +321,8 @@ Carlos Monteiro / Arquiteto
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #6]
 Carolina Barbosa
+
+
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #7]
 Alexandre Dias / Jornalista
@@ -340,9 +367,11 @@ Re: {ok}
 ;Send photos please / You 're the best! Thanks so…
 Por favor, manda as fotos / Você é demais! Obrigado....
 
+
 # Screen 14 (Email)
 ;Road trip next weekend / I've been wanting to visit that place…
 Viagem semana que vem / Estou louco pra conhecer aquele lugar...
+
 
 # Screen 14 (Email)
 ;You might like this / Great find! I'll definitely check with you
@@ -433,6 +462,9 @@ Sexta-feira, 26 de maio
 ;[song title]
 A felicidade
 
+
 # Screen 20 (Lock Screen 2 )  NOTE: use the same artist provided in Music App screen)
 ;[artist]
 Elias Santana
+
+
