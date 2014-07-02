@@ -5,466 +5,441 @@
 
 # Screen 1 (Music App): provide fictional items, DO NOT TRANSLATE the original string and remove the brackets in your translation.
 ;[made up song title]
-[made up song title]
+Last Tuesday
 
 
 # Screen 1 (Music App): provide a fictional band and artist
 ;[made up local artist or band]
-[made up local artist or band]
+Vanessa Adelaide
 
 
 # Screen 1 (Music App):
 ;[made up local album title]
-[made up local album title]
+Sanctuary
 
 
 # Screen 2 (Music), screen 6 (Icon Grid), screen 11 (e.me party)
 ;Music
-Music
+Hudba
 
 
 # Screen 3 (Video)
 ;Happy birthday
-Happy birthday
+Vše nejlepší k narozeninám
 
 
 # Screen 3 (Video)
 ;Summer vacation fun
-Summer vacation fun
+Zábava na letní dovolené
 
 
 # Screen 3 (Video)
 ;Hanging out with the family
-Hanging out with the family
+Setkání s rodinou
 
 
 # Screen 3 (Video)
 ;Dinner with the gang/friends
-Dinner with the gang/friends
+Večeře s partou
 
 
 # Screen 4 (Markeplace)
 ;Search
-Search
+Vyhledávání
 
 
 # Screen 4 (Markeplace)
 ;All Categories
-All Categories
+Všechny kategorie
 
 
 # Screen 4 (Markeplace)
 ;Featured Apps
-Featured Apps
+Propagované aplikace
 
 
 # Screen 4 (Markeplace)
 ;View All
-View All
+Zobrazit vše
 
 
 # Screen 4 (Markeplace)
 ;Popular
-Popular
+Populární
 
 
 # Screen 4 (Markeplace)
 ;New
-New
+Nové
 
 
 # Screen 4 (Markeplace)
 ;Free
-Free
+Zdarma
 
 
 # Screen 5 (Homescreen)
 ;I’m thinking of…
-I’m thinking of…
-
-
-# Screen 5 (Homescreen):
-;Social
-Social
-
-
-# Screen 5 (Homescreen):
-;Games
-Games
-
-
-# Screen 5 (Homescreen):
-;ShowBiz
-ShowBiz
+Myslím na…
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Gallery
-Gallery
+Galerie
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Camera
-Camera
+Fotoaparát
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Calendar
-Calendar
+Kalendář
 
 
 # Screen 6 (Icon Grid)
 ;Clock
-Clock
+Hodiny
 
 
 # Screen 6 (Icon Grid), screen 18 (Usage)
 ;Usage
-Usage
+Využití
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Video
-Video
+Video {ok}
 
 
 # Screen 6 (Icon Grid)
 ;Email
-Email
+E-mail
 
 
 # Screen 6 (Icon Grid)
 ;FM Radio
-FM Radio
+FM rádio
 
 
 # Screen 6 (Icon Grid)
 ;Settings
-Settings
+Nastavení
 
 
 # Screen 7 (Here Maps)
 ;Cafe
-Cafe
-
-
-# Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
-;[local street name#1]
-[local street name#1]
-
-
-# Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
-;[local street name#2]
-[local street name#2]
+Kavárna
 
 
 # Screen 7 (Here Maps), screen 11 (e.me party), screen 12 (e.me party)
 ;Results Simulated
-Results Simulated
+Simulované výsledky
 
 
 # Screen 8 (Gallery)
 ;June 2014
-June 2014
+Červen 2014
 
 
 # Screen 9 (Gallery with Filters)
 ;Edit
-Edit
+Upravit
 
 
 # Screen 9 (Gallery with Filters)
 ;Done
-Done
+Hotovo
 
 
 # Screen 11 (e.me party)
 ;Party
-Party
+Slavnost
 
 
 # Screen 11 (e.me party)
 ;Everything Party
-Everything Party
+Všechno Slavnost
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;EzGift
-EzGift
+EzGift {ok}
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Cater Girls
-Cater Girls
+Cater Girls {ok}
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Quickvite
-Quickvite
+Quickvite {ok}
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Balloonies
-Balloonies
+Balloonies {ok}
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Flowerettes
-Flowerettes
+Flowerettes {ok}
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;My Bulletin
-My Bulletin
+My Bulletin {ok}
 
 
 # Screen 11 (e.me party)
 ;Notes
-Notes
+Poznámky
 
 
 # Screen 12 (e.me party)
 ;Café
-Café
+Kavárna
 
 
 # Screen 12 (e.me party)
 ;Everything Cafe
-Everything Cafe
+Všechno Kavárna
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Cafe Calories
-Cafe Calories
+Cafe Calories {ok}
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Caffeine Diaries
-Caffeine Diaries
+Caffeine Diaries {ok}
 
 
 # Screen 12 (e.me party) NOTE: fictional; DIY=Do It Yourself
 ;D.I.Y. Barista
-D.I.Y. Barista
+D.I.Y. Barista {ok}
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Coffee Addicts
-Coffee Addicts
+Coffee Addicts {ok}
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Java Spotter
-Java Spotter
+Java Spotter {ok}
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Join Up
-Join Up
+Join Up {ok}
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;MyGrubber
-MyGrubber
+MyGrubber {ok}
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Park It Here
-Park It Here
+Park It Here {ok}
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Bookclub Finder
-Bookclub Finder
+Bookclub Finder {ok}
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Book Beamer
-Book Beamer
+Book Beamer {ok}
 
 
 # Screen 13 (Contacts)
 ;Contacts
-Contacts
+Kontakty
 
 
 # Screen 13 (Contacts)
 ;Search…
-Search…
+Hledat…
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #1]
-[made up name #1]
+Michal Janota
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #2]
-[made up name #2]
+Dana Janoušová / DK Solutions
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #3]
-[made up name #3]
+Pavla Jelínková
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #4]
-[made up name #4]
+Václav Jesenický
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #5]
-[made up name #5]
+Marcela Jonášová / Illusion a.s.
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #6]
-[made up name #6]
+Martin Kadeřávek / Můj software s.r.o
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #7]
-[made up name #7]
+Anna Kobedová
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #8]
-[made up name #8]
+Matěj Král
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #9]
-[made up name #9]
+Lucie Krásná / R Systems
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #10]
-[made up name #10]
+Karel Landa / Medonos s.r.o
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #11]
-[made up name #11]
+Petr Ledecký / Vodovody
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #12]
-[made up name #12]
+Veronika Levická
 
 
 # Screen 14 (Email)
 ;Inbox (2)
-Inbox (2)
+Doručená pošta (2)
 
 
 # Screen 14 (Email)
 ;Re:
-Re:
+Re: {ok}
 
 
 # Screen 14 (Email)
 ;Send photos please / You 're the best! Thanks so…
-Send photos please / You 're the best! Thanks so…
+Pošli prosím fotky/ Hej, jsi nejlepší! Díky…
 
 
 # Screen 14 (Email)
 ;Road trip next weekend / I've been wanting to visit that place…
-Road trip next weekend / I've been wanting to visit that place…
+Co výlet příští víkend / Ráda bych navštívila…
 
 
 # Screen 14 (Email)
 ;You might like this / Great find! I'll definitely check with you
-You might like this / Great find! I'll definitely check with you
+Mohlo by se ti líbit / Máš pravdu! Určitě se poradíme
 
 
 # Screen 14 (Email)
 ;We're moving! / Hello Friends! Join us on Saturday to…
-We're moving! / Hello Friends! Join us on Saturday to…
+Stěhujeme se! / Ahoj přátelé! Přidejte se v sobotu…
 
 
 # Screen 14 (Email)
 ;It was nice meeting you! I heard you are going the…
-It was nice meeting you! I heard you are going the…
+Bylo fajn se s tebou sejít! Slyšel jsem, že chodíš…
 
 
 # Screen 14 (Email)
 ;Yesterday
-Yesterday
+Včera
 
 
 # Screen 14 (Email)
 ;1 week ago
-1 week ago
+minulý týden
 
 
 # Screen 14 (Email)
 ;May 25
-May 25
+25. května
 
 
 # Screen 15 and 16 (Dialer) NOTE: provide a fake phone number that complies to your country’s phone number format
 ;[fake local phone number]
-[fake local phone number]
+777 123 456
 
 
 # Screen 16 (Outgoing Call)
 ;Connecting
-Connecting
+Připojování
 
 
 # Screen 16 (Outgoing Call) NOTE: use the same fake name provided in the Contact screen.
 ;[fake name from Contact list]
-[fake name from Contact list]
+Karel Landa
 
 
 # Screen 17 (Browser)
 ;Firefox Start Page
-Firefox Start Page
+Úvodní stránka Firefoxu
 
 
 # Screen 17 (Browser)
 ;Top Sites
-Top Sites
+Top stránky
 
 
 # Screen 18 (Usage)
 ;3G Usage
-3G Usage
+Využití 3G
 
 
 # Screen 18 (Usage)
 ;Wifi Usage
-Wifi Usage
+Využití Wi-Fi
 
 
 # Screen 18 (Usage)
 ;May 1, May 20, May 30
-May 1, May 20, May 30
+1. květen, 20. května, 30. května
 
 
 # Screen 19 (Lock Screen)
 ;Carrier
-Carrier
+Operátor
 
 
 # Screen 19 (Lock Screen)
 ;8:36PM
-8:36PM
+20:36
 
 
 # Screen 19 (Lock Screen)
 ;Friday, May 26
-Friday, May 26
+Pátek 26. května
 
 
 # Screen 20 (Lock Screen 2 )  NOTE: use the same title provided in Music App screen)
 ;[song title]
-[song title]
+Last Tuesday
 
 
 # Screen 20 (Lock Screen 2 )  NOTE: use the same artist provided in Music App screen)
 ;[artist]
-[artist]
+Vanessa Adelaide
 
 
