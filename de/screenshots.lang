@@ -85,17 +85,17 @@ Ich suche nach…
 
 # Screen 5 (Homescreen):
 ;Social
-Social
+Sozial
 
 
 # Screen 5 (Homescreen):
 ;Games
-Games
+Spiele
 
 
 # Screen 5 (Homescreen):
 ;ShowBiz
-ShowBiz
+Showbiz
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
@@ -150,12 +150,12 @@ Café
 
 # Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
 ;[local street name#1]
-[local street name#1]
+Libauer Straße
 
 
 # Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
 ;[local street name#2]
-[local street name#2]
+Goethestraße
 
 
 # Screen 7 (Here Maps), screen 11 (e.me party), screen 12 (e.me party)
