@@ -85,17 +85,17 @@ Je pense à…
 
 # Screen 5 (Homescreen):
 ;Social
-Social
+Social {ok}
 
 
 # Screen 5 (Homescreen):
 ;Games
-Games
+Jeux
 
 
 # Screen 5 (Homescreen):
 ;ShowBiz
-ShowBiz
+Divertissement
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
@@ -150,17 +150,16 @@ Café
 
 # Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
 ;[local street name#1]
-[local street name#1]
-
+Avenue
 
 # Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
 ;[local street name#2]
-[local street name#2]
+Rue de la Gare
 
 
 # Screen 7 (Here Maps), screen 11 (e.me party), screen 12 (e.me party)
 ;Results Simulated
-Résultats simulés
+Avenue Victor Hugo
 
 
 # Screen 8 (Gallery)
