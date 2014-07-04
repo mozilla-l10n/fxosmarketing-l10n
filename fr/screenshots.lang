@@ -30,7 +30,7 @@ Joyeux anniversaire
 
 # Screen 3 (Video)
 ;Summer vacation fun
-Chasse aux crevettes
+Camping sauvage
 
 
 # Screen 3 (Video)
@@ -150,16 +150,16 @@ Café
 
 # Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
 ;[local street name#1]
-Avenue
+Rue Voltaire
 
 # Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
 ;[local street name#2]
-Rue de la Gare
+Rue du Chemin Vert
 
 
 # Screen 7 (Here Maps), screen 11 (e.me party), screen 12 (e.me party)
 ;Results Simulated
-Avenue Victor Hugo
+Résultats simulés
 
 
 # Screen 8 (Gallery)
@@ -349,7 +349,7 @@ Emma Morillon
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #12]
-Arnaud Magnier
+Christophe Nerval
 
 
 # Screen 14 (Email)
