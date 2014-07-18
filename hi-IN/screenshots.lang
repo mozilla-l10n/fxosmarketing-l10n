@@ -5,466 +5,466 @@
 
 # Screen 1 (Music App): provide fictional items, DO NOT TRANSLATE the original string and remove the brackets in your translation.
 ;[made up song title]
-Avoir l’air
+[made up song title]
 
 
 # Screen 1 (Music App): provide a fictional band and artist
 ;[made up local artist or band]
-Alice M.
+[made up local artist or band]
 
 
 # Screen 1 (Music App):
 ;[made up local album title]
-Lignes de fuite
+[made up local album title]
 
 
 # Screen 2 (Music), screen 6 (Icon Grid), screen 11 (e.me party)
 ;Music
-Musique
+Music
 
 
 # Screen 3 (Video)
 ;Happy birthday
-Joyeux anniversaire
+Happy birthday
 
 
 # Screen 3 (Video)
 ;Summer vacation fun
-Camping sauvage
+Summer vacation fun
 
 
 # Screen 3 (Video)
 ;Hanging out with the family
-Sortie en famille
+Hanging out with the family
 
 
 # Screen 3 (Video)
 ;Dinner with the gang/friends
-Soirée chez Sophie
+Dinner with the gang/friends
 
 
 # Screen 4 (Markeplace)
 ;Search
-Rechercher
+Search
 
 
 # Screen 4 (Markeplace)
 ;All Categories
-Toutes les catégories
+All Categories
 
 
 # Screen 4 (Markeplace)
 ;Featured Apps
-Applications en vedette
+Featured Apps
 
 
 # Screen 4 (Markeplace)
 ;View All
-Tout afficher
+View All
 
 
 # Screen 4 (Markeplace)
 ;Popular
-Populaires
+Popular
 
 
 # Screen 4 (Markeplace)
 ;New
-Récentes
+New
 
 
 # Screen 4 (Markeplace)
 ;Free
-Gratuit
+Free
 
 
 # Screen 5 (Homescreen)
 ;I’m thinking of…
-Je pense à…
+I’m thinking of…
 
 
 # Screen 5 (Homescreen):
 ;Social
-Social {ok}
+Social
 
 
 # Screen 5 (Homescreen):
 ;Games
-Jeux
+Games
 
 
 # Screen 5 (Homescreen):
 ;ShowBiz
-Divertissement
+ShowBiz
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Gallery
-Galerie
+Gallery
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Camera
-Photo
+Camera
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Calendar
-Agenda
+Calendar
 
 
 # Screen 6 (Icon Grid)
 ;Clock
-Horloge
+Clock
 
 
 # Screen 6 (Icon Grid), screen 18 (Usage)
 ;Usage
-Suivi conso
+Usage
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Video
-Vidéo
+Video
 
 
 # Screen 6 (Icon Grid)
 ;Email
-Courriel
+Email
 
 
 # Screen 6 (Icon Grid)
 ;FM Radio
-Radio FM
+FM Radio
 
 
 # Screen 6 (Icon Grid)
 ;Settings
-Paramètres
+Settings
 
 
 # Screen 7 (Here Maps)
 ;Cafe
-Café
+Cafe
 
 
 # Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
 ;[local street name#1]
-Rue Voltaire
+[local street name#1]
 
 
 # Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
 ;[local street name#2]
-Rue du Chemin Vert
+[local street name#2]
 
 
 # Screen 7 (Here Maps), screen 11 (e.me party), screen 12 (e.me party)
 ;Results Simulated
-Résultats simulés
+Results Simulated
 
 
 # Screen 8 (Gallery)
 ;June 2014
-Juin 2014
+June 2014
 
 
 # Screen 9 (Gallery with Filters)
 ;Edit
-Modifier
+Edit
 
 
 # Screen 9 (Gallery with Filters)
 ;Done
-Terminé
+Done
 
 
 # Screen 11 (e.me party)
 ;Party
-Soirée
+Party
 
 
 # Screen 11 (e.me party)
 ;Everything Party
-Everything Soirée
+Everything Party
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;EzGift
-Bô cadeau
+EzGift
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Cater Girls
-Passion gâteaux
+Cater Girls
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Quickvite
-In-vite
+Quickvite
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Balloonies
-Ballons à gogo
+Balloonies
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Flowerettes
-Fleurettes
+Flowerettes
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;My Bulletin
-Mon bulletin
+My Bulletin
 
 
 # Screen 11 (e.me party)
 ;Notes
-Notes {ok}
+Notes
 
 
 # Screen 12 (e.me party)
 ;Café
-Café {ok}
+Café
 
 
 # Screen 12 (e.me party)
 ;Everything Cafe
-Everything Café
+Everything Cafe
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Cafe Calories
-Calories café
+Cafe Calories
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Caffeine Diaries
-Caféine
+Caffeine Diaries
 
 
 # Screen 12 (e.me party) NOTE: fictional; DIY=Do It Yourself
 ;D.I.Y. Barista
-Café maison
+D.I.Y. Barista
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Coffee Addicts
-Fana de café
+Coffee Addicts
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Java Spotter
-Café à la carte
+Java Spotter
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Join Up
-Pogne
+Join Up
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;MyGrubber
-MyGrubber {ok}
+MyGrubber
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Park It Here
-Parkings
+Park It Here
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Bookclub Finder
-Bouquineur
+Bookclub Finder
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Book Beamer
-La bonne page
+Book Beamer
 
 
 # Screen 13 (Contacts)
 ;Contacts
-Contacts {ok}
+Contacts
 
 
 # Screen 13 (Contacts)
 ;Search…
-Rechercher
+Search…
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #1]
-Christophe Chesneau / Agent immobilier
+[made up name #1]
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #2]
-Jonathan Collet / Enseignant
+[made up name #2]
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #3]
-Laura Cuvelier / Architecte
+[made up name #3]
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #4]
-Anne Dumont / Journaliste
+[made up name #4]
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #5]
-Cyril Duval / Électricien
+[made up name #5]
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #6]
-Olivia Duret / Pharmacienne
+[made up name #6]
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #7]
-Paul Laurent
+[made up name #7]
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #8]
-Antoine Leclaire
+[made up name #8]
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #9]
-Lucie Libert
+[made up name #9]
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #10]
-Célia Mazet
+[made up name #10]
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #11]
-Emma Morillon
+[made up name #11]
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #12]
-Christophe Nerval
+[made up name #12]
 
 
 # Screen 14 (Email)
 ;Inbox (2)
-Courrier entrant (2)
+Inbox (2)
 
 
 # Screen 14 (Email)
 ;Re:
-Re: {ok}
+Re:
 
 
 # Screen 14 (Email)
 ;Send photos please / You 're the best! Thanks so…
-Photos de la soirée  / Super, merci beaucoup. Je vais…
+Send photos please / You 're the best! Thanks so…
 
 
 # Screen 14 (Email)
 ;Road trip next weekend / I've been wanting to visit that place…
-On bouge ce weekend / J’ai toujours voulu visiter cet endroit…
+Road trip next weekend / I've been wanting to visit that place…
 
 
 # Screen 14 (Email)
 ;You might like this / Great find! I'll definitely check with you
-Tu devrais aimer / Ha ha, génial, faudra qu’on fasse ça la pro…
+You might like this / Great find! I'll definitely check with you
 
 
 # Screen 14 (Email)
 ;We're moving! / Hello Friends! Join us on Saturday to…
-On déménage ! / Salut les copains, on peut se retrouver…
+We're moving! / Hello Friends! Join us on Saturday to…
 
 
 # Screen 14 (Email)
 ;It was nice meeting you! I heard you are going the…
-C’était sympa de te revoir ! On m’a dit que tu allais…
+It was nice meeting you! I heard you are going the…
 
 
 # Screen 14 (Email)
 ;Yesterday
-hier
+Yesterday
 
 
 # Screen 14 (Email)
 ;1 week ago
-il y a 1 semaine
+1 week ago
 
 
 # Screen 14 (Email)
 ;May 25
-25 mai
+May 25
 
 
 # Screen 15 and 16 (Dialer) NOTE: provide a fake phone number that complies to your country’s phone number format
 ;[fake local phone number]
-06 27 45 68 02
+[fake local phone number]
 
 
 # Screen 16 (Outgoing Call)
 ;Connecting
-Appel
+Connecting
 
 
 # Screen 16 (Outgoing Call) NOTE: use the same fake name provided in the Contact screen.
 ;[fake name from Contact list]
-Laura Cuvelier
+[fake name from Contact list]
 
 
 # Screen 17 (Browser)
 ;Firefox Start Page
-Page de démarrage de Firefox
+Firefox Start Page
 
 
 # Screen 17 (Browser)
 ;Top Sites
-Les plus visités
+Top Sites
 
 
 # Screen 18 (Usage)
 ;3G Usage
-Conso. 3G
+3G Usage
 
 
 # Screen 18 (Usage)
 ;Wifi Usage
-Conso. Wi-Fi
+Wifi Usage
 
 
 # Screen 18 (Usage)
 ;May 1, May 20, May 30
-1 mai, 20 mai, 30 mai
+May 1, May 20, May 30
 
 
 # Screen 19 (Lock Screen)
 ;Carrier
-Opérateur
+Carrier
 
 
 # Screen 19 (Lock Screen)
 ;8:36PM
-20:36
+8:36PM
 
 
 # Screen 19 (Lock Screen)
 ;Friday, May 26
-Vendredi 26 mai
+Friday, May 26
 
 
 # Screen 20 (Lock Screen 2 )  NOTE: use the same title provided in Music App screen)
 ;[song title]
-Avoir l’air
+[song title]
 
 
 # Screen 20 (Lock Screen 2 )  NOTE: use the same artist provided in Music App screen)
 ;[artist]
-Alice M.
+[artist]
 
 
