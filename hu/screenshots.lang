@@ -85,17 +85,17 @@ Erre gondolok…
 
 # Screen 5 (Homescreen):
 ;Social
-Social
+Közösség
 
 
 # Screen 5 (Homescreen):
 ;Games
-Games
+Játék
 
 
 # Screen 5 (Homescreen):
 ;ShowBiz
-ShowBiz
+Szórakozás
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
@@ -145,17 +145,17 @@ Beállítások
 
 # Screen 7 (Here Maps)
 ;Cafe
-Kávé
+Kávézó
 
 
 # Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
 ;[local street name#1]
-[local street name#1]
+Akácfa utca
 
 
 # Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
 ;[local street name#2]
-[local street name#2]
+Várfok utca
 
 
 # Screen 7 (Here Maps), screen 11 (e.me party), screen 12 (e.me party)
