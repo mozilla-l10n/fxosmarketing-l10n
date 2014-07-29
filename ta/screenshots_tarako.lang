@@ -13,9 +13,39 @@
 [made up local artist or band]
 
 
-# Screen 1 (Music App):
+# Screen 1 (Music App): #1
 ;[made up local album title]
 [made up local album title]
+
+
+# Screen 1 (Music App): #2
+;[made up local album title #2]
+[made up local album title #2]
+
+
+# Screen 1 (Music App): #3
+;[made up local album title #3]
+[made up local album title #3]
+
+
+# Screen 1 (Music App): #4
+;[made up local album title #4]
+[made up local album title #4]
+
+
+# Screen 1 (Music App): #5
+;[made up local album title #5]
+[made up local album title #5]
+
+
+# Screen 1 (Music App): #6
+;[made up local album title #6]
+[made up local album title #6]
+
+
+# Screen 1 (Music App): #7
+;[made up local album title #7]
+[made up local album title #7]
 
 
 # Screen 2 (Music), screen 6 (Icon Grid), screen 11 (e.me party)
@@ -429,13 +459,33 @@ Top Sites
 
 
 # Screen 18 (Usage)
-;3G Usage
-3G Usage
+;Mobile usage
+Mobile usage
 
 
 # Screen 18 (Usage)
-;Wifi Usage
-Wifi Usage
+;Wi-fi Usage
+Wi-fi Usage
+
+
+# Screen 18 (Usage)
+;1GB
+1GB
+
+
+# Screen 18 (Usage)
+;200MB
+200MB
+
+
+# Screen 18 (Usage)
+;0 B
+0 B
+
+
+# Screen 18 (Usage)
+;643.49 KB
+643.49 KB
 
 
 # Screen 18 (Usage)
@@ -466,5 +516,95 @@ Friday, May 26
 # Screen 20 (Lock Screen 2 )  NOTE: use the same artist provided in Music App screen)
 ;[artist]
 [artist]
+
+
+# Screen 14 (e.me) NOTE: these strings are for India launch but feel free to localize the more generic strings
+;Bollywood
+Bollywood
+
+
+# Screen 14 (e.me) NOTE: these strings are for India launch but feel free to localize the more generic strings
+;Everything Bollywood
+Everything Bollywood
+
+
+# Screen 14 (e.me) NOTE: these strings are for India launch but feel free to localize the more generic strings
+;Ratings
+Ratings
+
+
+# Screen 14 (e.me) NOTE: these strings are for India launch but feel free to localize the more generic strings
+;Bollywood Songs
+Bollywood Songs
+
+
+# Screen 14 (e.me) NOTE: these strings are for India launch but feel free to localize the more generic strings
+;Reviews
+Reviews
+
+
+# Screen 14 (e.me) NOTE: these strings are for India launch but feel free to localize the more generic strings
+;Tickets
+Tickets
+
+
+# Screen 14 (e.me) NOTE: these strings are for India launch but feel free to localize the more generic strings
+;Movies Nearby
+Movies Nearby
+
+
+# Screen 14 (e.me) NOTE: these strings are for India launch but feel free to localize the more generic strings
+;ShowTiming
+ShowTiming
+
+
+# Screen 14 (e.me) NOTE: these strings are for India launch but feel free to localize the more generic strings
+;Bollywood Stars
+Bollywood Stars
+
+
+# Screen 15 (e.me) NOTE: these strings are for India launch but feel free to localize the more generic strings
+;Cricket
+Cricket
+
+
+# Screen 15 (e.me) NOTE: these strings are for India launch but feel free to localize the more generic strings
+;Everything Cricket
+Everything Cricket
+
+
+# Screen 15 (e.me) NOTE: these strings are for India launch but feel free to localize the more generic strings
+;Cricket Info
+Cricket Info
+
+
+# Screen 15 (e.me) NOTE: these strings are for India launch but feel free to localize the more generic strings
+;Score
+Score
+
+
+# Screen 15 (e.me) NOTE: these strings are for India launch but feel free to localize the more generic strings
+;Cricket Latest
+Cricket Latest
+
+
+# Screen 15 (e.me) NOTE: these strings are for India launch but feel free to localize the more generic strings
+;Cricket TV
+Cricket TV
+
+
+# Screen 15 (e.me) NOTE: these strings are for India launch but feel free to localize the more generic strings
+;Cricket Live
+Cricket Live
+
+
+# Screen 15 (e.me) NOTE: these strings are for India launch but feel free to localize the more generic strings
+;My Fav Team
+My Fav Team
+
+
+# Screen 15 (e.me) NOTE: these strings are for India launch but feel free to localize the more generic strings
+;Schedule
+Schedule
 
 
