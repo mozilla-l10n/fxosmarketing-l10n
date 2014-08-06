@@ -50,17 +50,17 @@
 
 # Screen 2 (Lock Screen)
 ;Carrier
-Carrier
+कैरियर
 
 
 # Screen 2 (Lock Screen)
 ;8:36PM
-8:36PM
+8:36 अपराह्न
 
 
 # Screen 2 (Lock Screen)
 ;Friday, May 26
-Friday, May 26
+शुक्रवार, 26 मई
 
 
 # Screen 3 (Lock Screen 2) and # Screen 16 (Lock Screen 2)
@@ -75,22 +75,22 @@ Friday, May 26
 
 # Screen 4 (Homescreen)
 ;I’m thinking of…
-I’m thinking of…
+मैँ सोच रहा हूँ....
 
 
 # Screen 4 (Homescreen):
 ;Social
-Social
+सामाजिक
 
 
 # Screen 4 (Homescreen):
 ;Games
-Games
+खेल
 
 
 # Screen 4 (Homescreen):
 ;Music
-Music
+संगीत
 
 
 # Screen 4 (Homescreen):
@@ -100,22 +100,22 @@ ShowBiz
 
 # Screen 5 (Homescreen):
 ;Camera
-Camera
+कैमरा
 
 
 # Screen 5 (Homescreen):
 ;Gallery
-Gallery
+गैलरी
 
 
 # Screen 5 (Homescreen):
 ;FM Radio
-FM Radio
+एफएम रेडियो
 
 
 # Screen 5 (Homescreen):
 ;Settings
-Settings
+सेटिंग्स
 
 
 # Screen 5 (Homescreen):
@@ -125,32 +125,32 @@ Marketplace
 
 # Screen 5 (Homescreen):
 ;Calendar
-Calendar
+कैलेंडर
 
 
 # Screen 5 (Homescreen):
 ;Usage
-Usage
+डाटा
 
 
 # Screen 5 (Homescreen):
 ;E-Mail
-E-Mail
+ई-मेल
 
 
 # Screen 5 (Homescreen):
 ;Video
-Video
+वीडियो
 
 
 # Screen 7 (Contacts)
 ;Contacts
-Contacts
+संपर्क
 
 
 # Screen 7 (Contacts)
 ;Search
-Search
+खोज...
 
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
@@ -215,72 +215,72 @@ Search
 
 # Screen 8 (Email)
 ;Inbox (2)
-Inbox (2)
+इनबॉक्स (2)
 
 
 # Screen 8 (Email)
 ;Re:
-Re:
+जवाब:
 
 
 # Screen 8 (Email)
 ;Send photos please / You 're the best! Thanks so…
-Send photos please / You 're the best! Thanks so…
+कृपया तस्वीरें भेजें / आप सबसे अच्छा हैं! धन्यवाद...
 
 
 # Screen 8 (Email)
 ;Road trip next weekend / I've been wanting to visit that place…
-Road trip next weekend / I've been wanting to visit that place…
+सड़क यात्रा अगले सप्ताह के अंत में हैं / मैं उस जगह की यात्रा करना चाहता हूँ…
 
 
 # Screen 8 (Email)
 ;You might like this / Great find! I'll definitely check with you
-You might like this / Great find! I'll definitely check with you
+आप शायद इसे पसंद करें / अच्छी खोज! मैं निश्चित रूप से आप के साथ देखूंगा
 
 
 # Screen 8 (Email)
 ;We're moving! / Hello Friends! Join us on Saturday to…
-We're moving! / Hello Friends! Join us on Saturday to…
+हम आगे बढ़ रहे हैं! / हैलो दोस्तो! शनिवार को हमसे जुड़ें...
 
 
 # Screen 8 (Email)
 ;It was nice meeting you! I heard you are going the…
-It was nice meeting you! I heard you are going the…
+आपके साथ बैठक अच्छी रही! मैंने सुना हैं आप जा रहे हैं...;
 
 
 # Screen 8 (Email)
 ;50 minutes ago
-50 minutes ago
+50 मिनट पहले
 
 
 # Screen 8 (Email)
 ;an hour ago
-an hour ago
+एक घंटा पहले
 
 
 # Screen 8 (Email)
 ;Yesterday
-Yesterday
+कल
 
 
 # Screen 8 (Email)
 ;2 days ago
-2 days ago
+दो दिन पहले
 
 
 # Screen 8 (Email)
 ;1 week ago
-1 week ago
+एक सप्ताह पहले
 
 
-# Screen 9 and 10 (Dialer) NOTE: provide a fake phone number that complies to your country’s phone number format
+# Screen 9 and 10 (Dialer) NOTE: provide a fake phone number that complies to your countryâs phone number format
 ;[fake local phone number]
 [fake local phone number]
 
 
 # Screen 10 (Outgoing Call)
 ;Connecting
-Connecting
+कनेक्ट हो रहा हैं
 
 
 # Screen 10 (Outgoing Call) NOTE: use the same fake name provided in the Contact screen.
@@ -290,22 +290,22 @@ Connecting
 
 # Screen 11 (Browser)
 ;Firefox Start Page
-Firefox Start Page
+Firefox आरंभ पृष्ठ
 
 
 # Screen 11 (Browser)
 ;Top Sites
-Top Sites
+शीर्ष साइटें
 
 
 # Screen 13 (Usage)
 ;Mobile usage
-Mobile usage
+मोबाइल डाटा
 
 
 # Screen 13 (Usage)
 ;Wi-fi Usage
-Wi-fi Usage
+Wi-fi डाटा
 
 
 # Screen 18 (Usage)
@@ -330,136 +330,136 @@ Wi-fi Usage
 
 # Screen 13 (Usage)
 ;May 1, May 20, May 30
-May 1, May 20, May 30
+1 मई, 20 मई, 30 मई
 
 
 # Screen 14 (e.me)
 ;Bollywood
-Bollywood
+बॉलीवुड
 
 
 # Screen 14 (e.me)
 ;Everything Bollywood
-Everything Bollywood
+सब कुछ बॉलीवुड
 
 
 # Screen 14 (e.me)
 ;Ratings
-Ratings
+मूल्यांकन
 
 
 # Screen 14 (e.me)
 ;Bollywood Songs
-Bollywood Songs
+बॉलीवुड गाने
 
 
 # Screen 14 (e.me)
 ;Reviews
-Reviews
+पहले के अवलोकन
 
 
 # Screen 14 (e.me)
 ;Tickets
-Tickets
+टिकट
 
 
 # Screen 14 (e.me)
 ;Movies Nearby
-Movies Nearby
+पास में सिनेमा
 
 
 # Screen 14 (e.me)
 ;ShowTiming
-ShowTiming
+फिल्म का समय
 
 
 # Screen 14 (e.me)
 ;Bollywood Stars
-Bollywood Stars
+बॉलीवुड सितारे
 
 
 # Screen 15 (e.me)
 ;Cricket
-Cricket
+क्रिकेट
 
 
 # Screen 15 (e.me)
 ;Everything Cricket
-Everything Cricket
+सब कुछ क्रिकेट
 
 
 # Screen 15 (e.me)
 ;Cricket Info
-Cricket Info
+क्रिकेट जानकारी
 
 
 # Screen 15 (e.me)
 ;Score
-Score
+स्कोर
 
 
 # Screen 15 (e.me)
 ;Cricket Latest
-Cricket Latest
+नवीनतम क्रिकेट जानकारी
 
 
 # Screen 15 (e.me)
 ;Cricket TV
-Cricket TV
+क्रिकेट टीवी
 
 
 # Screen 15 (e.me)
 ;Cricket Live
-Cricket Live
+लाइव क्रिकेट
 
 
 # Screen 15 (e.me)
 ;My Fav Team
-My Fav Team
+मेरी पसंदीदा टीम
 
 
 # Screen 15 (e.me)
 ;Schedule
-Schedule
+अनुसूची
 
 
 # Screen 15 (e.me)
 ;Notes
-Notes
+नोट्स
 
 
 # Screen 17 (Markeplace)
 ;Home
-Home
+होम
 
 
 # Screen 17 (Markeplace)
 ;Tools
-Tools
+टूल्स
 
 
 # Screen 17 (Markeplace)
 ;Lifestyle
-Lifestyle
+जीवन शैली
 
 
 # Screen 17 (Markeplace)
 ;Open
-Open
+खोलें
 
 
 # Screen 17 (Markeplace)
 ;Free
-Free
+मुफ्त
 
 
-# 18 Screen 18 (Gallery)
+#18 Screen 18 (Gallery)
 ;Edit
-Edit
+संपादित करें
 
 
-# 18 Screen 18 (Gallery)
+#18 Screen 18 (Gallery)
 ;Done
-Done
+सम्पन्न
 
 
