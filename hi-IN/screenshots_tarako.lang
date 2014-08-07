@@ -273,9 +273,9 @@ Marketplace {ok}
 एक सप्ताह पहले
 
 
-# Screen 9 and 10 (Dialer) NOTE: provide a fake phone number that complies to your countryâs phone number format
+# Screen 9 and 10 (Dialer) NOTE: provide a fake phone number that complies to your country’s phone number format
 ;[fake local phone number]
-[fake local phone number]
++91 9672245535
 
 
 # Screen 10 (Outgoing Call)
@@ -453,12 +453,12 @@ Wi-fi डाटा
 मुफ्त
 
 
-#18 Screen 18 (Gallery)
+# 18 Screen 18 (Gallery)
 ;Edit
 संपादित करें
 
 
-#18 Screen 18 (Gallery)
+# 18 Screen 18 (Gallery)
 ;Done
 सम्पन्न
 
