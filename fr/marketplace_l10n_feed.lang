@@ -1,150 +1,149 @@
-## NOTE: the mockup of L10n feed can be found here: https://drive.google.com/a/mozilla.com/?usp=sheets_web&usp=sheets_web&urp=https://drive.google.com/?usp%3Dsheets_web#folders/0B7u_NzvpgGcgeG1xZXFKS3JTalE
-
+## NOTE: the mockup of L10n feed can be found here: https://drive.google.com/file/d/0B7u_NzvpgGcgVTI1eDlDS28zZ1E/edit?usp=sharing
 
 ;Today's Top App
-Today's Top App
+La meilleure application du jour
 
 
 ;Today's Top Apps
-Today's Top Apps
+Les meilleures applications du jour
 
 
 # Note: A great app that's relatively unknown.
 ;Hidden Gem
-Hidden Gem
+À découvrir
 
 
 ;Hidden Gems
-Hidden Gems
+À découvrir
 
 
 # Note: An app that is revolutionary in some manner.
 ;Groundbreaking App
-Groundbreaking App
+Application révolutionnaire
 
 
 ;Groundbreaking Apps
-Groundbreaking Apps
+Applications révolutionnaires
 
 
 # Note: Our editorial persona will be a fox. Think of "Fox Favortie" as akin to "Editor's Pick" because the Fox is the editor.
 ;Fox Favorite
-Fox Favorite
+Notre préférée
 
 
 ;Fox Favorites
-Fox Favorites
+Nos préférées
 
 
 # Note: An app that is popular in a particular region.
 ;Local Favorite
-Local Favorite
+La plus populaire dans notre pays
 
 
 # Note: An alternative to "Fox Favorite".
 ;Editors' Pick
-Editors' Pick
+Notre choix
 
 
 ;Editors' Picks
-Editors' Picks
+Notre sélection
 
 
 # Note: Another potential option to use instead of "Fox Favorite" or Editors' Pick".
 ;Staff Pick
-Staff Pick
+Le choix de l'équipe
 
 
 ;Staff Picks
-Staff Picks
+La sélection de l'équipe
 
 
 # Note: This will be used to promote an app that does something completely random, strange, or unexpected. Think of this as a fun way to feature an app that will surprise users.
 ;Mystery App!
-Mystery App!
+Application mystère !
 
 
 # Note: Used to promote apps that let you create, like painting apps, music-making apps, writing apps, etc.
 ;Featured Creativity App
-Featured Creativity App
+Application de créativité en vedette
 
 
 ;Featured Creativity Apps
-Featured Creativity Apps
+Applications de créativité en vedette
 
 
 ;Get Creative
-Get Creative
+Laissez parler votre créativité
 
 
 # Note: We have a number of education apps on MP, like math or science learning apps.
 ;Education
-Education
+Pédagogie
 
 
 ;Apps for Education
-Apps for Education
+Applications pédagogiques
 
 
 ;Education Spotlight
-Education Spotlight
+Pleins feux sur la pédagogie
 
 
 # Note: Used to promote exercise or diet apps.
 ;Health & Fitness
-Health & Fitness
+Santé et bien-être
 
 
 ;Healthy Living
-Healthy Living
+Santé et bien-être
 
 
 ;Live Healthy
-Live Healthy
+Vie saine
 
 
 ;Maps & Navigation
-Maps & Navigation
+Cartes et navigation
 
 
 ;Getting Around
-Getting Around
+Se déplacer
 
 
 ;Maps & Navigation Spotlight
-Maps & Navigation Spotlight
+Pleins feux sur les cartes et la navigation
 
 
 ;News & Weather
-News & Weather
+Nouvelles et météo
 
 
 ;News & Weather Spotlight
-News & Weather Spotlight
+Pleins feux sur les nouvelles et la météo
 
 
 ;Book
-Book
+Livre
 
 
 ;Books
-Books
+Livres
 
 
 ;Great Read
-Great Read
+Bonne lecture
 
 
 ;Great Reads
-Great Reads
+Bonnes lectures
 
 
 ;Shopping
-Shopping
+Shopping {ok}
 
 
 ;Smart Shopping Apps
-Smart Shopping Apps
+Shopping malin
 
 
 ;Sports
@@ -152,276 +151,274 @@ Sports
 
 
 ;The Sporting Life
-The Sporting Life
+Vie sportive
 
 
 # Note: For utilitarian and efficiency apps like task managers or contact list importers, etc.
 ;Tools & Time Savers
-Tools & Time Savers
+Outils et productivité
 
 
 ;Games
-Games
+Jeux
 
 
 ;Hot Game
-Hot Game
+Jeu en vogue
 
 
 ;Hot Games
-Hot Games
+Jeux en vogue
 
 
 ;Great Game
-Great Game
+Superbe jeu
 
 
 ;Great Games
-Great Games
+Superbes jeux
 
 
 ;Play This Game Right Now
-Play This Game Right Now
+Jouez-y tout de suite
 
 
 ;Instant Fun!
-Instant Fun!
+Amusement instantané !
 
 
 ;Work & Business
-Work & Business
+Travail et affaires
 
 
 ;Featured Apps for Work & Business
-Featured Apps for Work & Business
+Applications vedettes pour le travail et le bureau
 
 
 ;Featured App for Work & Business
-Featured App for Work & Business
+Application vedette pour le travail et le bureau
 
 
 ;Be More Productive
-Be More Productive
+Améliorez votre productivité
 
 
 ;Get Things Done
-Get Things Done
+Soyez plus efficace
 
 
 ;Better Business
-Better Business
+Efficacité en affaires
 
 
 ;Arts & Entertainment
-Arts & Entertainment
+Arts et divertissement
 
 
 ;Arts & Entertainment Spotlight
-Arts & Entertainment Spotlight
+Pleins feux sur les arts et le divertissement
 
 
 ;Lifestyle
-Lifestyle
+Mode de vie
 
 
 ;Featured Lifestyle App
-Featured Lifestyle App
+Application de style de vie vedette
 
 
 ;Featured Lifestyle Apps
-Featured Lifestyle Apps
+Applications de style de vie vedettes
 
 
 ;Lifestyle & Culture
-Lifestyle & Culture
+Style de vie et culture
 
 
 # Note: Think Streaming internet radio or music news apps.
 ;Music
-Music
+Musique
 
 
 ;For Music Lovers
-For Music Lovers
+Pour les férus de musique
 
 
 ;Photo & Video
-Photo & Video
+Photo et vidéo
 
 
 ;Featured Camera App
-Featured Camera App
+Application vedette pour la photo
 
 
 ;Featured Camera Apps
-Featured Camera Apps
+Applications vedettes pour la photo
 
 
 ;Social
-Social
+Social {ok}
 
 
 ;Featured Social Apps
-Featured Social Apps
+Applications sociales vedettes
 
 
 ;Get Connected
-Get Connected
+Pour garder le contact
 
 
 ;Travel
-Travel
+Voyages
 
 
 ;Travel Guide
-Travel Guide
+Guide de voyage
 
 
 ;Travel Guides
-Travel Guides
+Guides de voyage
 
 
 ;For Travelers
-For Travelers
+Pour les voyageurs
 
 
 ;Top 5 Community Picks
-Top 5 Community Picks
+Le top 5 de la communauté
 
 
 ;Local Community Favorites
-Local Community Favorites
+Les favorites de la communauté
 
 
 ;Apps for Venezuela
-Apps for Venezuela
+Applications pour le Vénézuela
 
 
 ;Apps for Argentina
-Apps for Argentina
+Applications pour l'Argentine
 
 
 ;Apps for Chile
-Apps for Chile
-
+Applications pour le Chili
 
 ;Apps for Colombia
-Apps for Colombia
+Applications pour la Colombie
 
 
 ;Apps for Peru
-Apps for Peru
+Applications pour le Pérou
 
 
 ;Apps for Mexico
-Apps for Mexico
-
+Applications pour le Mexique
 
 ;Apps for Spain
-Apps for Spain
+Applications pour l'Espagne
 
 
 ;Apps for Uruguay
-Apps for Uruguay
+Applications pour l'Uruguay
 
 
 ;Apps for Germany
-Apps for Germany
+Applications pour l'Allemagne
 
 
 ;Apps for Italy
-Apps for Italy
+Applications pour l'Italie
 
 
 ;Apps for Greece
-Apps for Greece
+Applications pour la Grèce
 
 
 ;Apps for Poland
-Apps for Poland
+Applications pour la Pologne
 
 
 ;Apps for Brazil
-Apps for Brazil
+Applications pour le Brésil
 
 
 ;Apps for Serbia
-Apps for Serbia
+Applications pour la Serbie
 
 
 ;Apps for Montenegro
-Apps for Montenegro
+Applications pour le Monténégro
 
 
 ;Apps for Czech Republic
-Apps for Czech Republic
+Applications pour la république Tchèque
 
 
 ;Apps for Croatia
-Apps for Croatia
+Applications pour la Croatie
 
 
 ;Apps for Bulgaria
-Apps for Bulgaria
+Applications pour la Bulgarie
 
 
 ;Apps for Albania
-Apps for Albania
+Applications pour l'Albanie
 
 
 ;Apps for Bangladesh
-Apps for Bangladesh
+Applications pour le Bangladesh
 
 
 ;Apps for South Africa
-Apps for South Africa
+Applications pour l'Afrique du Sud
 
 
 ;Apps for Russia
-Apps for Russia
+Applications pour la Russie
 
 
 ;Apps for China
-Apps for China
+Applications pour la Chine
 
 
 ;Apps for Hungary
-Apps for Hungary
+Applications pour la Hongrie
 
 
 ;Apps for Macedonia
-Apps for Macedonia
+Applications pour la Macédoine
 
 
 ;Apps for Ecuador
-Apps for Ecuador
+Applications pour l'Équateur
 
 
 ;Apps for El Salvador
-Apps for El Salvador
+Applications pour El Salvador
 
 
 ;Apps for Panama
-Apps for Panama
+Applications pour Panama
 
 
 ;Apps for Nicaragua
-Apps for Nicaragua
+Applications pour le Nicaragua
 
 
 ;Apps for Costa Rica
-Apps for Costa Rica
+Applications pour le Costa Rica
 
 
 ;Apps for Japan
-Apps for Japan
+Applications pour le Japon
 
 
 ;Apps for France
-Apps for France
+Applications pour la France
 
 
 ;Apps for India
-Apps for India
+Applications pour l'Inde
 
-
+ 
