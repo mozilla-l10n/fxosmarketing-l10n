@@ -5,12 +5,12 @@
 
 # Screen 1 (Music App): provide fictional items, DO NOT TRANSLATE the original string and remove the brackets in your translation.
 ;[made up song title]
-செம்மொழியாம் தமிழ்மொழி
+பிடித்த பாடல்கள்
 
 
 # Screen 1 (Music App): provide a fictional band and artist
 ;[made up local artist or band]
-இளையாராஜா
+டி.எம். சௌந்தரராஜன்
 
 
 # Screen 1 (Music App): #1
@@ -20,7 +20,7 @@
 
 # Screen 1 (Music App): #2
 ;[made up local album title #2]
-கண்ணே கலை மானே
+செம்மொழியாம் தமிழ்மொழி
 
 
 # Screen 1 (Music App): #3
@@ -65,17 +65,17 @@
 
 # Screen 3 (Lock Screen 2) and # Screen 16 (Lock Screen 2)
 ;[song title]
-[பாடல்]
+தோல்வி நிலையென நினைத்தால்
 
 
 # Screen 3 (Lock Screen 2) and # Screen 16 (Lock Screen 2)
 ;[artist]
-[கலைஞர்]
+பி. பி. சிறீநிவாசு
 
 
 # Screen 4 (Homescreen)
 ;I’m thinking of…
-நினைப்பது...
+நான் நினைப்பது...
 
 
 # Screen 4 (Homescreen):
@@ -125,7 +125,7 @@
 
 # Screen 5 (Homescreen):
 ;Calendar
-நாட்காட்டி
+நாள்காட்டி
 
 
 # Screen 5 (Homescreen):
@@ -155,27 +155,27 @@
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #1]
-தமிழ்
+கயல்விழி
 
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #2]
-பாரதி கவிஞர்
+ப சித்தன் எழுத்தாளர்
 
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #3]
-தொல்காப்பியன்
+வேந்தன்
 
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #4]
-கிள்ளி வளவன்
+தென்றல்
 
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #5]
-சோழன் தஞ்சை அரசன்
+அருண் பொறியாளர்
 
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
@@ -275,7 +275,7 @@
 
 # Screen 9 and 10 (Dialer) NOTE: provide a fake phone number that complies to your country’s phone number format
 ;[fake local phone number]
-[உள்ளூர் போலி எண்]
++919488000707
 
 
 # Screen 10 (Outgoing Call)
@@ -285,7 +285,7 @@
 
 # Screen 10 (Outgoing Call) NOTE: use the same fake name provided in the Contact screen.
 ;[fake name from Contact list]
-[தொடர்பில் போலி பெயர்]
+தமிழா
 
 
 # Screen 11 (Browser)
@@ -390,7 +390,7 @@ Firefox முதல் பக்கம்
 
 # Screen 15 (e.me)
 ;Cricket Info
-கிரிக்கெட் தக
+கிரிக்கெட் தகவல்
 
 
 # Screen 15 (e.me)
@@ -450,7 +450,7 @@ Firefox முதல் பக்கம்
 
 # Screen 16 (e.me)
 ;D.I.Y Barista
-D.I.Y Barista {ok}
+D.I.Y பாரிஸ்தா
 
 
 # Screen 16 (e.me)
@@ -460,7 +460,7 @@ D.I.Y Barista {ok}
 
 # Screen 16 (e.me)
 ;Java Spotter
-ஜாவா Spotter
+ஜாவா ஸ்பாட்டர்
 
 
 # Screen 16 (e.me)
@@ -470,7 +470,7 @@ D.I.Y Barista {ok}
 
 # Screen 16 (e.me)
 ;MyGrubber
-MyGrubber {ok}
+மைகிரப்பர்
 
 
 # Screen 16 (e.me)
@@ -480,12 +480,12 @@ MyGrubber {ok}
 
 # Screen 16 (e.me)
 ;Bookclub Finder
-Bookclub கண்டுபிடிப்பான்
+புக்கிளஃப் கண்டுபிடிப்பான்
 
 
 # Screen 16 (e.me)
 ;Book Beamer
-புத்தக Beamer
+புத்தக பீமர்
 
 
 # Screen 16 (e.me)
@@ -525,6 +525,6 @@ Bookclub கண்டுபிடிப்பான்
 
 # 18 Screen 18 (Gallery)
 ;Done
-முடீ
+முடிந்தது
 
 
