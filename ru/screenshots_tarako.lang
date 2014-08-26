@@ -5,47 +5,47 @@
 
 # Screen 1 (Music App): provide fictional items, DO NOT TRANSLATE the original string and remove the brackets in your translation.
 ;[made up song title]
-[made up song title]
+Коричневые незабудки
 
 
 # Screen 1 (Music App): provide a fictional band and artist
 ;[made up local artist or band]
-[made up local artist or band]
+Весёлый снежок
 
 
 # Screen 1 (Music App): #1
 ;[made up local album title]
-[made up local album title]
+Внуки цветов
 
 
 # Screen 1 (Music App): #2
 ;[made up local album title #2]
-[made up local album title #2]
+Вертикальный ветер
 
 
 # Screen 1 (Music App): #3
 ;[made up local album title #3]
-[made up local album title #3]
+Когда я был кочегаром
 
 
 # Screen 1 (Music App): #4
 ;[made up local album title #4]
-[made up local album title #4]
+В громкой тишине
 
 
 # Screen 1 (Music App): #5
 ;[made up local album title #5]
-[made up local album title #5]
+Без падения
 
 
 # Screen 1 (Music App): #6
 ;[made up local album title #6]
-[made up local album title #6]
+Ночью по грибы
 
 
 # Screen 1 (Music App): #7
 ;[made up local album title #7]
-[made up local album title #7]
+У меня всегда 13
 
 
 # Screen 2 (Lock Screen)
@@ -65,12 +65,12 @@
 
 # Screen 3 (Lock Screen 2) and # Screen 16 (Lock Screen 2)
 ;[song title]
-[song title]
+Коричневые незабудки
 
 
 # Screen 3 (Lock Screen 2) and # Screen 16 (Lock Screen 2)
 ;[artist]
-[artist]
+Весёлый снежок
 
 
 # Screen 4 (Homescreen)
@@ -155,62 +155,62 @@ Marketplace {ok}
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #1]
-[made up name #1]
+Анатолий Виноградов / Журналист
 
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #2]
-[made up name #2]
+Инна Волкова / Учитель
 
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #3]
-[made up name #3]
+Наталия Воробьёва / Парикмахер
 
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #4]
-[made up name #4]
+Михаил Воронов / Автомеханик
 
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #5]
-[made up name #5]
+Манас Касенов / Риэлтор
 
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #6]
-[made up name #6]
+Светлана Кононова / Бухгалтер
 
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #7]
-[made up name #7]
+Василий Котов
 
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #8]
-[made up name #8]
+Иван Кулаков
 
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #9]
-[made up name #9]
+Марианна Максимова
 
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #10]
-[made up name #10]
+Наталья Маркова
 
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #11]
-[made up name #11]
+Айрат Мусатаев
 
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #12]
-[made up name #12]
+Руслан Моисеев
 
 
 # Screen 8 (Email)
@@ -275,7 +275,7 @@ Re: {ok}
 
 # Screen 9 and 10 (Dialer) NOTE: provide a fake phone number that complies to your country’s phone number format
 ;[fake local phone number]
-[fake local phone number]
+495 100 1254
 
 
 # Screen 10 (Outgoing Call)
@@ -285,7 +285,7 @@ Re: {ok}
 
 # Screen 10 (Outgoing Call) NOTE: use the same fake name provided in the Contact screen.
 ;[fake name from Contact list]
-[fake name from Contact list]
+Наталия Воробьёва
 
 
 # Screen 11 (Browser)
