@@ -275,7 +275,7 @@ Re: {ok}
 
 # Screen 9 and 10 (Dialer) NOTE: provide a fake phone number that complies to your country’s phone number format
 ;[fake local phone number]
-495 100 1254
+8 495 100 1254
 
 
 # Screen 10 (Outgoing Call)
