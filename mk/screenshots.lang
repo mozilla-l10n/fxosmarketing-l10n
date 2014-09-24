@@ -5,122 +5,122 @@
 
 # Screen 1 (Music App): provide fictional items, DO NOT TRANSLATE the original string and remove the brackets in your translation.
 ;[made up song title]
-Zauvijek ti
+[made up song title]
 
 
 # Screen 1 (Music App): provide a fictional band and artist
 ;[made up local artist or band]
-Maturanti
+[made up local artist or band]
 
 
 # Screen 1 (Music App):
 ;[made up local album title]
-Najbolji hitovi
+[made up local album title]
 
 
 # Screen 2 (Music), screen 6 (Icon Grid), screen 11 (e.me party)
 ;Music
-Glazba
+Music
 
 
 # Screen 3 (Video)
 ;Happy birthday
-Sretan rođendan
+Happy birthday
 
 
 # Screen 3 (Video)
 ;Summer vacation fun
-Ljetna zabava
+Summer vacation fun
 
 
 # Screen 3 (Video)
 ;Hanging out with the family
-Druženje s obitelji
+Hanging out with the family
 
 
 # Screen 3 (Video)
 ;Dinner with the gang/friends
-Večera s ekipom
+Dinner with the gang/friends
 
 
 # Screen 4 (Markeplace)
 ;Search
-Traži
+Search
 
 
 # Screen 4 (Markeplace)
 ;All Categories
-Sve kategorije
+All Categories
 
 
 # Screen 4 (Markeplace)
 ;Featured Apps
-Izdvojene aplikacije
+Featured Apps
 
 
 # Screen 4 (Markeplace)
 ;View All
-Prikaži sve
+View All
 
 
 # Screen 4 (Markeplace)
 ;Popular
-Popularne
+Popular
 
 
 # Screen 4 (Markeplace)
 ;New
-Nove
+New
 
 
 # Screen 4 (Markeplace)
 ;Free
-Besplatne
+Free
 
 
 # Screen 5 (Homescreen)
 ;I’m thinking of…
-Razmišljam o…
+I’m thinking of…
 
 
 # Screen 5 (Homescreen):
 ;Social
-Društvene
+Social
 
 
 # Screen 5 (Homescreen):
 ;Games
-Igre
+Games
 
 
 # Screen 5 (Homescreen):
 ;ShowBiz
-Showbiznis
+ShowBiz
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Gallery
-Galerija
+Gallery
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Camera
-Kamera
+Camera
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Calendar
-Kalendar
+Calendar
 
 
 # Screen 6 (Icon Grid)
 ;Clock
-Sat
+Clock
 
 
 # Screen 6 (Icon Grid), screen 18 (Usage)
 ;Usage
-Potrošnja
+Usage
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
@@ -130,62 +130,62 @@ Video
 
 # Screen 6 (Icon Grid)
 ;Email
-E-pošta
+Email
 
 
 # Screen 6 (Icon Grid)
 ;FM Radio
-FM radio
+FM Radio
 
 
 # Screen 6 (Icon Grid)
 ;Settings
-Postavke
+Settings
 
 
 # Screen 7 (Here Maps)
 ;Cafe
-Kafić
+Cafe
 
 
 # Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
 ;[local street name#1]
-Zagrebačka ulica
+[local street name#1]
 
 
 # Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
 ;[local street name#2]
-Krležina ulica
+[local street name#2]
 
 
 # Screen 7 (Here Maps), screen 11 (e.me party), screen 12 (e.me party)
 ;Results Simulated
-Rezultati su simulirani
+Results Simulated
 
 
 # Screen 8 (Gallery)
 ;June 2014
-Lipanj 2014.
+June 2014
 
 
 # Screen 9 (Gallery with Filters)
 ;Edit
-Uredi
+Edit
 
 
 # Screen 9 (Gallery with Filters)
 ;Done
-Gotovo
+Done
 
 
 # Screen 11 (e.me party)
 ;Party
-Zabava
+Party
 
 
 # Screen 11 (e.me party)
 ;Everything Party
-Sve zabava
+Everything Party
 
 
 # Screen 11 (e.me party) NOTE: fictional
@@ -195,52 +195,52 @@ EzGift
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Cater Girls
-Catering
+Cater Girls
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Quickvite
-Pozivnice
+Quickvite
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Balloonies
-Balončići
+Balloonies
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Flowerettes
-Cvijećarna
+Flowerettes
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;My Bulletin
-Moj časopis
+My Bulletin
 
 
 # Screen 11 (e.me party)
 ;Notes
-Bilješke
+Notes
 
 
 # Screen 12 (e.me party)
 ;Café
-Kafić
+Café
 
 
 # Screen 12 (e.me party)
 ;Everything Cafe
-Sve kafić
+Everything Cafe
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Cafe Calories
-Kalorije kava
+Cafe Calories
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Caffeine Diaries
-Kafeinski dnevnik
+Caffeine Diaries
 
 
 # Screen 12 (e.me party) NOTE: fictional; DIY=Do It Yourself
@@ -250,17 +250,17 @@ D.I.Y. Barista
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Coffee Addicts
-Ovisnici o kavi
+Coffee Addicts
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Java Spotter
-Kava radar
+Java Spotter
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Join Up
-Pridruži se
+Join Up
 
 
 # Screen 12 (e.me party) NOTE: fictional
@@ -270,92 +270,92 @@ MyGrubber
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Park It Here
-Parking
+Park It Here
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Bookclub Finder
-Knjižnica
+Bookclub Finder
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Book Beamer
-Klub čitatelja
+Book Beamer
 
 
 # Screen 13 (Contacts)
 ;Contacts
-Kontakti
+Contacts
 
 
 # Screen 13 (Contacts)
 ;Search…
-Traži…
+Search…
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #1]
-Ganić Ivan, Dizajner
+[made up name #1]
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #2]
-Grk Mario, Auto škola Plus
+[made up name #2]
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #3]
-Hinić Viktor, Električar
+[made up name #3]
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #4]
-Hitrec Igor, Mivas interijeri
+[made up name #4]
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #5]
-Ilić Josip, ABC prijevoz
+[made up name #5]
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #6]
-Indić Robert, HP express
+[made up name #6]
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #7]
-Galinec Ivana, Odvjetnica
+[made up name #7]
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #8]
-Gamulin Vesna, V8 catering
+[made up name #8]
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #9]
-Horvatin Ksenija, Frizerka
+[made up name #9]
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #10]
-Husar Marija, KLZ Dizajn
+[made up name #10]
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #11]
-Ivačin Maja, Restoran Aruba
+[made up name #11]
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #12]
-Ivanišević Aleksandra, 8M Knjigovodstvo
+[made up name #12]
 
 
 # Screen 14 (Email)
 ;Inbox (2)
-Primljena pošta (2)
+Inbox (2)
 
 
 # Screen 14 (Email)
@@ -365,106 +365,106 @@ Re:
 
 # Screen 14 (Email)
 ;Send photos please / You 're the best! Thanks so…
-Molim te, pošalji slike / Najbolji si! Puno ti hvala…
+Send photos please / You 're the best! Thanks so…
 
 
 # Screen 14 (Email)
 ;Road trip next weekend / I've been wanting to visit that place…
-Izlet idući vikend / Želim posjetiti ono mjesto…
+Road trip next weekend / I've been wanting to visit that place…
 
 
 # Screen 14 (Email)
 ;You might like this / Great find! I'll definitely check with you
-Možda će ti se svidjeti / Odlično! Definitivno ću provjeriti s tobom
+You might like this / Great find! I'll definitely check with you
 
 
 # Screen 14 (Email)
 ;We're moving! / Hello Friends! Join us on Saturday to…
-Selimo se! / Pozdrav ekipa! Pridružite nam se u subotu…
+We're moving! / Hello Friends! Join us on Saturday to…
 
 
 # Screen 14 (Email)
 ;It was nice meeting you! I heard you are going the…
-Bilo mi je drago upoznati te! Čujem da ideš na…
+It was nice meeting you! I heard you are going the…
 
 
 # Screen 14 (Email)
 ;Yesterday
-Jučer
+Yesterday
 
 
 # Screen 14 (Email)
 ;1 week ago
-Prije tjedan dana
+1 week ago
 
 
 # Screen 14 (Email)
 ;May 25
-25. svibnja
+May 25
 
 
 # Screen 15 and 16 (Dialer) NOTE: provide a fake phone number that complies to your country’s phone number format
 ;[fake local phone number]
-091 997 59448
+[fake local phone number]
 
 
 # Screen 16 (Outgoing Call)
 ;Connecting
-Povezivanje
+Connecting
 
 
 # Screen 16 (Outgoing Call) NOTE: use the same fake name provided in the Contact screen.
 ;[fake name from Contact list]
-Mirjana Grgić
+[fake name from Contact list]
 
 
 # Screen 17 (Browser)
 ;Firefox Start Page
-Firefox početna stranica
+Firefox Start Page
 
 
 # Screen 17 (Browser)
 ;Top Sites
-Najposjećenije
+Top Sites
 
 
 # Screen 18 (Usage)
 ;3G Usage
-3G potrošnja
+3G Usage
 
 
 # Screen 18 (Usage)
 ;Wifi Usage
-Wifi potrošnja
+Wifi Usage
 
 
 # Screen 18 (Usage)
 ;May 1, May 20, May 30
-1. svibnja, 20. svibnja, 30. svibnja
+May 1, May 20, May 30
 
 
 # Screen 19 (Lock Screen)
 ;Carrier
-Operater
+Carrier
 
 
 # Screen 19 (Lock Screen)
 ;8:36PM
-20:36
+8:36PM
 
 
 # Screen 19 (Lock Screen)
 ;Friday, May 26
-Petak, 26. svibnja
+Friday, May 26
 
 
 # Screen 20 (Lock Screen 2 )  NOTE: use the same title provided in Music App screen)
 ;[song title]
-Ljetna kiša
+[song title]
 
 
 # Screen 20 (Lock Screen 2 )  NOTE: use the same artist provided in Music App screen)
 ;[artist]
-Kraljevi
+[artist]
 
 
