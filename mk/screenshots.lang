@@ -25,127 +25,127 @@ Music
 
 # Screen 3 (Video)
 ;Happy birthday
-Happy birthday
+Среќен роденден
 
 
 # Screen 3 (Video)
 ;Summer vacation fun
-Summer vacation fun
+Забава на летен одмор
 
 
 # Screen 3 (Video)
 ;Hanging out with the family
-Hanging out with the family
+Дружба со семејството
 
 
 # Screen 3 (Video)
 ;Dinner with the gang/friends
-Dinner with the gang/friends
+Вечера со бандата/пријателите
 
 
 # Screen 4 (Markeplace)
 ;Search
-Search
+Пребарување
 
 
 # Screen 4 (Markeplace)
 ;All Categories
-All Categories
+Сите категории
 
 
 # Screen 4 (Markeplace)
 ;Featured Apps
-Featured Apps
+Издвоени апликации
 
 
 # Screen 4 (Markeplace)
 ;View All
-View All
+Видете ги сите
 
 
 # Screen 4 (Markeplace)
 ;Popular
-Popular
+Популарни
 
 
 # Screen 4 (Markeplace)
 ;New
-New
+Нови
 
 
 # Screen 4 (Markeplace)
 ;Free
-Free
+Бесплатни
 
 
 # Screen 5 (Homescreen)
 ;I’m thinking of…
-I’m thinking of…
+Размислувам за…
 
 
 # Screen 5 (Homescreen):
 ;Social
-Social
+Социјализација
 
 
 # Screen 5 (Homescreen):
 ;Games
-Games
+Игри
 
 
 # Screen 5 (Homescreen):
 ;ShowBiz
-ShowBiz
+Шоубиз
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Gallery
-Gallery
+Галерија
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Camera
-Camera
+Камера
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Calendar
-Calendar
+Календар
 
 
 # Screen 6 (Icon Grid)
 ;Clock
-Clock
+Часовник
 
 
 # Screen 6 (Icon Grid), screen 18 (Usage)
 ;Usage
-Usage
+Потрошено
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Video
-Video
+Видео
 
 
 # Screen 6 (Icon Grid)
 ;Email
-Email
+Е-пошта
 
 
 # Screen 6 (Icon Grid)
 ;FM Radio
-FM Radio
+ФМ-радио
 
 
 # Screen 6 (Icon Grid)
 ;Settings
-Settings
+Поставки
 
 
 # Screen 7 (Here Maps)
 ;Cafe
-Cafe
+Кафе
 
 
 # Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
@@ -160,32 +160,32 @@ Cafe
 
 # Screen 7 (Here Maps), screen 11 (e.me party), screen 12 (e.me party)
 ;Results Simulated
-Results Simulated
+Симулирани резултати
 
 
 # Screen 8 (Gallery)
 ;June 2014
-June 2014
+јуни 2014 г.
 
 
 # Screen 9 (Gallery with Filters)
 ;Edit
-Edit
+Уреди
 
 
 # Screen 9 (Gallery with Filters)
 ;Done
-Done
+Готово
 
 
 # Screen 11 (e.me party)
 ;Party
-Party
+Забава
 
 
 # Screen 11 (e.me party)
 ;Everything Party
-Everything Party
+Сѐ за забава
 
 
 # Screen 11 (e.me party) NOTE: fictional
@@ -220,22 +220,22 @@ My Bulletin
 
 # Screen 11 (e.me party)
 ;Notes
-Notes
+Белешки
 
 
 # Screen 12 (e.me party)
 ;Café
-Café
+Кафѐ
 
 
 # Screen 12 (e.me party)
 ;Everything Cafe
-Everything Cafe
+Сѐ за кафе
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Cafe Calories
-Cafe Calories
+Калории во кафе
 
 
 # Screen 12 (e.me party) NOTE: fictional
@@ -285,12 +285,12 @@ Book Beamer
 
 # Screen 13 (Contacts)
 ;Contacts
-Contacts
+Контакти
 
 
 # Screen 13 (Contacts)
 ;Search…
-Search…
+Пребарајте…
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
@@ -355,12 +355,12 @@ Search…
 
 # Screen 14 (Email)
 ;Inbox (2)
-Inbox (2)
+Inbox (2) {ok}
 
 
 # Screen 14 (Email)
 ;Re:
-Re:
+Re: {ok}
 
 
 # Screen 14 (Email)
@@ -390,17 +390,17 @@ It was nice meeting you! I heard you are going the…
 
 # Screen 14 (Email)
 ;Yesterday
-Yesterday
+Вчера
 
 
 # Screen 14 (Email)
 ;1 week ago
-1 week ago
+Пред 1 недела
 
 
 # Screen 14 (Email)
 ;May 25
-May 25
+25. мај
 
 
 # Screen 15 and 16 (Dialer) NOTE: provide a fake phone number that complies to your country’s phone number format
@@ -410,7 +410,7 @@ May 25
 
 # Screen 16 (Outgoing Call)
 ;Connecting
-Connecting
+Се поврзувам
 
 
 # Screen 16 (Outgoing Call) NOTE: use the same fake name provided in the Contact screen.
@@ -420,27 +420,27 @@ Connecting
 
 # Screen 17 (Browser)
 ;Firefox Start Page
-Firefox Start Page
+Почетна страница на Firefox
 
 
 # Screen 17 (Browser)
 ;Top Sites
-Top Sites
+Топ-сајтови
 
 
 # Screen 18 (Usage)
 ;3G Usage
-3G Usage
+Потрошено на 3G
 
 
 # Screen 18 (Usage)
 ;Wifi Usage
-Wifi Usage
+Потрошено на Wifi
 
 
 # Screen 18 (Usage)
 ;May 1, May 20, May 30
-May 1, May 20, May 30
+1. мај, 20. мај, 30. мај
 
 
 # Screen 19 (Lock Screen)
@@ -450,12 +450,12 @@ Carrier
 
 # Screen 19 (Lock Screen)
 ;8:36PM
-8:36PM
+20.36 ч.
 
 
 # Screen 19 (Lock Screen)
 ;Friday, May 26
-Friday, May 26
+петок, 26. мај
 
 
 # Screen 20 (Lock Screen 2 )  NOTE: use the same title provided in Music App screen)
