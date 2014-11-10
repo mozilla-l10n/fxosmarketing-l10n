@@ -58,7 +58,7 @@ Maand
 
 
 ;Week
-Week
+Week {ok}
 
 
 ;Day
@@ -186,7 +186,7 @@ Maandag, 25 Maart
 
 
 ;Alarm
-Alarm
+Alarm {ok}
 
 
 ;Mon, Tue, Wed, Thu, Fri, Sat, Sun
@@ -364,11 +364,11 @@ Aan
 
 
 ;cc
-cc
+cc {ok}
 
 
 ;bcc
-bcc
+bcc {ok}
 
 
 # NOTE: This subject can be the same from one of the calendar events in screen #5
@@ -511,7 +511,7 @@ Klok
 
 
 ;Video
-Video
+Video {ok}
 
 
 ;FM Radio
@@ -701,7 +701,7 @@ Sellulêr en data
 
 
 ;Bluetooth
-Bluetooth
+Bluetooth {ok}
 
 
 # Screen 34 (Settings Sound)
@@ -710,11 +710,11 @@ Vibreer
 
 
 ;Volume
-Volume
+Volume {ok}
 
 
 ;Media
-Media
+Media {ok}
 
 
 ;Ringer & Notifications
