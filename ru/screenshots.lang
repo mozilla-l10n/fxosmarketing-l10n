@@ -5,22 +5,22 @@
 
 # Screen 1 (Music App): provide fictional items, DO NOT TRANSLATE the original string and remove the brackets in your translation.
 ;[made up song title]
-[made up song title]
+Коричневые незабудки
 
 
 # Screen 1 (Music App): provide a fictional band and artist
 ;[made up local artist or band]
-[made up local artist or band]
+Весёлый снежок
 
 
 # Screen 1 (Music App):
 ;[made up local album title]
-[made up local album title]
+Внуки цветов
 
 
 # Screen 2 (Music), screen 6 (Icon Grid), screen 11 (e.me party)
 ;Music
-Music
+Музыка
 
 
 # Screen 3 (Video)
@@ -45,7 +45,7 @@ Dinner with the gang/friends
 
 # Screen 4 (Markeplace)
 ;Search
-Search
+Поиск
 
 
 # Screen 4 (Markeplace)
@@ -75,42 +75,42 @@ New
 
 # Screen 4 (Markeplace)
 ;Free
-Free
+Свободный
 
 
 # Screen 5 (Homescreen)
 ;I’m thinking of…
-I’m thinking of…
+Я думаю о…
 
 
 # Screen 5 (Homescreen):
 ;Social
-Social
+Общение
 
 
 # Screen 5 (Homescreen):
 ;Games
-Games
+Игры
 
 
 # Screen 5 (Homescreen):
 ;ShowBiz
-ShowBiz
+Шоу-бизнес
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Gallery
-Gallery
+Галерея
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Camera
-Camera
+Камера
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Calendar
-Calendar
+Календарь
 
 
 # Screen 6 (Icon Grid)
@@ -120,12 +120,12 @@ Clock
 
 # Screen 6 (Icon Grid), screen 18 (Usage)
 ;Usage
-Usage
+Трафик
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Video
-Video
+Видео
 
 
 # Screen 6 (Icon Grid)
@@ -135,12 +135,12 @@ Email
 
 # Screen 6 (Icon Grid)
 ;FM Radio
-FM Radio
+FM-радио
 
 
 # Screen 6 (Icon Grid)
 ;Settings
-Settings
+Параметры
 
 
 # Screen 7 (Here Maps)
@@ -160,7 +160,7 @@ Cafe
 
 # Screen 7 (Here Maps), screen 11 (e.me party), screen 12 (e.me party)
 ;Results Simulated
-Results Simulated
+Симуляция результата
 
 
 # Screen 8 (Gallery)
@@ -170,12 +170,12 @@ June 2014
 
 # Screen 9 (Gallery with Filters)
 ;Edit
-Edit
+Изменить
 
 
 # Screen 9 (Gallery with Filters)
 ;Done
-Done
+Готово
 
 
 # Screen 11 (e.me party)
@@ -220,27 +220,27 @@ My Bulletin
 
 # Screen 11 (e.me party)
 ;Notes
-Notes
+Notes {ok}
 
 
 # Screen 12 (e.me party)
 ;Café
-Café
+Кафе
 
 
 # Screen 12 (e.me party)
 ;Everything Cafe
-Everything Cafe
+Жизнь кафе
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Cafe Calories
-Cafe Calories
+Кафе и калории
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Caffeine Diaries
-Caffeine Diaries
+Дневники кофеина
 
 
 # Screen 12 (e.me party) NOTE: fictional; DIY=Do It Yourself
@@ -250,42 +250,42 @@ D.I.Y. Barista
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Coffee Addicts
-Coffee Addicts
+Кофеманы
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Java Spotter
-Java Spotter
+В поисках Явы
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Join Up
-Join Up
+Присоединяйтесь
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;MyGrubber
-MyGrubber
+MyGrubber {ok}
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Park It Here
-Park It Here
+Припаркуй это
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Bookclub Finder
-Bookclub Finder
+Новинки книжного клуба
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Book Beamer
-Book Beamer
+Книга под фокусом
 
 
 # Screen 13 (Contacts)
 ;Contacts
-Contacts
+Контакты
 
 
 # Screen 13 (Contacts)
@@ -295,107 +295,107 @@ Search…
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #1]
-[made up name #1]
+Анатолий Виноградов / Журналист
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #2]
-[made up name #2]
+Инна Волкова / Учитель
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #3]
-[made up name #3]
+Наталия Воробьёва / Парикмахер
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #4]
-[made up name #4]
+Михаил Воронов / Автомеханик
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #5]
-[made up name #5]
+Манас Касенов / Риэлтор
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #6]
-[made up name #6]
+Светлана Кононова / Бухгалтер
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #7]
-[made up name #7]
+Василий Котов
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #8]
-[made up name #8]
+Иван Кулаков
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #9]
-[made up name #9]
+Марианна Максимова
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #10]
-[made up name #10]
+Наталья Маркова
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #11]
-[made up name #11]
+Айрат Мусатаев
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #12]
-[made up name #12]
+Руслан Моисеев
 
 
 # Screen 14 (Email)
 ;Inbox (2)
-Inbox (2)
+Входящие (2)
 
 
 # Screen 14 (Email)
 ;Re:
-Re:
+Re: {ok}
 
 
 # Screen 14 (Email)
 ;Send photos please / You 're the best! Thanks so…
-Send photos please / You 're the best! Thanks so…
+Пришлите, пожалуйста, фото / Вы - супер! Большое спасибо…
 
 
 # Screen 14 (Email)
 ;Road trip next weekend / I've been wanting to visit that place…
-Road trip next weekend / I've been wanting to visit that place…
+Поездка в следующие выходные / Я давно хотел посетить это место…
 
 
 # Screen 14 (Email)
 ;You might like this / Great find! I'll definitely check with you
-You might like this / Great find! I'll definitely check with you
+Вам может это понравится / Отличная находка! Я обязательно с вами свяжусь
 
 
 # Screen 14 (Email)
 ;We're moving! / Hello Friends! Join us on Saturday to…
-We're moving! / Hello Friends! Join us on Saturday to…
+Мы едем! / Привет, друзья! Присоединяйтесь к нам в субботу, чтобы…
 
 
 # Screen 14 (Email)
 ;It was nice meeting you! I heard you are going the…
-It was nice meeting you! I heard you are going the…
+Было приятно с вами встретиться! Я слышал, вы собираетесь…
 
 
 # Screen 14 (Email)
 ;Yesterday
-Yesterday
+Вчера
 
 
 # Screen 14 (Email)
 ;1 week ago
-1 week ago
+1 неделю назад
 
 
 # Screen 14 (Email)
@@ -405,27 +405,27 @@ May 25
 
 # Screen 15 and 16 (Dialer) NOTE: provide a fake phone number that complies to your country’s phone number format
 ;[fake local phone number]
-[fake local phone number]
+8 495 100 1254
 
 
 # Screen 16 (Outgoing Call)
 ;Connecting
-Connecting
+Соединяюсь
 
 
 # Screen 16 (Outgoing Call) NOTE: use the same fake name provided in the Contact screen.
 ;[fake name from Contact list]
-[fake name from Contact list]
+Наталия Воробьёва
 
 
 # Screen 17 (Browser)
 ;Firefox Start Page
-Firefox Start Page
+Начальная страница Firefox
 
 
 # Screen 17 (Browser)
 ;Top Sites
-Top Sites
+Топ сайтов
 
 
 # Screen 18 (Usage)
@@ -440,31 +440,31 @@ Wifi Usage
 
 # Screen 18 (Usage)
 ;May 1, May 20, May 30
-May 1, May 20, May 30
+1 мая, 20 мая, 30 мая
 
 
 # Screen 19 (Lock Screen)
 ;Carrier
-Carrier
+Оператор
 
 
 # Screen 19 (Lock Screen)
 ;8:36PM
-8:36PM
+20:36
 
 
 # Screen 19 (Lock Screen)
 ;Friday, May 26
-Friday, May 26
+Пятница, 26 мая
 
 
 # Screen 20 (Lock Screen 2 )  NOTE: use the same title provided in Music App screen)
 ;[song title]
-[song title]
+Коричневые незабудки
 
 
 # Screen 20 (Lock Screen 2 )  NOTE: use the same artist provided in Music App screen)
 ;[artist]
-[artist]
+Весёлый снежок
 
 
