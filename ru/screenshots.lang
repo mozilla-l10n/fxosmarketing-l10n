@@ -200,7 +200,7 @@ FM-радио
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Quickvite
-Быстрые приглашения
+Рассылка приглашений
 
 
 # Screen 11 (e.me party) NOTE: fictional
@@ -215,7 +215,7 @@ FM-радио
 
 # Screen 11 (e.me party) NOTE: fictional
 ;My Bulletin
-Мое сообщение
+Мои объявления
 
 
 # Screen 11 (e.me party)
@@ -260,7 +260,7 @@ FM-радио
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Join Up
-Присоединяйтесь
+Встречи за чашкой
 
 
 # Screen 12 (e.me party) NOTE: fictional
@@ -275,7 +275,7 @@ MyGrubber {ok}
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Bookclub Finder
-Новинки книжного клуба
+Книжный клуб
 
 
 # Screen 12 (e.me party) NOTE: fictional
@@ -315,12 +315,12 @@ MyGrubber {ok}
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #5]
-Манас Касенов / Риэлтор
+Светлана Кононова / Бухгалтер
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #6]
-Светлана Кононова / Бухгалтер
+Мария Крылова / Риэлтор
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
@@ -345,12 +345,12 @@ MyGrubber {ok}
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #11]
-Айрат Мусатаев
+Руслан Моисеев
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #12]
-Руслан Моисеев
+Айрат Мусатаев
 
 
 # Screen 14 (Email)
@@ -415,7 +415,7 @@ Re: {ok}
 
 # Screen 16 (Outgoing Call) NOTE: use the same fake name provided in the Contact screen.
 ;[fake name from Contact list]
-Наталия Воробьёва
+Мария Крылова
 
 
 # Screen 17 (Browser)
