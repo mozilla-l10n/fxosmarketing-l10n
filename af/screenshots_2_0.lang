@@ -104,7 +104,7 @@ Nooit
 
 # Screen 5 (Calendar Event Detail): NOTE: this page has content that should be localized instead of translated.  Find event that is more applicable than what’s presented.
 ;Event Details
-Besonderhede van gebeurtenis
+Gebeuredetails
 
 
 ;Edit
@@ -285,15 +285,15 @@ Soek
 
 
 ;[contact #1: Travis Allen (m)/T. Tray Photography]
-kontak #1: Albert Burger (m)/Trados Production House
+kontak #1: Cobus Basson (m)/B&B Financial Services
 
 
 ;[contact #2: Will Amber (m)/CBN Studios]
-kontak #2: Cobus Duvenhage (m)/B&B Financial Services
+kontak #2: Frans Boonzaaier (m)/Crazy Daisy Productions
 
 
 ;[contact #3: Kevin Baker (m)/Mozilla]
-kontak #3: Frans Gerber (m)/Crazy Daisy Productions
+kontak #3: Albert Burger (m)/Trados Production House
 
 
 ;[contact #4: Noah Benson (m)/Benson Studios]
@@ -480,7 +480,6 @@ Soek of voer adres in
 ;Dialer
 Beller
 
-
 ;Browser
 Blaaier
 
@@ -551,15 +550,15 @@ Skryf jou boodskap…
 
 # Screen 27 (Messaging Conversation): NOTE: Contact and Subject line are from screen #26.
 ;[fake message #1 relevant to the subject]
-Ek gaan ongelukkig ons middagete moet kanselleer. Ek is baie siek. Baie jammer! Ons praat gou weer.
+Ek gaan ongelukkig ons middagete moet kanselleer. Ek is baie siek.
 
 
 ;[fake message #2 relevant to the subject]
-Ek sien só uit na ons middagete! Waar gaan ons? En wat gaan ons alles bestel om te eet? Sien uit!
+Ek sien só uit na ons middagete! Waar gaan ons?
 
 
 ;[fake message #3 relevant to the subject]
-Ek wil net gou seker maak jy tel my by my huis in Proteastraat op? Weet jy nog waar dit is? Bel asseblief as jy verdwaal!
+Proteastraat.
 
 
 # Screen 28 (Messaging List) NOTE: Use Contact list for this page; messages can be leveraged from Screen #16
