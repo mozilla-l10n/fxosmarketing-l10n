@@ -182,7 +182,7 @@ Yenqaba
 
 # Screen 7 (Clock Analog)
 ;Monday, March 25
-NgoMsombuluko mhla zingama-25, ku Ndasa
+NgoMsombuluko mhla zingama-25, ku Ndasa 
 
 
 ;Alarm
@@ -203,7 +203,7 @@ I-Stopwatch
 
 # Screen 9 (Clock Edit Alarm)
 ;New alarm
-I-alamu Elisha
+I-alamu Elisha 
 
 
 ;Alarm name
@@ -272,7 +272,7 @@ bcele@gmail.com
 
 
 ;Remove from favorites
-Susa Kokuyintandokazi
+Susa Kokuyintandokazi 
 
 
 # Screen 11 (Contact List): NOTE: this is the most difficult page to localize.  Make sure you provide FAKE contacts following these guidelines: 1). 12 contacts, 6 male names and 6 female names.  Indicate which one is which; 2). At least half of the 12 have company names indicated, they can be made up companies; 3). Indicate if the sorting order of names is by family name or given name; 4). Following the sorting order, please provide names with consecutive initials (abc or jkl, xyz, etc).
@@ -285,23 +285,23 @@ Cinga
 
 
 ;[contact #1: Travis Allen (m)/T. Tray Photography]
-Imininingwane yomuntu woku-#1: Baphelele Cele (m)/T. Huletts
+Imininingwane yomuntu wesi-#2: Celiwe Cebisa (m)/Addington Hospital Studios
 
 
 ;[contact #2: Will Amber (m)/CBN Studios]
-Imininingwane yomuntu wesi-#2: Celiwe Dlamini (m)/Addington Hospital Studios
+Imininingwane yomuntu woku-#1: Baphelele Cele (m)/T. Huletts
 
 
 ;[contact #3: Kevin Baker (m)/Mozilla]
-Imininingwane yomuntu wesi-#3: Eyami Fakazi (m)/Ukhozi FM
+Imininingwane yomuntu wesi-#3: Eyami Chiliza (m)/Ukhozi FM
 
 
-;[contact #4: Noah Benson (m)/Benson Studios]
-Imininingwane yomuntu wesi-#4: Fakazile Gigaba (m)/Office of the Premier KZN
+;[contact #4: Noah Benson (m)/Benson Studios
+Imininingwane yomuntu wesi-#4: Fakazile Dlakude (m)/Office of the Premier KZN
 
 
 ;[contact #5: Ava Brown (f)/Atsara Kitchen]
-Imininingwane yomuntu wesi-#5: Gabisile Hadebe (f)/Umlazi V Police Station
+Imininingwane yomuntu wesi-#5: Gabisile Dlamini (f)/Umlazi V Police Station
 
 
 ;[contact #6: Name (gender)/Company]
@@ -346,7 +346,7 @@ Ukusetshenziswa Kocingo
 
 
 ;Wi-Fi usage
-Ukusetshenziswa kwe-Wi-Fi
+Ukusetshenziswa kwe-Wi-Fi 
 
 
 # Screen 14 (Dialer Outgoing call) NOTE: Several strings in #13 can be leveraged from screens #10 and 11, thus not repeated here
@@ -513,7 +513,6 @@ Iwashi
 ;Video
 Ividiyo
 
-
 ;FM Radio
 I-FM Radio
 
@@ -551,15 +550,15 @@ Bhala umyalezo wakho…
 
 # Screen 27 (Messaging Conversation): NOTE: Contact and Subject line are from screen #26.
 ;[fake message #1 relevant to the subject]
-Dadewethu salinda kangaka kanti, ziphi izithombe?
+Ugcine uzwile ukuthi kuthiwe sivala nini emsebenzini kusasa?
 
 
 ;[fake message #2 relevant to the subject]
-Phela ngizwile ukuthi niyahamba kusasa!
+Angazi kusho ukuthi sebeyositshela kusasa.
 
 
 ;[fake message #3 relevant to the subject]
-Ungaze uhambe ungasanginikezanga impahla yami.
+Kulungile.
 
 
 # Screen 28 (Messaging List) NOTE: Use Contact list for this page; messages can be leveraged from Screen #16
@@ -761,5 +760,6 @@ I-BBQ yaThulile Nabangani
 # Screens 36 (Video Play)
 ;Happy Birthday…
 Usuku Lokuzalwa Olumnandi…
+
 
 
