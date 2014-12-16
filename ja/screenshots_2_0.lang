@@ -156,7 +156,7 @@ Mozilla Japan
 
 # NOTE: feel free to use a localized name as file name
 ;file 1.png (150k)
-file 1.png (150k)
+file 1.png (150k){ok}
 
 
 # NOTE: use the locally appropriate way to address the attendees
@@ -220,7 +220,7 @@ file 1.png (150k)
 
 
 ;Classic Buzz
-Classic Buzz
+Classic Buzz{ok}
 
 
 ;Snooze
@@ -648,19 +648,19 @@ Firefox 着信音
 
 
 ;Classic Electric
-Classic Electric
+Classic Electric{ok}
 
 
 ;Classic Wallphone
-Classic Wallphone
+Classic Wallphone{ok}
 
 
 ;Disco Drive
-Disco Drive
+Disco Drive{ok}
 
 
 ;Vamos La Electro
-Vamos La Electro
+Vamos La Electro{ok}
 
 
 ;Created Ringtones
@@ -718,7 +718,7 @@ SIM マネージャ
 
 
 ;Bluetooth
-Bluetooth
+Bluetooth{ok}
 
 
 # Screen 34 (Settings Sound)
