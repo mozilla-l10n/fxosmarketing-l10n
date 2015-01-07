@@ -9,16 +9,15 @@
 
 
 ;We’ve always designed Firefox to protect and respect your private information.
- ユーザのプライベートな情報を守り、尊重するように Firefox は開発されています。
+ユーザのプライベートな情報を守り、尊重するように Firefox は開発されています。
 
 
 ;That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
- それこそがプライバシー分野で最も信頼できるインターネット企業として支持された理由です。 
+それこそがプライバシー分野で最も信頼できるインターネット企業として支持された理由です。
 
 
 ;MOST TRUSTED INTERNET COMPANY FOR PRIVACY
 プライバシー分野で最も信頼されるインターネット企業
-
 
 
 # Screen 2 (Browser Start Page)
@@ -244,7 +243,6 @@ Classic Buzz{ok}
 携帯
 
 
-
 ;[made up mobile phone number, with correct area code]
 [+81 80 1234 5678]
 
@@ -278,7 +276,6 @@ Classic Buzz{ok}
 
 
 # Screen 11 (Contact List): NOTE: this is the most difficult page to localize.  Make sure you provide FAKE contacts following these guidelines: 1). 12 contacts, 6 male names and 6 female names.  Indicate which one is which; 2). At least half of the 12 have company names indicated, they can be made up companies; 3). Indicate if the sorting order of names is by family name or given name; 4). Following the sorting order, please provide names with consecutive initials (abc or jkl, xyz, etc).
-# Contact list is ordered by Japanese pronounciation (not Alphabetical order)
 ;Contacts
 連絡先
 
@@ -385,15 +382,6 @@ Subject: 開発合宿
 
 ;[Make up a fake message that corresponds to the subject.]
 [今度の開発合宿についておしらせします。
-
-開発合宿は12/8の午後3時開始で、翌日の午後4:00解散となります。
-集合場所は渋谷駅になります。そこから参加者全員で移動となります。
-
-開発に必要な機材、ソフトウェアのセットアップなどは事前に済ませおいていただけると助かります。
-
-何かご不明な点がありましたら、ご連絡ください。
-よろしくお願いします。
-]
 
 
 ;SPACE
@@ -576,10 +564,6 @@ FM ラジオ
 
 # Screen 28 (Messaging List) NOTE: Use Contact list for this page; messages can be leveraged from Screen #16
 # Screen 29 (Music Grid) NOTE: Provide fake band and album titles for this screen.  You can translate some titles to match the images.  You can leverage some of the existing fake titles/artists on the screen.
-
-# Comments by chiko.
-# English album titles and artists are acceptable. Please use same image as en-US.
-
 ;[Fake album title/band or artist #1]
 [Sanctuary/Penny Adelaide #1]
 
@@ -667,7 +651,6 @@ Vamos La Electro{ok}
 カスタム着信音
 
 
-# These fake songs are 
 ;[fake song title/artist #1]
 [Never Gonna Give You Up/Rick Astley]
 
