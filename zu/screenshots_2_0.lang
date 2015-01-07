@@ -277,7 +277,7 @@ Susa Kokuyintandokazi
 
 # Screen 11 (Contact List): NOTE: this is the most difficult page to localize.  Make sure you provide FAKE contacts following these guidelines: 1). 12 contacts, 6 male names and 6 female names.  Indicate which one is which; 2). At least half of the 12 have company names indicated, they can be made up companies; 3). Indicate if the sorting order of names is by family name or given name; 4). Following the sorting order, please provide names with consecutive initials (abc or jkl, xyz, etc).
 ;Contacts
-Izinombo zocingo
+Izinombolo zocingo
 
 
 ;Search
@@ -297,7 +297,7 @@ Imininingwane yomuntu wesi-#3: Eyami Chiliza (m)/Ukhozi FM
 
 
 ;[contact #4: Noah Benson (m)/Benson Studios]
-Imininingwane yomuntu wesi-#4: Fakazile Gigaba (m)/Office of the Premier KZN
+Imininingwane yomuntu wesi-#4: Fakazile Dlakude (m)/Office of the Premier KZN
 
 
 ;[contact #5: Ava Brown (f)/Atsara Kitchen]
@@ -512,7 +512,6 @@ Iwashi
 
 ;Video
 Ividiyo
-
 
 ;FM Radio
 I-FM Radio
@@ -761,5 +760,6 @@ I-BBQ yaThulile Nabangani
 # Screens 36 (Video Play)
 ;Happy Birthday…
 Usuku Lokuzalwa Olumnandi…
+
 
 
