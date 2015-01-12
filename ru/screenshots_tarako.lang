@@ -175,12 +175,12 @@ Marketplace {ok}
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #5]
-Манас Касенов / Риэлтор
+Светлана Кононова / Бухгалтер
 
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #6]
-Светлана Кононова / Бухгалтер
+Мария Крылова / Риэлтор
 
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
@@ -205,12 +205,12 @@ Marketplace {ok}
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #11]
-Айрат Мусатаев
+Руслан Моисеев
 
 
 # Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #12]
-Руслан Моисеев
+Айрат Мусатаев
 
 
 # Screen 8 (Email)
@@ -285,7 +285,7 @@ Re: {ok}
 
 # Screen 10 (Outgoing Call) NOTE: use the same fake name provided in the Contact screen.
 ;[fake name from Contact list]
-Наталия Воробьёва
+Мария Крылова
 
 
 # Screen 11 (Browser)
@@ -425,7 +425,7 @@ Schedule {ok}
 
 # Screen 15 (e.me)
 ;Notes
-Notes {ok}
+Заметки
 
 
 # Screen 16 (e.me)
@@ -465,7 +465,7 @@ Notes {ok}
 
 # Screen 16 (e.me)
 ;Join Up
-Присоединяйтесь
+Встречи за чашкой
 
 
 # Screen 16 (e.me)
@@ -480,7 +480,7 @@ MyGrubber {ok}
 
 # Screen 16 (e.me)
 ;Bookclub Finder
-Новинки книжного клуба
+Книжный клуб
 
 
 # Screen 16 (e.me)
@@ -490,7 +490,7 @@ MyGrubber {ok}
 
 # Screen 16 (e.me)
 ;Results Simulated
-Симуляция результата
+Результаты симулированы
 
 
 # Screen 17 (Markeplace)
@@ -515,7 +515,7 @@ MyGrubber {ok}
 
 # Screen 17 (Markeplace)
 ;Free
-Свободный
+Бесплатные
 
 
 # 18 Screen 18 (Gallery)
