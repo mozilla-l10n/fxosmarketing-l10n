@@ -5,19 +5,19 @@
 
 # Screen 1  (Browser) NOTE: If all caps is not appropriate in your language, you don’t need to follow the same style.  Be mindful the 3rd string below has limited space. Try to be concise.
 ;Made with a mission to put you first
-Made with a mission to put you first
+Entwickelt mit einer Mission, für die Sie zuerst kommen
 
 
 ;We’ve always designed Firefox to protect and respect your private information.
-We’ve always designed Firefox to protect and respect your private information.
+Wir haben Firefox immer zum Schutz von und mit Respekt für Ihre persönlichen Daten entwickelt.
 
 
 ;That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
-That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
+Daher sind wir stolz darauf,  zum vertrauenswürdigsten Internetunternehmen in Bezug auf Datenschutz gewählt worden zu sein.
 
 
 ;MOST TRUSTED INTERNET COMPANY FOR PRIVACY
-MOST TRUSTED INTERNET COMPANY FOR PRIVACY
+VERTRAUENSWÜRDIGSTES INTERNETUNTERNEHMEN IN BEZUG AUF DATENSCHUTZ
 
 
 # Screen 2 (Browser Start Page)
@@ -31,43 +31,43 @@ Meistbesuchte Seiten
 
 # Screen 3 (Calendar Day): NOTE: take a local sounding name, or one of the names in Contact list
 ;Nov 1, Tuesday
-Nov 1, Tuesday
+Dienstag, 1. Nov
 
 
 ;[Harly’s] Birthday
-[Harly’s] Birthday
+[Harly’s] Geburtstag
 
 
 # NOTE: choose any location, doesn’t have to be a conference room or hotel room
 ;Room 801
-Room 801
+Raum 801
 
 
 # NOTE: no need to be a technical meeting, Social event is fine
 ;HTML5 Conference
-HTML5 Conference
+Mozilla Hacking Day
 
 
 # NOTE: choose any location that suits the event above
 ;Palace Ho
-Palace Ho
+TU Berlin
 
 
 ;Month
-Month
+Monat
 
 
 ;Week
-Week
+Woche
 
 
 ;Day
-Day
+Tag
 
 
 # Screen 4 (Calendar Event): NOTE: Indicate time and date display format that’s appropriate in your country. Check product UI terms for the actual strings.
 ;Add Event
-Add Event
+Neuer Termin
 
 
 ;Done
@@ -75,15 +75,15 @@ Fertig
 
 
 ;Title
-Title
+Titel
 
 
 ;Where
-Where
+Ort
 
 
 ;All day event?
-All day event?
+Ganztägig
 
 
 ;Calendar
@@ -91,20 +91,20 @@ Kalender
 
 
 ;Attendees
-Attendees
+Teilnehmer
 
 
 ;Repeat
-Repeat
+Widerholen
 
 
 ;Never
-Never
+Nie
 
 
 # Screen 5 (Calendar Event Detail): NOTE: this page has content that should be localized instead of translated.  Find event that is more applicable than what’s presented.
 ;Event Details
-Event Details
+Details zum Termin
 
 
 ;Edit
@@ -113,166 +113,166 @@ Bearbeiten
 
 # NOTE: subject of meeting can be something else
 ;Productivity Meeting
-Productivity Meeting
+Produktivitätstreffen
 
 
 ;From 3:00PM Thursday, Dec 8, 2014 to 4:00 PM Friday, Dec 8, 2014
-From 3:00PM Thursday, Dec 8, 2014 to 4:00 PM Friday, Dec 8, 2014
+Von Donnerstag, 8. Dez 2014, 15:00 Uhr bis Freitag, 8. Dez 2014, 16:00 Uhr
 
 
 # NOTE: if the event is personal in nature, please change to personal calendar
 ;Work Calendar
-Work Calendar
+Arbeitskalender
 
 
 ;Reminder:
-Reminder:
+Erinnerung:
 
 
 ;10 minutes before
-10 minutes before
+10 Minuten vorher
 
 
 ;1 day before
-1 day before
+1 Tag vorher
 
 
 ;2 hours before
-2 hours before
+2 Stunden vorher
 
 
 ;1 hour before
-1 hour before
+1 Stunde vorher
 
 
 ;All time of event
-All time of event
+Während des ganzen Termins
 
 
 ;7 Invites
-7 Invites
+7 Einladungen
 
 
 # NOTE: feel free to use a localized name as file name
 ;file 1.png (150k)
-file 1.png (150k)
+datei 1.png (150k)
 
 
 # NOTE: use the locally appropriate way to address the attendees
 ;Dear all,
-Dear all,
+Liebe Kolleginnen und Kollegen,
 
 
 # NOTE: made up message that corresponds to the subject of the meeting.
 ;[Please reserve your time for the productivity meeting on this Tuesday, De-]
-[Please reserve your time for the productivity meeting on this Tuesday, De-]
+Bitte halten Sie sich Zeit für das Produktivitätstreffen an diesem Donnerstag-
 
 
 ;Accept
-Accept
+Annehmen
 
 
 ;Maybe
-Maybe
+Vielleicht
 
 
 ;Decline
-Decline
+Ablehnen
 
 
 # Screen 7 (Clock Analog)
 ;Monday, March 25
-Monday, March 25
+Montag, 25. März
 
 
 ;Alarm
-Alarm
+Alarm {ok}
 
 
 ;Mon, Tue, Wed, Thu, Fri, Sat, Sun
-Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Mo, Di, Mi, Do, Fr, Sa, So
 
 
 ;Timer
-Timer
+Countdown
 
 
 ;Stopwatch
-Stopwatch
+Stoppuhr
 
 
 # Screen 9 (Clock Edit Alarm)
 ;New alarm
-New alarm
+Neuer Alarm
 
 
 ;Alarm name
-Alarm name
+Alarmtitel
 
 
 ;Time
-Time
+Zeit
 
 
 ;Sound
-Sound
+Ton
 
 
 ;Classic Buzz
-Classic Buzz
+Classic Buzz {ok}
 
 
 ;Snooze
-Snooze
+Verzögerungsintervall
 
 
 ;5 minutes
-5 minutes
+5 Minuten
 
 
 # Screen 10 (Contact Detail); NOTE: In this section, everything is made up.  1). Name should be from one of the contacts for easy tracking and consistency within the screenshot file. 2). The phone number should have correct country code, area code.  3). Company name is made up; 4). Email name can be fake, and made up domain name.
 ;[name of one of the contacts, male]
-[name of one of the contacts, male]
+Michael Landmann
 
 
 ;[made up company name]
-[made up company name]
+Ingenieurbüro Dietz & Co.
 
 
 ;MOBILE
-MOBILE
+MOBIL
 
 
 ;[made up mobile phone number, with correct area code]
-[made up mobile phone number, with correct area code]
+0151 145 237 80
 
 
 ;HOME
-HOME
+ZUHAUSE
 
 
 ;[made up landline phone number, with correct country code and area code]
-[made up landline phone number, with correct country code and area code]
+030 1234
 
 
 ;WORK
-WORK
+DIENSTLICH
 
 
 ;[fake work email address]
-[fake work email address]
+mlandmann@arbeit.de
 
 
 ;PERSONAL
-PERSONAL
+PERSÖNLICH
 
 
 ;[fake personal email address]
-[fake personal email address]
+mlandmann@privat.de
 
 
 ;Remove from favorites
-Remove from favorites
+Aus Favoriten entfernen
 
 
 # Screen 11 (Contact List): NOTE: this is the most difficult page to localize.  Make sure you provide FAKE contacts following these guidelines: 1). 12 contacts, 6 male names and 6 female names.  Indicate which one is which; 2). At least half of the 12 have company names indicated, they can be made up companies; 3). Indicate if the sorting order of names is by family name or given name; 4). Following the sorting order, please provide names with consecutive initials (abc or jkl, xyz, etc).
@@ -285,51 +285,51 @@ Suchen
 
 
 ;[contact #1: Travis Allen (m)/T. Tray Photography]
-[contact #1: Travis Allen (m)/T. Tray Photography]
+Michael Landmann / Ingenieurbüro Dietz & Co.
 
 
 ;[contact #2: Will Amber (m)/CBN Studios]
-[contact #2: Will Amber (m)/CBN Studios]
+Konrad Lansky
 
 
 ;[contact #3: Kevin Baker (m)/Mozilla]
-[contact #3: Kevin Baker (m)/Mozilla]
+Johann Miersch / Erdem Dentaltechnik
 
 
 ;[contact #4: Noah Benson (m)/Benson Studios]
-[contact #4: Noah Benson (m)/Benson Studios]
+Hannes Mrozek / Augustus-Gymnasium
 
 
 ;[contact #5: Ava Brown (f)/Atsara Kitchen]
-[contact #5: Ava Brown (f)/Atsara Kitchen]
+Sarah Liebers
 
 
 ;[contact #6: Name (gender)/Company]
-[contact #6: Name (gender)/Company]
+Anja Lohmeyer
 
 
 ;[contact #7: Name (gender)/Company]
-[contact #7: Name (gender)/Company]
+Kira Mirali / Mirali Immobilien
 
 
 ;[contact #8: Name (gender)/Company]
-[contact #8: Name (gender)/Company]
+Nadja Müller
 
 
 ;[contact #9: Name (gender)/Company]
-[contact #9: Name (gender)/Company]
+Thomas Neumann
 
 
 ;[contact #10: Name (gender)/Company]
-[contact #10: Name (gender)/Company]
+Katrin Niemeyer / Niezelt-Verlag
 
 
 ;[contact #11: Name (gender)/Company]
-[contact #11: Name (gender)/Company]
+Daniel Nobis
 
 
 ;[contact #12: Name (gender)/Company]
-[contact #12: Name (gender)/Company]
+Stefanie Nowak / Financial Trust
 
 
 # Screen 12 (Data Usage):
@@ -338,15 +338,15 @@ Nutzung
 
 
 ;Oct 1, Oct 20, Oct 31
-Oct 1, Oct 20, Oct 31
+1. Okt, 20. Okt, 31. Okt
 
 
 ;Mobile usage
-Mobile usage
+Telefonnetz
 
 
 ;Wi-Fi usage
-Wi-Fi usage
+WLAN
 
 
 # Screen 14 (Dialer Outgoing call) NOTE: Several strings in #13 can be leveraged from screens #10 and 11, thus not repeated here
@@ -356,65 +356,65 @@ Verbinden…
 
 # Screen 15 (Email Compose) NOTE: Names in the To: field can be from the contact list
 ;Compose
-Compose
+Verfassen
 
 
 ;To
-To
+An
 
 
 ;cc
-cc
+CC
 
 
 ;bcc
-bcc
+BCC
 
 
 # NOTE: This subject can be the same from one of the calendar events in screen #5
 ;Subject: [whatever the event in the Calendar]
-Subject: [whatever the event in the Calendar]
+Betreff: Produktivitätstreffen
 
 
 ;Hi [one of the contacts in screen #11]
-Hi [one of the contacts in screen #11]
+Hallo Konrad
 
 
 ;[Make up a fake message that corresponds to the subject.]
-[Make up a fake message that corresponds to the subject.]
+denk’ bitte an den Termin für das Produktivitätstreffen, diesen Donnerstag, 15:00
 
 
 ;SPACE
-SPACE
+LEERTASTE
 
 
 ;NEXT
-NEXT
+WEITER
 
 
 # Screen 16 (Email list) NOTE: we will use the names from the Contact list provided in screen #11
 ;Inbox
-Inbox
+Posteingang
 
 
 ;RE: Send photos please/You’re the best! Thanks so much!
-RE: Send photos please/You’re the best! Thanks so much!
+Re: Bitte Fotos senden / Du bist die Beste! Vielen Dank!
 
 
 ;RE: Please Confirm Subscription/I’ve been wanting to visit that place…
-RE: Please Confirm Subscription/I’ve been wanting to visit that place…
+Ausflug nächstes Wochenende? / Ich will unbedingt nach…
 
 
 ;RE: Road trip next weekend?/Great finds! I’ll definitely check with…
-RE: Road trip next weekend?/Great finds! I’ll definitely check with…
+Das könnte dir gefallen / Schöner Fund! Ich melde mich auf jeden Fall bei dir
 
 
 ;We’re Moving!/Hello Friends! Join us on Saturday…
-We’re Moving!/Hello Friends! Join us on Saturday…
+Wir ziehen um! / Hallo Freunde! Trefft Euch mit uns am Samstag…
 
 
 ;RE: Road trip next weekend?/Great find! I’ll definitely check with…
-RE: Road trip next weekend?/Great find! I’ll definitely check with…
+Re: Das könnte dir gefallen / Schöner Fund! Ich melde mich auf jeden Fall bei dir
 
 
 ;Yesterday
@@ -426,28 +426,28 @@ Vor 1 Woche
 
 
 ;Last sync: Just now
-Last sync: Just now
+Letzte Synchronisierung: gerade eben
 
 
 # Screen 17 (Email Reading): NOTE: we will use names from contact list in screen #10 and #11
 ;Re: [fake subject, can pick one in screen #16]
-Re: [fake subject, can pick one in screen #16]
+Re: Ausflug nächstes Wochenende? / Ich will unbedingt nach…
 
 
 ;10 hours ago
-10 hours ago
+Vor 10 Stunden
 
 
 ;Hi All [or whatever the proper greeting is]
-Hi All [or whatever the proper greeting is]
+Hallo zusammen
 
 
 ;[fake message that corresponds to the subject]
-[fake message that corresponds to the subject]
+Besuchen wir in 24 Stunden alle Museen in Berlin?
 
 
 ;Thanks!
-Thanks!
+Danke!
 
 
 # Screen 18 (EME Party) NOTE: the screen contains popular apps; names will remain as they are.
@@ -456,33 +456,33 @@ Sozial
 
 
 ;Phone
-Phone
+Handy
 
 
 ;Messages
-Messages
+Nachrichten
 
 
 ;E-Mail
-E-Mail
+E-Mail {ok}
 
 
 # Screen 21 (Gallery Thumbmails)
 ;February 2014
-February 2014
+Februar 2014
 
 
 # Screen 22 (Home Screen 3 Column Layout)
 ;Search or enter address
-Search or enter address
+Suche oder Adresse
 
 
 ;Dialer
-Dialer
+Wählen
 
 
 ;Browser
-Browser
+Browser {ok}
 
 
 ;Games
@@ -503,7 +503,7 @@ Galerie
 
 
 ;Showbiz
-Showbiz
+Showbiz {ok}
 
 
 ;Clock
@@ -520,147 +520,147 @@ UKW-Radio
 
 # Screen 24 (Lock Screen Normal)
 ;Friday March 1
-Friday March 1
+Freitag, 1. März
 
 
 # Screen 25 (Lock Screen Notification/Music Player) NOTE: We will use one of the contacts in screen #11);
 ;[Wanna grab lunch tomorrow? Or change to something more appropriate]
-[Wanna grab lunch tomorrow? Or change to something more appropriate]
+Treffen wir uns morgen zum Mittagessen?
 
 
 ;Hi!
-Hi!
+Hallo!
 
 
 ;16m ago, 19m ago
-16m ago, 19m ago
+Vor 16m, vor 19m
 
 
 ;[Fake song title/fake musician name]
-[Fake song title/fake musician name]
+Vanessa Adelaide / Last Tuesday
 
 
 # Screen 26 (Messaging Compose): NOTE: We will use one of the contacts in screen #11 for the name
 ;Your subject here
-Your subject here
+Ihr Betreff
 
 
 ;Write your message…
-Write your message…
+Schreiben Sie Ihre Nachricht…
 
 
 # Screen 27 (Messaging Conversation): NOTE: Contact and Subject line are from screen #26.
 ;[fake message #1 relevant to the subject]
-[fake message #1 relevant to the subject]
+Das wollte ich schon immer mal sagen
 
 
 ;[fake message #2 relevant to the subject]
-[fake message #2 relevant to the subject]
+Einer muss es ja tun
 
 
 ;[fake message #3 relevant to the subject]
-[fake message #3 relevant to the subject]
+Ich muss echt sagen: Mir reicht’s.
 
 
 # Screen 28 (Messaging List) NOTE: Use Contact list for this page; messages can be leveraged from Screen #16
 # Screen 29 (Music Grid) NOTE: Provide fake band and album titles for this screen.  You can translate some titles to match the images.  You can leverage some of the existing fake titles/artists on the screen.
 ;[Fake album title/band or artist #1]
-[Fake album title/band or artist #1]
+Sanctuary / Vanessa Adelaide
 
 
 ;[Fake album title/band or artist #2]
-[Fake album title/band or artist #2]
+The Millie Billies / Sugar Honey
 
 
 ;[Fake album title/band or artist #3]
-[Fake album title/band or artist #3]
+Matthew Eagles / All For You
 
 
 ;[Fake album title/band or artist #4]
-[Fake album title/band or artist #4]
+Alicia feat. Sean / XXX
 
 
 ;[Fake album title/band or artist #5]
-[Fake album title/band or artist #5]
+Flore Cavenaze / La silence
 
 
 ;[Fake album title/band or artist #6]
-[Fake album title/band or artist #6]
+Shark Brothers - We're not here fore party
 
 
 ;[Fake album title/band or artist #7]
-[Fake album title/band or artist #7]
+Stefanie Schlagerstar - Ich habe ein gutes Management
 
 
 ;[Fake album title/band or artist #8]
-[Fake album title/band or artist #8]
+Blazz Blue Orchesta - Wild Medley
 
 
 # Screen 30 (Music Player) NOTE: Leverage one set from screen #29
 ;Song Title
-Song Title
+Musiktitel
 
 
 # Screen 31 (Notifications) NOTE: Leverage messages from screen #16 and time from #25
 ;Notifications
-Notifications
+Benachrichtigungen
 
 
 ;Clear All
-Clear All
+Alle löschen
 
 
 ;Missed Call
-Missed Call
+Entgangener Anruf
 
 
 ;New SIM inserted
-New SIM inserted
+Neue SIM-Karte eingelegt
 
 
 ;Tap to track your internet usage
-Tap to track your internet usage
+Antippen: Datenvolumen aufzeichnen
 
 
 # Screen 32 (Ringtone)
 ;Manage Ringtones
-Manage Ringtones
+Töne verwalten
 
 
 ;Classic
-Classic
+Classic {ok}
 
 
 ;Classic Electric
-Classic Electric
+Classic Electric {ok}
 
 
 ;Classic Wallphone
-Classic Wallphone
+Classic Wallphone {ok}
 
 
 ;Disco Drive
-Disco Drive
+Disco Drive {ok}
 
 
 ;Vamos La Electro
-Vamos La Electro
+Vamos La Elektro
 
 
 ;Created Ringtones
-Created Ringtones
+Benutzerdefinierte Klingeltöne
 
 
 ;[fake song title/artist #1]
-[fake song title/artist #1]
+The Millie Billies - Sugar Honey
 
 
 ;[fake song title/artist #2]
-[fake song title/artist #2]
+Matthew Eagles - All For You
 
 
 ;[fake song title/artist #3]
-[fake song title/artist #3]
+Alicia feat. Sean - XXX
 
 
 # Screen 33 (Settings)
@@ -669,97 +669,97 @@ Einstellungen
 
 
 ;Network & Connectivity
-Network & Connectivity
+Netzwerk & Verbindungen
 
 
 ;Airplane mode
-Airplane mode
+Flugzeugmodus
 
 
 ;Geolocation
-Geolocation
+Standortzugriff
 
 
 ;Wi-Fi/connected to [fake network name]
-Wi-Fi/connected to [fake network name]
+Verbungen mit Heimnetzwerk
 
 
 ;SIM manager
-SIM manager
+SIM-Manager
 
 
 ;Call Settings
-Call Settings
+Anrufeinstellungen
 
 
 ;Messaging Settings
-Messaging Settings
+Nachrichteneinstellungen
 
 
 ;Cellular & Data
-Cellular & Data
+Mobilfunk & Daten
 
 
 ;Bluetooth
-Bluetooth
+Bluetooth {ok}
 
 
 # Screen 34 (Settings Sound)
 ;Vibrate
-Vibrate
+Vibrieren
 
 
 ;Volume
-Volume
+Lautstärke
 
 
 ;Media
-Media
+Multimedia
 
 
 ;Ringer & Notifications
-Ringer & Notifications
+Klingelton & Benachrichtigung
 
 
 ;Tones
-Tones
+Töne
 
 
 ;Ringer
-Ringer
+Klingeln
 
 
 ;Alerts
-Alerts
+Wecker
 
 
 # Screenshot 35 (Video List) NOTE: Replace the following names with culturally appropriate names for these video clips.  We will try to find appropriate images suitable for the targeted country
 ;July 2014
-July 2014
+Juli 2014
 
 
 ;August 2014
-August 2014
+August 2014 {ok}
 
 
 ;Happy Birthday Ty
-Happy Birthday Ty
+Herzlichen Glückwunsch Max
 
 
 ;Beach day with Uncle Ben
-Beach day with Uncle Ben
+Tag am Stand mit Onkel Ben
 
 
 ;Dixie’s First Snow Day
-Dixie’s First Snow Day
+Lisas erster Tag im Schnee
 
 
 ;Backyard BBQ with Eva’s Friends
-Backyard BBQ with Eva’s Friends
+Hinterhofgrillen mit Evas Freunden
 
 
 # Screens 36 (Video Play)
 ;Happy Birthday…
-Happy Birthday…
+Herzlichen Glückwunsch…
 
 
