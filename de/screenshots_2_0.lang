@@ -13,7 +13,7 @@ Wir haben Firefox immer zum Schutz von und mit Respekt für Ihre persönlichen D
 
 
 ;That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
-Daher sind wir stolz darauf,  zum vertrauenswürdigsten Internetunternehmen in Bezug auf Datenschutz gewählt worden zu sein.
+Daher sind wir stolz darauf, zum vertrauenswürdigsten Internetunternehmen in Bezug auf Datenschutz gewählt worden zu sein.
 
 
 ;MOST TRUSTED INTERNET COMPANY FOR PRIVACY
@@ -35,7 +35,7 @@ Dienstag, 1. Nov
 
 
 ;[Harly’s] Birthday
-[Harly’s] Geburtstag
+Anjas Geburtstag
 
 
 # NOTE: choose any location, doesn’t have to be a conference room or hotel room
@@ -95,7 +95,7 @@ Teilnehmer
 
 
 ;Repeat
-Widerholen
+Wiederholen
 
 
 ;Never
@@ -117,7 +117,7 @@ Produktivitätstreffen
 
 
 ;From 3:00PM Thursday, Dec 8, 2014 to 4:00 PM Friday, Dec 8, 2014
-Von Donnerstag, 8. Dez 2014, 15:00 Uhr bis Freitag, 8. Dez 2014, 16:00 Uhr
+Von Donnerstag, 11. Dez 2014, 15:00 Uhr bis Freitag, 12. Dez 2014, 16:00 Uhr
 
 
 # NOTE: if the event is personal in nature, please change to personal calendar
@@ -285,51 +285,51 @@ Suchen
 
 
 ;[contact #1: Travis Allen (m)/T. Tray Photography]
-Michael Landmann / Ingenieurbüro Dietz & Co.
+Michael Landmann (m) / Ingenieurbüro Dietz & Co.
 
 
 ;[contact #2: Will Amber (m)/CBN Studios]
-Konrad Lansky
+Konrad Lansky (m)
 
 
 ;[contact #3: Kevin Baker (m)/Mozilla]
-Johann Miersch / Erdem Dentaltechnik
+Johann Miersch (m) / Erdem Dentaltechnik
 
 
 ;[contact #4: Noah Benson (m)/Benson Studios]
-Hannes Mrozek / Augustus-Gymnasium
+Hannes Mrozek (m) / Augustus-Gymnasium
 
 
 ;[contact #5: Ava Brown (f)/Atsara Kitchen]
-Sarah Liebers
+Sarah Liebers (f)
 
 
 ;[contact #6: Name (gender)/Company]
-Anja Lohmeyer
+Anja Lohmeyer (f)
 
 
 ;[contact #7: Name (gender)/Company]
-Kira Mirali / Mirali Immobilien
+Kira Mirali (f) / Mirali Immobilien
 
 
 ;[contact #8: Name (gender)/Company]
-Nadja Müller
+Nadja Müller (f)
 
 
 ;[contact #9: Name (gender)/Company]
-Thomas Neumann
+Thomas Neumann (m)
 
 
 ;[contact #10: Name (gender)/Company]
-Katrin Niemeyer / Niezelt-Verlag
+Katrin Niemeyer (f) / Niezelt-Verlag
 
 
 ;[contact #11: Name (gender)/Company]
-Daniel Nobis
+Daniel Nobis (m)
 
 
 ;[contact #12: Name (gender)/Company]
-Stefanie Nowak / Financial Trust
+Stefanie Nowak (f) / Financial Trust
 
 
 # Screen 12 (Data Usage):
@@ -377,7 +377,7 @@ Betreff: Produktivitätstreffen
 
 
 ;Hi [one of the contacts in screen #11]
-Hallo Konrad
+Hallo Konrad,
 
 
 ;[Make up a fake message that corresponds to the subject.]
@@ -439,7 +439,7 @@ Vor 10 Stunden
 
 
 ;Hi All [or whatever the proper greeting is]
-Hallo zusammen
+Hallo zusammen!
 
 
 ;[fake message that corresponds to the subject]
@@ -478,7 +478,7 @@ Suche oder Adresse
 
 
 ;Dialer
-Wählen
+Anrufen
 
 
 ;Browser
@@ -551,11 +551,11 @@ Schreiben Sie Ihre Nachricht…
 
 # Screen 27 (Messaging Conversation): NOTE: Contact and Subject line are from screen #26.
 ;[fake message #1 relevant to the subject]
-Das wollte ich schon immer mal sagen
+Das wollte ich schon immer mal sagen.
 
 
 ;[fake message #2 relevant to the subject]
-Einer muss es ja tun
+Einer muss es ja tun.
 
 
 ;[fake message #3 relevant to the subject]
@@ -681,11 +681,11 @@ Standortzugriff
 
 
 ;Wi-Fi/connected to [fake network name]
-Verbungen mit Heimnetzwerk
+Verbunden mit Heimnetzwerk
 
 
 ;SIM manager
-SIM-Manager
+SIM-Verwaltung
 
 
 ;Call Settings
