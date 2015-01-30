@@ -5,19 +5,19 @@
 
 # Screen 1  (Browser) NOTE: If all caps is not appropriate in your language, you don’t need to follow the same style.  Be mindful the 3rd string below has limited space. Try to be concise.
 ;Made with a mission to put you first
-Made with a mission to put you first
+Sestaven s vámi na prvním místě
 
 
 ;We’ve always designed Firefox to protect and respect your private information.
-We’ve always designed Firefox to protect and respect your private information.
+Vždy jsme navrhovali Firefox s ohledem na ochranu vašich soukromých informací.
 
 
 ;That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
-That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
+Proto jsme pyšní na naše ocenění jako Nejdůvěryhodnější společnost v oblasti soukromí.
 
 
 ;MOST TRUSTED INTERNET COMPANY FOR PRIVACY
-MOST TRUSTED INTERNET COMPANY FOR PRIVACY
+NEJDŮVĚRYHODNĚJŠÍ SPOLEČNOST V OBLASTI SOUKROMÍ
 
 
 # Screen 2 (Browser Start Page)
@@ -31,7 +31,7 @@ Top stránky
 
 # Screen 3 (Calendar Day): NOTE: take a local sounding name, or one of the names in Contact list
 ;Nov 1, Tuesday
-Nov 1, Tuesday
+Út, 30. Listopad
 
 
 ;[Harly’s] Birthday
@@ -40,50 +40,50 @@ Nov 1, Tuesday
 
 # NOTE: choose any location, doesn’t have to be a conference room or hotel room
 ;Room 801
-Room 801
+Místnost 801
 
 
 # NOTE: no need to be a technical meeting, Social event is fine
 ;HTML5 Conference
-HTML5 Conference
+HTML5 konference
 
 
 # NOTE: choose any location that suits the event above
 ;Palace Ho
-Palace Ho
+Ho Palace
 
 
 ;Month
-Month
+Měsíc
 
 
 ;Week
-Week
+Týden
 
 
 ;Day
-Day
+Den
 
 
 # Screen 4 (Calendar Event): NOTE: Indicate time and date display format that’s appropriate in your country. Check product UI terms for the actual strings.
 ;Add Event
-Add Event
+Přidat událost
 
 
 ;Done
-Hotovo
+Uložit
 
 
 ;Title
-Title
+Název
 
 
 ;Where
-Where
+Kde
 
 
 ;All day event?
-All day event?
+Celodenní událost?
 
 
 ;Calendar
@@ -95,11 +95,11 @@ Attendees
 
 
 ;Repeat
-Repeat
+Opakovat
 
 
 ;Never
-Never
+Nikdy
 
 
 # Screen 5 (Calendar Event Detail): NOTE: this page has content that should be localized instead of translated.  Find event that is more applicable than what’s presented.
@@ -113,7 +113,7 @@ Upravit
 
 # NOTE: subject of meeting can be something else
 ;Productivity Meeting
-Productivity Meeting
+Porada
 
 
 ;From 3:00PM Thursday, Dec 8, 2014 to 4:00 PM Friday, Dec 8, 2014
@@ -126,23 +126,23 @@ Work Calendar
 
 
 ;Reminder:
-Reminder:
+Upozornění:
 
 
 ;10 minutes before
-10 minutes before
+10 minut před
 
 
 ;1 day before
-1 day before
+1 den před
 
 
 ;2 hours before
-2 hours before
+2 hodiny před
 
 
 ;1 hour before
-1 hour before
+1 hodinu před
 
 
 ;All time of event
@@ -155,29 +155,29 @@ All time of event
 
 # NOTE: feel free to use a localized name as file name
 ;file 1.png (150k)
-file 1.png (150k)
+soubor 1.png (150k)
 
 
 # NOTE: use the locally appropriate way to address the attendees
 ;Dear all,
-Dear all,
+Zdravím všechny přihlášené,
 
 
 # NOTE: made up message that corresponds to the subject of the meeting.
 ;[Please reserve your time for the productivity meeting on this Tuesday, De-]
-[Please reserve your time for the productivity meeting on this Tuesday, De-]
+vyhraďte si prosím každý dostatečný čas na plánovanou poradu toto úterý
 
 
 ;Accept
-Accept
+Přijmout
 
 
 ;Maybe
-Maybe
+Možná
 
 
 ;Decline
-Decline
+Odmítnout
 
 
 # Screen 7 (Clock Analog)
@@ -186,7 +186,7 @@ Monday, March 25
 
 
 ;Alarm
-Alarm
+Budík
 
 
 ;Mon, Tue, Wed, Thu, Fri, Sat, Sun
@@ -194,28 +194,28 @@ Mon, Tue, Wed, Thu, Fri, Sat, Sun
 
 
 ;Timer
-Timer
+Časovač
 
 
 ;Stopwatch
-Stopwatch
+Stopky
 
 
 # Screen 9 (Clock Edit Alarm)
 ;New alarm
-New alarm
+Nový budík
 
 
 ;Alarm name
-Alarm name
+Název budíku
 
 
 ;Time
-Time
+Čas
 
 
 ;Sound
-Sound
+Zvuk
 
 
 ;Classic Buzz
@@ -223,11 +223,11 @@ Classic Buzz
 
 
 ;Snooze
-Snooze
+Odložit
 
 
 ;5 minutes
-5 minutes
+5 minut
 
 
 # Screen 10 (Contact Detail); NOTE: In this section, everything is made up.  1). Name should be from one of the contacts for easy tracking and consistency within the screenshot file. 2). The phone number should have correct country code, area code.  3). Company name is made up; 4). Email name can be fake, and made up domain name.
@@ -426,7 +426,7 @@ minulý týden
 
 
 ;Last sync: Just now
-Last sync: Just now
+Poslední synchronizace: právě teď
 
 
 # Screen 17 (Email Reading): NOTE: we will use names from contact list in screen #10 and #11
@@ -435,7 +435,7 @@ Re: [fake subject, can pick one in screen #16]
 
 
 ;10 hours ago
-10 hours ago
+před 10 hodinami
 
 
 ;Hi All [or whatever the proper greeting is]
@@ -456,25 +456,25 @@ Sociální
 
 
 ;Phone
-Phone
+Telefon
 
 
 ;Messages
-Messages
+Zprávy
 
 
 ;E-Mail
-E-Mail
+E-Mail {ok}
 
 
 # Screen 21 (Gallery Thumbmails)
 ;February 2014
-February 2014
+Únor 2014
 
 
 # Screen 22 (Home Screen 3 Column Layout)
 ;Search or enter address
-Search or enter address
+Zadejte hledání nebo adresu
 
 
 ;Dialer
@@ -503,7 +503,7 @@ Galerie
 
 
 ;Showbiz
-Showbiz
+Showbiz {ok}
 
 
 ;Clock
@@ -607,19 +607,19 @@ Notifications
 
 
 ;Clear All
-Clear All
+Vymazat vše
 
 
 ;Missed Call
-Missed Call
+Zmeškané volání
 
 
 ;New SIM inserted
-New SIM inserted
+Vložena nová SIM
 
 
 ;Tap to track your internet usage
-Tap to track your internet usage
+Klepněte pro sledování využití dat.
 
 
 # Screen 32 (Ringtone)
@@ -669,15 +669,15 @@ Nastavení
 
 
 ;Network & Connectivity
-Network & Connectivity
+Síť a připojení
 
 
 ;Airplane mode
-Airplane mode
+Režim V letadle
 
 
 ;Geolocation
-Geolocation
+Geolokace
 
 
 ;Wi-Fi/connected to [fake network name]
@@ -685,32 +685,32 @@ Wi-Fi/connected to [fake network name]
 
 
 ;SIM manager
-SIM manager
+Správce SIM
 
 
 ;Call Settings
-Call Settings
+Nastavení volání
 
 
 ;Messaging Settings
-Messaging Settings
+Nastavení zpráv
 
 
 ;Cellular & Data
-Cellular & Data
+Mobilní síť a data
 
 
 ;Bluetooth
-Bluetooth
+Bluetooth {ok}
 
 
 # Screen 34 (Settings Sound)
 ;Vibrate
-Vibrate
+Vibrace
 
 
 ;Volume
-Volume
+Hlasitost
 
 
 ;Media
@@ -722,7 +722,7 @@ Ringer & Notifications
 
 
 ;Tones
-Tones
+Tóny
 
 
 ;Ringer
@@ -730,7 +730,7 @@ Ringer
 
 
 ;Alerts
-Alerts
+Upozornění
 
 
 # Screenshot 35 (Video List) NOTE: Replace the following names with culturally appropriate names for these video clips.  We will try to find appropriate images suitable for the targeted country
