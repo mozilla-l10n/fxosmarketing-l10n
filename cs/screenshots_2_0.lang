@@ -13,7 +13,7 @@ Vždy jsme navrhovali Firefox s ohledem na ochranu vašich soukromých informac�
 
 
 ;That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
-Proto jsme pyšní na naše ocenění jako Nejdůvěryhodnější společnost v oblasti soukromí.
+Proto jsme pyšní na naše ocenění jako Nejdůvěryhodnější internetová společnost s ohledem na soukromí.
 
 
 ;MOST TRUSTED INTERNET COMPANY FOR PRIVACY
@@ -31,11 +31,11 @@ Top stránky
 
 # Screen 3 (Calendar Day): NOTE: take a local sounding name, or one of the names in Contact list
 ;Nov 1, Tuesday
-Út, 30. Listopad
+Út 11. Listopad
 
 
 ;[Harly’s] Birthday
-[Harly’s] Birthday
+Pavlovy narozeniny
 
 
 # NOTE: choose any location, doesn’t have to be a conference room or hotel room
@@ -67,7 +67,7 @@ Den
 
 # Screen 4 (Calendar Event): NOTE: Indicate time and date display format that’s appropriate in your country. Check product UI terms for the actual strings.
 ;Add Event
-Přidat událost
+Přidání události
 
 
 ;Done
@@ -91,7 +91,7 @@ Kalendář
 
 
 ;Attendees
-Attendees
+Účastníci
 
 
 ;Repeat
@@ -104,7 +104,7 @@ Nikdy
 
 # Screen 5 (Calendar Event Detail): NOTE: this page has content that should be localized instead of translated.  Find event that is more applicable than what’s presented.
 ;Event Details
-Event Details
+Událost
 
 
 ;Edit
@@ -117,12 +117,12 @@ Porada
 
 
 ;From 3:00PM Thursday, Dec 8, 2014 to 4:00 PM Friday, Dec 8, 2014
-From 3:00PM Thursday, Dec 8, 2014 to 4:00 PM Friday, Dec 8, 2014
+Od 15:00 Pondělí, 8. Prosinec 2014 do 16:00 Úterý, 9. Prosinec 2014
 
 
 # NOTE: if the event is personal in nature, please change to personal calendar
 ;Work Calendar
-Work Calendar
+Pracovní kalendář
 
 
 ;Reminder:
@@ -146,11 +146,11 @@ Upozornění:
 
 
 ;All time of event
-All time of event
+Po celou dobu události
 
 
 ;7 Invites
-7 Invites
+7 pozvaných
 
 
 # NOTE: feel free to use a localized name as file name
@@ -165,7 +165,7 @@ Zdravím všechny přihlášené,
 
 # NOTE: made up message that corresponds to the subject of the meeting.
 ;[Please reserve your time for the productivity meeting on this Tuesday, De-]
-vyhraďte si prosím každý dostatečný čas na plánovanou poradu toto úterý
+vyhraďte si prosím každý dostatečný čas na plánovanou poradu toto pondělí a úterý
 
 
 ;Accept
@@ -182,7 +182,7 @@ Odmítnout
 
 # Screen 7 (Clock Analog)
 ;Monday, March 25
-Monday, March 25
+Pondělí 24. Březen
 
 
 ;Alarm
@@ -190,7 +190,7 @@ Budík
 
 
 ;Mon, Tue, Wed, Thu, Fri, Sat, Sun
-Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Po, Út, St, Čt
 
 
 ;Timer
@@ -240,7 +240,7 @@ Odložit
 
 
 ;MOBILE
-MOBILE
+MOBIL
 
 
 ;[made up mobile phone number, with correct area code]
@@ -248,7 +248,7 @@ MOBILE
 
 
 ;HOME
-HOME
+DOMŮ
 
 
 ;[made up landline phone number, with correct country code and area code]
@@ -256,7 +256,7 @@ HOME
 
 
 ;WORK
-WORK
+PRÁCE
 
 
 ;[fake work email address]
@@ -264,7 +264,7 @@ WORK
 
 
 ;PERSONAL
-PERSONAL
+OSOBNÍ
 
 
 ;[fake personal email address]
@@ -272,7 +272,7 @@ PERSONAL
 
 
 ;Remove from favorites
-Remove from favorites
+Odebrat z oblíbených
 
 
 # Screen 11 (Contact List): NOTE: this is the most difficult page to localize.  Make sure you provide FAKE contacts following these guidelines: 1). 12 contacts, 6 male names and 6 female names.  Indicate which one is which; 2). At least half of the 12 have company names indicated, they can be made up companies; 3). Indicate if the sorting order of names is by family name or given name; 4). Following the sorting order, please provide names with consecutive initials (abc or jkl, xyz, etc).
@@ -338,15 +338,15 @@ Využití
 
 
 ;Oct 1, Oct 20, Oct 31
-Oct 1, Oct 20, Oct 31
+1. leden, 20. leden, 30. leden
 
 
 ;Mobile usage
-Mobile usage
+Mobilní data
 
 
 ;Wi-Fi usage
-Wi-Fi usage
+Wi-Fi
 
 
 # Screen 14 (Dialer Outgoing call) NOTE: Several strings in #13 can be leveraged from screens #10 and 11, thus not repeated here
@@ -356,19 +356,19 @@ Připojování
 
 # Screen 15 (Email Compose) NOTE: Names in the To: field can be from the contact list
 ;Compose
-Compose
+Vytvoření
 
 
 ;To
-To
+Komu
 
 
 ;cc
-cc
+Kopie
 
 
 ;bcc
-bcc
+Skrytá kopie
 
 
 # NOTE: This subject can be the same from one of the calendar events in screen #5
@@ -385,16 +385,16 @@ Hi [one of the contacts in screen #11]
 
 
 ;SPACE
-SPACE
+MEZERNÍK
 
 
 ;NEXT
-NEXT
+DALŠÍ
 
 
 # Screen 16 (Email list) NOTE: we will use the names from the Contact list provided in screen #11
 ;Inbox
-Inbox
+Doručená
 
 
 ;RE: Send photos please/You’re the best! Thanks so much!
@@ -452,7 +452,7 @@ Thanks!
 
 # Screen 18 (EME Party) NOTE: the screen contains popular apps; names will remain as they are.
 ;Social
-Sociální
+Sociální sítě
 
 
 ;Phone
@@ -478,11 +478,11 @@ Zadejte hledání nebo adresu
 
 
 ;Dialer
-Dialer
+Telefon
 
 
 ;Browser
-Browser
+Prohlížeč
 
 
 ;Games
@@ -520,7 +520,7 @@ FM rádio
 
 # Screen 24 (Lock Screen Normal)
 ;Friday March 1
-Friday March 1
+Pátek 7. Březen
 
 
 # Screen 25 (Lock Screen Notification/Music Player) NOTE: We will use one of the contacts in screen #11);
@@ -529,11 +529,11 @@ Friday March 1
 
 
 ;Hi!
-Hi!
+Ahoj!
 
 
 ;16m ago, 19m ago
-16m ago, 19m ago
+před 16 min, před 19 min
 
 
 ;[Fake song title/fake musician name]
@@ -542,11 +542,11 @@ Hi!
 
 # Screen 26 (Messaging Compose): NOTE: We will use one of the contacts in screen #11 for the name
 ;Your subject here
-Your subject here
+Předmět
 
 
 ;Write your message…
-Write your message…
+Zpráva
 
 
 # Screen 27 (Messaging Conversation): NOTE: Contact and Subject line are from screen #26.
@@ -603,7 +603,7 @@ Song Title
 
 # Screen 31 (Notifications) NOTE: Leverage messages from screen #16 and time from #25
 ;Notifications
-Notifications
+Upozornění
 
 
 ;Clear All
@@ -624,31 +624,31 @@ Klepněte pro sledování využití dat.
 
 # Screen 32 (Ringtone)
 ;Manage Ringtones
-Manage Ringtones
+Správa vyzvánění
 
 
 ;Classic
-Classic
+Classic {ok}
 
 
 ;Classic Electric
-Classic Electric
+Classic Electric {ok}
 
 
 ;Classic Wallphone
-Classic Wallphone
+Classic Wallphone {ok}
 
 
 ;Disco Drive
-Disco Drive
+Disco Drive {ok}
 
 
 ;Vamos La Electro
-Vamos La Electro
+Vamos La Electro {ok}
 
 
 ;Created Ringtones
-Created Ringtones
+Má vyzvánění
 
 
 ;[fake song title/artist #1]
@@ -681,7 +681,7 @@ Geolokace
 
 
 ;Wi-Fi/connected to [fake network name]
-Wi-Fi/connected to [fake network name]
+Připojeno k FreeWiFi
 
 
 ;SIM manager
@@ -718,7 +718,7 @@ Media
 
 
 ;Ringer & Notifications
-Ringer & Notifications
+Vyzvánění a upozornění
 
 
 ;Tones
@@ -726,7 +726,7 @@ Tóny
 
 
 ;Ringer
-Ringer
+Vyzvánění
 
 
 ;Alerts
@@ -735,31 +735,31 @@ Upozornění
 
 # Screenshot 35 (Video List) NOTE: Replace the following names with culturally appropriate names for these video clips.  We will try to find appropriate images suitable for the targeted country
 ;July 2014
-July 2014
+Červenec 2014
 
 
 ;August 2014
-August 2014
+Srpen 2014
 
 
 ;Happy Birthday Ty
-Happy Birthday Ty
+Vše nejlepší Honzíku
 
 
 ;Beach day with Uncle Ben
-Beach day with Uncle Ben
+První prázniny u moře
 
 
 ;Dixie’s First Snow Day
-Dixie’s First Snow Day
+Grockův první sníh
 
 
 ;Backyard BBQ with Eva’s Friends
-Backyard BBQ with Eva’s Friends
+Grilování s Evinými kamarády
 
 
 # Screens 36 (Video Play)
 ;Happy Birthday…
-Happy Birthday…
+Vše nejlepší…
 
 
