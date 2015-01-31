@@ -219,7 +219,7 @@ Zvuk
 
 
 ;Classic Buzz
-Classic Buzz
+Classic Buzz {ok}
 
 
 ;Snooze
@@ -232,11 +232,11 @@ Odložit
 
 # Screen 10 (Contact Detail); NOTE: In this section, everything is made up.  1). Name should be from one of the contacts for easy tracking and consistency within the screenshot file. 2). The phone number should have correct country code, area code.  3). Company name is made up; 4). Email name can be fake, and made up domain name.
 ;[name of one of the contacts, male]
-[name of one of the contacts, male]
+Martin Kadeřávek
 
 
 ;[made up company name]
-[made up company name]
+Můj software s.r.o.
 
 
 ;MOBILE
@@ -244,7 +244,7 @@ MOBIL
 
 
 ;[made up mobile phone number, with correct area code]
-[made up mobile phone number, with correct area code]
++420 777 123 456
 
 
 ;HOME
@@ -252,7 +252,7 @@ DOMŮ
 
 
 ;[made up landline phone number, with correct country code and area code]
-[made up landline phone number, with correct country code and area code]
++420 234 123 456
 
 
 ;WORK
@@ -260,7 +260,7 @@ PRÁCE
 
 
 ;[fake work email address]
-[fake work email address]
++420 266 654 321
 
 
 ;PERSONAL
@@ -268,7 +268,7 @@ OSOBNÍ
 
 
 ;[fake personal email address]
-[fake personal email address]
+kaderavek@muj-software.com
 
 
 ;Remove from favorites
@@ -285,51 +285,51 @@ Vyhledávání
 
 
 ;[contact #1: Travis Allen (m)/T. Tray Photography]
-[contact #1: Travis Allen (m)/T. Tray Photography]
+[contact #1: Michal Janota (m)]
 
 
 ;[contact #2: Will Amber (m)/CBN Studios]
-[contact #2: Will Amber (m)/CBN Studios]
+[contact #2: Dana Janoušová (f)/DK Solutions]
 
 
 ;[contact #3: Kevin Baker (m)/Mozilla]
-[contact #3: Kevin Baker (m)/Mozilla]
+[contact #3: Pavla Jelínková (f)]
 
 
 ;[contact #4: Noah Benson (m)/Benson Studios]
-[contact #4: Noah Benson (m)/Benson Studios]
+[contact #4: Václav Jesenický (m)]
 
 
 ;[contact #5: Ava Brown (f)/Atsara Kitchen]
-[contact #5: Ava Brown (f)/Atsara Kitchen]
+[contact #5: Marcela Jonášová (f)/Illusion a.s.]
 
 
 ;[contact #6: Name (gender)/Company]
-[contact #6: Name (gender)/Company]
+[contact #6: Martin Kadeřávek (m)/ Můj software s.r.o.]
 
 
 ;[contact #7: Name (gender)/Company]
-[contact #7: Name (gender)/Company]
+[contact #7: Anna Kobedová (f)]
 
 
 ;[contact #8: Name (gender)/Company]
-[contact #8: Name (gender)/Company]
+[contact #8: Matěj Král (m)]
 
 
 ;[contact #9: Name (gender)/Company]
-[contact #9: Name (gender)/Company]
+[contact #9: Lucie Krásná (f)/R Systems]
 
 
 ;[contact #10: Name (gender)/Company]
-[contact #10: Name (gender)/Company]
+[contact #10: Karel Landa (m)/Medonos s.r.o]
 
 
 ;[contact #11: Name (gender)/Company]
-[contact #11: Name (gender)/Company]
+[contact #11: Petr Ledecký (m)/Vodovody]
 
 
 ;[contact #12: Name (gender)/Company]
-[contact #12: Name (gender)/Company]
+[contact #12: Veronika Levická (f)]
 
 
 # Screen 12 (Data Usage):
@@ -373,15 +373,15 @@ Skrytá kopie
 
 # NOTE: This subject can be the same from one of the calendar events in screen #5
 ;Subject: [whatever the event in the Calendar]
-Subject: [whatever the event in the Calendar]
+Předmět: Porada
 
 
 ;Hi [one of the contacts in screen #11]
-Hi [one of the contacts in screen #11]
+Ahoj Michale,
 
 
 ;[Make up a fake message that corresponds to the subject.]
-[Make up a fake message that corresponds to the subject.]
+udělej si prosím dostatek času na naši plánovanou poradu v pondělí a v úterý, potřebuji, abys dorazil - tento měsíc je to opravdu důležité.
 
 
 ;SPACE
@@ -398,23 +398,23 @@ Doručená
 
 
 ;RE: Send photos please/You’re the best! Thanks so much!
-RE: Send photos please/You’re the best! Thanks so much!
+RE: Fotky z grilování/Ahoj. Pošleš mi prosím fotky z naš…
 
 
 ;RE: Please Confirm Subscription/I’ve been wanting to visit that place…
-RE: Please Confirm Subscription/I’ve been wanting to visit that place…
+RE: Potvrzení přihlášení/Dobrý den, děkujeme Vám za zaslání přihlášky…
 
 
 ;RE: Road trip next weekend?/Great finds! I’ll definitely check with…
-RE: Road trip next weekend?/Great finds! I’ll definitely check with…
+RE: Výlet příští víkend?/Díky za nápady! Naplánuji trasu a pošlu všem…
 
 
 ;We’re Moving!/Hello Friends! Join us on Saturday…
-We’re Moving!/Hello Friends! Join us on Saturday…
+Stěhování/Ahoj všichni, v sobotu se stěhujeme, přijdete…
 
 
 ;RE: Road trip next weekend?/Great find! I’ll definitely check with…
-RE: Road trip next weekend?/Great find! I’ll definitely check with…
+RE: Výlet příští víkend?/Co třeba Kokořín? Byli jsme tam vloni a…
 
 
 ;Yesterday
@@ -431,7 +431,7 @@ Poslední synchronizace: právě teď
 
 # Screen 17 (Email Reading): NOTE: we will use names from contact list in screen #10 and #11
 ;Re: [fake subject, can pick one in screen #16]
-Re: [fake subject, can pick one in screen #16]
+Re: Výlet příští víkend?
 
 
 ;10 hours ago
@@ -439,15 +439,15 @@ před 10 hodinami
 
 
 ;Hi All [or whatever the proper greeting is]
-Hi All [or whatever the proper greeting is]
+Zdravím všechny,
 
 
 ;[fake message that corresponds to the subject]
-[fake message that corresponds to the subject]
+ten nápad s Kokořínem se mi moc líbí. Chtěli jsme tam jet se sestrou minulý měsíc, ale počasí nebylo nic moc. Tentokrát má být výrazně lépe. Posílám naši trasu, kterou jsme měli v plánu projít.
 
 
 ;Thanks!
-Thanks!
+Díky za napsání!
 
 
 # Screen 18 (EME Party) NOTE: the screen contains popular apps; names will remain as they are.
@@ -525,7 +525,7 @@ Pátek 7. Březen
 
 # Screen 25 (Lock Screen Notification/Music Player) NOTE: We will use one of the contacts in screen #11);
 ;[Wanna grab lunch tomorrow? Or change to something more appropriate]
-[Wanna grab lunch tomorrow? Or change to something more appropriate]
+Jdeš s námi zítra na oběd?
 
 
 ;Hi!
@@ -537,12 +537,12 @@ před 16 min, před 19 min
 
 
 ;[Fake song title/fake musician name]
-[Fake song title/fake musician name]
+[Saturday evening/Joe Stevenson]
 
 
 # Screen 26 (Messaging Compose): NOTE: We will use one of the contacts in screen #11 for the name
 ;Your subject here
-Předmět
+Přijdeš?
 
 
 ;Write your message…
@@ -551,54 +551,54 @@ Zpráva
 
 # Screen 27 (Messaging Conversation): NOTE: Contact and Subject line are from screen #26.
 ;[fake message #1 relevant to the subject]
-[fake message #1 relevant to the subject]
+Ahoj, jen jsem se chtěl zeptat, kdy přijdeš na grilování?
 
 
 ;[fake message #2 relevant to the subject]
-[fake message #2 relevant to the subject]
+Ahoj, myslím, že bych mohl přijet okolo čtvrté. Jak ostatní?
 
 
 ;[fake message #3 relevant to the subject]
-[fake message #3 relevant to the subject]
+Super, my už jsme připravení, můžeš i dřív.
 
 
 # Screen 28 (Messaging List) NOTE: Use Contact list for this page; messages can be leveraged from Screen #16
 # Screen 29 (Music Grid) NOTE: Provide fake band and album titles for this screen.  You can translate some titles to match the images.  You can leverage some of the existing fake titles/artists on the screen.
 ;[Fake album title/band or artist #1]
-[Fake album title/band or artist #1]
+[Sanctuary/Vanessa Adelaide]
 
 
 ;[Fake album title/band or artist #2]
-[Fake album title/band or artist #2]
+[Weekly/Joe Stevenson]
 
 
 ;[Fake album title/band or artist #3]
-[Fake album title/band or artist #3]
+[Silverline/Jechar]
 
 
 ;[Fake album title/band or artist #4]
-[Fake album title/band or artist #4]
+[Paper beat/We Conquer]
 
 
 ;[Fake album title/band or artist #5]
-[Fake album title/band or artist #5]
+[Concrete Waves/Static Collection]
 
 
 ;[Fake album title/band or artist #6]
-[Fake album title/band or artist #6]
+[Reflex Dreams/Reflex Dreams]
 
 
 ;[Fake album title/band or artist #7]
-[Fake album title/band or artist #7]
+[Solemn/The Bayos]
 
 
 ;[Fake album title/band or artist #8]
-[Fake album title/band or artist #8]
+[Volume/Swingline]
 
 
 # Screen 30 (Music Player) NOTE: Leverage one set from screen #29
 ;Song Title
-Song Title
+Last Tuesday
 
 
 # Screen 31 (Notifications) NOTE: Leverage messages from screen #16 and time from #25
@@ -652,15 +652,15 @@ Má vyzvánění
 
 
 ;[fake song title/artist #1]
-[fake song title/artist #1]
+[Dancing/Swingline]
 
 
 ;[fake song title/artist #2]
-[fake song title/artist #2]
+[Sleeping all day/Reflex Dreams]
 
 
 ;[fake song title/artist #3]
-[fake song title/artist #3]
+[Sunshine/Static Collection]
 
 
 # Screen 33 (Settings)
@@ -714,7 +714,7 @@ Hlasitost
 
 
 ;Media
-Media
+Média
 
 
 ;Ringer & Notifications
@@ -747,7 +747,7 @@ Vše nejlepší Honzíku
 
 
 ;Beach day with Uncle Ben
-První prázniny u moře
+První prázdniny u moře
 
 
 ;Dixie’s First Snow Day
