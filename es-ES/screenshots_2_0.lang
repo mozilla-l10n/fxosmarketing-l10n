@@ -1,4 +1,4 @@
-## NOTE: 2.0 English source for context: https://mozilla.app.box.com/files/0/f/2606100649
+﻿## NOTE: 2.0 English source for context: https://mozilla.app.box.com/files/0/f/2606100649
 ## NOTE: If without FFOX phone, for the latest terms used in product, check http://transvision.mozfr.org/
 ## NOTE: When a contact is listed on a screen, try to be consistent with the English set of names and same gender.  This is easier for the graphic person to know which one is a woman and man.  Some have photos next to the names.  If the image is not culturally relevant or appropriate, we will replace them in the localized version.
 
@@ -219,7 +219,7 @@ Sonido
 
 
 ;Classic Buzz
-Classic Buzz
+Classic Buzz {ok}
 
 
 ;Snooze
@@ -264,7 +264,7 @@ pabloarribas@design4all.com
 
 
 ;PERSONAL
-PERSONAL
+PERSONAL {ok}
 
 
 ;[fake personal email address]
@@ -309,11 +309,11 @@ Jiménez, Amaranta/SmartDesign
 
 
 ;[contact #7: Name (gender)/Company]
-López, Rubén/Alianza Editores
+Martínez, María/Electrodomésticos Confort
 
 
 ;[contact #8: Name (gender)/Company]
-Martínez, María/Electrodomésticos Confort
+Meneses, Julián Eduardo/Regalia
 
 
 ;[contact #9: Name (gender)/Company]
@@ -325,11 +325,11 @@ Rodríguez, Julia/DD. HH. y Desarrollo Local
 
 
 ;[contact #11: Name (gender)/Company]
-Salvador, Elías/Restaurante Las delicias
+Romero, Walter/Viajes Tourmar
 
 
 ;[contact #12: Name (gender)/Company]
-Valera, Isabel/Rizzo's Peluquerías
+Salvador, Elia/Restaurante Las delicias
 
 
 # Screen 12 (Data Usage):
@@ -364,7 +364,7 @@ Para
 
 
 ;cc
-cc
+cc {ok}
 
 
 ;bcc
@@ -628,23 +628,23 @@ Administrar tonos de llamada
 
 
 ;Classic
-Classic
+Classic {ok}
 
 
 ;Classic Electric
-Classic Electric
+Classic Electric {ok}
 
 
 ;Classic Wallphone
-Classic Wallphone
+Classic Wallphone {ok}
 
 
 ;Disco Drive
-Disco Drive
+Disco Drive {ok}
 
 
 ;Vamos La Electro
-Vamos La Electro
+Vamos La Electro {ok}
 
 
 ;Created Ringtones
@@ -701,7 +701,7 @@ Teléfono y datos
 
 
 ;Bluetooth
-Bluetooth
+Bluetooth {ok}
 
 
 # Screen 34 (Settings Sound)
