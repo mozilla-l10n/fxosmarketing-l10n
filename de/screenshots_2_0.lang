@@ -23,12 +23,12 @@ VERTRAUENSWÜRDIGSTES INTERNETUNTERNEHMEN IN BEZUG AUF DATENSCHUTZ
 # Global Settings
 # Time Format (i.e. 12:34 PM for en-US)
 ;12:34 PM
-12:34 PM
+12:34
 
 
 # Date Format (i.e. 01/21/2015 for January 21st, 2015)
 ;01/21/2015
-01/21/2015
+21.01.2015
 
 
 # Screen 2 (Browser Start Page)
@@ -385,7 +385,7 @@ BCC
 
 # E-mail subject, replace "[made up subject]" with something relevant, e.g. "Subject: Getting together"
 ;Subject: [made up subject]
-Subject: [made up subject]
+Betreff: Meeting
 
 
 ;Hi [one of the contacts in screen #11]
@@ -414,19 +414,19 @@ Re: Bitte Fotos senden / Du bist die Beste! Vielen Dank!
 
 
 ;RE: Please Confirm Subscription/I’ve been wanting to visit that place
-RE: Please Confirm Subscription/I’ve been wanting to visit that place
+Re: Bitte Abo bestätigen/Da wollte ich schon immer mal hin
 
 
 ;RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
-RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
+Re: Autoreise am Wochenende?/Guter Plan, ich hör’ mich mal um
 
 
 ;We’re Moving!/Hello Friends! Join us on Saturday for a fun and
-We’re Moving!/Hello Friends! Join us on Saturday for a fun and
+Wir ziehen um!/Hallo Freunde! Trefft euch mit uns am Samstag für ein lustiges
 
 
 ;RE: It was nice meeting you!/Hi mate, I heard you're going to the show
-RE: It was nice meeting you!/Hi mate, I heard you're going to the show
+Re: War nett, dich kennenzulernen!/Hi Kumpel, ich höre, du gehst zu der Show
 
 
 ;Yesterday
@@ -452,7 +452,7 @@ Vor 10 Stunden
 
 # Image attachment filename example
 ;image20150813.jpg
-image20150813.jpg
+foto20150813.jpg
 
 
 ;Hi All [or whatever the proper greeting is]
@@ -537,7 +537,7 @@ UKW-Radio
 
 # Screen 24 (Lock Screen Normal)
 ;Carrier
-Carrier
+Mobilfunkanbieter
 
 
 ;Friday March 1
@@ -649,7 +649,7 @@ Töne verwalten
 
 
 ;Classics
-Classics
+Klassik
 
 
 ;Classic Electric
@@ -702,12 +702,12 @@ Standortzugriff
 
 
 ;Wi-Fi
-Wi-Fi
+WLAN
 
 
 # Replace the fake network name with one of your choice
 ;Connected to [fake network name]
-Connected to [fake network name]
+Verbunden mit Heimnetz
 
 
 ;SIM manager
