@@ -20,6 +20,17 @@ Yingakho siziqhenya ngokuba sivotelwe ukuba Yinkampani Ye-inthanethi Eyethenjwa 
 INKAMPANI YE-INTHANETHI EYETHENJWA KAKHULU KWEZOKUVIKELEKA KWEMINININGWANE
 
 
+# Global Settings
+# Time Format (i.e. 12:34 PM for en-US)
+;12:34 PM
+12:34 PM
+
+
+# Date Format (i.e. 01/21/2015 for January 21st, 2015)
+;01/21/2015
+01/21/2015
+
+
 # Screen 2 (Browser Start Page)
 ;Firefox Start Page
 Ikhasi lokuqala le-Firefox
@@ -29,11 +40,12 @@ Ikhasi lokuqala le-Firefox
 Amasayithi aphambili
 
 
-# Screen 3 (Calendar Day): NOTE: take a local sounding name, or one of the names in Contact list
+# Screen 3 (Calendar Day)
 ;Nov 1, Tuesday
 NgoLwesibili, mhla lu-1 kuLwezi
 
 
+# NOTE: make a local sounding name, or use one of the names in Contact list
 ;[Harly’s] Birthday
 Usuku Lokuzalwa LukaSimphiwe
 
@@ -371,9 +383,9 @@ cc {ok}
 bcc {ok}
 
 
-# NOTE: This subject can be the same from one of the calendar events in screen #5
-;Subject: [whatever the event in the Calendar]
-Isihloko: Usuku Lwami Lokuzalwa
+# E-mail subject, replace "[made up subject]" with something relevant, e.g. "Subject: Getting together"
+;Subject: [made up subject]
+Subject: [made up subject]
 
 
 ;Hi [one of the contacts in screen #11]
@@ -401,20 +413,20 @@ Ibhokisi lemiyalezo
 RE: Ngicel' uthumele izithombe/Uyiskhokho! Ngibonga kakhulu!
 
 
-;RE: Please Confirm Subscription/I’ve been wanting to visit that place…
-RE: Ngicela uqinisekise i-subscription/Kade ngangifuna ukuvakashela le ndawo…
+;RE: Please Confirm Subscription/I’ve been wanting to visit that place
+RE: Please Confirm Subscription/I’ve been wanting to visit that place
 
 
-;RE: Road trip next weekend?/Great finds! I’ll definitely check with…
-RE: Nohambo lwethu ngempelasonto?/Kwakuhle lokhu! Nakanjani ngizobuza ku…
+;RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
+RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
 
 
-;We’re Moving!/Hello Friends! Join us on Saturday…
-Siyathutha!/Sanibona bangani! Hlanganyela nathi ngoMgqibelo…
+;We’re Moving!/Hello Friends! Join us on Saturday for a fun and
+We’re Moving!/Hello Friends! Join us on Saturday for a fun and
 
 
-;RE: Road trip next weekend?/Great find! I’ll definitely check with…
-RE: Nohambo lwethu ngempelasonto?/Kwakuhle lokhu! Nakanjani ngizobuza ku…
+;RE: It was nice meeting you!/Hi mate, I heard you're going to the show
+RE: It was nice meeting you!/Hi mate, I heard you're going to the show
 
 
 ;Yesterday
@@ -436,6 +448,11 @@ Re: Ngicel' uthumele izithombe/Uyiskhokho! Ngibonga kakhulu!
 
 ;10 hours ago
 Emahoreni ayi-10 edlule
+
+
+# Image attachment filename example
+;image20150813.jpg
+image20150813.jpg
 
 
 ;Hi All [or whatever the proper greeting is]
@@ -519,6 +536,10 @@ I-FM Radio
 
 
 # Screen 24 (Lock Screen Normal)
+;Carrier
+Carrier
+
+
 ;Friday March 1
 Ngolwesihlanu Mashi 1
 
@@ -627,8 +648,8 @@ Thinta ukuze ulandelele ukusetshenziswa kwe-inthanethi
 Lawula iminkenenezo
 
 
-;Classic
-I-Classic
+;Classics
+Classics
 
 
 ;Classic Electric
@@ -680,8 +701,13 @@ Imodi yasebhanoyini
 Ukwaziswa Kwendawo Okuyo
 
 
-;Wi-Fi/connected to [fake network name]
-i-Wi-Fi/siyakwamukela kuSiyaxhumana
+;Wi-Fi
+Wi-Fi
+
+
+# Replace the fake network name with one of your choice
+;Connected to [fake network name]
+Connected to [fake network name]
 
 
 ;SIM manager
