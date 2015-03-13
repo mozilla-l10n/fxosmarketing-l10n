@@ -1,4 +1,4 @@
-## NOTE: 2.0 English source for context: https://mozilla.app.box.com/files/0/f/2606100649
+﻿## NOTE: 2.0 English source for context: https://mozilla.app.box.com/files/0/f/2606100649
 ## NOTE: If without FFOX phone, for the latest terms used in product, check http://transvision.mozfr.org/
 ## NOTE: When a contact is listed on a screen, try to be consistent with the English set of names and same gender.  This is easier for the graphic person to know which one is a woman and man.  Some have photos next to the names.  If the image is not culturally relevant or appropriate, we will replace them in the localized version.
 
@@ -23,12 +23,12 @@ LA COMPAÑÍA DE INTERNET EN LA QUE MÁS SE CONFÍA PARA LA PRIVACIDAD
 # Global Settings
 # Time Format (i.e. 12:34 PM for en-US)
 ;12:34 PM
-12:34 PM
+12:34
 
 
 # Date Format (i.e. 01/21/2015 for January 21st, 2015)
 ;01/21/2015
-01/21/2015
+21/01/2015
 
 
 # Screen 2 (Browser Start Page)
@@ -385,7 +385,7 @@ cco
 
 # E-mail subject, replace "[made up subject]" with something relevant, e.g. "Subject: Getting together"
 ;Subject: [made up subject]
-Subject: [made up subject]
+Asunto: Reunión sobre empoderamiento
 
 
 ;Hi [one of the contacts in screen #11]
@@ -414,19 +414,19 @@ RE: Envía fotos/¡Eres increíble! ¡Mil gracias!
 
 
 ;RE: Please Confirm Subscription/I’ve been wanting to visit that place
-RE: Please Confirm Subscription/I’ve been wanting to visit that place
+RE: Confirma suscripción/Desde hace tiempo quiero visitar ese lugar
 
 
 ;RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
-RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
+RE: ¿Viajecito la semana que viene?/¡Mira qué descubrimiento!
 
 
 ;We’re Moving!/Hello Friends! Join us on Saturday for a fun and
-We’re Moving!/Hello Friends! Join us on Saturday for a fun and
+¡Nos trasladamos!/¡Hola, amigos! Vengan a vernos el sábado próximo. Nos encantaría
 
 
 ;RE: It was nice meeting you!/Hi mate, I heard you're going to the show
-RE: It was nice meeting you!/Hi mate, I heard you're going to the show
+RE: ¡Fue un verdadero placer verte!/Hola, me dijeron que vas a ir al espectáculo
 
 
 ;Yesterday
@@ -452,7 +452,7 @@ Hace 10 horas
 
 # Image attachment filename example
 ;image20150813.jpg
-image20150813.jpg
+image20150813.jpg {ok}
 
 
 ;Hi All [or whatever the proper greeting is]
@@ -537,7 +537,7 @@ Radio FM
 
 # Screen 24 (Lock Screen Normal)
 ;Carrier
-Carrier
+Operador
 
 
 ;Friday March 1
@@ -649,7 +649,7 @@ Administrar tonos de llamada
 
 
 ;Classics
-Classics
+Classics {ok}
 
 
 ;Classic Electric
@@ -702,12 +702,12 @@ Geolocalización
 
 
 ;Wi-Fi
-Wi-Fi
+Wifi
 
 
 # Replace the fake network name with one of your choice
 ;Connected to [fake network name]
-Connected to [fake network name]
+Conectado a MoviPhone
 
 
 ;SIM manager
