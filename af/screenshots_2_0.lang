@@ -1,34 +1,34 @@
-## NOTE: 2.0 English source for context: https://mozilla.app.box.com/files/0/f/2606100649
+﻿## NOTE: 2.0 English source for context: https://mozilla.app.box.com/files/0/f/2606100649
 ## NOTE: If without FFOX phone, for the latest terms used in product, check http://transvision.mozfr.org/
 ## NOTE: When a contact is listed on a screen, try to be consistent with the English set of names and same gender.  This is easier for the graphic person to know which one is a woman and man.  Some have photos next to the names.  If the image is not culturally relevant or appropriate, we will replace them in the localized version.
 
 
 # Screen 1  (Browser) NOTE: If all caps is not appropriate in your language, you don’t need to follow the same style.  Be mindful the 3rd string below has limited space. Try to be concise.
 ;Made with a mission to put you first
-Geskep met ’n plan om jou eerste te stel
+Gemaak met 'n missie om ú eerste te plaas
 
 
 ;We’ve always designed Firefox to protect and respect your private information.
-Ons het Firefox nog altyd só ontwerp om jou privaat inligting te beskerm en te respekteer.
+Ons ontwerp nog altyd Firefox om u private inligting te beskerm en te respekteer.
 
 
 ;That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
-Ons is dus trots daarop om as die mees vertroude internetmaatskappy vir privaatheid bekend te staan.
+Daarom is ons trots op die benoeming as die Mees vertroude internetmaatskappy vir privaatheid.
 
 
 ;MOST TRUSTED INTERNET COMPANY FOR PRIVACY
-MEES VERTROUDE INTERNETMAATSKAPPY VIR PRIVAATHEID
+MEES VERTROUDE INTERNETMAATSKAPPY I.T.V PRIVAATHEID
 
 
 # Global Settings
 # Time Format (i.e. 12:34 PM for en-US)
 ;12:34 PM
-12:34 PM
+12:34
 
 
 # Date Format (i.e. 01/21/2015 for January 21st, 2015)
 ;01/21/2015
-01/21/2015
+2015-01-21
 
 
 # Screen 2 (Browser Start Page)
@@ -37,7 +37,7 @@ Firefox-beginbladsy
 
 
 ;Top Sites
-Toptuistes
+Topwerwe
 
 
 # Screen 3 (Calendar Day)
@@ -79,7 +79,7 @@ Dag
 
 # Screen 4 (Calendar Event): NOTE: Indicate time and date display format that’s appropriate in your country. Check product UI terms for the actual strings.
 ;Add Event
-Voeg gebeurtenis by
+Nuwe gebeurtenis
 
 
 ;Done
@@ -91,11 +91,11 @@ Titel
 
 
 ;Where
-Waar
+Waar?
 
 
 ;All day event?
-Heeldag gebeurtenis?
+Heeldag-gebeurtenis?
 
 
 ;Calendar
@@ -103,7 +103,7 @@ Kalender
 
 
 ;Attendees
-Bywoners
+Bywonendes
 
 
 ;Repeat
@@ -116,7 +116,7 @@ Nooit
 
 # Screen 5 (Calendar Event Detail): NOTE: this page has content that should be localized instead of translated.  Find event that is more applicable than what’s presented.
 ;Event Details
-Gebeuredetails
+Gebeurtenis
 
 
 ;Edit
@@ -125,7 +125,7 @@ Redigeer
 
 # NOTE: subject of meeting can be something else
 ;Productivity Meeting
-Kreatiewe Idees-werkswinkel
+Werkswinkel oor kreatiewe idees
 
 
 ;From 3:00PM Thursday, Dec 8, 2014 to 4:00 PM Friday, Dec 8, 2014
@@ -142,23 +142,23 @@ Herinnering:
 
 
 ;10 minutes before
-10 minute voor
+10 minute vooraf
 
 
 ;1 day before
-1 dag voor
+1 dag vooraf
 
 
 ;2 hours before
-2 uur voor
+2 ure vooraf
 
 
 ;1 hour before
-1 uur voor
+1 uur vooraf
 
 
 ;All time of event
-Heeltyd van die gebeurtenis
+By aanvang
 
 
 ;7 Invites
@@ -167,17 +167,17 @@ Heeltyd van die gebeurtenis
 
 # NOTE: feel free to use a localized name as file name
 ;file 1.png (150k)
-Indaba 1.png (150k)
+indabafoto1.png (150k)
 
 
 # NOTE: use the locally appropriate way to address the attendees
 ;Dear all,
-Hallo almal,
+Hallo almal
 
 
 # NOTE: made up message that corresponds to the subject of the meeting.
 ;[Please reserve your time for the productivity meeting on this Tuesday, De-]
-Bespreek asseblief vir jou ’n plek by die Kreatiewe Idees-werkswinkel vir hierdie Donderdag, 8 Desember 2014 tot Vrydag, 9 Desember 2014 om 15:00 nm.
+Bespreek asseblief vir jou ’n plek by die werkswinkel oor kreatiewe idees, op Donderdag 8 Desember 2014 tot Vrydag 9 Desember 2014 om 15:00.
 
 
 ;Accept
@@ -198,7 +198,7 @@ Maandag 25 Maart
 
 
 ;Alarm
-Alarm {ok}
+Wekker
 
 
 ;Mon, Tue, Wed, Thu, Fri, Sat, Sun
@@ -206,7 +206,7 @@ Ma, Di, Wo, Do, Vr, Sa, So
 
 
 ;Timer
-Tydhouer
+Afteller
 
 
 ;Stopwatch
@@ -215,11 +215,11 @@ Stophorlosie
 
 # Screen 9 (Clock Edit Alarm)
 ;New alarm
-Nuwe alarm
+Nuwe wekker
 
 
 ;Alarm name
-Alarmnaam
+Wekkernaam
 
 
 ;Time
@@ -260,7 +260,7 @@ SELFOON
 
 
 ;HOME
-HUIS
+TUIS
 
 
 ;[made up landline phone number, with correct country code and area code]
@@ -280,11 +280,11 @@ PERSOONLIK
 
 
 ;[fake personal email address]
-johan77@gmail.com
+johankemp77@gmail.com
 
 
 ;Remove from favorites
-Verwyder uit gunstelinge
+Verwyder as gunsteling
 
 
 # Screen 11 (Contact List): NOTE: this is the most difficult page to localize.  Make sure you provide FAKE contacts following these guidelines: 1). 12 contacts, 6 male names and 6 female names.  Indicate which one is which; 2). At least half of the 12 have company names indicated, they can be made up companies; 3). Indicate if the sorting order of names is by family name or given name; 4). Following the sorting order, please provide names with consecutive initials (abc or jkl, xyz, etc).
@@ -346,7 +346,7 @@ kontak #12: Ronell Swart (v)/Stanfin
 
 # Screen 12 (Data Usage):
 ;Usage
-Gebruik
+Verbruik
 
 
 ;Oct 1, Oct 20, Oct 31
@@ -354,11 +354,11 @@ Gebruik
 
 
 ;Mobile usage
-Selfoongebruik
+Sellulêre verbruik
 
 
 ;Wi-Fi usage
-Wi-Fi-gebruik
+Wi-Fi-verbruik
 
 
 # Screen 14 (Dialer Outgoing call) NOTE: Several strings in #13 can be leveraged from screens #10 and 11, thus not repeated here
@@ -385,7 +385,7 @@ bcc {ok}
 
 # E-mail subject, replace "[made up subject]" with something relevant, e.g. "Subject: Getting together"
 ;Subject: [made up subject]
-Subject: [made up subject]
+Onderwerp: Werkswinkel oor kreatiewe idees
 
 
 ;Hi [one of the contacts in screen #11]
@@ -393,7 +393,7 @@ Hallo Albert
 
 
 ;[Make up a fake message that corresponds to the subject.]
-Ek wil jou graag uitnooi na die Kreatiewe Idees-werkswinkel wat in Desember gaan plaasvind.
+Ek wil jou graag uitnooi na die werkswinkel oor kreatiewe idees wat in Desember gaan plaasvind.
 
 
 ;SPACE
@@ -414,19 +414,19 @@ RE: Stuur asseblief foto’s/Jy is die beste! Baie dankie!
 
 
 ;RE: Please Confirm Subscription/I’ve been wanting to visit that place
-RE: Please Confirm Subscription/I’ve been wanting to visit that place
+RE: Bevestig asseblief jou subskripsie/Ek wou al lankal daardie plek besoek het…
 
 
 ;RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
-RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
+RE: Kort wegbreek volgende naweek?/Nuttige wenke! Ek sal beslis gaan kyk by…
 
 
 ;We’re Moving!/Hello Friends! Join us on Saturday for a fun and
-We’re Moving!/Hello Friends! Join us on Saturday for a fun and
+Ons trek!/Hallo vriende! Kom kuier Saterdag saam met ons…
 
 
 ;RE: It was nice meeting you!/Hi mate, I heard you're going to the show
-RE: It was nice meeting you!/Hi mate, I heard you're going to the show
+RE: Dit was lekker om jou te sien!/Hallo, pêl, ek hoor jy gaan na die konsert
 
 
 ;Yesterday
@@ -438,7 +438,7 @@ Gister
 
 
 ;Last sync: Just now
-Laas gesinkr.: Sopas
+Laas gesinkroniseer: So pas
 
 
 # Screen 17 (Email Reading): NOTE: we will use names from contact list in screen #10 and #11
@@ -452,7 +452,7 @@ Re: Ons trek!/Hallo vriende! Kom kuier Saterdag saam met ons…
 
 # Image attachment filename example
 ;image20150813.jpg
-image20150813.jpg
+image20150813.jpg {ok}
 
 
 ;Hi All [or whatever the proper greeting is]
@@ -495,7 +495,7 @@ Soek of voer adres in
 
 
 ;Dialer
-Beller
+Foon
 
 
 ;Browser
@@ -524,7 +524,7 @@ Lewende vermaak
 
 
 ;Clock
-Klok
+Horlosie
 
 
 ;Video
@@ -537,7 +537,7 @@ FM-radio
 
 # Screen 24 (Lock Screen Normal)
 ;Carrier
-Carrier
+Vodatel
 
 
 ;Friday March 1
@@ -572,7 +572,7 @@ Skryf jou boodskap…
 
 # Screen 27 (Messaging Conversation): NOTE: Contact and Subject line are from screen #26.
 ;[fake message #1 relevant to the subject]
-Ek gaan ongelukkig ons middagete moet kanselleer. Ek is baie siek.
+Ek gaan ongelukkig 'n bietjie laat wees vir ons middagete.
 
 
 ;[fake message #2 relevant to the subject]
@@ -586,7 +586,7 @@ Proteastraat.
 # Screen 28 (Messaging List) NOTE: Use Contact list for this page; messages can be leveraged from Screen #16
 # Screen 29 (Music Grid) NOTE: Provide fake band and album titles for this screen.  You can translate some titles to match the images.  You can leverage some of the existing fake titles/artists on the screen.
 ;[Fake album title/band or artist #1]
-Loslappie/Dawie van der Merwe
+My mooi mosbolletjie/Dawie van der Merwe
 
 
 ;[Fake album title/band or artist #2]
@@ -640,7 +640,7 @@ Nuwe SIM ingesteek
 
 
 ;Tap to track your internet usage
-Tik hier om jou internetgebruik te volg
+Druk om jou internetgebruik te volg
 
 
 # Screen 32 (Ringtone)
@@ -649,15 +649,15 @@ Bestuur luitone
 
 
 ;Classics
-Classics
+Klassiekes
 
 
 ;Classic Electric
-Klassiek elektries
+Klassieke elektries
 
 
 ;Classic Wallphone
-Klassiek muurfoon
+Klassieke muurfoon
 
 
 ;Disco Drive
@@ -665,7 +665,7 @@ Diskorit
 
 
 ;Vamos La Electro
-Kom aan, elektro
+Vamos Là Elektro
 
 
 ;Created Ringtones
@@ -694,7 +694,7 @@ Netwerk en konnektiwiteit
 
 
 ;Airplane mode
-Vliegtuigmodus
+Vlugmodus
 
 
 ;Geolocation
@@ -702,12 +702,12 @@ Geoligging
 
 
 ;Wi-Fi
-Wi-Fi
+Wi-Fi {ok}
 
 
 # Replace the fake network name with one of your choice
 ;Connected to [fake network name]
-Connected to [fake network name]
+Gekoppel aan Huisnetwerk
 
 
 ;SIM manager
@@ -748,7 +748,7 @@ Foonlui en kennisgewings
 
 
 ;Tones
-Tone
+Luitone
 
 
 ;Ringer
@@ -787,5 +787,6 @@ Braai en kuier saam met Lisa se vriende
 # Screens 36 (Video Play)
 ;Happy Birthday…
 Veels geluk…
+
 
 
