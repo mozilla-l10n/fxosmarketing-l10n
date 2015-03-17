@@ -23,12 +23,12 @@ INKAMPANI YE-INTHANETHI EYETHENJWA KAKHULU KWEZOKUVIKELEKA KWEMINININGWANE
 # Global Settings
 # Time Format (i.e. 12:34 PM for en-US)
 ;12:34 PM
-12:34 PM
+12:34 PM {ok}
 
 
 # Date Format (i.e. 01/21/2015 for January 21st, 2015)
 ;01/21/2015
-01/21/2015
+21/01/2015
 
 
 # Screen 2 (Browser Start Page)
@@ -272,7 +272,7 @@ EMSEBENZINI
 
 
 ;[fake work email address]
-bcele@thullets.co.za]
+bcele@thuletts.co.za]
 
 
 ;PERSONAL
@@ -385,7 +385,7 @@ bcc {ok}
 
 # E-mail subject, replace "[made up subject]" with something relevant, e.g. "Subject: Getting together"
 ;Subject: [made up subject]
-Subject: [made up subject]
+Isihloko: Usuku Lwami Lokuzalwa
 
 
 ;Hi [one of the contacts in screen #11]
@@ -414,19 +414,19 @@ RE: Ngicel' uthumele izithombe/Uyiskhokho! Ngibonga kakhulu!
 
 
 ;RE: Please Confirm Subscription/I’ve been wanting to visit that place
-RE: Please Confirm Subscription/I’ve been wanting to visit that place
+RE: Ngicela uqinisekise i-subscription/Kade ngangifuna ukuvakashela le ndawo…
 
 
 ;RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
-RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
+RE: Nohambo lwethu ngempelasonto?/Kwakuhle lokhu! Nakanjani ngizobuza ku…
 
 
 ;We’re Moving!/Hello Friends! Join us on Saturday for a fun and
-We’re Moving!/Hello Friends! Join us on Saturday for a fun and
+Siyathutha!/Sanibona bangani! Hlanganyela nathi ngoMgqibelo…
 
 
 ;RE: It was nice meeting you!/Hi mate, I heard you're going to the show
-RE: It was nice meeting you!/Hi mate, I heard you're going to the show
+RE: Bekumnandi ukukubona!/Sawubona mfethu, Ngizwe kuthiwa uyaya embukisweni
 
 
 ;Yesterday
@@ -452,7 +452,7 @@ Emahoreni ayi-10 edlule
 
 # Image attachment filename example
 ;image20150813.jpg
-image20150813.jpg
+image20150813.jpg {ok}
 
 
 ;Hi All [or whatever the proper greeting is]
@@ -537,7 +537,7 @@ I-FM Radio
 
 # Screen 24 (Lock Screen Normal)
 ;Carrier
-Carrier
+Hlanganani Network
 
 
 ;Friday March 1
@@ -649,7 +649,7 @@ Lawula iminkenenezo
 
 
 ;Classics
-Classics
+I-Classics
 
 
 ;Classic Electric
@@ -702,12 +702,12 @@ Ukwaziswa Kwendawo Okuyo
 
 
 ;Wi-Fi
-Wi-Fi
+i-Wi-Fi
 
 
 # Replace the fake network name with one of your choice
 ;Connected to [fake network name]
-Connected to [fake network name]
+Uxhumekile ku Hlanganani network
 
 
 ;SIM manager
