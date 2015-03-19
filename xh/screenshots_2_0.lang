@@ -9,31 +9,31 @@ Iyenzwe ngenjongo ukubeka wena phambili
 
 
 ;We’ve always designed Firefox to protect and respect your private information.
-Sasoloko siyila i-Firefox ukukhusela nokuhlonipha ulwazi lwakho oluyindaba yakwamkhozi.
+Sasoloko siyila le Firefox ukukhusela nokuhlonipha ulwazi lwakho labucala.
 
 
 ;That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
-Kungoko sizingca ngokuvotelwa njengeyona Nkampani yeIntanethi eThembeke kakhulu kokuyindaba yakwamkhozi.
+Kungoko sizingca ngokuvotelwa njengenkampani ye-intanethi ethembekileyo yabucala.
 
 
 ;MOST TRUSTED INTERNET COMPANY FOR PRIVACY
-EYONA NKAMPANI YEINTANETHI ETHEMBEKE KAKHULU KOKUYINDABA YAKWAMKHOZI
+EYONA NKAMPANI YE-INTANETHI ETHEMBEKILEYO YABUCALA
 
 
 # Global Settings
 # Time Format (i.e. 12:34 PM for en-US)
 ;12:34 PM
-12:34 PM
+12:34 EMINI
 
 
 # Date Format (i.e. 01/21/2015 for January 21st, 2015)
 ;01/21/2015
-01/21/2015
+21/01/2015
 
 
 # Screen 2 (Browser Start Page)
 ;Firefox Start Page
-Iphepha lokuqalisa lika-Firefox
+Iphepha lokuqalisa le Firefox
 
 
 ;Top Sites
@@ -42,7 +42,7 @@ Iisayithi eziphambili
 
 # Screen 3 (Calendar Day)
 ;Nov 1, Tuesday
-uLwesibini  , umhla woku-1 Nov
+uLwesibini umhla woku-1 Nov
 
 
 # NOTE: make a local sounding name, or use one of the names in Contact list
@@ -202,7 +202,7 @@ iAlam
 
 
 ;Mon, Tue, Wed, Thu, Fri, Sat, Sun
-Mv., Lwesib, Lwesith, Lwesin, Lwesihl, Mgq, Ca
+Mv., Lwesib, Lwesith, Lwesin, Lwesihl, Mgq, Caw
 
 
 ;Timer
@@ -210,7 +210,7 @@ Isibeki-xesha
 
 
 ;Stopwatch
-isitophuwotshi
+iSitophuwotshi
 
 
 # Screen 9 (Clock Edit Alarm)
@@ -260,7 +260,7 @@ IMOBHAYILE
 
 
 ;HOME
-IKHAY
+IKHAYA
 
 
 ;[made up landline phone number, with correct country code and area code]
@@ -284,7 +284,7 @@ abaloyi@yahoo.com
 
 
 ;Remove from favorites
-susa kusukea kwezithandawyo
+Susa kwezithandwayo
 
 
 # Screen 11 (Contact List): NOTE: this is the most difficult page to localize.  Make sure you provide FAKE contacts following these guidelines: 1). 12 contacts, 6 male names and 6 female names.  Indicate which one is which; 2). At least half of the 12 have company names indicated, they can be made up companies; 3). Indicate if the sorting order of names is by family name or given name; 4). Following the sorting order, please provide names with consecutive initials (abc or jkl, xyz, etc).
@@ -350,7 +350,7 @@ Usetyenziso
 
 
 ;Oct 1, Oct 20, Oct 31
-Umhla woku- 1 Okt, umhla wama-20 Okt, umhla wama -31 Okt
+UOkt umhla woku-1, uOkt umhla wama-20, uOkt umhla wama-31
 
 
 ;Mobile usage
@@ -385,7 +385,7 @@ bcc {ok}
 
 # E-mail subject, replace "[made up subject]" with something relevant, e.g. "Subject: Getting together"
 ;Subject: [made up subject]
-Subject: [made up subject]
+Umcimbi: Intlanganiso yeeMveliso
 
 
 ;Hi [one of the contacts in screen #11]
@@ -406,7 +406,7 @@ OKULANDELAYO
 
 # Screen 16 (Email list) NOTE: we will use the names from the Contact list provided in screen #11
 ;Inbox
-I-Inbox
+Ibhokisi yemiyalezo
 
 
 ;RE: Send photos please/You’re the best! Thanks so much!
@@ -414,19 +414,19 @@ RE: Nceda uthumele iifoto/Ungolungileyo! Enkosi kakhulu!
 
 
 ;RE: Please Confirm Subscription/I’ve been wanting to visit that place
-RE: Please Confirm Subscription/I’ve been wanting to visit that place
+RE: Nceda uQinisekise uMrhumo/Kade ndifuna ukutyelele leo indawo…
 
 
 ;RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
-RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
+RE: Uhambo lwendlela kwimpela-veki ezayo?/Ndiyalukufumana! Ngokuqinisekileyo ndiya kuqonda ku-…
 
 
 ;We’re Moving!/Hello Friends! Join us on Saturday for a fun and
-We’re Moving!/Hello Friends! Join us on Saturday for a fun and
+RE:Siyahamba!/Molo Bahlobo! Dibana nathi ngomGqibelo…
 
 
 ;RE: It was nice meeting you!/Hi mate, I heard you're going to the show
-RE: It was nice meeting you!/Hi mate, I heard you're going to the show
+RE: Bekumnandi ukudibana nawe!/Molo mhlobo, Ndivile uya kwishowu
 
 
 ;Yesterday
@@ -452,7 +452,7 @@ Iiyure ezili-10 edlulileyo
 
 # Image attachment filename example
 ;image20150813.jpg
-image20150813.jpg
+image20150813.jpg {ok}
 
 
 ;Hi All [or whatever the proper greeting is]
@@ -469,11 +469,11 @@ Enkosi!
 
 # Screen 18 (EME Party) NOTE: the screen contains popular apps; names will remain as they are.
 ;Social
-eyoluntu
+EyoluNtu
 
 
 ;Phone
-ifowuni
+iFowuni
 
 
 ;Messages
@@ -481,7 +481,7 @@ Imiyalezo
 
 
 ;E-Mail
-i-imeyile
+i-Imeyile
 
 
 # Screen 21 (Gallery Thumbmails)
@@ -503,11 +503,11 @@ Ibhrawuza
 
 
 ;Games
-imidlalo
+Imidlalo
 
 
 ;Music
-umculo
+Umculo
 
 
 # Screen 23 (Home Screen 4 Column Layout)
@@ -516,28 +516,28 @@ Ikhamera
 
 
 ;Gallery
-igalari
+Igalari
 
 
 ;Showbiz
-i-showbiz
+i-Showbiz
 
 
 ;Clock
-iwotshi
+Iwotshii
 
 
 ;Video
-ividiyo
+Ividiyo
 
 
 ;FM Radio
-unomathotholo we-FM
+Unomathotholo we-FM
 
 
 # Screen 24 (Lock Screen Normal)
 ;Carrier
-Carrier
+Umthwali
 
 
 ;Friday March 1
@@ -649,7 +649,7 @@ Lawula izandi zokukhala kwefowuni
 
 
 ;Classics
-Classics
+i-Classics
 
 
 ;Classic Electric
@@ -669,7 +669,7 @@ i-Vamos La Electro
 
 
 ;Created Ringtones
-isikhali seselfowuni esiyiliweyo
+Isikhali seselfowuni esiYiliweyo
 
 
 ;[fake song title/artist #1]
@@ -686,11 +686,11 @@ Izinja/Skullman
 
 # Screen 33 (Settings)
 ;Settings
-iisetingi
+iiSethingi
 
 
 ;Network & Connectivity
-Inetweki & Uqhagamshelo
+Inethiwekhi & Uqhagamshelo
 
 
 ;Airplane mode
@@ -702,12 +702,12 @@ Indawo yomhlaba
 
 
 ;Wi-Fi
-Wi-Fi
+i-Wi-Fi
 
 
 # Replace the fake network name with one of your choice
 ;Connected to [fake network name]
-Connected to [fake network name]
+Iqhagamshele ku-Total Communications
 
 
 ;SIM manager
@@ -715,19 +715,19 @@ Umlawuli we-SIM
 
 
 ;Call Settings
-Iisetingi zomnxeba
+Iisethingi zomnxeba
 
 
 ;Messaging Settings
-Iisetingi zoMyalezo
+Iisethingi zoMyalezo
 
 
 ;Cellular & Data
-i-Cellular & iData
+i-cellular & iData 
 
 
 ;Bluetooth
-i-Bluetooth
+i-bluetooth
 
 
 # Screen 34 (Settings Sound)
