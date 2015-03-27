@@ -5,787 +5,788 @@
 
 # Screen 1  (Browser) NOTE: If all caps is not appropriate in your language, you don’t need to follow the same style.  Be mindful the 3rd string below has limited space. Try to be concise.
 ;Made with a mission to put you first
-Made with a mission to put you first
+Eji ebumnuche iji tinye gị izizi
 
 
 ;We’ve always designed Firefox to protect and respect your private information.
-We’ve always designed Firefox to protect and respect your private information.
+Anyị zubere Firefox ịchedo ma sọpụrụ ozi nzuzo gị.
 
 
 ;That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
-That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
+Ya kpatara anyị ji eme nganga maka ntuli aka emere ji wepụta anyị ka Ụlọ Ọrụ Ịntanetị maka Nzuzo Akachasị Nwee Ntụkwasị Obi na ya.
 
 
 ;MOST TRUSTED INTERNET COMPANY FOR PRIVACY
-MOST TRUSTED INTERNET COMPANY FOR PRIVACY
+ỤLỌ ỌRỤ ỊNTANETỊ MAKA NZUZO AKACHASỊ NWEE NTỤKWASỊ OBI NA YA
 
 
 # Global Settings
 # Time Format (i.e. 12:34 PM for en-US)
 ;12:34 PM
-12:34 PM
+12.34 EH
 
 
 # Date Format (i.e. 01/21/2015 for January 21st, 2015)
 ;01/21/2015
-01/21/2015
+01/21/2015 {ok}
 
 
 # Screen 2 (Browser Start Page)
 ;Firefox Start Page
-Firefox Start Page
+Ibe Mbido Firefox
 
 
 ;Top Sites
-Top Sites
+Saịtị Ndị Kachasị
 
 
 # Screen 3 (Calendar Day)
 ;Nov 1, Tuesday
-Nov 1, Tuesday
+Nọv 1, Tusde
 
 
 # NOTE: make a local sounding name, or use one of the names in Contact list
 ;[Harly’s] Birthday
-[Harly’s] Birthday
+Ụbọchị Amụrụ [Nkechi]
 
 
 # NOTE: choose any location, doesn’t have to be a conference room or hotel room
 ;Room 801
-Room 801
+Ime ụlọ 801
 
 
 # NOTE: no need to be a technical meeting, Social event is fine
 ;HTML5 Conference
-HTML5 Conference
+Ọgbakọ HTML5
 
 
 # NOTE: choose any location that suits the event above
 ;Palace Ho
-Palace Ho
+Obi Eze Igwe Mike
 
 
 ;Month
-Month
+Ọnwa
 
 
 ;Week
-Week
+Izu
 
 
 ;Day
-Day
+Ụbọchị
 
 
 # Screen 4 (Calendar Event): NOTE: Indicate time and date display format that’s appropriate in your country. Check product UI terms for the actual strings.
 ;Add Event
-Add Event
+Tinye Mmemme
 
 
 ;Done
-Done
+Emechaala
 
 
 ;Title
-Title
+Aha
 
 
 ;Where
-Where
+Ebee
 
 
 ;All day event?
-All day event?
+Mmemme ụbọchị niile?
 
 
 ;Calendar
-Calendar
+Kalịnda
 
 
 ;Attendees
-Attendees
+Ndị mbịambịa
 
 
 ;Repeat
-Repeat
+Megharịa
 
 
 ;Never
-Never
+Ma ncha
 
 
 # Screen 5 (Calendar Event Detail): NOTE: this page has content that should be localized instead of translated.  Find event that is more applicable than what’s presented.
 ;Event Details
-Event Details
+Nkọwa Mmemme
 
 
 ;Edit
-Edit
+Dezie
 
 
 # NOTE: subject of meeting can be something else
 ;Productivity Meeting
-Productivity Meeting
+Nzụkọ Arụmọrụ
 
 
 ;From 3:00PM Thursday, Dec 8, 2014 to 4:00 PM Friday, Dec 8, 2014
-From 3:00PM Thursday, Dec 8, 2014 to 4:00 PM Friday, Dec 8, 2014
+Bido Tọsde 3.00EH, Dis 8, 2014 ruo 4.00 EH Fraịde, Dis 8, 2014
 
 
 # NOTE: if the event is personal in nature, please change to personal calendar
 ;Work Calendar
-Work Calendar
+Kalịnda Ọrụ
 
 
 ;Reminder:
-Reminder:
+Ihe ncheta:
 
 
 ;10 minutes before
-10 minutes before
+Nkeji 10 tupu
 
 
 ;1 day before
-1 day before
+1 ụbọchị tupu
 
 
 ;2 hours before
-2 hours before
+Aka elekere 2 tupu
 
 
 ;1 hour before
-1 hour before
+1 aka elekere tupu
 
 
 ;All time of event
-All time of event
+Oge nke mmemme n'uju
 
 
 ;7 Invites
-7 Invites
+Akpọmoku 7
 
 
 # NOTE: feel free to use a localized name as file name
 ;file 1.png (150k)
-file 1.png (150k)
+faịlụ 1.png (150k)
 
 
 # NOTE: use the locally appropriate way to address the attendees
 ;Dear all,
-Dear all,
+Ezigbo mmadụ niile,
 
 
 # NOTE: made up message that corresponds to the subject of the meeting.
 ;[Please reserve your time for the productivity meeting on this Tuesday, De-]
-[Please reserve your time for the productivity meeting on this Tuesday, De-]
+[Biko chekwaa oge gị maka nzụkọ arụmọrụ na Tusde, Di-]
 
 
 ;Accept
-Accept
+Nabata
 
 
 ;Maybe
-Maybe
+Enwere ike
 
 
 ;Decline
-Decline
+Jụ
 
 
 # Screen 7 (Clock Analog)
 ;Monday, March 25
-Monday, March 25
+Mọnde, Maachị 25
 
 
 ;Alarm
-Alarm
+Otimkpu
 
 
 ;Mon, Tue, Wed, Thu, Fri, Sat, Sun
-Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Mọn, Tus, Wed, Tọs, Fra, Sat, Sọn
 
 
 ;Timer
-Timer
+Ngụoge
 
 
 ;Stopwatch
-Stopwatch
+Elekere ngụoge
 
 
 # Screen 9 (Clock Edit Alarm)
 ;New alarm
-New alarm
+Otimkpu ọhụrụ
 
 
 ;Alarm name
-Alarm name
+Aha otimkpu
 
 
 ;Time
-Time
+Oge
 
 
 ;Sound
-Sound
+Ụda
 
 
 ;Classic Buzz
-Classic Buzz
+Klasik Bọz
 
 
 ;Snooze
-Snooze
+Bugharịa
 
 
 ;5 minutes
-5 minutes
+Nkeji 5
 
 
 # Screen 10 (Contact Detail); NOTE: In this section, everything is made up.  1). Name should be from one of the contacts for easy tracking and consistency within the screenshot file. 2). The phone number should have correct country code, area code.  3). Company name is made up; 4). Email name can be fake, and made up domain name.
 ;[name of one of the contacts, male]
-[name of one of the contacts, male]
+[Emeka]
 
 
 ;[made up company name]
-[made up company name]
+[E. Emeks Photography]
 
 
 ;MOBILE
-MOBILE
+MKPANAKA
 
 
 ;[made up mobile phone number, with correct area code]
-[made up mobile phone number, with correct area code]
+[+2348064940000]
 
 
 ;HOME
-HOME
+ỤLỌ
 
 
 ;[made up landline phone number, with correct country code and area code]
-[made up landline phone number, with correct country code and area code]
+[+234429999999]
 
 
 ;WORK
-WORK
+ỌRỤ
 
 
 ;[fake work email address]
-[fake work email address]
+[emeka@emeks.com]
 
 
 ;PERSONAL
-PERSONAL
+NKEONWE
 
 
 ;[fake personal email address]
-[fake personal email address]
+[emeka1877@yahoo.com]
 
 
 ;Remove from favorites
-Remove from favorites
+Wepu na ọkacha mmasị
 
 
 # Screen 11 (Contact List): NOTE: this is the most difficult page to localize.  Make sure you provide FAKE contacts following these guidelines: 1). 12 contacts, 6 male names and 6 female names.  Indicate which one is which; 2). At least half of the 12 have company names indicated, they can be made up companies; 3). Indicate if the sorting order of names is by family name or given name; 4). Following the sorting order, please provide names with consecutive initials (abc or jkl, xyz, etc).
 ;Contacts
-Contacts
+Kọntaktị
 
 
 ;Search
-Search
+Chọọ
 
 
 ;[contact #1: Travis Allen (m)/T. Tray Photography]
-[contact #1: Travis Allen (m)/T. Tray Photography]
+[kọntaktị #1: Emeka Aneke (m)/E. Emeks Photography]
 
 
 ;[contact #2: Will Amber (m)/CBN Studios]
-[contact #2: Will Amber (m)/CBN Studios]
+[kọntaktị #2: Obinna Ani (m)/ABC Clothing]
 
 
 ;[contact #3: Kevin Baker (m)/Mozilla]
-[contact #3: Kevin Baker (m)/Mozilla]
+[kọntaktị #3: Ebuka Aniagolu (m)/Studio 88]
 
 
 ;[contact #4: Noah Benson (m)/Benson Studios]
-[contact #4: Noah Benson (m)/Benson Studios]
+[kọntaktị #4: Nonso Belonwu (m)/Phils Concepts]
 
 
 ;[contact #5: Ava Brown (f)/Atsara Kitchen]
-[contact #5: Ava Brown (f)/Atsara Kitchen]
+[kọntaktị #5: Uju Boosa (f)/Mummy's Kitchen]
 
 
 ;[contact #6: Name (gender)/Company]
-[contact #6: Name (gender)/Company]
+[kọntaktị #6: Chioma Chukwuma (f)/Elegant Bridals]
 
 
 ;[contact #7: Name (gender)/Company]
-[contact #7: Name (gender)/Company]
+[kọntaktị #7: Kosi Gani (f)/Crown Jewelry]
 
 
 ;[contact #8: Name (gender)/Company]
-[contact #8: Name (gender)/Company]
+[kọntaktị #8: Ifeoma Hassan (f)/Ify's Kitchen]
 
 
 ;[contact #9: Name (gender)/Company]
-[contact #9: Name (gender)/Company]
+[kọntaktị #9: Nonye Inoma (f)/The Studio]
 
 
 ;[contact #10: Name (gender)/Company]
-[contact #10: Name (gender)/Company]
+[kọntaktị #10: Afoma Jombo (f)/Elegant Models]
 
 
 ;[contact #11: Name (gender)/Company]
-[contact #11: Name (gender)/Company]
+[kọntaktị #11: Lovelyn Kenechukwu (f)/House of Love
 
 
 ;[contact #12: Name (gender)/Company]
-[contact #12: Name (gender)/Company]
+[kọntaktị #12: Okey Lamudi (m)/Okey Electronics]
 
 
 # Screen 12 (Data Usage):
 ;Usage
-Usage
+Ojiji
 
 
 ;Oct 1, Oct 20, Oct 31
-Oct 1, Oct 20, Oct 31
+Ọkt 1, Ọkt 20, Ọkt 31
 
 
 ;Mobile usage
-Mobile usage
+Ojiji mkpanaka
 
 
 ;Wi-Fi usage
-Wi-Fi usage
+Ojiji Wi-Fi
 
 
 # Screen 14 (Dialer Outgoing call) NOTE: Several strings in #13 can be leveraged from screens #10 and 11, thus not repeated here
 ;Connecting
-Connecting
+Na-ejikọ
 
 
 # Screen 15 (Email Compose) NOTE: Names in the To: field can be from the contact list
 ;Compose
-Compose
+Dejupụta
 
 
 ;To
-To
+Gaa na
 
 
 ;cc
-cc
+cc {ok}
 
 
 ;bcc
-bcc
+bcc {ok}
 
 
 # E-mail subject, replace "[made up subject]" with something relevant, e.g. "Subject: Getting together"
 ;Subject: [made up subject]
-Subject: [made up subject]
+Isiokwu: [Ịbata ụlọ]
 
 
 ;Hi [one of the contacts in screen #11]
-Hi [one of the contacts in screen #11]
+Kedu [Emeka]
 
 
 ;[Make up a fake message that corresponds to the subject.]
-[Make up a fake message that corresponds to the subject.]
+[Anyị na eche mbata gị.]
 
 
 ;SPACE
-SPACE
+OGHERE
 
 
 ;NEXT
-NEXT
+OSOTE
 
 
 # Screen 16 (Email list) NOTE: we will use the names from the Contact list provided in screen #11
 ;Inbox
-Inbox
+Igbe nnabata
 
 
 ;RE: Send photos please/You’re the best! Thanks so much!
-RE: Send photos please/You’re the best! Thanks so much!
+RE: Zite foto biko/Ị kachasị mma! Daalụ nke ukwuu!
 
 
 ;RE: Please Confirm Subscription/I’ve been wanting to visit that place
-RE: Please Confirm Subscription/I’ve been wanting to visit that place
+RE: Biko Kwenye Na Ndebanye Aha/Ọ teela m chọrọ ịga ebe ahụ
 
 
 ;RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
-RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
+RE: Njem okporo ụzọ n'izu ụka na abịa?/Nchọta mara oke mma! M ga-akpọtụrụ mmadụ niile iji lelee
 
 
 ;We’re Moving!/Hello Friends! Join us on Saturday for a fun and
-We’re Moving!/Hello Friends! Join us on Saturday for a fun and
+Anyị Na Apụ!/Kedu Ndị Enyi! Sonye anyị na Satọde maka ịnwe ọhụụ yana
 
 
 ;RE: It was nice meeting you!/Hi mate, I heard you're going to the show
-RE: It was nice meeting you!/Hi mate, I heard you're going to the show
+RE: Obi dị m mma ịhụ gị!/Kedu enyi, anụrụ m na ị na aga ihe ngosi ahụ
 
 
 ;Yesterday
-Yesterday
+Ụnyahụ
 
 
 ;1 week ago
-1 week ago
+1 izu gara aga
 
 
 ;Last sync: Just now
-Last sync: Just now
+Mmekọrịta ikpeazụ: Ugbu a
 
 
 # Screen 17 (Email Reading): NOTE: we will use names from contact list in screen #10 and #11
 ;Re: [fake subject, can pick one in screen #16]
-Re: [fake subject, can pick one in screen #16]
+Re: [Usoro ụgbọ elu]
 
 
 ;10 hours ago
-10 hours ago
+Aka elekere 10 gara aga
 
 
 # Image attachment filename example
 ;image20150813.jpg
-image20150813.jpg
+onyonyo20150813.jpg
 
 
 ;Hi All [or whatever the proper greeting is]
-Hi All [or whatever the proper greeting is]
+Ekeele m unu niile
 
 
 ;[fake message that corresponds to the subject]
-[fake message that corresponds to the subject]
+[Atụrụ m anya na m ga-ahụ gị n'oge adịghị anya]
 
 
 ;Thanks!
-Thanks!
+Daalụ!
 
 
 # Screen 18 (EME Party) NOTE: the screen contains popular apps; names will remain as they are.
 ;Social
-Social
+Mmekọrịta
 
 
 ;Phone
-Phone
+Ekwentị
 
 
 ;Messages
-Messages
+Ozi
 
 
 ;E-Mail
-E-Mail
+E-mail {ok}
 
 
 # Screen 21 (Gallery Thumbmails)
 ;February 2014
-February 2014
+Febuwarị 2014
 
 
 # Screen 22 (Home Screen 3 Column Layout)
 ;Search or enter address
-Search or enter address
+Chọọ ma ọ bụ tinye adreesị
 
 
 ;Dialer
-Dialer
+Ihe ọkpụkpọ
 
 
 ;Browser
-Browser
+Ihe nchọgharị
 
 
 ;Games
-Games
+Egwuregwu
 
 
 ;Music
-Music
+Egwu
 
 
 # Screen 23 (Home Screen 4 Column Layout)
 ;Camera
-Camera
+Igwefoto
 
 
 ;Gallery
-Gallery
+Ọba
 
 
 ;Showbiz
-Showbiz
+Ihe nkiri
 
 
 ;Clock
-Clock
+Elekere
 
 
 ;Video
-Video
+Vidio
 
 
 ;FM Radio
-FM Radio
+Redio FM
 
 
 # Screen 24 (Lock Screen Normal)
 ;Carrier
-Carrier
+ZET
 
 
 ;Friday March 1
-Friday March 1
+Fraịde Maachi 1
 
 
 # Screen 25 (Lock Screen Notification/Music Player) NOTE: We will use one of the contacts in screen #11);
 ;[Wanna grab lunch tomorrow? Or change to something more appropriate]
-[Wanna grab lunch tomorrow? Or change to something more appropriate]
+[Ị chọrọ iri nri ehihie echi? Ma ọ bụ gbanwee ka ọ bụrụ ihe ka mma]
 
 
 ;Hi!
-Hi!
+Kedu!
 
 
 ;16m ago, 19m ago
-16m ago, 19m ago
+n16 gara aga, n19 gara aga
 
 
 ;[Fake song title/fake musician name]
-[Fake song title/fake musician name]
+[Egwu ogene/Nwa ọma]
 
 
 # Screen 26 (Messaging Compose): NOTE: We will use one of the contacts in screen #11 for the name
 ;Your subject here
-Your subject here
+Isiokwu gị ebe a
 
 
 ;Write your message…
-Write your message…
+Dee ozi gị…
 
 
 # Screen 27 (Messaging Conversation): NOTE: Contact and Subject line are from screen #26.
 ;[fake message #1 relevant to the subject]
-[fake message #1 relevant to the subject]
+[M na apụ apụ]
 
 
 ;[fake message #2 relevant to the subject]
-[fake message #2 relevant to the subject]
+[Ebee?]
 
 
 ;[fake message #3 relevant to the subject]
-[fake message #3 relevant to the subject]
+[Ebe a na aṅụ mmanya, ị na abịa?]
 
 
 # Screen 28 (Messaging List) NOTE: Use Contact list for this page; messages can be leveraged from Screen #16
 # Screen 29 (Music Grid) NOTE: Provide fake band and album titles for this screen.  You can translate some titles to match the images.  You can leverage some of the existing fake titles/artists on the screen.
 ;[Fake album title/band or artist #1]
-[Fake album title/band or artist #1]
+[Egwu Ọha/Ndị ọkaa omee]
 
 
 ;[Fake album title/band or artist #2]
-[Fake album title/band or artist #2]
+[Ozi ndụ/Mmadụ ka a na aya]
 
 
 ;[Fake album title/band or artist #3]
-[Fake album title/band or artist #3]
+[Egwu Akụkọ Ifo/Emeka Nsugbe]
 
 
 ;[Fake album title/band or artist #4]
-[Fake album title/band or artist #4]
+[Mbe na Agụ/Ogene group]
 
 
 ;[Fake album title/band or artist #5]
-[Fake album title/band or artist #5]
+[Egwu Ntorobịa/Obinna Agụ]
 
 
 ;[Fake album title/band or artist #6]
-[Fake album title/band or artist #6]
+[Njem/Ogene Nsukka]
 
 
 ;[Fake album title/band or artist #7]
-[Fake album title/band or artist #7]
+[Ezigbo Chukwu M/Ndị Ukwe]
 
 
 ;[Fake album title/band or artist #8]
-[Fake album title/band or artist #8]
+[Ezi Nwanyị/ Emeka Onye Egwu]
 
 
 # Screen 30 (Music Player) NOTE: Leverage one set from screen #29
 ;Song Title
-Song Title
+Aha Egwu
 
 
 # Screen 31 (Notifications) NOTE: Leverage messages from screen #16 and time from #25
 ;Notifications
-Notifications
+Amamọkwa
 
 
 ;Clear All
-Clear All
+Kpochapụ Dum
 
 
 ;Missed Call
-Missed Call
+Oku Aghara
 
 
 ;New SIM inserted
-New SIM inserted
+Afanyere SIM ọhụrụ
 
 
 ;Tap to track your internet usage
-Tap to track your internet usage
+Pịa iji sochie ojiji ịntanetị gị
 
 
 # Screen 32 (Ringtone)
 ;Manage Ringtones
-Manage Ringtones
+Jikwaa Ụda ọkụkụ
 
 
 ;Classics
-Classics
+Klasik
 
 
 ;Classic Electric
-Classic Electric
+Classic Electric {ok}
 
 
 ;Classic Wallphone
-Classic Wallphone
+Classic Wallphone {ok}
 
 
 ;Disco Drive
-Disco Drive
+Disco Drive {ok}
 
 
 ;Vamos La Electro
-Vamos La Electro
+Vamos La Electro {ok}
 
 
 ;Created Ringtones
-Created Ringtones
+Ụda Ọkụkụ Ndị Emepụtara
 
 
 ;[fake song title/artist #1]
-[fake song title/artist #1]
+[Egwu ndụ/Ndị udo]
 
 
 ;[fake song title/artist #2]
-[fake song title/artist #2]
+[Anụlị/Sanko]
 
 
 ;[fake song title/artist #3]
-[fake song title/artist #3]
+[Mma/Iheoma Nkoli]
 
 
 # Screen 33 (Settings)
 ;Settings
-Settings
+Ntọala
 
 
 ;Network & Connectivity
-Network & Connectivity
+Netwọk & Njikọta
 
 
 ;Airplane mode
-Airplane mode
+Ụkpụrụ ụgbọ elu
 
 
 ;Geolocation
-Geolocation
+Ọnọdụ ala
 
 
 ;Wi-Fi
-Wi-Fi
+Wi-Fi {ok}
 
 
 # Replace the fake network name with one of your choice
 ;Connected to [fake network name]
-Connected to [fake network name]
+Ejikọrọ na [ZET]
 
 
 ;SIM manager
-SIM manager
+Ihe njikwa SIM
 
 
 ;Call Settings
-Call Settings
+Ntọala Oku
 
 
 ;Messaging Settings
-Messaging Settings
+Ntọala Nzimozi
 
 
 ;Cellular & Data
-Cellular & Data
+Sellula & Data
 
 
 ;Bluetooth
-Bluetooth
+Bluetooth {ok}
 
 
 # Screen 34 (Settings Sound)
 ;Vibrate
-Vibrate
+Ọma jijiji
 
 
 ;Volume
-Volume
+Olu
 
 
 ;Media
-Media
+Mgbasa ozi
 
 
 ;Ringer & Notifications
-Ringer & Notifications
+Mgbịrịgba & Amamọkwa
 
 
 ;Tones
-Tones
+Ụda
 
 
 ;Ringer
-Ringer
+Mgbịrịgba
 
 
 ;Alerts
-Alerts
+Nkute
 
 
 # Screenshot 35 (Video List) NOTE: Replace the following names with culturally appropriate names for these video clips.  We will try to find appropriate images suitable for the targeted country
 ;July 2014
-July 2014
+Julaị 2014
 
 
 ;August 2014
-August 2014
+Ọgọst 2014
 
 
 ;Happy Birthday Ty
-Happy Birthday Ty
+Emeka Nwee Ọhụụ Ụbọchị Ọmụmụ Gị
 
 
 ;Beach day with Uncle Ben
-Beach day with Uncle Ben
+Ụbọchị akụkụ osimiri m na Okechukwu
 
 
 ;Dixie’s First Snow Day
-Dixie’s First Snow Day
+Ụbọchị Izizi Akụ Mmiri Igwe nke Nneoma
 
 
 ;Backyard BBQ with Eva’s Friends
-Backyard BBQ with Eva’s Friends
+Ịye Anụ N'azu Ulo m na Ndị Enyi Ada
 
 
 # Screens 36 (Video Play)
 ;Happy Birthday…
-Happy Birthday…
+Nwee Ọhụụ Ụbọchị Ọmụmụ Gị…
+
 
 

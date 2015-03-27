@@ -5,663 +5,663 @@
 
 # Screen 1  (Browser) NOTE: If all caps is not appropriate in your language, you don’t need to follow the same style.  Be mindful the 3rd string below has limited space. Try to be concise.
 ;Made with a mission to put you first
-Made with a mission to put you first
+Yeen a nu tax di sonn
 
 
 ;We’ve always designed Firefox to protect and respect your private information.
-We’ve always designed Firefox to protect and respect your private information.
+Danu liggéey Firefox ngir muy sàmm ak aar seeni leeral yu suturlu saa yu nekk.
 
 
 ;That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
-That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
+Moo tax nu beg lool biñ nu falee nuy Këru Internet giñ Gën a Wóolu ci Sàmm Sutura.
 
 
 ;MOST TRUSTED INTERNET COMPANY FOR PRIVACY
-MOST TRUSTED INTERNET COMPANY FOR PRIVACY
+KËRU INTERNET GIÑ GËN A WÓOLU CI SÀMM SUTURA
 
 
 # Global Settings
 # Time Format (i.e. 12:34 PM for en-US)
 ;12:34 PM
-12:34 PM
+12:34 CI NGOON
 
 
 # Date Format (i.e. 01/21/2015 for January 21st, 2015)
 ;01/21/2015
-01/21/2015
+21/01/2015
 
 
 # Screen 2 (Browser Start Page)
 ;Firefox Start Page
-Firefox Start Page
+Xëtu Doorug Firefox
 
 
 ;Top Sites
-Top Sites
+Dal yi Gën a Mag
 
 
 # Screen 3 (Calendar Day)
 ;Nov 1, Tuesday
-Nov 1, Tuesday
+Talaata, Now 1
 
 
 # NOTE: make a local sounding name, or use one of the names in Contact list
 ;[Harly’s] Birthday
-[Harly’s] Birthday
+Bisu juddu [Aminaa]
 
 
 # NOTE: choose any location, doesn’t have to be a conference room or hotel room
 ;Room 801
-Room 801
+Néeg 801
 
 
 # NOTE: no need to be a technical meeting, Social event is fine
 ;HTML5 Conference
-HTML5 Conference
+Waxtaane HTML5
 
 
 # NOTE: choose any location that suits the event above
 ;Palace Ho
-Palace Ho
+Pale Ho
 
 
 ;Month
-Month
+Weer
 
 
 ;Week
-Week
+Ayu-bis
 
 
 ;Day
-Day
+Bis
 
 
 # Screen 4 (Calendar Event): NOTE: Indicate time and date display format that’s appropriate in your country. Check product UI terms for the actual strings.
 ;Add Event
-Add Event
+Yokk Xew-xew
 
 
 ;Done
-Done
+Noppina
 
 
 ;Title
-Title
+Tur
 
 
 ;Where
-Where
+Fan
 
 
 ;All day event?
-All day event?
+Xew-xewu bis bi?
 
 
 ;Calendar
-Calendar
+Arminaat
 
 
 ;Attendees
-Attendees
+Way-teewe
 
 
 ;Repeat
-Repeat
+Baamtu
 
 
 ;Never
-Never
+Mukk
 
 
 # Screen 5 (Calendar Event Detail): NOTE: this page has content that should be localized instead of translated.  Find event that is more applicable than what’s presented.
 ;Event Details
-Event Details
+Leerali xew-xew
 
 
 ;Edit
-Edit
+Soppali
 
 
 # NOTE: subject of meeting can be something else
 ;Productivity Meeting
-Productivity Meeting
+Waxtaanu Liggéey
 
 
 ;From 3:00PM Thursday, Dec 8, 2014 to 4:00 PM Friday, Dec 8, 2014
-From 3:00PM Thursday, Dec 8, 2014 to 4:00 PM Friday, Dec 8, 2014
+Dalee 3:00 ci Ngoon, Talaata 8 Des, 2014, ba 4:00 ci Ngoon, Aljuma 8 Des, 2014
 
 
 # NOTE: if the event is personal in nature, please change to personal calendar
 ;Work Calendar
-Work Calendar
+Arminaatu Liggéey
 
 
 ;Reminder:
-Reminder:
+Fàttalikaay:
 
 
 ;10 minutes before
-10 minutes before
+Bu desee 10 simili
 
 
 ;1 day before
-1 day before
+Bu desee 1 bis
 
 
 ;2 hours before
-2 hours before
+Bu desee 2 waxtu
 
 
 ;1 hour before
-1 hour before
+Bu desee 1 waxtu
 
 
 ;All time of event
-All time of event
+Diiru xew-xew bi yépp
 
 
 ;7 Invites
-7 Invites
+7 nit a ci bokk
 
 
 # NOTE: feel free to use a localized name as file name
 ;file 1.png (150k)
-file 1.png (150k)
+taxañ 1.png (150k)
 
 
 # NOTE: use the locally appropriate way to address the attendees
 ;Dear all,
-Dear all,
+Mbokk yi,
 
 
 # NOTE: made up message that corresponds to the subject of the meeting.
 ;[Please reserve your time for the productivity meeting on this Tuesday, De-]
-[Please reserve your time for the productivity meeting on this Tuesday, De-]
+Na ñépp bàyyi xel ci ndajem liggéey miy am Talaata bii, De-
 
 
 ;Accept
-Accept
+Nangu
 
 
 ;Maybe
-Maybe
+Mën na am
 
 
 ;Decline
-Decline
+Gàntu
 
 
 # Screen 7 (Clock Analog)
 ;Monday, March 25
-Monday, March 25
+Altine, 25 Mars
 
 
 ;Alarm
-Alarm
+Àrtu
 
 
 ;Mon, Tue, Wed, Thu, Fri, Sat, Sun
-Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Alt, Tal, Àla, Alx, Alj, Ase, Dib
 
 
 ;Timer
-Timer
+Montar
 
 
 ;Stopwatch
-Stopwatch
+Krono
 
 
 # Screen 9 (Clock Edit Alarm)
 ;New alarm
-New alarm
+Àrtu bu bees
 
 
 ;Alarm name
-Alarm name
+Turu àrtu
 
 
 ;Time
-Time
+Waxtu
 
 
 ;Sound
-Sound
+Sonëri
 
 
 ;Classic Buzz
-Classic Buzz
+Bëzu Cosaan
 
 
 ;Snooze
-Snooze
+Nelawal
 
 
 ;5 minutes
-5 minutes
+5 simili
 
 
 # Screen 10 (Contact Detail); NOTE: In this section, everything is made up.  1). Name should be from one of the contacts for easy tracking and consistency within the screenshot file. 2). The phone number should have correct country code, area code.  3). Company name is made up; 4). Email name can be fake, and made up domain name.
 ;[name of one of the contacts, male]
-[name of one of the contacts, male]
+Musaa Faye
 
 
 ;[made up company name]
-[made up company name]
+Jàngalekat
 
 
 ;MOBILE
-MOBILE
+PORTAABAL
 
 
 ;[made up mobile phone number, with correct area code]
-[made up mobile phone number, with correct area code]
++221 77 677 11 49
 
 
 ;HOME
-HOME
+KËR
 
 
 ;[made up landline phone number, with correct country code and area code]
-[made up landline phone number, with correct country code and area code]
++221 33 834 15 49
 
 
 ;WORK
-WORK
+LIGGEEY
 
 
 ;[fake work email address]
-[fake work email address]
+moussa33@jàngalekat.sn
 
 
 ;PERSONAL
-PERSONAL
+SAMA BOPP
 
 
 ;[fake personal email address]
-[fake personal email address]
+moussa33@xippi.com
 
 
 ;Remove from favorites
-Remove from favorites
+Dindi ci yiñ taamu
 
 
 # Screen 11 (Contact List): NOTE: this is the most difficult page to localize.  Make sure you provide FAKE contacts following these guidelines: 1). 12 contacts, 6 male names and 6 female names.  Indicate which one is which; 2). At least half of the 12 have company names indicated, they can be made up companies; 3). Indicate if the sorting order of names is by family name or given name; 4). Following the sorting order, please provide names with consecutive initials (abc or jkl, xyz, etc).
 ;Contacts
-Contacts
+Xame yi
 
 
 ;Search
-Search
+Seet
 
 
 ;[contact #1: Travis Allen (m)/T. Tray Photography]
-[contact #1: Travis Allen (m)/T. Tray Photography]
+[contact #1: Ousmane Ba (m)/Gañilaa]
 
 
 ;[contact #2: Will Amber (m)/CBN Studios]
-[contact #2: Will Amber (m)/CBN Studios]
+[contact #2: Mamadou Bane (m)/Ñawkat]
 
 
 ;[contact #3: Kevin Baker (m)/Mozilla]
-[contact #3: Kevin Baker (m)/Mozilla]
+[contact #3: Moussa Diaw (m)/Dóor Waar]
 
 
 ;[contact #4: Noah Benson (m)/Benson Studios]
-[contact #4: Noah Benson (m)/Benson Studios]
+[contact #4: Malick Diop (m)/Boroom Tool yi]
 
 
 ;[contact #5: Ava Brown (f)/Atsara Kitchen]
-[contact #5: Ava Brown (f)/Atsara Kitchen]
+[contact #5: Ami Diouf (f)/Léttkat]
 
 
 ;[contact #6: Name (gender)/Company]
-[contact #6: Name (gender)/Company]
+[contact #6: Nogaye Fall (f)/Sotiba]
 
 
 ;[contact #7: Name (gender)/Company]
-[contact #7: Name (gender)/Company]
+[contact #7: Moussa Faye (m)/Jàngalekat]
 
 
 ;[contact #8: Name (gender)/Company]
-[contact #8: Name (gender)/Company]
+[contact #8: Khady Gaye (f)/Delgas]
 
 
 ;[contact #9: Name (gender)/Company]
-[contact #9: Name (gender)/Company]
+[contact #9: Rama Gueye (f)/UCAD]
 
 
 ;[contact #10: Name (gender)/Company]
-[contact #10: Name (gender)/Company]
+[contact #10: Aicha Hakim (f)/ESP]
 
 
 ;[contact #11: Name (gender)/Company]
-[contact #11: Name (gender)/Company]
+[contact #11: Cheikh Kane (m)/ACEP]
 
 
 ;[contact #12: Name (gender)/Company]
-[contact #12: Name (gender)/Company]
+[contact #12: Fatoumata Ly (f)/Baana-baana]
 
 
 # Screen 12 (Data Usage):
 ;Usage
-Usage
+Jëfandiku
 
 
 ;Oct 1, Oct 20, Oct 31
-Oct 1, Oct 20, Oct 31
+Okt 1, Okt 20, Okt 31
 
 
 ;Mobile usage
-Mobile usage
+Jëfandikug portaabal
 
 
 ;Wi-Fi usage
-Wi-Fi usage
+Jëfandikug Wi-Fi
 
 
 # Screen 14 (Dialer Outgoing call) NOTE: Several strings in #13 can be leveraged from screens #10 and 11, thus not repeated here
 ;Connecting
-Connecting
+Mi ngi woo
 
 
 # Screen 15 (Email Compose) NOTE: Names in the To: field can be from the contact list
 ;Compose
-Compose
+Bind
 
 
 ;To
-To
+Ci 
 
 
 ;cc
-cc
+ak 
 
 
 ;bcc
-bcc
+akit 
 
 
 # E-mail subject, replace "[made up subject]" with something relevant, e.g. "Subject: Getting together"
 ;Subject: [made up subject]
-Subject: [made up subject]
+Mébet: [ndajem aseer mi]
 
 
 ;Hi [one of the contacts in screen #11]
-Hi [one of the contacts in screen #11]
+Malick Diop Nanga def
 
 
 ;[Make up a fake message that corresponds to the subject.]
-[Make up a fake message that corresponds to the subject.]
+[War nanoo daje aseer nun ñépp ndax danu gëj a gise.]
 
 
 ;SPACE
-SPACE
+ESPACE
 
 
 ;NEXT
-NEXT
+SUIV.
 
 
 # Screen 16 (Email list) NOTE: we will use the names from the Contact list provided in screen #11
 ;Inbox
-Inbox
+Boyet-bat.
 
 
 ;RE: Send photos please/You’re the best! Thanks so much!
-RE: Send photos please/You’re the best! Thanks so much!
+RE: Baal ma yónnee ma nataal yi/Amoo moroom! Jërëjëf!
 
 
 ;RE: Please Confirm Subscription/I’ve been wanting to visit that place
-RE: Please Confirm Subscription/I’ve been wanting to visit that place
+RE: Mbaa Jot nga Bindu/Yàkkamti naa siyaare barab boobu
 
 
 ;RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
-RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
+RE: Doo ñëw nu tukki njeexitu ayu-bis bii?/Danga may nax rek! Maa ngi ci biir
 
 
 ;We’re Moving!/Hello Friends! Join us on Saturday for a fun and
-We’re Moving!/Hello Friends! Join us on Saturday for a fun and
+Noo ngi dem!/Gaayi na ngeen def! Nu ngi lay xaar Aseer nu bégal sunu xol
 
 
 ;RE: It was nice meeting you!/Hi mate, I heard you're going to the show
-RE: It was nice meeting you!/Hi mate, I heard you're going to the show
+RE: Ndaje mi neexoon na!/Sama waay, Dégg naa dangay dem ci konseer ba
 
 
 ;Yesterday
-Yesterday
+Démb
 
 
 ;1 week ago
-1 week ago
+Am na 1 ayu-bis
 
 
 ;Last sync: Just now
-Last sync: Just now
+Lëkk. gu mujj: Leegi nii
 
 
 # Screen 17 (Email Reading): NOTE: we will use names from contact list in screen #10 and #11
 ;Re: [fake subject, can pick one in screen #16]
-Re: [fake subject, can pick one in screen #16]
+Re: [Dem Ngéntel Babacar]
 
 
 ;10 hours ago
-10 hours ago
+Am na 10 waxtu
 
 
 # Image attachment filename example
 ;image20150813.jpg
-image20150813.jpg
+image20150813.jpg {ok}
 
 
 ;Hi All [or whatever the proper greeting is]
-Hi All [or whatever the proper greeting is]
+[Mbokk yi nangeen def]
 
 
 ;[fake message that corresponds to the subject]
-[fake message that corresponds to the subject]
+[Bu fàtte ni Talaata jii di ñëw la géntel Babacar]
 
 
 ;Thanks!
-Thanks!
+Jaa ngeen jëf!
 
 
 # Screen 18 (EME Party) NOTE: the screen contains popular apps; names will remain as they are.
 ;Social
-Social
+Penc
 
 
 ;Phone
-Phone
+Woote
 
 
 ;Messages
-Messages
+Bataaxal
 
 
 ;E-Mail
-E-Mail
+Iméel
 
 
 # Screen 21 (Gallery Thumbmails)
 ;February 2014
-February 2014
+Fewriyee 2014
 
 
 # Screen 22 (Home Screen 3 Column Layout)
 ;Search or enter address
-Search or enter address
+Seet walla dugal màkkaan
 
 
 ;Dialer
-Dialer
+Wootekaay
 
 
 ;Browser
-Browser
+Xuusukaay
 
 
 ;Games
-Games
+Po yi
 
 
 ;Music
-Music
+Misik
 
 
 # Screen 23 (Home Screen 4 Column Layout)
 ;Camera
-Camera
+Kameraa
 
 
 ;Gallery
-Gallery
+Kàggu
 
 
 ;Showbiz
-Showbiz
+Soowbiis 
 
 
 ;Clock
-Clock
+Montar
 
 
 ;Video
-Video
+Wideo
 
 
 ;FM Radio
-FM Radio
+Rajo FM
 
 
 # Screen 24 (Lock Screen Normal)
 ;Carrier
-Carrier
+Senjob
 
 
 ;Friday March 1
-Friday March 1
+Aljuma 1 fan ci Mars
 
 
 # Screen 25 (Lock Screen Notification/Music Player) NOTE: We will use one of the contacts in screen #11);
 ;[Wanna grab lunch tomorrow? Or change to something more appropriate]
-[Wanna grab lunch tomorrow? Or change to something more appropriate]
+[Suba suppu kànja la dinga ñëw?]
 
 
 ;Hi!
-Hi!
+Nanga def!
 
 
 ;16m ago, 19m ago
-16m ago, 19m ago
+am na 16sim, am na 16sim
 
 
 ;[Fake song title/fake musician name]
-[Fake song title/fake musician name]
+[Sama Yaay/Modou Diémé]
 
 
 # Screen 26 (Messaging Compose): NOTE: We will use one of the contacts in screen #11 for the name
 ;Your subject here
-Your subject here
+Bindal sa mébet fii
 
 
 ;Write your message…
-Write your message…
+Bindal fii sa bataaxal…
 
 
 # Screen 27 (Messaging Conversation): NOTE: Contact and Subject line are from screen #26.
 ;[fake message #1 relevant to the subject]
-[fake message #1 relevant to the subject]
+[tay dama bëgg seeti sama ñaw yi]
 
 
 ;[fake message #2 relevant to the subject]
-[fake message #2 relevant to the subject]
+[Fooy waaj a tojati. jamono jii yaa koy daggate]
 
 
 ;[fake message #3 relevant to the subject]
-[fake message #3 relevant to the subject]
+[Sama xarit mooy am xew fan yii. Ma war ko sargal bu baax]
 
 
 # Screen 28 (Messaging List) NOTE: Use Contact list for this page; messages can be leveraged from Screen #16
 # Screen 29 (Music Grid) NOTE: Provide fake band and album titles for this screen.  You can translate some titles to match the images.  You can leverage some of the existing fake titles/artists on the screen.
 ;[Fake album title/band or artist #1]
-[Fake album title/band or artist #1]
+[Ay nelaw faju ka/Kelela #1]
 
 
 ;[Fake album title/band or artist #2]
-[Fake album title/band or artist #2]
+[Jàppal bu dem/Milkzoo #2]
 
 
 ;[Fake album title/band or artist #3]
-[Fake album title/band or artist #3]
+[Neex a dëkkal/KIMA DOON #3]
 
 
 ;[Fake album title/band or artist #4]
-[Fake album title/band or artist #4]
+[Lu mën a doon/Cool Asane #4]
 
 
 ;[Fake album title/band or artist #5]
-[Fake album title/band or artist #5]
+[Fecci Fàtte/Adamiska #5]
 
 
 ;[Fake album title/band or artist #6]
-[Fake album title/band or artist #6]
+[Doom ci Daara/Kàddu Askan]
 
 
 ;[Fake album title/band or artist #7]
-[Fake album title/band or artist #7]
+[Bul ko fàtte/Demba Ndongo]
 
 
 ;[Fake album title/band or artist #8]
-[Fake album title/band or artist #8]
+[Jëf ju baax/Xadim Sene]
 
 
 # Screen 30 (Music Player) NOTE: Leverage one set from screen #29
 ;Song Title
-Song Title
+Turu Way wi
 
 
 # Screen 31 (Notifications) NOTE: Leverage messages from screen #16 and time from #25
 ;Notifications
-Notifications
+Yëgle yi
 
 
 ;Clear All
-Clear All
+Dindi Lépp
 
 
 ;Missed Call
-Missed Call
+Woote yiñ Wuyyuwul
 
 
 ;New SIM inserted
-New SIM inserted
+SIM bu bees dugg na
 
 
 ;Tap to track your internet usage
-Tap to track your internet usage
+Bësal ngir topp sag jëfandikoo internet
 
 
 # Screen 32 (Ringtone)
 ;Manage Ringtones
-Manage Ringtones
+Tànn Sonëri yi
 
 
 ;Classics
-Classics
+Kalaasik yi
 
 
 ;Classic Electric
-Classic Electric
+Kalaasik Elektrik
 
 
 ;Classic Wallphone
-Classic Wallphone
+Telefon kalaasik
 
 
 ;Disco Drive
-Disco Drive
+Disko Drive
 
 
 ;Vamos La Electro
@@ -669,123 +669,124 @@ Vamos La Electro
 
 
 ;Created Ringtones
-Created Ringtones
+Sonëri yi nga Sos
 
 
 ;[fake song title/artist #1]
-[fake song title/artist #1]
+[Ku mu neexul/Viviane]
 
 
 ;[fake song title/artist #2]
-[fake song title/artist #2]
+[Bëgg naa la/Salif Wone #2]
 
 
 ;[fake song title/artist #3]
-[fake song title/artist #3]
+[Dama doon seet/Guddi Diop #3]
 
 
 # Screen 33 (Settings)
 ;Settings
-Settings
+Jekkal yi
 
 
 ;Network & Connectivity
-Network & Connectivity
+Reso & Lënkute
 
 
 ;Airplane mode
-Airplane mode
+Anamu roppalaan
 
 
 ;Geolocation
-Geolocation
+Wëree satelit
 
 
 ;Wi-Fi
-Wi-Fi
+Wi-Fi {ok}
 
 
 # Replace the fake network name with one of your choice
 ;Connected to [fake network name]
-Connected to [fake network name]
+Lënku na ci [SAMA MBAAL]
 
 
 ;SIM manager
-SIM manager
+saytukaayu SIM
 
 
 ;Call Settings
-Call Settings
+Jekkali Woote
 
 
 ;Messaging Settings
-Messaging Settings
+Jekkali Bataaxal
 
 
 ;Cellular & Data
-Cellular & Data
+Portaabal & Njoxe
 
 
 ;Bluetooth
-Bluetooth
+Bluetooth {ok}
 
 
 # Screen 34 (Settings Sound)
 ;Vibrate
-Vibrate
+Wiibre
 
 
 ;Volume
-Volume
+Xumbaay
 
 
 ;Media
-Media
+Mejaa
 
 
 ;Ringer & Notifications
-Ringer & Notifications
+Sonëri & Yëgle yi
 
 
 ;Tones
-Tones
+Bip tuus
 
 
 ;Ringer
-Ringer
+Sonëri
 
 
 ;Alerts
-Alerts
+Àrtu yi
 
 
 # Screenshot 35 (Video List) NOTE: Replace the following names with culturally appropriate names for these video clips.  We will try to find appropriate images suitable for the targeted country
 ;July 2014
-July 2014
+Sulet 2014
 
 
 ;August 2014
-August 2014
+Ut 2014
 
 
 ;Happy Birthday Ty
-Happy Birthday Ty
+Aniwerseeru bebe Aicha
 
 
 ;Beach day with Uncle Ben
-Beach day with Uncle Ben
+Souleymane ak ay jarbaatam ci géej gi
 
 
 ;Dixie’s First Snow Day
-Dixie’s First Snow Day
+Bobee ngi soog a gis nees
 
 
 ;Backyard BBQ with Eva’s Friends
-Backyard BBQ with Eva’s Friends
+Awa ak ay xaritam a ngi lakk yàpp 
 
 
 # Screens 36 (Video Play)
 ;Happy Birthday…
-Happy Birthday…
+Aniwerseer bu Neex…
+
 
 
