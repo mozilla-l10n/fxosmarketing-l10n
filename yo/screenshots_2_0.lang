@@ -5,787 +5,788 @@
 
 # Screen 1  (Browser) NOTE: If all caps is not appropriate in your language, you don’t need to follow the same style.  Be mindful the 3rd string below has limited space. Try to be concise.
 ;Made with a mission to put you first
-Made with a mission to put you first
+Tí a ṣẹ̀dá pẹ̀lú èròǹgbà láti fí ọ́ ṣáájú
 
 
 ;We’ve always designed Firefox to protect and respect your private information.
-We’ve always designed Firefox to protect and respect your private information.
+Atì ṣàgbékalẹ̀ Firefox láti dábòbò àti bọ̀wọ̀fún ìwifún ẹlẹ́ni rẹ.
 
 
 ;That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
-That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
+Ìdí nìyí tí a ní ìdérí láti ní ìbò fún Ilé Iṣẹ́ Tí ó ṣee fọ̀kàntán júu fún Ìpamọ́.
 
 
 ;MOST TRUSTED INTERNET COMPANY FOR PRIVACY
-MOST TRUSTED INTERNET COMPANY FOR PRIVACY
+ILÉ IṢẸ́ TÍ Ó ṢEE FỌKÀNTÁN JÚU FÚN ÌPAMỌ́
 
 
 # Global Settings
 # Time Format (i.e. 12:34 PM for en-US)
 ;12:34 PM
-12:34 PM
+12:34 PM {ok}
 
 
 # Date Format (i.e. 01/21/2015 for January 21st, 2015)
 ;01/21/2015
-01/21/2015
+01/21/2015 {ok}
 
 
 # Screen 2 (Browser Start Page)
 ;Firefox Start Page
-Firefox Start Page
+Ojú ewé Ìbẹ̀rẹ̀ Firefox 
 
 
 ;Top Sites
-Top Sites
+Àwọn Ojú wẹ́ẹ̀bù tí ó Gajù
 
 
 # Screen 3 (Calendar Day)
 ;Nov 1, Tuesday
-Nov 1, Tuesday
+Béélu 1, Ìṣẹ́gun
 
 
 # NOTE: make a local sounding name, or use one of the names in Contact list
 ;[Harly’s] Birthday
-[Harly’s] Birthday
+Ọjọ́ ìbi Àlí
 
 
 # NOTE: choose any location, doesn’t have to be a conference room or hotel room
 ;Room 801
-Room 801
+Ìyàrá 801
 
 
 # NOTE: no need to be a technical meeting, Social event is fine
 ;HTML5 Conference
-HTML5 Conference
+HTML5 Àpèjọ
 
 
 # NOTE: choose any location that suits the event above
 ;Palace Ho
-Palace Ho
+Ààfin Ho
 
 
 ;Month
-Month
+Oṣù
 
 
 ;Week
-Week
+Ọsẹ̀
 
 
 ;Day
-Day
+Ọjọ́
 
 
 # Screen 4 (Calendar Event): NOTE: Indicate time and date display format that’s appropriate in your country. Check product UI terms for the actual strings.
 ;Add Event
-Add Event
+Ṣafikun Ìṣẹ̀lẹ̀ 
 
 
 ;Done
-Done
+Ti ṣe tán
 
 
 ;Title
-Title
+Àkọlé
 
 
 ;Where
-Where
+Níbo
 
 
 ;All day event?
-All day event?
+Ìṣẹ̀lẹ̀ gbogbo ọjọ́?
 
 
 ;Calendar
-Calendar
+Kàlẹ́ndà
 
 
 ;Attendees
-Attendees
+Àwọn olùkópa
 
 
 ;Repeat
-Repeat
+Túnṣe
 
 
 ;Never
-Never
+láéláé
 
 
 # Screen 5 (Calendar Event Detail): NOTE: this page has content that should be localized instead of translated.  Find event that is more applicable than what’s presented.
 ;Event Details
-Event Details
+Ẹ̀kúnrẹ́rẹ́ àwọn Ìṣẹlẹ̀
 
 
 ;Edit
-Edit
+Ṣàtúnṣe
 
 
 # NOTE: subject of meeting can be something else
 ;Productivity Meeting
-Productivity Meeting
+Ìpàdé Ìṣàgbéjádesí
 
 
 ;From 3:00PM Thursday, Dec 8, 2014 to 4:00 PM Friday, Dec 8, 2014
-From 3:00PM Thursday, Dec 8, 2014 to 4:00 PM Friday, Dec 8, 2014
+Lati 3:00PM Ọjọ́bọ, Dec 8, 2014 sí 4:00 PM Ẹtì, Dec 8, 2014
 
 
 # NOTE: if the event is personal in nature, please change to personal calendar
 ;Work Calendar
-Work Calendar
+Kàlẹ́ndà Iṣẹ́
 
 
 ;Reminder:
-Reminder:
+Aránnilétí:
 
 
 ;10 minutes before
-10 minutes before
+Ìṣẹ́jù mẹ́wà ṣaajú
 
 
 ;1 day before
-1 day before
+Ọjọ́ kan ṣáájú
 
 
 ;2 hours before
-2 hours before
+Wákàtí méjì ṣaajú
 
 
 ;1 hour before
-1 hour before
+Wákàtí kan ṣaajú
 
 
 ;All time of event
-All time of event
+Gbogbo àkókò ìṣẹ̀lẹ̀
 
 
 ;7 Invites
-7 Invites
+Àwọn méje tí a pè
 
 
 # NOTE: feel free to use a localized name as file name
 ;file 1.png (150k)
-file 1.png (150k)
+fáìlì 1.png (150k)
 
 
 # NOTE: use the locally appropriate way to address the attendees
 ;Dear all,
-Dear all,
+Olólùfẹ́ gbogbo,
 
 
 # NOTE: made up message that corresponds to the subject of the meeting.
 ;[Please reserve your time for the productivity meeting on this Tuesday, De-]
-[Please reserve your time for the productivity meeting on this Tuesday, De-]
+[Jọ̀wọ́ ṣàfipamọ́ àkókò rẹ fún ìpàdé ìṣàgbéjádesí ní ojó ìṣẹ́gun, De-]
 
 
 ;Accept
-Accept
+Gbà
 
 
 ;Maybe
-Maybe
+Bóyá
 
 
 ;Decline
-Decline
+Kọ̀
 
 
 # Screen 7 (Clock Analog)
 ;Monday, March 25
-Monday, March 25
+Ajé, Ẹ̀rẹ́nà 25
 
 
 ;Alarm
-Alarm
+Aago ìtanijí
 
 
 ;Mon, Tue, Wed, Thu, Fri, Sat, Sun
-Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Ajé, Ìṣẹ́gun, Ọjọ́rù, Ọjọ́bọ, Ẹtì, Àbámẹ́ta, Àìkú
 
 
 ;Timer
-Timer
+Adíwọ̀n àkókò
 
 
 ;Stopwatch
-Stopwatch
+Ago ìwòṣiṣẹ́
 
 
 # Screen 9 (Clock Edit Alarm)
 ;New alarm
-New alarm
+Aago ìtanijí titun
 
 
 ;Alarm name
-Alarm name
+Orúkọ aago ìtanijí
 
 
 ;Time
-Time
+Àkókò
 
 
 ;Sound
-Sound
+Ohùn
 
 
 ;Classic Buzz
-Classic Buzz
+Aláìlẹ́gbẹ́ Aláriwo
 
 
 ;Snooze
-Snooze
+Gbòn
 
 
 ;5 minutes
-5 minutes
+Àwọn ìṣẹjú márùn
 
 
 # Screen 10 (Contact Detail); NOTE: In this section, everything is made up.  1). Name should be from one of the contacts for easy tracking and consistency within the screenshot file. 2). The phone number should have correct country code, area code.  3). Company name is made up; 4). Email name can be fake, and made up domain name.
 ;[name of one of the contacts, male]
-[name of one of the contacts, male]
+[Ìdèlé]
 
 
 ;[made up company name]
-[made up company name]
+[T. Ìyafọ́tò Tray]
 
 
 ;MOBILE
-MOBILE
+ALÁGBEKÁ
 
 
 ;[made up mobile phone number, with correct area code]
-[made up mobile phone number, with correct area code]
+[+23480239409]
 
 
 ;HOME
-HOME
+ILÉ
 
 
 ;[made up landline phone number, with correct country code and area code]
-[made up landline phone number, with correct country code and area code]
+[+2341234952]
 
 
 ;WORK
-WORK
+IṢẸ́
 
 
 ;[fake work email address]
-[fake work email address]
+[Ìdèlé@Ìyafọ́tò.com]
 
 
 ;PERSONAL
-PERSONAL
+ẸLẸ́NI
 
 
 ;[fake personal email address]
-[fake personal email address]
+[dare@gmail.com]
 
 
 ;Remove from favorites
-Remove from favorites
+Ṣàyọkúrò láti àwọn ààyò
 
 
 # Screen 11 (Contact List): NOTE: this is the most difficult page to localize.  Make sure you provide FAKE contacts following these guidelines: 1). 12 contacts, 6 male names and 6 female names.  Indicate which one is which; 2). At least half of the 12 have company names indicated, they can be made up companies; 3). Indicate if the sorting order of names is by family name or given name; 4). Following the sorting order, please provide names with consecutive initials (abc or jkl, xyz, etc).
 ;Contacts
-Contacts
+àwọn olùbásọ̀rọ̀
 
 
 ;Search
-Search
+wá
 
 
 ;[contact #1: Travis Allen (m)/T. Tray Photography]
-[contact #1: Travis Allen (m)/T. Tray Photography]
+[olùbásọ̀rọ̀ #1: Ìdèlé Adéwálé (m)/T. Ìyafọ́tò Tray]
 
 
 ;[contact #2: Will Amber (m)/CBN Studios]
-[contact #2: Will Amber (m)/CBN Studios]
+[olùbásọ̀rọ̀ #2: Dẹ́bọ̀ Adébòmẹ́yìn (m)/CBN Studios]
 
 
 ;[contact #3: Kevin Baker (m)/Mozilla]
-[contact #3: Kevin Baker (m)/Mozilla]
+[olùbásọ̀rọ̀ #3: Fàtàí Adéṣínà (m)/Mozilla]
 
 
 ;[contact #4: Noah Benson (m)/Benson Studios]
-[contact #4: Noah Benson (m)/Benson Studios]
+[olùbásọ̀rọ̀ #4: Ìdèlé Bánbọ̀ (m)/Benson Studios]
 
 
 ;[contact #5: Ava Brown (f)/Atsara Kitchen]
-[contact #5: Ava Brown (f)/Atsara Kitchen]
+[olùbásọ̀rọ̀ #5: Gbádé Bọ́lá (f)/Atsara Kitchen]
 
 
 ;[contact #6: Name (gender)/Company]
-[contact #6: Name (gender)/Company]
+[olùbásọ̀rọ̀ #6: Límọ́tà Débọ̀/Ìjọ Ìrapadà]
 
 
 ;[contact #7: Name (gender)/Company]
-[contact #7: Name (gender)/Company]
+[olùbásọ̀rọ̀ #7: Nímọ́tà Òjó/Ìsọ Ẹbunoluwa]
 
 
 ;[contact #8: Name (gender)/Company]
-[contact #8: Name (gender)/Company]
+[olùbásọ̀rọ̀ #8: Ọdẹ́rìndẹ́ Pétérù/Agbẹ́kọ́lá]
 
 
 ;[contact #9: Name (gender)/Company]
-[contact #9: Name (gender)/Company]
+[olùbásọ̀rọ̀ #9: Ràúfù Ṣínà/Ilé Iṣẹ́ Àgbẹ̀]
 
 
 ;[contact #10: Name (gender)/Company]
-[contact #10: Name (gender)/Company]
+[olùbásọ̀rọ̀ #10: Táyọ̀ Yínúsà/Ìsọ̀ Màmá Bísí]
 
 
 ;[contact #11: Name (gender)/Company]
-[contact #11: Name (gender)/Company]
+[olùbásọ̀rọ̀ #11: Tosin Mínà/Ẹlẹ́dẹ̀ Ré]
 
 
 ;[contact #12: Name (gender)/Company]
-[contact #12: Name (gender)/Company]
+[olùbásọ̀rọ̀ #12: Jùmọ̀kẹ́ Nímọ́tà/Yà koyó]
 
 
 # Screen 12 (Data Usage):
 ;Usage
-Usage
+Ilò
 
 
 ;Oct 1, Oct 20, Oct 31
-Oct 1, Oct 20, Oct 31
+Ọwàrá 1, Ọwàrá 20, Ọwàrá 31
 
 
 ;Mobile usage
-Mobile usage
+Ilò alágbèká
 
 
 ;Wi-Fi usage
-Wi-Fi usage
+Ilò Wi-Fi 
 
 
 # Screen 14 (Dialer Outgoing call) NOTE: Several strings in #13 can be leveraged from screens #10 and 11, thus not repeated here
 ;Connecting
-Connecting
+Ìsopọ̀
 
 
 # Screen 15 (Email Compose) NOTE: Names in the To: field can be from the contact list
 ;Compose
-Compose
+Ṣẹ̀dá
 
 
 ;To
-To
+Sí
 
 
 ;cc
-cc
+cc {ok}
 
 
 ;bcc
-bcc
+bcc {ok}
 
 
 # E-mail subject, replace "[made up subject]" with something relevant, e.g. "Subject: Getting together"
 ;Subject: [made up subject]
-Subject: [made up subject]
+Orí ọ̀rọ̀: [tí ó ní orí ọ̀rọ̀]
 
 
 ;Hi [one of the contacts in screen #11]
-Hi [one of the contacts in screen #11]
+Bawo [Bísí]
 
 
 ;[Make up a fake message that corresponds to the subject.]
-[Make up a fake message that corresponds to the subject.]
+[Ilé oúnjẹ yàkoyó.]
 
 
 ;SPACE
-SPACE
+ÀÀYÈ
 
 
 ;NEXT
-NEXT
+TÓKÀN
 
 
 # Screen 16 (Email list) NOTE: we will use the names from the Contact list provided in screen #11
 ;Inbox
-Inbox
+Inúàpótí
 
 
 ;RE: Send photos please/You’re the best! Thanks so much!
-RE: Send photos please/You’re the best! Thanks so much!
+RE: Jọ̀wọ́ fi àwọn fótò jiṣẹ́/Ìwọ lo dára jù! O ṣeun gan!
 
 
 ;RE: Please Confirm Subscription/I’ve been wanting to visit that place
-RE: Please Confirm Subscription/I’ve been wanting to visit that place
+RE: Jọ̀wọ́ Jẹ́rì Ìforúkọsílẹ̀/Mo tí ń dúró láti kànsí ibí
 
 
 ;RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
-RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
+RE: Ìrìn àjo lópin ọsẹ̀?/Ìṣàwarí tó dára! Ó dájú pé n ó bèèrè lọ́wọ́ ẹnìkan
 
 
 ;We’re Moving!/Hello Friends! Join us on Saturday for a fun and
-We’re Moving!/Hello Friends! Join us on Saturday for a fun and
+A ti ńlọ!/Hàló ẹ̀yin Ọ̀rẹ́! Darapọ̀ mọ́ wa ní Àbámẹ́ta fún ìgbádùn àti
 
 
 ;RE: It was nice meeting you!/Hi mate, I heard you're going to the show
-RE: It was nice meeting you!/Hi mate, I heard you're going to the show
+RE: Ó dára pé a pàdé!/Báwo ẹlẹgbẹ́, mo gbọ́ pé o ńlo ibi ìwòran
 
 
 ;Yesterday
-Yesterday
+Àná
 
 
 ;1 week ago
-1 week ago
+Ọṣẹ̀ kan tó kọjá
 
 
 ;Last sync: Just now
-Last sync: Just now
+Ìbádọ́gba tó kọjá: Nísìyí
 
 
 # Screen 17 (Email Reading): NOTE: we will use names from contact list in screen #10 and #11
 ;Re: [fake subject, can pick one in screen #16]
-Re: [fake subject, can pick one in screen #16]
+Re: [Agbẹ̀kọ́yà]
 
 
 ;10 hours ago
-10 hours ago
+Wákàtì mẹ́wà sẹ́yìn
 
 
 # Image attachment filename example
 ;image20150813.jpg
-image20150813.jpg
+àwòrán20150813.jpg
 
 
 ;Hi All [or whatever the proper greeting is]
-Hi All [or whatever the proper greeting is]
+Báwo ni Gbogbo 
 
 
 ;[fake message that corresponds to the subject]
-[fake message that corresponds to the subject]
+[Ẹ̀yin agbẹ̀kọ́yà, a kíi yín kú ọdún àwọn àgbẹ̀]
 
 
 ;Thanks!
-Thanks!
+O ṣeun!
 
 
 # Screen 18 (EME Party) NOTE: the screen contains popular apps; names will remain as they are.
 ;Social
-Social
+Ojúlùmọ̀
 
 
 ;Phone
-Phone
+Fóònù
 
 
 ;Messages
-Messages
+Àwọn iṣẹ́
 
 
 ;E-Mail
-E-Mail
+Í-meélì
 
 
 # Screen 21 (Gallery Thumbmails)
 ;February 2014
-February 2014
+Èrèlé 2014
 
 
 # Screen 22 (Home Screen 3 Column Layout)
 ;Search or enter address
-Search or enter address
+Ṣàwarí tàbí wọlé àdírẹ̀sì
 
 
 ;Dialer
-Dialer
+Olùpè
 
 
 ;Browser
-Browser
+Aṣàwárí
 
 
 ;Games
-Games
+Àwọn Eré Ìdárayá
 
 
 ;Music
-Music
+Orin
 
 
 # Screen 23 (Home Screen 4 Column Layout)
 ;Camera
-Camera
+Kámẹ́rà
 
 
 ;Gallery
-Gallery
+Gbàgede
 
 
 ;Showbiz
-Showbiz
+Owò ìṣàfihàn
 
 
 ;Clock
-Clock
+Aago
 
 
 ;Video
-Video
+Fídíò
 
 
 ;FM Radio
-FM Radio
+FM Redíò
 
 
 # Screen 24 (Lock Screen Normal)
 ;Carrier
-Carrier
+Olùpèsè
 
 
 ;Friday March 1
-Friday March 1
+Etì Oṣù Ẹrẹ́nà 1
 
 
 # Screen 25 (Lock Screen Notification/Music Player) NOTE: We will use one of the contacts in screen #11);
 ;[Wanna grab lunch tomorrow? Or change to something more appropriate]
-[Wanna grab lunch tomorrow? Or change to something more appropriate]
+[O fẹ́gba oúnjẹ ọ̀sán báyì]
 
 
 ;Hi!
-Hi!
+Báwo!
 
 
 ;16m ago, 19m ago
-16m ago, 19m ago
+16m tó kọjá, 19m tó kọjá
 
 
 ;[Fake song title/fake musician name]
-[Fake song title/fake musician name]
+[Àgídìgbo/Fàtáì Dọ́là]
 
 
 # Screen 26 (Messaging Compose): NOTE: We will use one of the contacts in screen #11 for the name
 ;Your subject here
-Your subject here
+Orí ọ̀rọ̀ rẹ níbí
 
 
 ;Write your message…
-Write your message…
+Kọ iṣẹ́ rẹ…
 
 
 # Screen 27 (Messaging Conversation): NOTE: Contact and Subject line are from screen #26.
 ;[fake message #1 relevant to the subject]
-[fake message #1 relevant to the subject]
+[Ẹgbẹ́ alágìdìgbo]
 
 
 ;[fake message #2 relevant to the subject]
-[fake message #2 relevant to the subject]
+[Akí gbogbo ọmọ ẹgbẹ́]
 
 
 ;[fake message #3 relevant to the subject]
-[fake message #3 relevant to the subject]
+[Ọdún orin yóò tù wá lára o]
 
 
 # Screen 28 (Messaging List) NOTE: Use Contact list for this page; messages can be leveraged from Screen #16
 # Screen 29 (Music Grid) NOTE: Provide fake band and album titles for this screen.  You can translate some titles to match the images.  You can leverage some of the existing fake titles/artists on the screen.
 ;[Fake album title/band or artist #1]
-[Fake album title/band or artist #1]
+[Alápẹpẹ/Ẹgbẹ́ Apẹpẹ]
 
 
 ;[Fake album title/band or artist #2]
-[Fake album title/band or artist #2]
+[Orin Apẹpẹ/Ẹgbẹ́ Ìjẹ̀bú]
 
 
 ;[Fake album title/band or artist #3]
-[Fake album title/band or artist #3]
+[Elégún/Egún Jọbí]
 
 
 ;[Fake album title/band or artist #4]
-[Fake album title/band or artist #4]
+[Ijó ẹegún/Ẹgbẹ́ Egún]
 
 
 ;[Fake album title/band or artist #5]
-[Fake album title/band or artist #5]
+[Àgeré/Ẹgbẹ́ Apẹpẹ]
 
 
 ;[Fake album title/band or artist #6]
-[Fake album title/band or artist #6]
+[Ijó àgeré/Eré Mọdé]
 
 
 ;[Fake album title/band or artist #7]
-[Fake album title/band or artist #7]
+[Ijó fújì/Wásíù Àyìndé]
 
 
 ;[Fake album title/band or artist #8]
-[Fake album title/band or artist #8]
+[Oníjùjú/Sunny Adè]
 
 
 # Screen 30 (Music Player) NOTE: Leverage one set from screen #29
 ;Song Title
-Song Title
+Àkọlé orin
 
 
 # Screen 31 (Notifications) NOTE: Leverage messages from screen #16 and time from #25
 ;Notifications
-Notifications
+Ìfitoníletí
 
 
 ;Clear All
-Clear All
+Pa Gbogbo rẹ̀ rẹ́
 
 
 ;Missed Call
-Missed Call
+Ìpè tí a gbé
 
 
 ;New SIM inserted
-New SIM inserted
+Afi SIM titun si
 
 
 ;Tap to track your internet usage
-Tap to track your internet usage
+Fọwọ́ba láti tẹ̀lọ́rọ̀ ìlò íntánẹ́tì
 
 
 # Screen 32 (Ringtone)
 ;Manage Ringtones
-Manage Ringtones
+Ṣàkóso Àwọn ohùndídún
 
 
 ;Classics
-Classics
+Ọ̀nà àrà
 
 
 ;Classic Electric
-Classic Electric
+Ẹ̀lẹ́tírìkì Ọ̀nà àrà 
 
 
 ;Classic Wallphone
-Classic Wallphone
+Fóònù ara ògiri Ọ̀nà àrà
 
 
 ;Disco Drive
-Disco Drive
+Ìtukọ̀ Disco
 
 
 ;Vamos La Electro
-Vamos La Electro
+Vamos La Electro {ok}
 
 
 ;Created Ringtones
-Created Ringtones
+Ṣẹ̀dá Àwọn ohùndídún
 
 
 ;[fake song title/artist #1]
-[fake song title/artist #1]
+[Ṣòkí/Bàbá Sókì]
 
 
 ;[fake song title/artist #2]
-[fake song title/artist #2]
+[Ijó ṣòkí/Dáre Dee]
 
 
 ;[fake song title/artist #3]
-[fake song title/artist #3]
+[Ijó àpàlà/Àyìnlá Ọmọ Wúrà]
 
 
 # Screen 33 (Settings)
 ;Settings
-Settings
+Ààtò
 
 
 ;Network & Connectivity
-Network & Connectivity
+Nẹ́tíwọkì & Ìsopọ̀
 
 
 ;Airplane mode
-Airplane mode
+Móòdù ọkọ̀ bàálù
 
 
 ;Geolocation
-Geolocation
+Ibi Ìpamọ́ Geo
 
 
 ;Wi-Fi
-Wi-Fi
+Wi-Fi {ok}
 
 
 # Replace the fake network name with one of your choice
 ;Connected to [fake network name]
-Connected to [fake network name]
+Connected to àtùpà
 
 
 ;SIM manager
-SIM manager
+olùṣàkóso SIM 
 
 
 ;Call Settings
-Call Settings
+Ìpè ààtò
 
 
 ;Messaging Settings
-Messaging Settings
+Fífi àwọn ààtò jíṣẹ́
 
 
 ;Cellular & Data
-Cellular & Data
+Alágbeká & Dátà
 
 
 ;Bluetooth
-Bluetooth
+Bluetooth {ok}
 
 
 # Screen 34 (Settings Sound)
 ;Vibrate
-Vibrate
+Gbọ̀n
 
 
 ;Volume
-Volume
+Agbára ìró
 
 
 ;Media
-Media
+Mídíà
 
 
 ;Ringer & Notifications
-Ringer & Notifications
+Dídún & Ìfitoníletí
 
 
 ;Tones
-Tones
+Àwọn ohùn
 
 
 ;Ringer
-Ringer
+Dídún
 
 
 ;Alerts
-Alerts
+Àwọn Ìtanilólogó
 
 
 # Screenshot 35 (Video List) NOTE: Replace the following names with culturally appropriate names for these video clips.  We will try to find appropriate images suitable for the targeted country
 ;July 2014
-July 2014
+Agẹmọ 2014
 
 
 ;August 2014
-August 2014
+Ògún 2014
 
 
 ;Happy Birthday Ty
-Happy Birthday Ty
+Kú ọjọ́ Ìbí Táyé
 
 
 ;Beach day with Uncle Ben
-Beach day with Uncle Ben
+Ọjọ́ ìre òkun pẹ̀lú Ọnkú Bádé
 
 
 ;Dixie’s First Snow Day
-Dixie’s First Snow Day
+Ọjọ́ àkọkọ́ Dáre ní Yìnyín
 
 
 ;Backyard BBQ with Eva’s Friends
-Backyard BBQ with Eva’s Friends
+Ẹ̀hìnkùlé BBQ pẹ̀lú àwọn Ọ̀rẹ́ Ẹwà
 
 
 # Screens 36 (Video Play)
 ;Happy Birthday…
-Happy Birthday…
+Ọjọ́ Ìbí…
+
 
 
