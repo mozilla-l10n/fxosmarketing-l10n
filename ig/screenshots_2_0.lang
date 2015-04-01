@@ -726,6 +726,7 @@ Ntọala Nzimozi
 Sellula & Data
 
 
+# Screen 39-Bluetooth
 ;Bluetooth
 Bluetooth {ok}
 
@@ -787,5 +788,47 @@ Emeka Nwee Ọhụụ Ụbọchị Ọmụmụ Gị
 # Screens 36 (Video Play)
 ;Happy Birthday…
 Nwee Ọhụụ Ụbọchị Ọmụmụ Gị…
+
+
+;Visible to all
+Mmadụ niile na ahụ anya
+
+
+;Suzy's Phone [local name]
+Suzy's Phone [local name]
+
+
+;Rename my device
+Nyegharịa ngwaọrụ m aha
+
+
+;Devices in the area
+Ngwaọrụ ndị dị na mpaghara a
+
+
+;Tap to connect
+Pịa iji jikọọ
+
+
+;Search for devices
+Chọgharịa ngwaọrụ
+
+
+# Screen 40-FindMyDevice
+;Sign Out
+Pụọ
+
+
+# Screen 41-Create_Ringtone
+;Create Ringtone
+Mepụta Ụda
+
+
+;Save
+Chekwaa
+
+
+;Use as default ringtone
+Jiri dị ka ụda eburupụta
 
 

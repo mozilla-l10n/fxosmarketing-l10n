@@ -726,6 +726,7 @@ Nastavení zpráv
 Mobilní síť a data
 
 
+# Screen 39-Bluetooth
 ;Bluetooth
 Bluetooth {ok}
 
@@ -787,5 +788,47 @@ Grilování s Evinými kamarády
 # Screens 36 (Video Play)
 ;Happy Birthday…
 Vše nejlepší…
+
+
+;Visible to all
+Viditelný v okolí
+
+
+;Suzy's Phone [local name]
+Suzy's Phone [local name]
+
+
+;Rename my device
+Přejmenovat mé zařízení
+
+
+;Devices in the area
+Zařízení v okolí
+
+
+;Tap to connect
+Pro připojení klepněte
+
+
+;Search for devices
+Hledání zařízení
+
+
+# Screen 40-FindMyDevice
+;Sign Out
+Odhlásit
+
+
+# Screen 41-Create_Ringtone
+;Create Ringtone
+Vytvoření vyzvánění
+
+
+;Save
+Uložit
+
+
+;Use as default ringtone
+Použít jako výchozí vyzvánění
 
 

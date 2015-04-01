@@ -726,6 +726,7 @@ Ajustes de mensajes
 Teléfono y datos
 
 
+# Screen 39-Bluetooth
 ;Bluetooth
 Bluetooth {ok}
 
@@ -787,5 +788,47 @@ Fiesta con los amigos de Eva
 # Screens 36 (Video Play)
 ;Happy Birthday…
 Feliz cumpleaños...
+
+
+;Visible to all
+Visible a todos
+
+
+;Suzy's Phone [local name]
+Suzy's Phone [local name]
+
+
+;Rename my device
+Renombrar dispositivo
+
+
+;Devices in the area
+Dispositivos en el área
+
+
+;Tap to connect
+Pulse para conectar
+
+
+;Search for devices
+Buscar dispositivos
+
+
+# Screen 40-FindMyDevice
+;Sign Out
+Salir
+
+
+# Screen 41-Create_Ringtone
+;Create Ringtone
+Crear tono
+
+
+;Save
+Guardar
+
+
+;Use as default ringtone
+Usar como tono por defecto.
 
 

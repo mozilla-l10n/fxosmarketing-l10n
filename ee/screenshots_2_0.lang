@@ -726,8 +726,9 @@ Messaging Settings
 Cellular & Data
 
 
+# Screen 39-Bluetooth
 ;Bluetooth
-Bluetooth
+Bluetooth {ok}
 
 
 # Screen 34 (Settings Sound)
@@ -787,5 +788,47 @@ Backyard BBQ with Eva’s Friends
 # Screens 36 (Video Play)
 ;Happy Birthday…
 Happy Birthday…
+
+
+;Visible to all
+Ekpɔkpɔ le na amesiame
+
+
+;Suzy's Phone [local name]
+Suzy's Phone [local name]
+
+
+;Rename my device
+Gbugbɔ na ŋkɔ  kaƒomɔa
+
+
+;Devices in the area
+Mɔ̀ siwo le teƒe sia
+
+
+;Tap to connect
+Tɔ asii be woatsia ka
+
+
+;Search for devices
+Di mɔ̀wo
+
+
+# Screen 40-FindMyDevice
+;Sign Out
+Do le eme
+
+
+# Screen 41-Create_Ringtone
+;Create Ringtone
+Wɔ ringtonewo
+
+
+;Save
+Dzrado
+
+
+;Use as default ringtone
+Wɔe wo default ringtone
 
 

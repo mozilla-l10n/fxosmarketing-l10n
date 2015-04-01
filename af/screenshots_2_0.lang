@@ -726,6 +726,7 @@ Boodskapinstellings
 Sellulêr en data
 
 
+# Screen 39-Bluetooth
 ;Bluetooth
 Bluetooth {ok}
 
@@ -787,5 +788,47 @@ Braai en kuier saam met Lisa se vriende
 # Screens 36 (Video Play)
 ;Happy Birthday…
 Veels geluk…
+
+
+;Visible to all
+Sigbaar vir almal
+
+
+;Suzy's Phone [local name]
+Suzy's Phone [local name]
+
+
+;Rename my device
+Hernoem my toestel
+
+
+;Devices in the area
+Toestelle in die area
+
+
+;Tap to connect
+Druk om te koppel
+
+
+;Search for devices
+Soek vir toestelle
+
+
+# Screen 40-FindMyDevice
+;Sign Out
+Meld af
+
+
+# Screen 41-Create_Ringtone
+;Create Ringtone
+Skep luitoon
+
+
+;Save
+Stoor
+
+
+;Use as default ringtone
+Gebruik as verstekluitoon
 
 

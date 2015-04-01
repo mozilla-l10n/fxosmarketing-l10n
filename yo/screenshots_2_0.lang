@@ -726,6 +726,7 @@ Fífi àwọn ààtò jíṣẹ́
 Alágbeká & Dátà
 
 
+# Screen 39-Bluetooth
 ;Bluetooth
 Bluetooth {ok}
 
@@ -787,5 +788,47 @@ Kú ọjọ́ Ìbí Táyé
 # Screens 36 (Video Play)
 ;Happy Birthday…
 Ọjọ́ Ìbí…
+
+
+;Visible to all
+Hànsí gbogboogbò
+
+
+;Suzy's Phone [local name]
+Suzy's Phone [local name]
+
+
+;Rename my device
+Fún ohun elò mi lórúkọ míìràn
+
+
+;Devices in the area
+Àwọn Ohun Èlò ní àgbègbè
+
+
+;Tap to connect
+Fọwọ́ba láti so pọ̀
+
+
+;Search for devices
+Ṣàwarí àwọn ohun elò
+
+
+# Screen 40-FindMyDevice
+;Sign Out
+Jáde
+
+
+# Screen 41-Create_Ringtone
+;Create Ringtone
+Ṣẹ̀dá ohùn dídún
+
+
+;Save
+Fi pamọ́
+
+
+;Use as default ringtone
+Lo ohùn dídùn bii àkùnàyàn
 
 

@@ -726,8 +726,9 @@ Messaging Settings
 Cellular & Data
 
 
+# Screen 39-Bluetooth
 ;Bluetooth
-Bluetooth
+Bluetooth {ok}
 
 
 # Screen 34 (Settings Sound)
@@ -787,5 +788,47 @@ Backyard BBQ with Eva’s Friends
 # Screens 36 (Video Play)
 ;Happy Birthday…
 Happy Birthday…
+
+
+;Visible to all
+Kowa na iya gani
+
+
+;Suzy's Phone [local name]
+Suzy's Phone [local name]
+
+
+;Rename my device
+Sake sunan na'urata\u0020
+
+
+;Devices in the area
+Na'urorin a yankin
+
+
+;Tap to connect
+Danna domin haɗawa
+
+
+;Search for devices
+Nemi na'urori
+
+
+# Screen 40-FindMyDevice
+;Sign Out
+Fita
+
+
+# Screen 41-Create_Ringtone
+;Create Ringtone
+Ƙirƙiri Sautin kira
+
+
+;Save
+Ajiye
+
+
+;Use as default ringtone
+Yi amfani a matsayin shiryayyen sautin kira
 
 

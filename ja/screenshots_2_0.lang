@@ -726,6 +726,7 @@ SIM マネージャ
 携帯ネットワーク設定
 
 
+# Screen 39-Bluetooth
 ;Bluetooth
 Bluetooth{ok}
 
@@ -787,5 +788,47 @@ Bluetooth{ok}
 # Screens 36 (Video Play)
 ;Happy Birthday…
 ハッピーバースデー
+
+
+;Visible to all
+検出可能
+
+
+;Suzy's Phone [local name]
+Suzy's Phone [local name]
+
+
+;Rename my device
+端末名を変更
+
+
+;Devices in the area
+通信エリア内のデバイス
+
+
+;Tap to connect
+タップして接続
+
+
+;Search for devices
+デバイスの検索
+
+
+# Screen 40-FindMyDevice
+;Sign Out
+サインアウト
+
+
+# Screen 41-Create_Ringtone
+;Create Ringtone
+着信音の作成
+
+
+;Save
+保存
+
+
+;Use as default ringtone
+既定の着信音に設定する
 
 

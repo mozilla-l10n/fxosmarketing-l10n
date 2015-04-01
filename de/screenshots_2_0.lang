@@ -726,6 +726,7 @@ Nachrichteneinstellungen
 Mobilfunk & Daten
 
 
+# Screen 39-Bluetooth
 ;Bluetooth
 Bluetooth {ok}
 
@@ -787,5 +788,47 @@ Hinterhofgrillen mit Evas Freunden
 # Screens 36 (Video Play)
 ;Happy Birthday…
 Herzlichen Glückwunsch…
+
+
+;Visible to all
+Für alle sichtbar
+
+
+;Suzy's Phone [local name]
+Suzy's Phone [local name]
+
+
+;Rename my device
+Mein Gerät umbenennen
+
+
+;Devices in the area
+Verfügbare Geräte
+
+
+;Tap to connect
+Zum Verbinden antippen
+
+
+;Search for devices
+Nach Geräten suchen
+
+
+# Screen 40-FindMyDevice
+;Sign Out
+Abmelden
+
+
+# Screen 41-Create_Ringtone
+;Create Ringtone
+Klingelton erstellen
+
+
+;Save
+Speichern
+
+
+;Use as default ringtone
+Als Standardklingelton verwenden
 
 

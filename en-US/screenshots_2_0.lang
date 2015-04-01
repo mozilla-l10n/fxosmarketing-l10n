@@ -790,11 +790,7 @@ Backyard BBQ with Eva’s Friends
 Happy Birthday…
 
 
-Screen # 39-Bluetooth
-;Bluetooth
-Bluetooth
-
-
+# Screen 39-Bluetooth
 ;Visible to all
 Visible to all
 
@@ -819,12 +815,12 @@ Tap to connect
 Search for devices
 
 
-Screen # 40-FindMyDevice
+# Screen 40-FindMyDevice
 ;Sign Out
 Sign Out
 
 
-Screen # 41-Create_Ringtone
+# Screen 41-Create_Ringtone
 ;Create Ringtone
 Create Ringtone
 
