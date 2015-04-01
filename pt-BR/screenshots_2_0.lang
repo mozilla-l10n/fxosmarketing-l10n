@@ -23,12 +23,12 @@ EMPRESA MAIS CONFIÁVEL DA INTERNET EM PRIVACIDADE
 # Global Settings
 # Time Format (i.e. 12:34 PM for en-US)
 ;12:34 PM
-12:34 PM
+12:34
 
 
 # Date Format (i.e. 01/21/2015 for January 21st, 2015)
 ;01/21/2015
-01/21/2015
+21/01/2015
 
 
 # Screen 2 (Browser Start Page)
@@ -385,7 +385,7 @@ cco
 
 # E-mail subject, replace "[made up subject]" with something relevant, e.g. "Subject: Getting together"
 ;Subject: [made up subject]
-Subject: [made up subject]
+Assunto: reunião semanal
 
 
 ;Hi [one of the contacts in screen #11]
@@ -414,19 +414,19 @@ RE: Me envia as fotos/Você é fantástico! Obrigado!
 
 
 ;RE: Please Confirm Subscription/I’ve been wanting to visit that place
-RE: Please Confirm Subscription/I’ve been wanting to visit that place
+RE: Por favor confirme a reserva/Estava com vontade de conhecer este lugar
 
 
 ;RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
-RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
+RE: Viagem fim de semana que vem?/Boa ideia! Vou falar com a galera
 
 
 ;We’re Moving!/Hello Friends! Join us on Saturday for a fun and
-We’re Moving!/Hello Friends! Join us on Saturday for a fun and
+Estamos de mudança!/E aí pessoal! Venham nos visitar no sábado para
 
 
 ;RE: It was nice meeting you!/Hi mate, I heard you're going to the show
-RE: It was nice meeting you!/Hi mate, I heard you're going to the show
+RE: Foi bom te conhecer!/E aí cara, fiquei sabendo que você vai ir no show
 
 
 ;Yesterday
@@ -452,7 +452,7 @@ Re: Confirmação de inscrição
 
 # Image attachment filename example
 ;image20150813.jpg
-image20150813.jpg
+image20150813.jpg {ok}
 
 
 ;Hi All [or whatever the proper greeting is]
@@ -537,7 +537,7 @@ Rádio FM
 
 # Screen 24 (Lock Screen Normal)
 ;Carrier
-Carrier
+Operadora
 
 
 ;Friday March 1
@@ -649,7 +649,7 @@ Gerenciar toques
 
 
 ;Classics
-Classics
+Clássicos
 
 
 ;Classic Electric
@@ -702,12 +702,12 @@ Geolocalização
 
 
 ;Wi-Fi
-Wi-Fi
+Wi-Fi {ok}
 
 
 # Replace the fake network name with one of your choice
 ;Connected to [fake network name]
-Connected to [fake network name]
+Conectado com João
 
 
 ;SIM manager
@@ -795,7 +795,7 @@ Visível para todos
 
 
 ;Suzy's Phone [local name]
-Suzy's Phone [local name]
+Telefone de Débora
 
 
 ;Rename my device
