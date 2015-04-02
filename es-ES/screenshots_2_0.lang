@@ -1,4 +1,4 @@
-﻿## NOTE: 2.0 English source for context: https://mozilla.app.box.com/files/0/f/2606100649
+## NOTE: 2.0 English source for context: https://mozilla.app.box.com/files/0/f/2606100649
 ## NOTE: If without FFOX phone, for the latest terms used in product, check http://transvision.mozfr.org/
 ## NOTE: When a contact is listed on a screen, try to be consistent with the English set of names and same gender.  This is easier for the graphic person to know which one is a woman and man.  Some have photos next to the names.  If the image is not culturally relevant or appropriate, we will replace them in the localized version.
 
@@ -726,7 +726,6 @@ Ajustes de mensajes
 Teléfono y datos
 
 
-# Screen 39-Bluetooth
 ;Bluetooth
 Bluetooth {ok}
 
@@ -790,6 +789,7 @@ Fiesta con los amigos de Eva
 Feliz cumpleaños...
 
 
+# Screen 39-Bluetooth
 ;Visible to all
 Visible a todos
 

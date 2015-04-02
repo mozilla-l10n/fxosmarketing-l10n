@@ -726,7 +726,6 @@ SIM マネージャ
 携帯ネットワーク設定
 
 
-# Screen 39-Bluetooth
 ;Bluetooth
 Bluetooth{ok}
 
@@ -790,6 +789,7 @@ Bluetooth{ok}
 ハッピーバースデー
 
 
+# Screen 39-Bluetooth
 ;Visible to all
 検出可能
 
