@@ -47,7 +47,7 @@ Talaata, Now 1
 
 # NOTE: make a local sounding name, or use one of the names in Contact list
 ;[Harly’s] Birthday
-Bisu juddu [Aminaa]
+Bisu juddu Aminaa
 
 
 # NOTE: choose any location, doesn’t have to be a conference room or hotel room
@@ -244,7 +244,7 @@ Nelawal
 
 # Screen 10 (Contact Detail); NOTE: In this section, everything is made up.  1). Name should be from one of the contacts for easy tracking and consistency within the screenshot file. 2). The phone number should have correct country code, area code.  3). Company name is made up; 4). Email name can be fake, and made up domain name.
 ;[name of one of the contacts, male]
-Musaa Faye
+Moussa Faye
 
 
 ;[made up company name]
@@ -297,51 +297,51 @@ Seet
 
 
 ;[contact #1: Travis Allen (m)/T. Tray Photography]
-[contact #1: Ousmane Ba (m)/Gañilaa]
+contact #1: Ousmane Ba (m)/Gañilaa
 
 
 ;[contact #2: Will Amber (m)/CBN Studios]
-[contact #2: Mamadou Bane (m)/Ñawkat]
+contact #2: Mamadou Bane (m)/Ñawkat
 
 
 ;[contact #3: Kevin Baker (m)/Mozilla]
-[contact #3: Moussa Diaw (m)/Dóor Waar]
+contact #3: Moussa Diaw (m)/Dóor Waar
 
 
 ;[contact #4: Noah Benson (m)/Benson Studios]
-[contact #4: Malick Diop (m)/Boroom Tool yi]
+contact #4: Malick Diop (m)/Boroom Tool yi
 
 
 ;[contact #5: Ava Brown (f)/Atsara Kitchen]
-[contact #5: Ami Diouf (f)/Léttkat]
+contact #5: Ami Diouf (f)/Léttkat
 
 
 ;[contact #6: Name (gender)/Company]
-[contact #6: Nogaye Fall (f)/Sotiba]
+contact #6: Nogaye Fall (f)/Sotiba
 
 
 ;[contact #7: Name (gender)/Company]
-[contact #7: Moussa Faye (m)/Jàngalekat]
+contact #7: Moussa Faye (m)/Jàngalekat
 
 
 ;[contact #8: Name (gender)/Company]
-[contact #8: Khady Gaye (f)/Delgas]
+contact #8: Khady Gaye (f)/Delgas
 
 
 ;[contact #9: Name (gender)/Company]
-[contact #9: Rama Gueye (f)/UCAD]
+contact #9: Rama Gueye (f)/UCAD
 
 
 ;[contact #10: Name (gender)/Company]
-[contact #10: Aicha Hakim (f)/ESP]
+contact #10: Aicha Hakim (f)/ESP
 
 
 ;[contact #11: Name (gender)/Company]
-[contact #11: Cheikh Kane (m)/ACEP]
+contact #11: Cheikh Kane (m)/ACEP
 
 
 ;[contact #12: Name (gender)/Company]
-[contact #12: Fatoumata Ly (f)/Baana-baana]
+contact #12: Fatoumata Ly (f)/Baana-baana
 
 
 # Screen 12 (Data Usage):
@@ -385,7 +385,7 @@ akit
 
 # E-mail subject, replace "[made up subject]" with something relevant, e.g. "Subject: Getting together"
 ;Subject: [made up subject]
-Mébet: [ndajem aseer mi]
+Mébet: ndajem aseer mi
 
 
 ;Hi [one of the contacts in screen #11]
@@ -393,7 +393,7 @@ Malick Diop Nanga def
 
 
 ;[Make up a fake message that corresponds to the subject.]
-[War nanoo daje aseer nun ñépp ndax danu gëj a gise.]
+War nanoo daje aseer nun ñépp ndax danu gëj a gise.
 
 
 ;SPACE
@@ -443,7 +443,7 @@ Lëkk. gu mujj: Leegi nii
 
 # Screen 17 (Email Reading): NOTE: we will use names from contact list in screen #10 and #11
 ;Re: [fake subject, can pick one in screen #16]
-Re: [Dem Ngéntel Babacar]
+Re: Dem Ngéntel Babacar
 
 
 ;10 hours ago
@@ -456,11 +456,11 @@ image20150813.jpg {ok}
 
 
 ;Hi All [or whatever the proper greeting is]
-[Mbokk yi nangeen def]
+Mbokk yi nangeen def
 
 
 ;[fake message that corresponds to the subject]
-[Bu fàtte ni Talaata jii di ñëw la géntel Babacar]
+Bu fàtte ni Talaata jii di ñëw la géntel Babacar
 
 
 ;Thanks!
@@ -546,7 +546,7 @@ Aljuma 1 fan ci Mars
 
 # Screen 25 (Lock Screen Notification/Music Player) NOTE: We will use one of the contacts in screen #11);
 ;[Wanna grab lunch tomorrow? Or change to something more appropriate]
-[Suba suppu kànja la dinga ñëw?]
+Suba suppu kànja la dinga ñëw?
 
 
 ;Hi!
@@ -558,7 +558,7 @@ am na 16sim, am na 16sim
 
 
 ;[Fake song title/fake musician name]
-[Sama Yaay/Modou Diémé]
+Sama Yaay/Modou Diémé
 
 
 # Screen 26 (Messaging Compose): NOTE: We will use one of the contacts in screen #11 for the name
@@ -572,49 +572,49 @@ Bindal fii sa bataaxal…
 
 # Screen 27 (Messaging Conversation): NOTE: Contact and Subject line are from screen #26.
 ;[fake message #1 relevant to the subject]
-[tay dama bëgg seeti sama ñaw yi]
+tay dama bëgg seeti sama ñaw yi
 
 
 ;[fake message #2 relevant to the subject]
-[Fooy waaj a tojati. jamono jii yaa koy daggate]
+Fooy waaj a tojati. jamono jii yaa koy daggate
 
 
 ;[fake message #3 relevant to the subject]
-[Sama xarit mooy am xew fan yii. Ma war ko sargal bu baax]
+Sama xarit mooy am xew fan yii. Ma war ko sargal bu baax
 
 
 # Screen 28 (Messaging List) NOTE: Use Contact list for this page; messages can be leveraged from Screen #16
 # Screen 29 (Music Grid) NOTE: Provide fake band and album titles for this screen.  You can translate some titles to match the images.  You can leverage some of the existing fake titles/artists on the screen.
 ;[Fake album title/band or artist #1]
-[Ay nelaw faju ka/Kelela #1]
+Ay nelaw faju ka/Kelela #1
 
 
 ;[Fake album title/band or artist #2]
-[Jàppal bu dem/Milkzoo #2]
+Jàppal bu dem/Milkzoo #2
 
 
 ;[Fake album title/band or artist #3]
-[Neex a dëkkal/KIMA DOON #3]
+Neex a dëkkal/KIMA DOON #3
 
 
 ;[Fake album title/band or artist #4]
-[Lu mën a doon/Cool Asane #4]
+Lu mën a doon/Cool Asane #4
 
 
 ;[Fake album title/band or artist #5]
-[Fecci Fàtte/Adamiska #5]
+Fecci Fàtte/Adamiska #5
 
 
 ;[Fake album title/band or artist #6]
-[Doom ci Daara/Kàddu Askan]
+Doom ci Daara/Kàddu Askan
 
 
 ;[Fake album title/band or artist #7]
-[Bul ko fàtte/Demba Ndongo]
+Bul ko fàtte/Demba Ndongo
 
 
 ;[Fake album title/band or artist #8]
-[Jëf ju baax/Xadim Sene]
+Jëf ju baax/Xadim Sene
 
 
 # Screen 30 (Music Player) NOTE: Leverage one set from screen #29
@@ -673,15 +673,15 @@ Sonëri yi nga Sos
 
 
 ;[fake song title/artist #1]
-[Ku mu neexul/Viviane]
+Ku mu neexul/Viviane
 
 
 ;[fake song title/artist #2]
-[Bëgg naa la/Salif Wone #2]
+Bëgg naa la/Salif Wone #2
 
 
 ;[fake song title/artist #3]
-[Dama doon seet/Guddi Diop #3]
+Dama doon seet/Guddi Diop #3
 
 
 # Screen 33 (Settings)
@@ -707,7 +707,7 @@ Wi-Fi {ok}
 
 # Replace the fake network name with one of your choice
 ;Connected to [fake network name]
-Lënku na ci [SAMA MBAAL]
+Lënku na ci SAMA MBAAL
 
 
 ;SIM manager
@@ -769,15 +769,15 @@ Ut 2014
 
 
 ;Happy Birthday Ty
-Aniwerseeru bebe Aicha
+Ñeenteelu aniwerseeru Aminata
 
 
 ;Beach day with Uncle Ben
-Souleymane ak ay jarbaatam ci géej gi
+Waxtu fo ak Abdou
 
 
 ;Dixie’s First Snow Day
-Bobee ngi soog a gis nees
+Matsu futbal ak Mulaay Faal
 
 
 ;Backyard BBQ with Eva’s Friends
@@ -795,15 +795,15 @@ Aniwerseer bu Neex…
 
 
 ;Suzy's Phone [local name]
-Suzy's Phone [local name]
+Telefonu Aicha
 
 
 ;Rename my device
-Soppi sama turu jëfandaay
+Soppi sama turu telefon
 
 
 ;Devices in the area
-Jëfandaay yi fi nekk
+Telefon yi nekk ci barab bi
 
 
 ;Tap to connect
@@ -811,7 +811,7 @@ Bësal ngir lënku
 
 
 ;Search for devices
-Wër ay jëfandaay
+Seet ay telefon
 
 
 # Screen 40-FindMyDevice
@@ -821,7 +821,7 @@ Génn
 
 # Screen 41-Create_Ringtone
 ;Create Ringtone
-Sonëri buñ Laalaat
+Ƙirƙiri Sautin kira
 
 
 ;Save
@@ -829,6 +829,8 @@ Denc
 
 
 ;Use as default ringtone
-Def ko sonëri boo jagoo
+Def ko muy sa sonëri
+
+
 
 
