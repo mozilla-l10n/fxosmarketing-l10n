@@ -9,26 +9,26 @@ Made with a mission to put you first
 
 
 ;We’ve always designed Firefox to protect and respect your private information.
-We’ve always designed Firefox to protect and respect your private information.
+La protection et le respect de vos données personnelles sont au cœur de la conception de Firefox.
 
 
 ;That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
-That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
+Nous sommes donc fiers d’avoir été élus Entreprise Internet la plus fiable pour la confidentialité.
 
 
 ;MOST TRUSTED INTERNET COMPANY FOR PRIVACY
-MOST TRUSTED INTERNET COMPANY FOR PRIVACY
+ENTREPRISE INTERNET LA PLUS FIABLE POUR LA CONFIDENTIALITÉ
 
 
 # Global Settings
 # Time Format (i.e. 12:34 PM for en-US)
 ;12:34 PM
-12:34 PM
+12:34
 
 
 # Date Format (i.e. 01/21/2015 for January 21st, 2015)
 ;01/21/2015
-01/21/2015
+21/01/2015
 
 
 # Screen 2 (Browser Start Page)
@@ -42,7 +42,7 @@ Les plus visités
 
 # Screen 3 (Calendar Day)
 ;Nov 1, Tuesday
-Nov 1, Tuesday
+Mardi 3 novembre
 
 
 # NOTE: make a local sounding name, or use one of the names in Contact list
@@ -66,15 +66,15 @@ Palace Ho
 
 
 ;Month
-Month
+Mois
 
 
 ;Week
-Week
+Semaine
 
 
 ;Day
-Day
+Jour
 
 
 # Screen 4 (Calendar Event): NOTE: Indicate time and date display format that’s appropriate in your country. Check product UI terms for the actual strings.
@@ -91,7 +91,7 @@ Title
 
 
 ;Where
-Where
+Lieu
 
 
 ;All day event?
@@ -103,7 +103,7 @@ Agenda
 
 
 ;Attendees
-Attendees
+Participants
 
 
 ;Repeat
@@ -111,12 +111,12 @@ Repeat
 
 
 ;Never
-Never
+Jamais
 
 
 # Screen 5 (Calendar Event Detail): NOTE: this page has content that should be localized instead of translated.  Find event that is more applicable than what’s presented.
 ;Event Details
-Event Details
+Détails de l’évènement
 
 
 ;Edit
@@ -142,19 +142,19 @@ Reminder:
 
 
 ;10 minutes before
-10 minutes before
+10 minutes avant
 
 
 ;1 day before
-1 day before
+1 jour avant
 
 
 ;2 hours before
-2 hours before
+2 heures avant
 
 
 ;1 hour before
-1 hour before
+1 heure avant
 
 
 ;All time of event
@@ -162,12 +162,12 @@ All time of event
 
 
 ;7 Invites
-7 Invites
+7 invités
 
 
 # NOTE: feel free to use a localized name as file name
 ;file 1.png (150k)
-file 1.png (150k)
+fichier_1.png (150 Ko)
 
 
 # NOTE: use the locally appropriate way to address the attendees
@@ -181,65 +181,65 @@ Dear all,
 
 
 ;Accept
-Accept
+Accepter
 
 
 ;Maybe
-Maybe
+Peut-être
 
 
 ;Decline
-Decline
+Refuser
 
 
 # Screen 7 (Clock Analog)
 ;Monday, March 25
-Monday, March 25
+Lundi 25 mars
 
 
 ;Alarm
-Alarm
+Alarme
 
 
 ;Mon, Tue, Wed, Thu, Fri, Sat, Sun
-Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Lun, mar, mer, jeu, ven, sam, dim
 
 
 ;Timer
-Timer
+Minuteur
 
 
 ;Stopwatch
-Stopwatch
+Chronomètre
 
 
 # Screen 9 (Clock Edit Alarm)
 ;New alarm
-New alarm
+Nouvelle alarme
 
 
 ;Alarm name
-Alarm name
+Nom de l’alarme
 
 
 ;Time
-Time
+Heure
 
 
 ;Sound
-Sound
+Sonnerie
 
 
 ;Classic Buzz
-Classic Buzz
+Buzzer
 
 
 ;Snooze
-Snooze
+Répétition
 
 
 ;5 minutes
-5 minutes
+5 minutes {ok}
 
 
 # Screen 10 (Contact Detail); NOTE: In this section, everything is made up.  1). Name should be from one of the contacts for easy tracking and consistency within the screenshot file. 2). The phone number should have correct country code, area code.  3). Company name is made up; 4). Email name can be fake, and made up domain name.
@@ -252,15 +252,15 @@ Snooze
 
 
 ;MOBILE
-MOBILE
+MOBILE {ok}
 
 
 ;[made up mobile phone number, with correct area code]
-[made up mobile phone number, with correct area code]
++33682349203
 
 
 ;HOME
-HOME
+DOMICILE
 
 
 ;[made up landline phone number, with correct country code and area code]
@@ -268,19 +268,19 @@ HOME
 
 
 ;WORK
-WORK
+BUREAU
 
 
 ;[fake work email address]
-[fake work email address]
+paul.martin@monentreprise.org
 
 
 ;PERSONAL
-PERSONAL
+PERSONNEL
 
 
 ;[fake personal email address]
-[fake personal email address]
+paul.martin@yahoo.fr
 
 
 ;Remove from favorites
@@ -350,15 +350,15 @@ Suivi conso
 
 
 ;Oct 1, Oct 20, Oct 31
-Oct 1, Oct 20, Oct 31
+1 oct., 20 oct., 31 oct.
 
 
 ;Mobile usage
-Mobile usage
+Conso. mobile
 
 
 ;Wi-Fi usage
-Wi-Fi usage
+Conso. Wi-Fi
 
 
 # Screen 14 (Dialer Outgoing call) NOTE: Several strings in #13 can be leveraged from screens #10 and 11, thus not repeated here
@@ -368,28 +368,28 @@ Appel
 
 # Screen 15 (Email Compose) NOTE: Names in the To: field can be from the contact list
 ;Compose
-Compose
+Nouveau message
 
 
 ;To
-To
+À
 
 
 ;cc
-cc
+Cc
 
 
 ;bcc
-bcc
+Cci
 
 
 # E-mail subject, replace "[made up subject]" with something relevant, e.g. "Subject: Getting together"
 ;Subject: [made up subject]
-Subject: [made up subject]
+;Subject: [made up subject]
 
 
 ;Hi [one of the contacts in screen #11]
-Hi [one of the contacts in screen #11]
+Salut Benjamin,
 
 
 ;[Make up a fake message that corresponds to the subject.]
@@ -397,16 +397,16 @@ Hi [one of the contacts in screen #11]
 
 
 ;SPACE
-SPACE
+ESPACE
 
 
 ;NEXT
-NEXT
+SUIVANT
 
 
 # Screen 16 (Email list) NOTE: we will use the names from the Contact list provided in screen #11
 ;Inbox
-Inbox
+Boîte de réception
 
 
 ;RE: Send photos please/You’re the best! Thanks so much!
@@ -438,7 +438,7 @@ il y a 1 semaine
 
 
 ;Last sync: Just now
-Last sync: Just now
+Dernière synchronisation : à l’instant
 
 
 # Screen 17 (Email Reading): NOTE: we will use names from contact list in screen #10 and #11
@@ -447,12 +447,12 @@ Re: [fake subject, can pick one in screen #16]
 
 
 ;10 hours ago
-10 hours ago
+il y a 10 heures
 
 
 # Image attachment filename example
 ;image20150813.jpg
-image20150813.jpg
+image13082015.jpg
 
 
 ;Hi All [or whatever the proper greeting is]
@@ -473,7 +473,7 @@ Social {ok}
 
 
 ;Phone
-Phone
+Téléphone
 
 
 ;Messages
@@ -481,25 +481,25 @@ Messages
 
 
 ;E-Mail
-E-Mail
+Courriel
 
 
 # Screen 21 (Gallery Thumbmails)
 ;February 2014
-February 2014
+Février 2014
 
 
 # Screen 22 (Home Screen 3 Column Layout)
 ;Search or enter address
-Search or enter address
+Recherche ou adresse
 
 
 ;Dialer
-Dialer
+Téléphone
 
 
 ;Browser
-Browser
+Navigateur
 
 
 ;Games
@@ -520,7 +520,7 @@ Galerie
 
 
 ;Showbiz
-Showbiz
+Divertissement
 
 
 ;Clock
@@ -541,7 +541,7 @@ Opérateur
 
 
 ;Friday March 1
-Friday March 1
+Vendredi 2 mars
 
 
 # Screen 25 (Lock Screen Notification/Music Player) NOTE: We will use one of the contacts in screen #11);
@@ -563,11 +563,11 @@ Hi!
 
 # Screen 26 (Messaging Compose): NOTE: We will use one of the contacts in screen #11 for the name
 ;Your subject here
-Your subject here
+Objet
 
 
 ;Write your message…
-Write your message…
+Message
 
 
 # Screen 27 (Messaging Conversation): NOTE: Contact and Subject line are from screen #26.
@@ -624,28 +624,28 @@ Song Title
 
 # Screen 31 (Notifications) NOTE: Leverage messages from screen #16 and time from #25
 ;Notifications
-Notifications
+Notifications {ok}
 
 
 ;Clear All
-Clear All
+Tout effacer
 
 
 ;Missed Call
-Missed Call
+Appel manqué
 
 
 ;New SIM inserted
-New SIM inserted
+Nouvelle carte SIM insérée
 
 
 ;Tap to track your internet usage
-Tap to track your internet usage
+Appuyez pour suivre la conso. Internet.
 
 
 # Screen 32 (Ringtone)
 ;Manage Ringtones
-Manage Ringtones
+Gérer les sonneries
 
 
 ;Classics
@@ -653,23 +653,23 @@ Classics
 
 
 ;Classic Electric
-Classic Electric
+Ancien téléphone 1
 
 
 ;Classic Wallphone
-Classic Wallphone
+Ancien téléphone 2
 
 
 ;Disco Drive
-Disco Drive
+Disco Drive {ok}
 
 
 ;Vamos La Electro
-Vamos La Electro
+Vamos Là Elektro
 
 
 ;Created Ringtones
-Created Ringtones
+Sonneries créées
 
 
 ;[fake song title/artist #1]
@@ -690,82 +690,82 @@ Paramètres
 
 
 ;Network & Connectivity
-Network & Connectivity
+Réseau et connectivité
 
 
 ;Airplane mode
-Airplane mode
+Mode avion
 
 
 ;Geolocation
-Geolocation
+Géolocalisation
 
 
 ;Wi-Fi
-Wi-Fi
+Wi-Fi {ok}
 
 
 # Replace the fake network name with one of your choice
 ;Connected to [fake network name]
-Connected to [fake network name]
+Connecté à Livebox-VB842
 
 
 ;SIM manager
-SIM manager
+Gestionnaire de SIM
 
 
 ;Call Settings
-Call Settings
+Paramètres des appels
 
 
 ;Messaging Settings
-Messaging Settings
+Paramètres des messages
 
 
 ;Cellular & Data
-Cellular & Data
+Téléphonie et données
 
 
 ;Bluetooth
-Bluetooth
+Bluetooth {ok}
 
 
 # Screen 34 (Settings Sound)
 ;Vibrate
-Vibrate
+Vibreur
 
 
 ;Volume
-Volume
+Volume {ok}
 
 
 ;Media
-Media
+Médias
 
 
 ;Ringer & Notifications
-Ringer & Notifications
+Sonneries et notifications
 
 
 ;Tones
-Tones
+Sonneries
 
 
 ;Ringer
-Ringer
+Sonnerie
 
 
 ;Alerts
-Alerts
+Alertes
 
 
 # Screenshot 35 (Video List) NOTE: Replace the following names with culturally appropriate names for these video clips.  We will try to find appropriate images suitable for the targeted country
 ;July 2014
-July 2014
+Juillet 2014
 
 
 ;August 2014
-August 2014
+Août 2014
 
 
 ;Happy Birthday Ty
@@ -791,44 +791,44 @@ Happy Birthday…
 
 # Screen 39-Bluetooth
 ;Visible to all
-Visible to all
+Visible par tous
 
 
 ;Suzy's Phone [local name]
-Suzy's Phone [local name]
+Téléphone de Paul
 
 
 ;Rename my device
-Rename my device
+Renommer mon appareil
 
 
 ;Devices in the area
-Devices in the area
+Appareils à proximité
 
 
 ;Tap to connect
-Tap to connect
+Appuyez pour établir la connexion
 
 
 ;Search for devices
-Search for devices
+Rechercher des appareils
 
 
 # Screen 40-FindMyDevice
 ;Sign Out
-Sign Out
+Se déconnecter
 
 
 # Screen 41-Create_Ringtone
 ;Create Ringtone
-Create Ringtone
+Créer sonnerie
 
 
 ;Save
-Save
+Enregistrer
 
 
 ;Use as default ringtone
-Use as default ringtone
+Sonnerie par défaut.
 
 
