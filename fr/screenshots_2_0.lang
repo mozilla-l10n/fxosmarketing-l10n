@@ -5,7 +5,7 @@
 
 # Screen 1  (Browser) NOTE: If all caps is not appropriate in your language, you don’t need to follow the same style.  Be mindful the 3rd string below has limited space. Try to be concise.
 ;Made with a mission to put you first
-Made with a mission to put you first
+Sa mission : défendre vos intérêts
 
 
 ;We’ve always designed Firefox to protect and respect your private information.
@@ -42,27 +42,27 @@ Les plus visités
 
 # Screen 3 (Calendar Day)
 ;Nov 1, Tuesday
-Mardi 3 novembre
+Mardi 3 mai
 
 
 # NOTE: make a local sounding name, or use one of the names in Contact list
 ;[Harly’s] Birthday
-[Harly’s] Birthday
+Anniversaire maman
 
 
 # NOTE: choose any location, doesn’t have to be a conference room or hotel room
 ;Room 801
-Room 801
+Salle des fêtes
 
 
 # NOTE: no need to be a technical meeting, Social event is fine
 ;HTML5 Conference
-HTML5 Conference
+Partie de foot
 
 
 # NOTE: choose any location that suits the event above
 ;Palace Ho
-Palace Ho
+Stade
 
 
 ;Month
@@ -79,7 +79,7 @@ Jour
 
 # Screen 4 (Calendar Event): NOTE: Indicate time and date display format that’s appropriate in your country. Check product UI terms for the actual strings.
 ;Add Event
-Add Event
+Nouveau
 
 
 ;Done
@@ -87,15 +87,15 @@ Terminé
 
 
 ;Title
-Title
+Titre
 
 
 ;Where
-Lieu
+Où ?
 
 
 ;All day event?
-All day event?
+Évènement sur toute la journée ?
 
 
 ;Calendar
@@ -107,7 +107,7 @@ Participants
 
 
 ;Repeat
-Repeat
+Me le rappeler
 
 
 ;Never
@@ -125,20 +125,20 @@ Modifier
 
 # NOTE: subject of meeting can be something else
 ;Productivity Meeting
-Productivity Meeting
+Réunion d’avancement
 
 
 ;From 3:00PM Thursday, Dec 8, 2014 to 4:00 PM Friday, Dec 8, 2014
-From 3:00PM Thursday, Dec 8, 2014 to 4:00 PM Friday, Dec 8, 2014
+Le 8 mai 2014 de 15:00 à 17:00
 
 
 # NOTE: if the event is personal in nature, please change to personal calendar
 ;Work Calendar
-Work Calendar
+Agenda travail
 
 
 ;Reminder:
-Reminder:
+Rappel :
 
 
 ;10 minutes before
@@ -158,7 +158,7 @@ Reminder:
 
 
 ;All time of event
-All time of event
+Lors de l’évènement
 
 
 ;7 Invites
@@ -172,12 +172,12 @@ fichier_1.png (150 Ko)
 
 # NOTE: use the locally appropriate way to address the attendees
 ;Dear all,
-Dear all,
+Bonjour à tous,
 
 
 # NOTE: made up message that corresponds to the subject of the meeting.
 ;[Please reserve your time for the productivity meeting on this Tuesday, De-]
-[Please reserve your time for the productivity meeting on this Tuesday, De-]
+Merci de bien vouloir vous libérer pour notre réunion d’avancement hebdomadaire qui se déroulera jeudi
 
 
 ;Accept
@@ -248,7 +248,7 @@ Répétition
 
 
 ;[made up company name]
-[made up company name]
+Sanlam
 
 
 ;MOBILE
@@ -256,7 +256,7 @@ MOBILE {ok}
 
 
 ;[made up mobile phone number, with correct area code]
-+33682349203
++77 704 5186
 
 
 ;HOME
@@ -264,7 +264,7 @@ DOMICILE
 
 
 ;[made up landline phone number, with correct country code and area code]
-[made up landline phone number, with correct country code and area code]
++221 978 6492
 
 
 ;WORK
@@ -272,7 +272,7 @@ BUREAU
 
 
 ;[fake work email address]
-paul.martin@monentreprise.org
+xxxxxx.xxxxxxx@sanlam.com
 
 
 ;PERSONAL
@@ -280,11 +280,11 @@ PERSONNEL
 
 
 ;[fake personal email address]
-paul.martin@yahoo.fr
+xxxxxx.xxxxxxx@courriel.org
 
 
 ;Remove from favorites
-Remove from favorites
+Retirer des favoris
 
 
 # Screen 11 (Contact List): NOTE: this is the most difficult page to localize.  Make sure you provide FAKE contacts following these guidelines: 1). 12 contacts, 6 male names and 6 female names.  Indicate which one is which; 2). At least half of the 12 have company names indicated, they can be made up companies; 3). Indicate if the sorting order of names is by family name or given name; 4). Following the sorting order, please provide names with consecutive initials (abc or jkl, xyz, etc).
@@ -297,27 +297,27 @@ Rechercher
 
 
 ;[contact #1: Travis Allen (m)/T. Tray Photography]
-[contact #1: Travis Allen (m)/T. Tray Photography]
+/Sanlam
 
 
 ;[contact #2: Will Amber (m)/CBN Studios]
-[contact #2: Will Amber (m)/CBN Studios]
+/Bank of Africa
 
 
 ;[contact #3: Kevin Baker (m)/Mozilla]
-[contact #3: Kevin Baker (m)/Mozilla]
+/Mozilla
 
 
 ;[contact #4: Noah Benson (m)/Benson Studios]
-[contact #4: Noah Benson (m)/Benson Studios]
+/Allianz
 
 
 ;[contact #5: Ava Brown (f)/Atsara Kitchen]
-[contact #5: Ava Brown (f)/Atsara Kitchen]
+/Kiroo Games Studio
 
 
 ;[contact #6: Name (gender)/Company]
-[contact #6: Name (gender)/Company]
+/Gouvernement
 
 
 ;[contact #7: Name (gender)/Company]
@@ -346,7 +346,7 @@ Rechercher
 
 # Screen 12 (Data Usage):
 ;Usage
-Suivi conso
+Consommation
 
 
 ;Oct 1, Oct 20, Oct 31
@@ -372,28 +372,28 @@ Nouveau message
 
 
 ;To
-À
+À :
 
 
 ;cc
-Cc
+Cc :
 
 
 ;bcc
-Cci
+Cci :
 
 
 # E-mail subject, replace "[made up subject]" with something relevant, e.g. "Subject: Getting together"
 ;Subject: [made up subject]
-Subject: [made up subject]
+Objet : Des nouvelles
 
 
 ;Hi [one of the contacts in screen #11]
-Salut Benjamin,
+Salut,
 
 
 ;[Make up a fake message that corresponds to the subject.]
-[Make up a fake message that corresponds to the subject.]
+Ça fait un moment que l’on ne s’est pas parlé, du coup je voulais prendre des nouvelles et savoir comment tu allais. À bientôt j’espère !
 
 
 ;SPACE
@@ -410,23 +410,23 @@ Boîte de réception
 
 
 ;RE: Send photos please/You’re the best! Thanks so much!
-RE: Send photos please/You’re the best! Thanks so much!
+RE: Peux-tu m’envoyer les photos stp ? / Bien reçu, merci beaucoup !
 
 
 ;RE: Please Confirm Subscription/I’ve been wanting to visit that place
-RE: Please Confirm Subscription/I’ve been wanting to visit that place
+Veuillez confirmer votre inscription / Veuillez cliquer sur le lien suivant pour confirmer votre
 
 
 ;RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
-RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
+RE: Tu devrais aimer / Ha ha, génial, faudra qu’on fasse ça la prochaine fois quand on
 
 
 ;We’re Moving!/Hello Friends! Join us on Saturday for a fun and
-We’re Moving!/Hello Friends! Join us on Saturday for a fun and
+On déménage / Salut tout le monde, on peut se retrouver ce samedi pour
 
 
 ;RE: It was nice meeting you!/Hi mate, I heard you're going to the show
-RE: It was nice meeting you!/Hi mate, I heard you're going to the show
+RE: Besoin d’aide/Salut, j’aurais besoin de ton aide pour terminer mon devoir de
 
 
 ;Yesterday
@@ -443,7 +443,7 @@ Dernière synchronisation : à l’instant
 
 # Screen 17 (Email Reading): NOTE: we will use names from contact list in screen #10 and #11
 ;Re: [fake subject, can pick one in screen #16]
-Re: [fake subject, can pick one in screen #16]
+Re: Mon voyage en Thaïlande
 
 
 ;10 hours ago
@@ -456,15 +456,15 @@ image13082015.jpg
 
 
 ;Hi All [or whatever the proper greeting is]
-Hi All [or whatever the proper greeting is]
+Bonjour à tous,
 
 
 ;[fake message that corresponds to the subject]
-[fake message that corresponds to the subject]
+Voilà une photo de mon voyage en Thaïlande l’an dernier. Comme vous pouvez le constater, il a fait très beau, les paysages étaient magnifiques ! Si jamais vous prévoyez d’y aller, faites-moi signe, je pourrai vous conseiller.
 
 
 ;Thanks!
-Thanks!
+Merci !
 
 
 # Screen 18 (EME Party) NOTE: the screen contains popular apps; names will remain as they are.
@@ -546,19 +546,19 @@ Vendredi 2 mars
 
 # Screen 25 (Lock Screen Notification/Music Player) NOTE: We will use one of the contacts in screen #11);
 ;[Wanna grab lunch tomorrow? Or change to something more appropriate]
-[Wanna grab lunch tomorrow? Or change to something more appropriate]
+On mange ensemble demain midi ?
 
 
 ;Hi!
-Hi!
+Salut !
 
 
 ;16m ago, 19m ago
-16m ago, 19m ago
+il y a 16 min, il y a 19 min
 
 
 ;[Fake song title/fake musician name]
-[Fake song title/fake musician name]
+[Fake song title/fake musician name] {ok}
 
 
 # Screen 26 (Messaging Compose): NOTE: We will use one of the contacts in screen #11 for the name
@@ -572,54 +572,54 @@ Message
 
 # Screen 27 (Messaging Conversation): NOTE: Contact and Subject line are from screen #26.
 ;[fake message #1 relevant to the subject]
-[fake message #1 relevant to the subject]
+Salut, tu penses arriver vers quelle heure ?
 
 
 ;[fake message #2 relevant to the subject]
-[fake message #2 relevant to the subject]
+Je pense que je serai là vers 16h, ça ne pose pas de problème ?
 
 
 ;[fake message #3 relevant to the subject]
-[fake message #3 relevant to the subject]
+Non pas de soucis, à tout à l’heure !
 
 
 # Screen 28 (Messaging List) NOTE: Use Contact list for this page; messages can be leveraged from Screen #16
 # Screen 29 (Music Grid) NOTE: Provide fake band and album titles for this screen.  You can translate some titles to match the images.  You can leverage some of the existing fake titles/artists on the screen.
 ;[Fake album title/band or artist #1]
-[Fake album title/band or artist #1]
+[Fake album title/band or artist #1] {ok}
 
 
 ;[Fake album title/band or artist #2]
-[Fake album title/band or artist #2]
+[Fake album title/band or artist #2] {ok}
 
 
 ;[Fake album title/band or artist #3]
-[Fake album title/band or artist #3]
+[Fake album title/band or artist #3] {ok}
 
 
 ;[Fake album title/band or artist #4]
-[Fake album title/band or artist #4]
+[Fake album title/band or artist #4] {ok}
 
 
 ;[Fake album title/band or artist #5]
-[Fake album title/band or artist #5]
+[Fake album title/band or artist #5] {ok}
 
 
 ;[Fake album title/band or artist #6]
-[Fake album title/band or artist #6]
+[Fake album title/band or artist #6] {ok}
 
 
 ;[Fake album title/band or artist #7]
-[Fake album title/band or artist #7]
+[Fake album title/band or artist #7] {ok}
 
 
 ;[Fake album title/band or artist #8]
-[Fake album title/band or artist #8]
+[Fake album title/band or artist #8] {ok}
 
 
 # Screen 30 (Music Player) NOTE: Leverage one set from screen #29
 ;Song Title
-Song Title
+Song Title {ok}
 
 
 # Screen 31 (Notifications) NOTE: Leverage messages from screen #16 and time from #25
@@ -649,7 +649,7 @@ Gérer les sonneries
 
 
 ;Classics
-Classics
+Sonneries génériques
 
 
 ;Classic Electric
@@ -673,15 +673,15 @@ Sonneries créées
 
 
 ;[fake song title/artist #1]
-[fake song title/artist #1]
+[fake song title/artist #1] {ok}
 
 
 ;[fake song title/artist #2]
-[fake song title/artist #2]
+[fake song title/artist #2] {ok}
 
 
 ;[fake song title/artist #3]
-[fake song title/artist #3]
+[fake song title/artist #3] {ok}
 
 
 # Screen 33 (Settings)
@@ -769,24 +769,24 @@ Août 2014
 
 
 ;Happy Birthday Ty
-Happy Birthday Ty
+Joyeux anniversaire !
 
 
 ;Beach day with Uncle Ben
-Beach day with Uncle Ben
+Après-midi à la plage
 
 
 ;Dixie’s First Snow Day
-Dixie’s First Snow Day
+Dixie’s First Snow Day {ok}
 
 
 ;Backyard BBQ with Eva’s Friends
-Backyard BBQ with Eva’s Friends
+Soirée barbecue
 
 
 # Screens 36 (Video Play)
 ;Happy Birthday…
-Happy Birthday…
+Joyeux anniversaire…
 
 
 # Screen 39-Bluetooth
@@ -795,7 +795,7 @@ Visible par tous
 
 
 ;Suzy's Phone [local name]
-Téléphone de Paul
+Téléphone de xxxxxxxx
 
 
 ;Rename my device
@@ -829,6 +829,6 @@ Enregistrer
 
 
 ;Use as default ringtone
-Sonnerie par défaut.
+Sonnerie par défaut
 
 
