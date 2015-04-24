@@ -47,7 +47,7 @@ Nọv 1, Tusde
 
 # NOTE: make a local sounding name, or use one of the names in Contact list
 ;[Harly’s] Birthday
-Ụbọchị Amụrụ [Nkechi]
+Ụbọchị Amụrụ Nkechi
 
 
 # NOTE: choose any location, doesn’t have to be a conference room or hotel room
@@ -177,7 +177,7 @@ Ezigbo mmadụ niile,
 
 # NOTE: made up message that corresponds to the subject of the meeting.
 ;[Please reserve your time for the productivity meeting on this Tuesday, De-]
-[Biko chekwaa oge gị maka nzụkọ arụmọrụ na Tusde, Di-]
+Biko chekwaa oge gị maka nzụkọ arụmọrụ na Tusde, Di-
 
 
 ;Accept
@@ -244,11 +244,11 @@ Nkeji 5
 
 # Screen 10 (Contact Detail); NOTE: In this section, everything is made up.  1). Name should be from one of the contacts for easy tracking and consistency within the screenshot file. 2). The phone number should have correct country code, area code.  3). Company name is made up; 4). Email name can be fake, and made up domain name.
 ;[name of one of the contacts, male]
-[Emeka]
+Emeka
 
 
 ;[made up company name]
-[E. Emeks Photography]
+E. Emeks Photography
 
 
 ;MOBILE
@@ -256,7 +256,7 @@ MKPANAKA
 
 
 ;[made up mobile phone number, with correct area code]
-[+2348064940000]
++2348064940000
 
 
 ;HOME
@@ -264,7 +264,7 @@ MKPANAKA
 
 
 ;[made up landline phone number, with correct country code and area code]
-[+234429999999]
++234429999999
 
 
 ;WORK
@@ -272,7 +272,7 @@ MKPANAKA
 
 
 ;[fake work email address]
-[emeka@emeks.com]
+emeka@emeks.com
 
 
 ;PERSONAL
@@ -280,7 +280,7 @@ NKEONWE
 
 
 ;[fake personal email address]
-[emeka1877@yahoo.com]
+emeka1877@yahoo.com
 
 
 ;Remove from favorites
@@ -297,51 +297,51 @@ Chọọ
 
 
 ;[contact #1: Travis Allen (m)/T. Tray Photography]
-[kọntaktị #1: Emeka Aneke (m)/E. Emeks Photography]
+kọntaktị #1: Emeka Aneke (m)/E. Emeks Photography
 
 
 ;[contact #2: Will Amber (m)/CBN Studios]
-[kọntaktị #2: Obinna Ani (m)/ABC Clothing]
+kọntaktị #2: Obinna Ani (m)/ABC Clothing
 
 
 ;[contact #3: Kevin Baker (m)/Mozilla]
-[kọntaktị #3: Ebuka Aniagolu (m)/Studio 88]
+kọntaktị #3: Ebuka Aniagolu (m)/Studio 88
 
 
 ;[contact #4: Noah Benson (m)/Benson Studios]
-[kọntaktị #4: Nonso Belonwu (m)/Phils Concepts]
+kọntaktị #4: Nonso Belonwu (m)/Phils Concepts
 
 
 ;[contact #5: Ava Brown (f)/Atsara Kitchen]
-[kọntaktị #5: Uju Boosa (f)/Mummy's Kitchen]
+kọntaktị #5: Uju Boosa (f)/Mummy's Kitchen
 
 
 ;[contact #6: Name (gender)/Company]
-[kọntaktị #6: Chioma Chukwuma (f)/Elegant Bridals]
+kọntaktị #6: Chioma Chukwuma (f)/Elegant Bridals
 
 
 ;[contact #7: Name (gender)/Company]
-[kọntaktị #7: Kosi Gani (f)/Crown Jewelry]
+kọntaktị #7: Kosi Gani (f)/Crown Jewelry
 
 
 ;[contact #8: Name (gender)/Company]
-[kọntaktị #8: Ifeoma Hassan (f)/Ify's Kitchen]
+kọntaktị #8: Ifeoma Hassan (f)/Ify's Kitchen
 
 
 ;[contact #9: Name (gender)/Company]
-[kọntaktị #9: Nonye Inoma (f)/The Studio]
+kọntaktị #9: Nonye Inoma (f)/The Studio
 
 
 ;[contact #10: Name (gender)/Company]
-[kọntaktị #10: Afoma Jombo (f)/Elegant Models]
+kọntaktị #10: Afoma Jombo (f)/Elegant Models
 
 
 ;[contact #11: Name (gender)/Company]
-[kọntaktị #11: Lovelyn Kenechukwu (f)/House of Love
+kọntaktị #11: Lovelyn Kenechukwu (f)/House of Love
 
 
 ;[contact #12: Name (gender)/Company]
-[kọntaktị #12: Okey Lamudi (m)/Okey Electronics]
+kọntaktị #12: Okey Lamudi (m)/Okey Electronics
 
 
 # Screen 12 (Data Usage):
@@ -385,15 +385,15 @@ bcc {ok}
 
 # E-mail subject, replace "[made up subject]" with something relevant, e.g. "Subject: Getting together"
 ;Subject: [made up subject]
-Isiokwu: [Ịbata ụlọ]
+Isiokwu: Ịbata ụlọ
 
 
 ;Hi [one of the contacts in screen #11]
-Kedu [Emeka]
+Kedu Emeka
 
 
 ;[Make up a fake message that corresponds to the subject.]
-[Anyị na eche mbata gị.]
+Anyị na eche mbata gị.
 
 
 ;SPACE
@@ -443,7 +443,7 @@ Mmekọrịta ikpeazụ: Ugbu a
 
 # Screen 17 (Email Reading): NOTE: we will use names from contact list in screen #10 and #11
 ;Re: [fake subject, can pick one in screen #16]
-Re: [Usoro ụgbọ elu]
+Re: Usoro ụgbọ elu
 
 
 ;10 hours ago
@@ -460,7 +460,7 @@ Ekeele m unu niile
 
 
 ;[fake message that corresponds to the subject]
-[Atụrụ m anya na m ga-ahụ gị n'oge adịghị anya]
+Atụrụ m anya na m ga-ahụ gị n'oge adịghị anya
 
 
 ;Thanks!
@@ -481,7 +481,7 @@ Ozi
 
 
 ;E-Mail
-E-mail {ok}
+E-Mail {ok}
 
 
 # Screen 21 (Gallery Thumbmails)
@@ -546,7 +546,7 @@ Fraịde Maachi 1
 
 # Screen 25 (Lock Screen Notification/Music Player) NOTE: We will use one of the contacts in screen #11);
 ;[Wanna grab lunch tomorrow? Or change to something more appropriate]
-[Ị chọrọ iri nri ehihie echi? Ma ọ bụ gbanwee ka ọ bụrụ ihe ka mma]
+Ị chọrọ iri nri ehihie echi? Ma ọ bụ gbanwee ka ọ bụrụ ihe ka mma
 
 
 ;Hi!
@@ -558,7 +558,7 @@ n16 gara aga, n19 gara aga
 
 
 ;[Fake song title/fake musician name]
-[Egwu ogene/Nwa ọma]
+Egwu ogene/Nwa ọma
 
 
 # Screen 26 (Messaging Compose): NOTE: We will use one of the contacts in screen #11 for the name
@@ -572,49 +572,49 @@ Dee ozi gị…
 
 # Screen 27 (Messaging Conversation): NOTE: Contact and Subject line are from screen #26.
 ;[fake message #1 relevant to the subject]
-[M na apụ apụ]
+M na apụ apụ
 
 
 ;[fake message #2 relevant to the subject]
-[Ebee?]
+Ebee?
 
 
 ;[fake message #3 relevant to the subject]
-[Ebe a na aṅụ mmanya, ị na abịa?]
+Ebe a na aṅụ mmanya, ị na abịa?
 
 
 # Screen 28 (Messaging List) NOTE: Use Contact list for this page; messages can be leveraged from Screen #16
 # Screen 29 (Music Grid) NOTE: Provide fake band and album titles for this screen.  You can translate some titles to match the images.  You can leverage some of the existing fake titles/artists on the screen.
 ;[Fake album title/band or artist #1]
-[Egwu Ọha/Ndị ọkaa omee]
+Egwu Ọha/Ndị ọkaa omee
 
 
 ;[Fake album title/band or artist #2]
-[Ozi ndụ/Mmadụ ka a na aya]
+Ozi ndụ/Mmadụ ka a na aya
 
 
 ;[Fake album title/band or artist #3]
-[Egwu Akụkọ Ifo/Emeka Nsugbe]
+Egwu Akụkọ Ifo/Emeka Nsugbe
 
 
 ;[Fake album title/band or artist #4]
-[Mbe na Agụ/Ogene group]
+Mbe na Agụ/Ogene group
 
 
 ;[Fake album title/band or artist #5]
-[Egwu Ntorobịa/Obinna Agụ]
+Egwu Ntorobịa/Obinna Agụ
 
 
 ;[Fake album title/band or artist #6]
-[Njem/Ogene Nsukka]
+Njem/Ogene Nsukka
 
 
 ;[Fake album title/band or artist #7]
-[Ezigbo Chukwu M/Ndị Ukwe]
+Ezigbo Chukwu M/Ndị Ukwe
 
 
 ;[Fake album title/band or artist #8]
-[Ezi Nwanyị/ Emeka Onye Egwu]
+Ezi Nwanyị/ Emeka Onye Egwu
 
 
 # Screen 30 (Music Player) NOTE: Leverage one set from screen #29
@@ -673,15 +673,15 @@ Vamos La Electro {ok}
 
 
 ;[fake song title/artist #1]
-[Egwu ndụ/Ndị udo]
+Egwu ndụ/Ndị udo
 
 
 ;[fake song title/artist #2]
-[Anụlị/Sanko]
+Anụlị/Sanko
 
 
 ;[fake song title/artist #3]
-[Mma/Iheoma Nkoli]
+Mma/Iheoma Nkoli
 
 
 # Screen 33 (Settings)
@@ -707,7 +707,7 @@ Wi-Fi {ok}
 
 # Replace the fake network name with one of your choice
 ;Connected to [fake network name]
-Ejikọrọ na [ZET]
+Ejikọrọ na ZET
 
 
 ;SIM manager
@@ -769,19 +769,19 @@ Julaị 2014
 
 
 ;Happy Birthday Ty
-Emeka Nwee Ọhụụ Ụbọchị Ọmụmụ Gị
+Ụbọchị ọmụmụ nke anọ nke Emeka
 
 
 ;Beach day with Uncle Ben
-Ụbọchị akụkụ osimiri m na Okechukwu
+Oge egwuregwu n'etiti Mazi Okoli
 
 
 ;Dixie’s First Snow Day
-Ụbọchị Izizi Akụ Mmiri Igwe nke Nneoma
+Futubọl n'obodo n'etiti mụ na Izu
 
 
 ;Backyard BBQ with Eva’s Friends
-Ịye Anụ N'azu Ulo m na Ndị Enyi Ada
+Ịye Anụ N'azụ Ụlọ n'etiti m na Ndị Enyi Ada
 
 
 # Screens 36 (Video Play)
@@ -795,7 +795,7 @@ Mmadụ niile na ahụ anya
 
 
 ;Suzy's Phone [local name]
-Suzy's Phone [local name]
+Ekwentị nke Nkoli
 
 
 ;Rename my device
@@ -803,7 +803,7 @@ Nyegharịa ngwaọrụ m aha
 
 
 ;Devices in the area
-Ngwaọrụ ndị dị na mpaghara a
+Ngwaọrụ ndị dị na mpaghara
 
 
 ;Tap to connect
@@ -811,7 +811,7 @@ Pịa iji jikọọ
 
 
 ;Search for devices
-Chọgharịa ngwaọrụ
+Chọọ ngwaọrụ
 
 
 # Screen 40-FindMyDevice
@@ -829,6 +829,8 @@ Chekwaa
 
 
 ;Use as default ringtone
-Jiri dị ka ụda eburupụta
+Jiri dị ka ụda ọkụkụ eji burupụta
+
+
 
 
