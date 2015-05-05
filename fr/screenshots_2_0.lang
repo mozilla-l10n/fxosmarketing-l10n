@@ -120,7 +120,7 @@ Détails de l’évènement
 
 
 ;Edit
-Modifier
+Mode édition
 
 
 # NOTE: subject of meeting can be something else
@@ -244,7 +244,7 @@ Répétition
 
 # Screen 10 (Contact Detail); NOTE: In this section, everything is made up.  1). Name should be from one of the contacts for easy tracking and consistency within the screenshot file. 2). The phone number should have correct country code, area code.  3). Company name is made up; 4). Email name can be fake, and made up domain name.
 ;[name of one of the contacts, male]
-[name of one of the contacts, male]
+[name of one of the contacts, male] {ok}
 
 
 ;[made up company name]
@@ -321,27 +321,27 @@ Rechercher
 
 
 ;[contact #7: Name (gender)/Company]
-[contact #7: Name (gender)/Company]
+[contact #7: Name (gender)/Company] {ok}
 
 
 ;[contact #8: Name (gender)/Company]
-[contact #8: Name (gender)/Company]
+[contact #8: Name (gender)/Company] {ok}
 
 
 ;[contact #9: Name (gender)/Company]
-[contact #9: Name (gender)/Company]
+[contact #9: Name (gender)/Company] {ok}
 
 
 ;[contact #10: Name (gender)/Company]
-[contact #10: Name (gender)/Company]
+[contact #10: Name (gender)/Company] {ok}
 
 
 ;[contact #11: Name (gender)/Company]
-[contact #11: Name (gender)/Company]
+[contact #11: Name (gender)/Company] {ok}
 
 
 ;[contact #12: Name (gender)/Company]
-[contact #12: Name (gender)/Company]
+[contact #12: Name (gender)/Company] {ok}
 
 
 # Screen 12 (Data Usage):
