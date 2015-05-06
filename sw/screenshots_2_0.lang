@@ -23,7 +23,7 @@ MOST TRUSTED INTERNET COMPANY FOR PRIVACY
 # Global Settings
 # Time Format (i.e. 12:34 PM for en-US)
 ;12:34 PM
-12:34 PM
+6:34 MCHANA
 
 
 # Date Format (i.e. 01/21/2015 for January 21st, 2015)
@@ -33,7 +33,7 @@ MOST TRUSTED INTERNET COMPANY FOR PRIVACY
 
 # Screen 2 (Browser Start Page)
 ;Firefox Start Page
-Firefox Start Page
+Page ya Kuanza ya Firefox
 
 
 ;Top Sites
@@ -42,22 +42,22 @@ Top Sites
 
 # Screen 3 (Calendar Day)
 ;Nov 1, Tuesday
-Nov 1, Tuesday
+Nov 1, Jumanne
 
 
 # NOTE: make a local sounding name, or use one of the names in Contact list
 ;[Harly’s] Birthday
-[Harly’s] Birthday
+Siku ya Kuzaliwa ya [Harly’s]
 
 
 # NOTE: choose any location, doesn’t have to be a conference room or hotel room
 ;Room 801
-Room 801
+Chumba 801
 
 
 # NOTE: no need to be a technical meeting, Social event is fine
 ;HTML5 Conference
-HTML5 Conference
+Kongamano la HTML5
 
 
 # NOTE: choose any location that suits the event above
@@ -66,113 +66,113 @@ Palace Ho
 
 
 ;Month
-Month
+Mwezi
 
 
 ;Week
-Week
+Wiki
 
 
 ;Day
-Day
+Siku
 
 
 # Screen 4 (Calendar Event): NOTE: Indicate time and date display format that’s appropriate in your country. Check product UI terms for the actual strings.
 ;Add Event
-Add Event
+Ongeza Tukio
 
 
 ;Done
-Done
+Imefanyika
 
 
 ;Title
-Title
+Mada
 
 
 ;Where
-Where
+Wapi
 
 
 ;All day event?
-All day event?
+Tukio la siku nzima
 
 
 ;Calendar
-Calendar
+Kalenda
 
 
 ;Attendees
-Attendees
+Wahudhuriaji
 
 
 ;Repeat
-Repeat
+Rudia
 
 
 ;Never
-Never
+Kamwe
 
 
 # Screen 5 (Calendar Event Detail): NOTE: this page has content that should be localized instead of translated.  Find event that is more applicable than what’s presented.
 ;Event Details
-Event Details
+Maelezo ya Tukio
 
 
 ;Edit
-Edit
+Hariri
 
 
 # NOTE: subject of meeting can be something else
 ;Productivity Meeting
-Productivity Meeting
+Mkutano wa Uzalishaji
 
 
 ;From 3:00PM Thursday, Dec 8, 2014 to 4:00 PM Friday, Dec 8, 2014
-From 3:00PM Thursday, Dec 8, 2014 to 4:00 PM Friday, Dec 8, 2014
+Kutoka 3:00PM Alhamisi, Dec 8, 2014 to 4:00 PM Ijumaa, Dec 8, 2014
 
 
 # NOTE: if the event is personal in nature, please change to personal calendar
 ;Work Calendar
-Work Calendar
+Kalenda ya Kazini
 
 
 ;Reminder:
-Reminder:
+Kumbusho:
 
 
 ;10 minutes before
-10 minutes before
+Dakika 10 kabla
 
 
 ;1 day before
-1 day before
+Siku 1 kabla
 
 
 ;2 hours before
-2 hours before
+Masaa 2 kabla
 
 
 ;1 hour before
-1 hour before
+Saa 1 kabla
 
 
 ;All time of event
-All time of event
+Tukio la wakati wote
 
 
 ;7 Invites
-7 Invites
+Mialiko 7
 
 
 # NOTE: feel free to use a localized name as file name
 ;file 1.png (150k)
-file 1.png (150k)
+faili 1.png (150k)
 
 
 # NOTE: use the locally appropriate way to address the attendees
 ;Dear all,
-Dear all,
+Wapenzi wote,
 
 
 # NOTE: made up message that corresponds to the subject of the meeting.
@@ -181,53 +181,53 @@ Dear all,
 
 
 ;Accept
-Accept
+Kubali
 
 
 ;Maybe
-Maybe
+Labda
 
 
 ;Decline
-Decline
+Kataa
 
 
 # Screen 7 (Clock Analog)
 ;Monday, March 25
-Monday, March 25
+Jumatatu, Machi 25
 
 
 ;Alarm
-Alarm
+Kengele
 
 
 ;Mon, Tue, Wed, Thu, Fri, Sat, Sun
-Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Jumatatu, Jumanne, Jumatano, Alhamisi, Ijumaa, Jumamosi, Jumapili
 
 
 ;Timer
-Timer
+Kipima wakati
 
 
 ;Stopwatch
-Stopwatch
+Saa ya michezo
 
 
 # Screen 9 (Clock Edit Alarm)
 ;New alarm
-New alarm
+Kengele mpya
 
 
 ;Alarm name
-Alarm name
+Jina ya kengele
 
 
 ;Time
-Time
+Saa
 
 
 ;Sound
-Sound
+Sauti
 
 
 ;Classic Buzz
@@ -235,11 +235,11 @@ Classic Buzz
 
 
 ;Snooze
-Snooze
+Ahirisha
 
 
 ;5 minutes
-5 minutes
+Dakika 5
 
 
 # Screen 10 (Contact Detail); NOTE: In this section, everything is made up.  1). Name should be from one of the contacts for easy tracking and consistency within the screenshot file. 2). The phone number should have correct country code, area code.  3). Company name is made up; 4). Email name can be fake, and made up domain name.
@@ -252,7 +252,7 @@ Snooze
 
 
 ;MOBILE
-MOBILE
+SIMU
 
 
 ;[made up mobile phone number, with correct area code]
@@ -260,7 +260,7 @@ MOBILE
 
 
 ;HOME
-HOME
+NYUMBANI
 
 
 ;[made up landline phone number, with correct country code and area code]
@@ -268,7 +268,7 @@ HOME
 
 
 ;WORK
-WORK
+KAZINI
 
 
 ;[fake work email address]
@@ -276,7 +276,7 @@ WORK
 
 
 ;PERSONAL
-PERSONAL
+BINAFSI
 
 
 ;[fake personal email address]
@@ -284,16 +284,16 @@ PERSONAL
 
 
 ;Remove from favorites
-Remove from favorites
+Kuondoa kutoka vipendwa
 
 
 # Screen 11 (Contact List): NOTE: this is the most difficult page to localize.  Make sure you provide FAKE contacts following these guidelines: 1). 12 contacts, 6 male names and 6 female names.  Indicate which one is which; 2). At least half of the 12 have company names indicated, they can be made up companies; 3). Indicate if the sorting order of names is by family name or given name; 4). Following the sorting order, please provide names with consecutive initials (abc or jkl, xyz, etc).
 ;Contacts
-Contacts
+Anwani
 
 
 ;Search
-Search
+Tafuta
 
 
 ;[contact #1: Travis Allen (m)/T. Tray Photography]
@@ -346,7 +346,7 @@ Search
 
 # Screen 12 (Data Usage):
 ;Usage
-Usage
+Matumizi
 
 
 ;Oct 1, Oct 20, Oct 31
@@ -354,25 +354,25 @@ Oct 1, Oct 20, Oct 31
 
 
 ;Mobile usage
-Mobile usage
+Matumizi wa Simu
 
 
 ;Wi-Fi usage
-Wi-Fi usage
+Matumizi ya Wi-Fi
 
 
 # Screen 14 (Dialer Outgoing call) NOTE: Several strings in #13 can be leveraged from screens #10 and 11, thus not repeated here
 ;Connecting
-Connecting
+Inaunganisha
 
 
 # Screen 15 (Email Compose) NOTE: Names in the To: field can be from the contact list
 ;Compose
-Compose
+Tunga
 
 
 ;To
-To
+Kwa
 
 
 ;cc
@@ -385,11 +385,11 @@ bcc
 
 # E-mail subject, replace "[made up subject]" with something relevant, e.g. "Subject: Getting together"
 ;Subject: [made up subject]
-Subject: [made up subject]
+Mada: [made up subject]
 
 
 ;Hi [one of the contacts in screen #11]
-Hi [one of the contacts in screen #11]
+Jambo [one of the contacts in screen #11]
 
 
 ;[Make up a fake message that corresponds to the subject.]
@@ -397,48 +397,48 @@ Hi [one of the contacts in screen #11]
 
 
 ;SPACE
-SPACE
+NAFASI
 
 
 ;NEXT
-NEXT
+IJAYO
 
 
 # Screen 16 (Email list) NOTE: we will use the names from the Contact list provided in screen #11
 ;Inbox
-Inbox
+Kasha pokezi
 
 
 ;RE: Send photos please/You’re the best! Thanks so much!
-RE: Send photos please/You’re the best! Thanks so much!
+RE: Tuma picha tafadhali/Wewe ndio bora zaidi! Ahsante sana!
 
 
 ;RE: Please Confirm Subscription/I’ve been wanting to visit that place
-RE: Please Confirm Subscription/I’ve been wanting to visit that place
+RE: Tafadhali Dhibitisha kujiandukisha/Nimekuwa nikitaka kutembelea mahali hapo
 
 
 ;RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
-RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
+RE: Safari ya barabara mwishoni mwa wiki ijayo?/Kupata kukubwa!Nitadhibitisha na kila mtu 
 
 
 ;We’re Moving!/Hello Friends! Join us on Saturday for a fun and
-We’re Moving!/Hello Friends! Join us on Saturday for a fun and
+Tunasonga!/Hamjambo Marafiki! Ungana nasi Jumamosi kwa ajili ya kujifurahisha na
 
 
 ;RE: It was nice meeting you!/Hi mate, I heard you're going to the show
-RE: It was nice meeting you!/Hi mate, I heard you're going to the show
+RE: Ilikuwa vizuri kukutana nawe! / Jambo rafiki, nilisikia unaenda kwenye onyesho
 
 
 ;Yesterday
-Yesterday
+Jana
 
 
 ;1 week ago
-1 week ago
+Wiki 1 iliyopita 
 
 
 ;Last sync: Just now
-Last sync: Just now
+Kuladanisha kwa mwisho: Sasa hivi
 
 
 # Screen 17 (Email Reading): NOTE: we will use names from contact list in screen #10 and #11
@@ -447,7 +447,7 @@ Re: [fake subject, can pick one in screen #16]
 
 
 ;10 hours ago
-10 hours ago
+Masaa 10 yaliyopita
 
 
 # Image attachment filename example
@@ -456,7 +456,7 @@ image20150813.jpg
 
 
 ;Hi All [or whatever the proper greeting is]
-Hi All [or whatever the proper greeting is]
+Hamjambo Wote [or whatever the proper greeting is]
 
 
 ;[fake message that corresponds to the subject]
@@ -464,67 +464,67 @@ Hi All [or whatever the proper greeting is]
 
 
 ;Thanks!
-Thanks!
+Ahsante!
 
 
 # Screen 18 (EME Party) NOTE: the screen contains popular apps; names will remain as they are.
 ;Social
-Social
+Kijamii
 
 
 ;Phone
-Phone
+Simu
 
 
 ;Messages
-Messages
+Ujumbe
 
 
 ;E-Mail
-E-Mail
+Barua pepe
 
 
 # Screen 21 (Gallery Thumbmails)
 ;February 2014
-February 2014
+Februari 2014
 
 
 # Screen 22 (Home Screen 3 Column Layout)
 ;Search or enter address
-Search or enter address
+Tafuta au uingize anwani
 
 
 ;Dialer
-Dialer
+Kipiga simu
 
 
 ;Browser
-Browser
+Kivinjari
 
 
 ;Games
-Games
+Michezo
 
 
 ;Music
-Music
+Muziki
 
 
 # Screen 23 (Home Screen 4 Column Layout)
 ;Camera
-Camera
+Kamera
 
 
 ;Gallery
-Gallery
+Albamu
 
 
 ;Showbiz
-Showbiz
+Onyesho
 
 
 ;Clock
-Clock
+Saa
 
 
 ;Video
@@ -532,16 +532,16 @@ Video
 
 
 ;FM Radio
-FM Radio
+FM Redio
 
 
 # Screen 24 (Lock Screen Normal)
 ;Carrier
-Carrier
+Mtoa huduma
 
 
 ;Friday March 1
-Friday March 1
+Ijumaa Mechi 1
 
 
 # Screen 25 (Lock Screen Notification/Music Player) NOTE: We will use one of the contacts in screen #11);
@@ -550,11 +550,11 @@ Friday March 1
 
 
 ;Hi!
-Hi!
+Jambo!
 
 
 ;16m ago, 19m ago
-16m ago, 19m ago
+Dakika 16 zilizopita, Dakika 19 zilizopita
 
 
 ;[Fake song title/fake musician name]
@@ -563,11 +563,11 @@ Hi!
 
 # Screen 26 (Messaging Compose): NOTE: We will use one of the contacts in screen #11 for the name
 ;Your subject here
-Your subject here
+Mada yako hapa
 
 
 ;Write your message…
-Write your message…
+Andika ujumbe wako…
 
 
 # Screen 27 (Messaging Conversation): NOTE: Contact and Subject line are from screen #26.
@@ -619,33 +619,33 @@ Write your message…
 
 # Screen 30 (Music Player) NOTE: Leverage one set from screen #29
 ;Song Title
-Song Title
+Jina la Wimbo
 
 
 # Screen 31 (Notifications) NOTE: Leverage messages from screen #16 and time from #25
 ;Notifications
-Notifications
+Taarifa
 
 
 ;Clear All
-Clear All
+Futa Zote
 
 
 ;Missed Call
-Missed Call
+Simu Uliyokosa
 
 
 ;New SIM inserted
-New SIM inserted
+SIM mpya imeingizwa
 
 
 ;Tap to track your internet usage
-Tap to track your internet usage
+Guza ufuatilie matumizi yako ya mtandao
 
 
 # Screen 32 (Ringtone)
 ;Manage Ringtones
-Manage Ringtones
+Dhibiti Toni za simu
 
 
 ;Classics
@@ -669,7 +669,7 @@ Vamos La Electro
 
 
 ;Created Ringtones
-Created Ringtones
+Toni Zilizoundwa
 
 
 ;[fake song title/artist #1]
@@ -686,19 +686,19 @@ Created Ringtones
 
 # Screen 33 (Settings)
 ;Settings
-Settings
+Mipangilio
 
 
 ;Network & Connectivity
-Network & Connectivity
+Mtandao & Muunganisho
 
 
 ;Airplane mode
-Airplane mode
+Modi ya ndege
 
 
 ;Geolocation
-Geolocation
+Eneo la jiogorafia
 
 
 ;Wi-Fi
@@ -707,23 +707,23 @@ Wi-Fi
 
 # Replace the fake network name with one of your choice
 ;Connected to [fake network name]
-Connected to [fake network name]
+Imeunganishwa kwa [fake network name]
 
 
 ;SIM manager
-SIM manager
+Kidhibiti cha SIM 
 
 
 ;Call Settings
-Call Settings
+Mipnagilio ya kupiga
 
 
 ;Messaging Settings
-Messaging Settings
+Mipangilio ya ujumbe
 
 
 ;Cellular & Data
-Cellular & Data
+Simu & Data
 
 
 ;Bluetooth
@@ -732,11 +732,11 @@ Bluetooth {ok}
 
 # Screen 34 (Settings Sound)
 ;Vibrate
-Vibrate
+Mtetemo
 
 
 ;Volume
-Volume
+Sauti
 
 
 ;Media
@@ -744,40 +744,40 @@ Media
 
 
 ;Ringer & Notifications
-Ringer & Notifications
+Programu ya mlio & Taarifa
 
 
 ;Tones
-Tones
+Toni
 
 
 ;Ringer
-Ringer
+Programu ya mlio
 
 
 ;Alerts
-Alerts
+Tahadhari
 
 
 # Screenshot 35 (Video List) NOTE: Replace the following names with culturally appropriate names for these video clips.  We will try to find appropriate images suitable for the targeted country
 ;July 2014
-July 2014
+Julai 2014
 
 
 ;August 2014
-August 2014
+Agosti 2014
 
 
 ;Happy Birthday Ty
-Happy Birthday Ty
+Furahia Siku ya Kuzaliwa Ty
 
 
 ;Beach day with Uncle Ben
-Beach day with Uncle Ben
+Siku ya ufukoni na Mjomba Ben
 
 
 ;Dixie’s First Snow Day
-Dixie’s First Snow Day
+Siku ya kwanza ya theluji ya Dixie
 
 
 ;Backyard BBQ with Eva’s Friends
@@ -786,7 +786,7 @@ Backyard BBQ with Eva’s Friends
 
 # Screens 36 (Video Play)
 ;Happy Birthday…
-Happy Birthday…
+Furahia Siku ya Kuzaliwa…
 
 
 # Screen 39-Bluetooth
@@ -795,7 +795,7 @@ Inaonekana kwa wote
 
 
 ;Suzy's Phone [local name]
-Suzy's Phone [local name]
+Simu ya Suzy [local name]
 
 
 ;Rename my device
@@ -832,3 +832,4 @@ Hifadhi
 Tumia kama mlio chaguo-msingi
 
 
+ 
