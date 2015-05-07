@@ -9,15 +9,15 @@ Made with a mission to put you first
 
 
 ;We’ve always designed Firefox to protect and respect your private information.
-We’ve always designed Firefox to protect and respect your private information.
+tumeunda Firefox ili kulinda na kuheshimu ujumbe wako wa siri.
 
 
 ;That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
-That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
+Ndio Maana tunajivunia kua kampuni ya mtandao inayo aminika zaidi kwa usiri.
 
 
 ;MOST TRUSTED INTERNET COMPANY FOR PRIVACY
-MOST TRUSTED INTERNET COMPANY FOR PRIVACY
+Kampuni ya mtandao inayo aminika zaidi kwa usiri
 
 
 # Global Settings
@@ -37,7 +37,7 @@ Page ya Kuanza ya Firefox
 
 
 ;Top Sites
-Top Sites
+Tovuti bora
 
 
 # Screen 3 (Calendar Day)
@@ -62,7 +62,7 @@ Kongamano la HTML5
 
 # NOTE: choose any location that suits the event above
 ;Palace Ho
-Palace Ho
+Jumba Ho
 
 
 ;Month
@@ -272,7 +272,7 @@ KAZINI
 
 
 ;[fake work email address]
-[fake work email address]
+[Barua pepe ya kazi ya uongo]
 
 
 ;PERSONAL
@@ -280,7 +280,7 @@ BINAFSI
 
 
 ;[fake personal email address]
-[fake personal email address]
+[barua pepe ya kazi ya kibinafsi]
 
 
 ;Remove from favorites
@@ -385,7 +385,7 @@ bcc
 
 # E-mail subject, replace "[made up subject]" with something relevant, e.g. "Subject: Getting together"
 ;Subject: [made up subject]
-Mada: [made up subject]
+Mada: [Mada iliyo tungwa]
 
 
 ;Hi [one of the contacts in screen #11]
@@ -393,7 +393,7 @@ Jambo [one of the contacts in screen #11]
 
 
 ;[Make up a fake message that corresponds to the subject.]
-[Make up a fake message that corresponds to the subject.]
+[Unda ujumbe wa uongo unao ambatana na mada.]
 
 
 ;SPACE
@@ -418,7 +418,7 @@ RE: Tafadhali Dhibitisha kujiandukisha/Nimekuwa nikitaka kutembelea mahali hapo
 
 
 ;RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
-RE: Safari ya barabara mwishoni mwa wiki ijayo?/Kupata kukubwa!Nitadhibitisha na kila mtu 
+RE: Safari ya barabara mwishoni mwa wiki ijayo?/Kupata kukubwa!Nitadhibitisha na kila mtu
 
 
 ;We’re Moving!/Hello Friends! Join us on Saturday for a fun and
@@ -434,7 +434,7 @@ Jana
 
 
 ;1 week ago
-Wiki 1 iliyopita 
+Wiki 1 iliyopita
 
 
 ;Last sync: Just now
@@ -443,7 +443,7 @@ Kuladanisha kwa mwisho: Sasa hivi
 
 # Screen 17 (Email Reading): NOTE: we will use names from contact list in screen #10 and #11
 ;Re: [fake subject, can pick one in screen #16]
-Re: [fake subject, can pick one in screen #16]
+Re: [Ujumbe wa uongo, unaweza ukachukua moja katika dirisha #16]
 
 
 ;10 hours ago
@@ -452,7 +452,7 @@ Masaa 10 yaliyopita
 
 # Image attachment filename example
 ;image20150813.jpg
-image20150813.jpg
+picha20150813.jpg
 
 
 ;Hi All [or whatever the proper greeting is]
@@ -460,7 +460,7 @@ Hamjambo Wote [or whatever the proper greeting is]
 
 
 ;[fake message that corresponds to the subject]
-[fake message that corresponds to the subject]
+[ujumbe wa uongo unao ambatana na mada]
 
 
 ;Thanks!
@@ -673,15 +673,15 @@ Toni Zilizoundwa
 
 
 ;[fake song title/artist #1]
-[fake song title/artist #1]
+[Wimbo Wa uongo Jina/msanii#1]
 
 
 ;[fake song title/artist #2]
-[fake song title/artist #2]
+[Wimbo Wa uongo Jina/msanii #2]
 
 
 ;[fake song title/artist #3]
-[fake song title/artist #3]
+[Wimbo Wa uongo Jina/msanii #3]
 
 
 # Screen 33 (Settings)
@@ -711,7 +711,7 @@ Imeunganishwa kwa [fake network name]
 
 
 ;SIM manager
-Kidhibiti cha SIM 
+Kidhibiti cha SIM
 
 
 ;Call Settings
@@ -832,4 +832,4 @@ Hifadhi
 Tumia kama mlio chaguo-msingi
 
 
- 
+
