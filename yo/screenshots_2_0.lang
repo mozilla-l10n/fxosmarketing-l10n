@@ -177,7 +177,7 @@ Olólùfẹ́ gbogbo,
 
 # NOTE: made up message that corresponds to the subject of the meeting.
 ;[Please reserve your time for the productivity meeting on this Tuesday, De-]
-[Jọ̀wọ́ ṣàfipamọ́ àkókò rẹ fún ìpàdé ìṣàgbéjádesí ní ojó ìṣẹ́gun, De-]
+Jọ̀wọ́ ṣàfipamọ́ àkókò rẹ fún ìpàdé ìṣàgbéjádesí ní ojó ìṣẹ́gun, De-
 
 
 ;Accept
@@ -244,11 +244,11 @@ Àwọn ìṣẹjú márùn
 
 # Screen 10 (Contact Detail); NOTE: In this section, everything is made up.  1). Name should be from one of the contacts for easy tracking and consistency within the screenshot file. 2). The phone number should have correct country code, area code.  3). Company name is made up; 4). Email name can be fake, and made up domain name.
 ;[name of one of the contacts, male]
-[Ìdèlé]
+Ìdèlé
 
 
 ;[made up company name]
-[T. Ìyafọ́tò Tray]
+T. Ìyafọ́tò Tray
 
 
 ;MOBILE
@@ -256,7 +256,7 @@ ALÁGBEKÁ
 
 
 ;[made up mobile phone number, with correct area code]
-[+23480239409]
++2348023940901
 
 
 ;HOME
@@ -264,7 +264,7 @@ ILÉ
 
 
 ;[made up landline phone number, with correct country code and area code]
-[+2341234952]
++2348023934952
 
 
 ;WORK
@@ -272,7 +272,7 @@ IṢẸ́
 
 
 ;[fake work email address]
-[Ìdèlé@Ìyafọ́tò.com]
+Ìdèlé@tray.com
 
 
 ;PERSONAL
@@ -280,7 +280,7 @@ IṢẸ́
 
 
 ;[fake personal email address]
-[dare@gmail.com]
+dare@gmail.com
 
 
 ;Remove from favorites
@@ -289,59 +289,59 @@ IṢẸ́
 
 # Screen 11 (Contact List): NOTE: this is the most difficult page to localize.  Make sure you provide FAKE contacts following these guidelines: 1). 12 contacts, 6 male names and 6 female names.  Indicate which one is which; 2). At least half of the 12 have company names indicated, they can be made up companies; 3). Indicate if the sorting order of names is by family name or given name; 4). Following the sorting order, please provide names with consecutive initials (abc or jkl, xyz, etc).
 ;Contacts
-àwọn olùbásọ̀rọ̀
+Àwọn olùbásọ̀rọ̀
 
 
 ;Search
-wá
+Ìṣàwarí
 
 
 ;[contact #1: Travis Allen (m)/T. Tray Photography]
-[olùbásọ̀rọ̀ #1: Ìdèlé Adéwálé (m)/T. Ìyafọ́tò Tray]
+olùbásọ̀rọ̀ #1: Ìdèlé Adéwálé (m)/T. Ìyafọ́tò Tray
 
 
 ;[contact #2: Will Amber (m)/CBN Studios]
-[olùbásọ̀rọ̀ #2: Dẹ́bọ̀ Adébòmẹ́yìn (m)/CBN Studios]
+olùbásọ̀rọ̀ #2: Dẹ́bọ̀ Adébòmẹ́yìn (m)/Ilé ìwé ìròyìn Ajébọ̀
 
 
 ;[contact #3: Kevin Baker (m)/Mozilla]
-[olùbásọ̀rọ̀ #3: Fàtàí Adéṣínà (m)/Mozilla]
+olùbásọ̀rọ̀ #3: Fàtàí Adéṣínà (m)/NTA
 
 
 ;[contact #4: Noah Benson (m)/Benson Studios]
-[olùbásọ̀rọ̀ #4: Ìdèlé Bánbọ̀ (m)/Benson Studios]
+olùbásọ̀rọ̀ #4: Ìdèlé Bánbọ̀ (m)/Ilé Ijó Débọ̀
 
 
 ;[contact #5: Ava Brown (f)/Atsara Kitchen]
-[olùbásọ̀rọ̀ #5: Gbádé Bọ́lá (f)/Atsara Kitchen]
+olùbásọ̀rọ̀ #5: Gbádé Bọ́lá (f)/Ilé Oúnjẹ Yàkoyó
 
 
 ;[contact #6: Name (gender)/Company]
-[olùbásọ̀rọ̀ #6: Límọ́tà Débọ̀/Ìjọ Ìrapadà]
+olùbásọ̀rọ̀ #6: Límọ́tà Débọ̀ (f)/Ìjọ Ìrapadà
 
 
 ;[contact #7: Name (gender)/Company]
-[olùbásọ̀rọ̀ #7: Nímọ́tà Òjó/Ìsọ Ẹbunoluwa]
+olùbásọ̀rọ̀ #7: Nímọ́tà Òjó (f)/Ìsọ Ẹbunoluwa
 
 
 ;[contact #8: Name (gender)/Company]
-[olùbásọ̀rọ̀ #8: Ọdẹ́rìndẹ́ Pétérù/Agbẹ́kọ́lá]
+olùbásọ̀rọ̀ #8: Ọdẹ́rìndẹ́ Pétérù (m)/Agbẹ́kọ́lá
 
 
 ;[contact #9: Name (gender)/Company]
-[olùbásọ̀rọ̀ #9: Ràúfù Ṣínà/Ilé Iṣẹ́ Àgbẹ̀]
+olùbásọ̀rọ̀ #9: Ràúfù Ṣínà (m)/Ilé Iṣẹ́ Àgbẹ̀
 
 
 ;[contact #10: Name (gender)/Company]
-[olùbásọ̀rọ̀ #10: Táyọ̀ Yínúsà/Ìsọ̀ Màmá Bísí]
+olùbásọ̀rọ̀ #10: Táyọ̀ Yínúsà (f)/Ìsọ̀ Màmá Bísí
 
 
 ;[contact #11: Name (gender)/Company]
-[olùbásọ̀rọ̀ #11: Tosin Mínà/Ẹlẹ́dẹ̀ Ré]
+olùbásọ̀rọ̀ #11: Tosin Mínà (f)/Ẹlẹ́dẹ̀ Ré
 
 
 ;[contact #12: Name (gender)/Company]
-[olùbásọ̀rọ̀ #12: Jùmọ̀kẹ́ Nímọ́tà/Yà koyó]
+olùbásọ̀rọ̀ #12: Jùmọ̀kẹ́ Nímọ́tà (f)/Yà koyó
 
 
 # Screen 12 (Data Usage):
@@ -385,15 +385,15 @@ bcc {ok}
 
 # E-mail subject, replace "[made up subject]" with something relevant, e.g. "Subject: Getting together"
 ;Subject: [made up subject]
-Orí ọ̀rọ̀: [tí ó ní orí ọ̀rọ̀]
+Orí ọ̀rọ̀: Iriri eniyan
 
 
 ;Hi [one of the contacts in screen #11]
-Bawo [Bísí]
+Bawo Bísí
 
 
 ;[Make up a fake message that corresponds to the subject.]
-[Ilé oúnjẹ yàkoyó.]
+Ilé oúnjẹ yàkoyó.
 
 
 ;SPACE
@@ -443,7 +443,7 @@ Ìbádọ́gba tó kọjá: Nísìyí
 
 # Screen 17 (Email Reading): NOTE: we will use names from contact list in screen #10 and #11
 ;Re: [fake subject, can pick one in screen #16]
-Re: [Agbẹ̀kọ́yà]
+Re: Agbẹ̀kọ́yà
 
 
 ;10 hours ago
@@ -460,7 +460,7 @@ Báwo ni Gbogbo
 
 
 ;[fake message that corresponds to the subject]
-[Ẹ̀yin agbẹ̀kọ́yà, a kíi yín kú ọdún àwọn àgbẹ̀]
+Ẹ̀yin agbẹ̀kọ́yà, a kíi yín kú ọdún àwọn àgbẹ̀
 
 
 ;Thanks!
@@ -546,7 +546,7 @@ Etì Oṣù Ẹrẹ́nà 1
 
 # Screen 25 (Lock Screen Notification/Music Player) NOTE: We will use one of the contacts in screen #11);
 ;[Wanna grab lunch tomorrow? Or change to something more appropriate]
-[O fẹ́gba oúnjẹ ọ̀sán báyì]
+O fẹ́gba oúnjẹ ọ̀sán báyì
 
 
 ;Hi!
@@ -558,7 +558,7 @@ Báwo!
 
 
 ;[Fake song title/fake musician name]
-[Àgídìgbo/Fàtáì Dọ́là]
+Àgídìgbo/Fàtáì Dọ́là
 
 
 # Screen 26 (Messaging Compose): NOTE: We will use one of the contacts in screen #11 for the name
@@ -572,49 +572,49 @@ Kọ iṣẹ́ rẹ…
 
 # Screen 27 (Messaging Conversation): NOTE: Contact and Subject line are from screen #26.
 ;[fake message #1 relevant to the subject]
-[Ẹgbẹ́ alágìdìgbo]
+Ẹgbẹ́ alágìdìgbo
 
 
 ;[fake message #2 relevant to the subject]
-[Akí gbogbo ọmọ ẹgbẹ́]
+Akí gbogbo ọmọ ẹgbẹ́
 
 
 ;[fake message #3 relevant to the subject]
-[Ọdún orin yóò tù wá lára o]
+Ọdún orin yóò tù wá lára o
 
 
 # Screen 28 (Messaging List) NOTE: Use Contact list for this page; messages can be leveraged from Screen #16
 # Screen 29 (Music Grid) NOTE: Provide fake band and album titles for this screen.  You can translate some titles to match the images.  You can leverage some of the existing fake titles/artists on the screen.
 ;[Fake album title/band or artist #1]
-[Alápẹpẹ/Ẹgbẹ́ Apẹpẹ]
+Alápẹpẹ/Ẹgbẹ́ Apẹpẹ
 
 
 ;[Fake album title/band or artist #2]
-[Orin Apẹpẹ/Ẹgbẹ́ Ìjẹ̀bú]
+Orin Apẹpẹ/Ẹgbẹ́ Ìjẹ̀bú
 
 
 ;[Fake album title/band or artist #3]
-[Elégún/Egún Jọbí]
+Elégún/Egún Jọbí
 
 
 ;[Fake album title/band or artist #4]
-[Ijó ẹegún/Ẹgbẹ́ Egún]
+Ijó ẹegún/Ẹgbẹ́ Egún
 
 
 ;[Fake album title/band or artist #5]
-[Àgeré/Ẹgbẹ́ Apẹpẹ]
+Àgeré/Ẹgbẹ́ Apẹpẹ
 
 
 ;[Fake album title/band or artist #6]
-[Ijó àgeré/Eré Mọdé]
+Ijó àgeré/Eré Mọdé
 
 
 ;[Fake album title/band or artist #7]
-[Ijó fújì/Wásíù Àyìndé]
+Ijó fújì/Wásíù Àyìndé
 
 
 ;[Fake album title/band or artist #8]
-[Oníjùjú/Sunny Adè]
+Oníjùjú/Sunny Adè
 
 
 # Screen 30 (Music Player) NOTE: Leverage one set from screen #29
@@ -673,15 +673,15 @@ Vamos La Electro {ok}
 
 
 ;[fake song title/artist #1]
-[Ṣòkí/Bàbá Sókì]
+Ṣòkí/Bàbá Sókì
 
 
 ;[fake song title/artist #2]
-[Ijó ṣòkí/Dáre Dee]
+Ijó ṣòkí/Dáre Dee
 
 
 ;[fake song title/artist #3]
-[Ijó àpàlà/Àyìnlá Ọmọ Wúrà]
+Ijó àpàlà/Àyìnlá Ọmọ Wúrà
 
 
 # Screen 33 (Settings)
@@ -707,7 +707,7 @@ Wi-Fi {ok}
 
 # Replace the fake network name with one of your choice
 ;Connected to [fake network name]
-Connected to àtùpà
+Sopọ̀ pẹ̀lú àtùpà
 
 
 ;SIM manager
@@ -715,11 +715,11 @@ olùṣàkóso SIM
 
 
 ;Call Settings
-Ìpè ààtò
+Ìpè Ààtò
 
 
 ;Messaging Settings
-Fífi àwọn ààtò jíṣẹ́
+Ìfijíṣẹ́ Àwọn Ààtò
 
 
 ;Cellular & Data
@@ -770,22 +770,23 @@ Ògún 2014
 
 # For some locales (e.g. Africa) whis string has been replaced with "Handmade arts and crafts"
 ;Happy Birthday Ty
-Kú ọjọ́ Ìbí Táyé
+Iṣẹ́ àfọwọ́ṣe àti àwọn iṣẹ́ ọ̀nà
 
 
 # For some locales (e.g. Africa) whis string has been replaced with "Out on the water"
 ;Beach day with Uncle Ben
-Ọjọ́ ìre òkun pẹ̀lú Ọnkú Bádé
+Jáde lóri omi
 
 
 # For some locales (e.g. Africa) whis string has been replaced with "Soccer in the street"
 ;Dixie’s First Snow Day
-Ọjọ́ àkọkọ́ Dáre ní Yìnyín
+Bọ́ọ̀lù àfẹṣẹ̀gbá ní òpópónà
 
 
 # For some locales (e.g. Africa) whis string has been replaced with "Taking a break"
 ;Backyard BBQ with Eva’s Friends
 Ẹ̀hìnkùlé BBQ pẹ̀lú àwọn Ọ̀rẹ́ Ẹwà
+Lọfún ìsinmi
 
 
 # Screens 36 (Video Play)
@@ -795,32 +796,32 @@ Kú ọjọ́ Ìbí Táyé
 
 # Screen 39-Bluetooth
 ;Visible to all
-Hànsí gbogboogbò
+Ṣeérí fún gbogbo ènìyàn
 
 
 ;Suzy's Phone [local name]
-Suzy's Phone [local name]
+Fóònù Sísì
 
 
 ;Rename my device
-Fún ohun elò mi lórúkọ míìràn
+Tún ohun elò mi fún l'órúkọ
 
 
 ;Devices in the area
-Àwọn Ohun Èlò ní àgbègbè
+Àwọn ohun elò ní àgbègbè
 
 
 ;Tap to connect
-Fọwọ́ba láti so pọ̀
+Fọwọ́ba láti sopọ̀
 
 
 ;Search for devices
-Ṣàwarí àwọn ohun elò
+Ìṣàwárí fún àwọn ohun elò
 
 
 # Screen 40-FindMyDevice
 ;Sign Out
-Jáde
+Jáde
 
 
 # Screen 41-Create_Ringtone
@@ -829,10 +830,12 @@ Jáde
 
 
 ;Save
-Fi pamọ́
+Ṣàfipamọ́
 
 
 ;Use as default ringtone
-Lo ohùn dídùn bii àkùnàyàn
+Lò gẹ́gẹ́bi àkùnàyàn ohùn dídún
+
+
 
 
