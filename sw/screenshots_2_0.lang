@@ -297,51 +297,51 @@ Tafuta
 
 
 ;[contact #1: Travis Allen (m)/T. Tray Photography]
-[contact #1: Travis Allen (m)/T. Tray Photography]
+John Katana(m)/Tufanye Ltd
 
 
 ;[contact #2: Will Amber (m)/CBN Studios]
-[contact #2: Will Amber (m)/CBN Studios]
+Karim Bakari(m)/Nafaka Enterprises
 
 
 ;[contact #3: Kevin Baker (m)/Mozilla]
-[contact #3: Kevin Baker (m)/Mozilla]
+Yusuf Bahati(m)/Matunda Ltd
 
 
 ;[contact #4: Noah Benson (m)/Benson Studios]
-[contact #4: Noah Benson (m)/Benson Studios]
+Joseph Maina(m)/Mashariki Cremeries
 
 
 ;[contact #5: Ava Brown (f)/Atsara Kitchen]
-[contact #5: Ava Brown (f)/Atsara Kitchen]
+Cliff Juma(m)/Twende Taxi Services
 
 
 ;[contact #6: Name (gender)/Company]
-[contact #6: Name (gender)/Company]
+Peter Kirui(m)/SawaSawa Transporters
 
 
 ;[contact #7: Name (gender)/Company]
-[contact #7: Name (gender)/Company]
+Caroline Amani(f)/Tumbuiza Ltd
 
 
 ;[contact #8: Name (gender)/Company]
-[contact #8: Name (gender)/Company]
+Brenda Zawadi(f)/Picha Enterprises
 
 
 ;[contact #9: Name (gender)/Company]
-[contact #9: Name (gender)/Company]
+Irene Rehema(f)/Yetu Sacco
 
 
 ;[contact #10: Name (gender)/Company]
-[contact #10: Name (gender)/Company]
+Jane Rukia(f)/Rafiki Bank
 
 
 ;[contact #11: Name (gender)/Company]
-[contact #11: Name (gender)/Company]
+Aisha Zawadi(f)/Utulivu Hotel
 
 
 ;[contact #12: Name (gender)/Company]
-[contact #12: Name (gender)/Company]
+Sarah Hassan(f)/Baraka Company Limited
 
 
 # Screen 12 (Data Usage):
@@ -376,24 +376,24 @@ Kwa
 
 
 ;cc
-cc
+cc{ok}
 
 
 ;bcc
-bcc
+bcc{ok}
 
 
 # E-mail subject, replace "[made up subject]" with something relevant, e.g. "Subject: Getting together"
 ;Subject: [made up subject]
-Mada: [Mada iliyo tungwa]
+Mada: Kupata Pamoja
 
 
 ;Hi [one of the contacts in screen #11]
-Jambo [one of the contacts in screen #11]
+Jambo Juma,
 
 
 ;[Make up a fake message that corresponds to the subject.]
-[Unda ujumbe wa uongo unao ambatana na mada.]
+Natumahi barua pepe hii imekupata ukiwa mzima. Ningependa kukualika katika mkutano wa marafiki ambao umepangiwa kufanyika
 
 
 ;SPACE
@@ -528,7 +528,7 @@ Saa
 
 
 ;Video
-Video
+Video {ok}
 
 
 ;FM Radio
@@ -702,12 +702,12 @@ Eneo la jiogorafia
 
 
 ;Wi-Fi
-Wi-Fi
+Wi-Fi {ok}
 
 
 # Replace the fake network name with one of your choice
 ;Connected to [fake network name]
-Imeunganishwa kwa [fake network name]
+Imeunganishwa kwa WasilianaCom
 
 
 ;SIM manager
@@ -740,7 +740,7 @@ Sauti
 
 
 ;Media
-Media
+Midia
 
 
 ;Ringer & Notifications
