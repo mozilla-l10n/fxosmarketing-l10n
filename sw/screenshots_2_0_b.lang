@@ -301,47 +301,47 @@ John Katana(m)/Tufanye Ltd
 
 
 ;[contact #2: Will Amber (m)/CBN Studios]
-Karim Bakari(m)/Nafaka Enterprises
+Karim Kirui(m)/Nafaka Enterprises
 
 
 ;[contact #3: Kevin Baker (m)/Mozilla]
-Yusuf Bahati(m)/Matunda Ltd
+Yusuf Kipkemoi(m)/Matunda Ltd
 
 
 ;[contact #4: Noah Benson (m)/Benson Studios]
-Joseph Maina(m)/Mashariki Cremeries
+Joseph Kiplang'at(m)/Mashariki Cremeries
 
 
 ;[contact #5: Ava Brown (f)/Atsara Kitchen]
-Cliff Juma(m)/Twende Taxi Services
+Cliff Kirui(m)/Twende Taxi Services
 
 
 ;[contact #6: Name (gender)/Company]
-Peter Kirui(m)/SawaSawa Transporters
+Peter Kiptanui(m)/SawaSawa Transporters
 
 
 ;[contact #7: Name (gender)/Company]
-Caroline Amani(f)/Tumbuiza Ltd
+Caroline Jelagat(f)/Tumbuiza Ltd
 
 
 ;[contact #8: Name (gender)/Company]
-Brenda Zawadi(f)/Picha Enterprises
+Brenda Jeptoo(f)/Picha Enterprises
 
 
 ;[contact #9: Name (gender)/Company]
-Irene Rehema(f)/Yetu Sacco
+Irene Jepchirchir(f)/Yetu Sacco
 
 
 ;[contact #10: Name (gender)/Company]
-Jane Rukia(f)/Rafiki Bank
+Jane Jepkorir(f)/Rafiki Bank
 
 
 ;[contact #11: Name (gender)/Company]
-Aisha Zawadi(f)/Utulivu Hotel
+Aisha Jeptoo(f)/Utulivu Hotel
 
 
 ;[contact #12: Name (gender)/Company]
-Sarah Hassan(f)/Baraka Company Limited
+Sarah Jepruto(f)/Baraka Company Limited
 
 
 # Screen 12 (Data Usage):
@@ -443,7 +443,7 @@ Kuladanisha kwa mwisho: Sasa hivi
 
 # Screen 17 (Email Reading): NOTE: we will use names from contact list in screen #10 and #11
 ;Re: [fake subject, can pick one in screen #16]
-Re: [Ujumbe wa uongo, unaweza ukachukua moja katika dirisha #16]
+RE: Tuma picha tafadhali/Wewe ndio bora zaidi! Ahsante sana!
 
 
 ;10 hours ago
@@ -456,11 +456,11 @@ picha20150813.jpg
 
 
 ;Hi All [or whatever the proper greeting is]
-Hamjambo Wote
+Hamjambo Nyote
 
 
 ;[fake message that corresponds to the subject]
-[ujumbe wa uongo unao ambatana na mada]
+Ningependa kuomba wale wote walioweza kupiga picha wakati wa kongamanao lililopita wanitumie. Picha hizo zitatumika kwa njia ambazo utaniruhusu nizitumie. Picha hizo ni za dhamani kwangu maanake zinanikumbusha nyakati za furaha tulizokuwa nazo pamoja.
 
 
 ;Thanks!
@@ -563,24 +563,24 @@ Kupata kile/
 
 # Screen 26 (Messaging Compose): NOTE: We will use one of the contacts in screen #11 for the name
 ;Your subject here
-Mada yako hapa
+Unakuja leo?
 
 
 ;Write your message…
-Andika ujumbe wako…
+Ningependa kukuliza kama bado utanitemebelea leo?
 
 
 # Screen 27 (Messaging Conversation): NOTE: Contact and Subject line are from screen #26.
 ;[fake message #1 relevant to the subject]
-[fake message #1 relevant to the subject]
+Ndio, iwapo nitapewa ruhusa kazini.
 
 
 ;[fake message #2 relevant to the subject]
-[fake message #2 relevant to the subject]
+Hamna neno. Nijulishe kwa wakati mzuri ili nitume gari ikuchukue.
 
 
 ;[fake message #3 relevant to the subject]
-[fake message #3 relevant to the subject]
+Sawa. Nitakujulisha.
 
 
 # Screen 28 (Messaging List) NOTE: Use Contact list for this page; messages can be leveraged from Screen #16
