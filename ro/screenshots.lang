@@ -35,12 +35,12 @@ Distracție în vacanța de vară
 
 # Screen 3 (Video)
 ;Hanging out with the family
-Împreună cu familia
+În oraș cu familia
 
 
 # Screen 3 (Video)
 ;Dinner with the gang/friends
-Cina cu prietenii
+Cina cu gașca/prietenii
 
 
 # Screen 4 (Markeplace)
@@ -55,17 +55,17 @@ Toate categoriile
 
 # Screen 4 (Markeplace)
 ;Featured Apps
-Aplicații recomandate
+Aplicații evidențiate
 
 
 # Screen 4 (Markeplace)
 ;View All
-Vedeți toate
+Vezi toate
 
 
 # Screen 4 (Markeplace)
 ;Popular
-Ce e popular
+Populare
 
 
 # Screen 4 (Markeplace)
@@ -185,7 +185,7 @@ Petrecere
 
 # Screen 11 (e.me party)
 ;Everything Party
-Petrecerea Everything
+Totul Petrecere
 
 
 # Screen 11 (e.me party) NOTE: fictional
@@ -245,7 +245,7 @@ Jurnalele cafelei
 
 # Screen 12 (e.me party) NOTE: fictional; DIY=Do It Yourself
 ;D.I.Y. Barista
-Bărmănița D.I.Y.
+Barmanița D.I.Y.
 
 
 # Screen 12 (e.me party) NOTE: fictional
@@ -260,7 +260,7 @@ Java Spotter {ok}
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Join Up
-Alăturați-vă
+Join Up {ok}
 
 
 # Screen 12 (e.me party) NOTE: fictional
@@ -270,12 +270,12 @@ MyGrubber {ok}
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Park It Here
-Parcați aici
+Park It Here {ok}
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Bookclub Finder
-Cluburi de lectură
+Bookclub Finder {ok}
 
 
 # Screen 12 (e.me party) NOTE: fictional
@@ -355,7 +355,7 @@ Ioana Ungureanu
 
 # Screen 14 (Email)
 ;Inbox (2)
-Inbox (2) {ok}
+Mesaje primite (2)
 
 
 # Screen 14 (Email)
@@ -365,12 +365,12 @@ Re: {ok}
 
 # Screen 14 (Email)
 ;Send photos please / You 're the best! Thanks so…
-Trimite poze / Ești cel mai bun! Mersi foarte…
+Trimite pozele te rog / Ești cel mai tare! Mersi foarte…
 
 
 # Screen 14 (Email)
 ;Road trip next weekend / I've been wanting to visit that place…
-Călătorie în weekendul următor / Vroiam să vizitez acel loc…
+Călătorie în weekendul următor / Voiam să vizitez acel loc…
 
 
 # Screen 14 (Email)
@@ -400,12 +400,12 @@ Acum 1 săptămână
 
 # Screen 14 (Email)
 ;May 25
-25 Mai
+25 mai
 
 
 # Screen 15 and 16 (Dialer) NOTE: provide a fake phone number that complies to your country’s phone number format
 ;[fake local phone number]
-021 123 45 67
+0751 234 567
 
 
 # Screen 16 (Outgoing Call)
@@ -425,7 +425,7 @@ Pagină de start Firefox
 
 # Screen 17 (Browser)
 ;Top Sites
-Saituri de top
+Site-uri de top
 
 
 # Screen 18 (Usage)
