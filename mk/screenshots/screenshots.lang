@@ -1,0 +1,470 @@
+## NOTE: the 1.1 screenshots can be found here - proceed to your locale: https://mozilla.app.box.com/files/0/f/1165468421/1.1
+## NOTE: the 1.3 screesnshots can be found here: https://mozilla.app.box.com/files/0/f/1894864735/320x480
+## NOTE: the diff between 1.1 and 1.3 in English can be found here: https://docs.google.com/a/mozilla.com/presentation/d/136_Z8LiBaXeguy7tjRwh8qSdNd9VXToTGocoB2NjvPw/edit#slide=id.p36
+
+
+# Screen 1 (Music App): provide fictional items, DO NOT TRANSLATE the original string and remove the brackets in your translation.
+;[made up song title]
+[made up song title]
+
+
+# Screen 1 (Music App): provide a fictional band and artist
+;[made up local artist or band]
+[made up local artist or band]
+
+
+# Screen 1 (Music App):
+;[made up local album title]
+[made up local album title]
+
+
+# Screen 2 (Music), screen 6 (Icon Grid), screen 11 (e.me party)
+;Music
+Music
+
+
+# Screen 3 (Video)
+;Happy birthday
+Среќен роденден
+
+
+# Screen 3 (Video)
+;Summer vacation fun
+Забава на летен одмор
+
+
+# Screen 3 (Video)
+;Hanging out with the family
+Дружба со семејството
+
+
+# Screen 3 (Video)
+;Dinner with the gang/friends
+Вечера со бандата/пријателите
+
+
+# Screen 4 (Markeplace)
+;Search
+Пребарување
+
+
+# Screen 4 (Markeplace)
+;All Categories
+Сите категории
+
+
+# Screen 4 (Markeplace)
+;Featured Apps
+Издвоени апликации
+
+
+# Screen 4 (Markeplace)
+;View All
+Видете ги сите
+
+
+# Screen 4 (Markeplace)
+;Popular
+Популарни
+
+
+# Screen 4 (Markeplace)
+;New
+Нови
+
+
+# Screen 4 (Markeplace)
+;Free
+Бесплатни
+
+
+# Screen 5 (Homescreen)
+;I’m thinking of…
+Размислувам за…
+
+
+# Screen 5 (Homescreen):
+;Social
+Социјализација
+
+
+# Screen 5 (Homescreen):
+;Games
+Игри
+
+
+# Screen 5 (Homescreen):
+;ShowBiz
+Шоубиз
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Gallery
+Галерија
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Camera
+Камера
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Calendar
+Календар
+
+
+# Screen 6 (Icon Grid)
+;Clock
+Часовник
+
+
+# Screen 6 (Icon Grid), screen 18 (Usage)
+;Usage
+Потрошено
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Video
+Видео
+
+
+# Screen 6 (Icon Grid)
+;Email
+Е-пошта
+
+
+# Screen 6 (Icon Grid)
+;FM Radio
+ФМ-радио
+
+
+# Screen 6 (Icon Grid)
+;Settings
+Поставки
+
+
+# Screen 7 (Here Maps)
+;Cafe
+Кафе
+
+
+# Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
+;[local street name#1]
+[local street name#1]
+
+
+# Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
+;[local street name#2]
+[local street name#2]
+
+
+# Screen 7 (Here Maps), screen 11 (e.me party), screen 12 (e.me party)
+;Results Simulated
+Симулирани резултати
+
+
+# Screen 8 (Gallery)
+;June 2014
+јуни 2014 г.
+
+
+# Screen 9 (Gallery with Filters)
+;Edit
+Уреди
+
+
+# Screen 9 (Gallery with Filters)
+;Done
+Готово
+
+
+# Screen 11 (e.me party)
+;Party
+Забава
+
+
+# Screen 11 (e.me party)
+;Everything Party
+Сѐ за забава
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;EzGift
+EzGift
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Cater Girls
+Cater Girls
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Quickvite
+Quickvite
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Balloonies
+Balloonies
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Flowerettes
+Flowerettes
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;My Bulletin
+My Bulletin
+
+
+# Screen 11 (e.me party)
+;Notes
+Белешки
+
+
+# Screen 12 (e.me party)
+;Café
+Кафѐ
+
+
+# Screen 12 (e.me party)
+;Everything Cafe
+Сѐ за кафе
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Cafe Calories
+Калории во кафе
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Caffeine Diaries
+Caffeine Diaries
+
+
+# Screen 12 (e.me party) NOTE: fictional; DIY=Do It Yourself
+;D.I.Y. Barista
+D.I.Y. Barista
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Coffee Addicts
+Coffee Addicts
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Java Spotter
+Java Spotter
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Join Up
+Join Up
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;MyGrubber
+MyGrubber
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Park It Here
+Park It Here
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Bookclub Finder
+Bookclub Finder
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Book Beamer
+Book Beamer
+
+
+# Screen 13 (Contacts)
+;Contacts
+Контакти
+
+
+# Screen 13 (Contacts)
+;Search…
+Пребарајте…
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #1]
+[made up name #1]
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #2]
+[made up name #2]
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #3]
+[made up name #3]
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #4]
+[made up name #4]
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #5]
+[made up name #5]
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #6]
+[made up name #6]
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #7]
+[made up name #7]
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #8]
+[made up name #8]
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #9]
+[made up name #9]
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #10]
+[made up name #10]
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #11]
+[made up name #11]
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #12]
+[made up name #12]
+
+
+# Screen 14 (Email)
+;Inbox (2)
+Inbox (2) {ok}
+
+
+# Screen 14 (Email)
+;Re:
+Re: {ok}
+
+
+# Screen 14 (Email)
+;Send photos please / You 're the best! Thanks so…
+Send photos please / You 're the best! Thanks so…
+
+
+# Screen 14 (Email)
+;Road trip next weekend / I've been wanting to visit that place…
+Road trip next weekend / I've been wanting to visit that place…
+
+
+# Screen 14 (Email)
+;You might like this / Great find! I'll definitely check with you
+You might like this / Great find! I'll definitely check with you
+
+
+# Screen 14 (Email)
+;We're moving! / Hello Friends! Join us on Saturday to…
+We're moving! / Hello Friends! Join us on Saturday to…
+
+
+# Screen 14 (Email)
+;It was nice meeting you! I heard you are going the…
+It was nice meeting you! I heard you are going the…
+
+
+# Screen 14 (Email)
+;Yesterday
+Вчера
+
+
+# Screen 14 (Email)
+;1 week ago
+Пред 1 недела
+
+
+# Screen 14 (Email)
+;May 25
+25. мај
+
+
+# Screen 15 and 16 (Dialer) NOTE: provide a fake phone number that complies to your country’s phone number format
+;[fake local phone number]
+[fake local phone number]
+
+
+# Screen 16 (Outgoing Call)
+;Connecting
+Се поврзувам
+
+
+# Screen 16 (Outgoing Call) NOTE: use the same fake name provided in the Contact screen.
+;[fake name from Contact list]
+[fake name from Contact list]
+
+
+# Screen 17 (Browser)
+;Firefox Start Page
+Почетна страница на Firefox
+
+
+# Screen 17 (Browser)
+;Top Sites
+Топ-сајтови
+
+
+# Screen 18 (Usage)
+;3G Usage
+Потрошено на 3G
+
+
+# Screen 18 (Usage)
+;Wifi Usage
+Потрошено на Wifi
+
+
+# Screen 18 (Usage)
+;May 1, May 20, May 30
+1. мај, 20. мај, 30. мај
+
+
+# Screen 19 (Lock Screen)
+;Carrier
+Carrier
+
+
+# Screen 19 (Lock Screen)
+;8:36PM
+20.36 ч.
+
+
+# Screen 19 (Lock Screen)
+;Friday, May 26
+петок, 26. мај
+
+
+# Screen 20 (Lock Screen 2 )  NOTE: use the same title provided in Music App screen)
+;[song title]
+[song title]
+
+
+# Screen 20 (Lock Screen 2 )  NOTE: use the same artist provided in Music App screen)
+;[artist]
+[artist]
+
+

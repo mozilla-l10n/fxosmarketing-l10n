@@ -1,0 +1,530 @@
+## NOTE: 1.3T Tarako Screenshots can be found here: https://mozilla.app.box.com/files/0/f/2234084273
+## NOTE: Correlation of each string and the screenshot: https://docs.google.com/a/mozilla.com/spreadsheets/d/1--aIDyyKhxPER6uniRaNgcixVUq_H6FwOLRADRWBLwg/edit?pli=1#gid=1287933620
+## NOTE: Tracking your progress: http://l10n.mozilla-community.org/~pascalc/langchecker/?locale=all&website=9&file=screenshots_tarako.lang
+
+
+# Screen 1 (Music App): provide fictional items, DO NOT TRANSLATE the original string and remove the brackets in your translation.
+;[made up song title]
+Коричневые незабудки
+
+
+# Screen 1 (Music App): provide a fictional band and artist
+;[made up local artist or band]
+Весёлый снежок
+
+
+# Screen 1 (Music App): #1
+;[made up local album title]
+Внуки цветов
+
+
+# Screen 1 (Music App): #2
+;[made up local album title #2]
+Вертикальный ветер
+
+
+# Screen 1 (Music App): #3
+;[made up local album title #3]
+Когда я был кочегаром
+
+
+# Screen 1 (Music App): #4
+;[made up local album title #4]
+В громкой тишине
+
+
+# Screen 1 (Music App): #5
+;[made up local album title #5]
+Без падения
+
+
+# Screen 1 (Music App): #6
+;[made up local album title #6]
+Ночью по грибы
+
+
+# Screen 1 (Music App): #7
+;[made up local album title #7]
+У меня всегда 13
+
+
+# Screen 2 (Lock Screen)
+;Carrier
+Оператор
+
+
+# Screen 2 (Lock Screen)
+;8:36PM
+20:36
+
+
+# Screen 2 (Lock Screen)
+;Friday, May 26
+Пятница, 26 мая
+
+
+# Screen 3 (Lock Screen 2) and # Screen 16 (Lock Screen 2)
+;[song title]
+Коричневые незабудки
+
+
+# Screen 3 (Lock Screen 2) and # Screen 16 (Lock Screen 2)
+;[artist]
+Весёлый снежок
+
+
+# Screen 4 (Homescreen)
+;I’m thinking of…
+Я думаю о…
+
+
+# Screen 4 (Homescreen):
+;Social
+Общение
+
+
+# Screen 4 (Homescreen):
+;Games
+Игры
+
+
+# Screen 4 (Homescreen):
+;Music
+Музыка
+
+
+# Screen 4 (Homescreen):
+;ShowBiz
+Шоу-бизнес
+
+
+# Screen 5 (Homescreen):
+;Camera
+Камера
+
+
+# Screen 5 (Homescreen):
+;Gallery
+Галерея
+
+
+# Screen 5 (Homescreen):
+;FM Radio
+FM-радио
+
+
+# Screen 5 (Homescreen):
+;Settings
+Параметры
+
+
+# Screen 5 (Homescreen):
+;Marketplace
+Marketplace {ok}
+
+
+# Screen 5 (Homescreen):
+;Calendar
+Календарь
+
+
+# Screen 5 (Homescreen):
+;Usage
+Трафик
+
+
+# Screen 5 (Homescreen):
+;E-Mail
+Эл. почта
+
+
+# Screen 5 (Homescreen):
+;Video
+Видео
+
+
+# Screen 7 (Contacts)
+;Contacts
+Контакты
+
+
+# Screen 7 (Contacts)
+;Search
+Поиск
+
+
+# Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #1]
+Анатолий Виноградов / Журналист
+
+
+# Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #2]
+Инна Волкова / Учитель
+
+
+# Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #3]
+Наталия Воробьёва / Парикмахер
+
+
+# Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #4]
+Михаил Воронов / Автомеханик
+
+
+# Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #5]
+Манас Касенов / Риэлтор
+
+
+# Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #6]
+Светлана Кононова / Бухгалтер
+
+
+# Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #7]
+Василий Котов
+
+
+# Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #8]
+Иван Кулаков
+
+
+# Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #9]
+Марианна Максимова
+
+
+# Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #10]
+Наталья Маркова
+
+
+# Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #11]
+Айрат Мусатаев
+
+
+# Screen 7 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #12]
+Руслан Моисеев
+
+
+# Screen 8 (Email)
+;Inbox (2)
+Входящие (2)
+
+
+# Screen 8 (Email)
+;Re:
+Re: {ok}
+
+
+# Screen 8 (Email)
+;Send photos please / You 're the best! Thanks so…
+Пришлите, пожалуйста, фото / Вы - супер! Большое спасибо…
+
+
+# Screen 8 (Email)
+;Road trip next weekend / I've been wanting to visit that place…
+Поездка в следующие выходные / Я давно хотел посетить это место…
+
+
+# Screen 8 (Email)
+;You might like this / Great find! I'll definitely check with you
+Вам может это понравится / Отличная находка! Я обязательно с вами свяжусь
+
+
+# Screen 8 (Email)
+;We're moving! / Hello Friends! Join us on Saturday to…
+Мы едем! / Привет, друзья! Присоединяйтесь к нам в субботу, чтобы…
+
+
+# Screen 8 (Email)
+;It was nice meeting you! I heard you are going the…
+Было приятно с вами встретиться! Я слышал, вы собираетесь…
+
+
+# Screen 8 (Email)
+;50 minutes ago
+50 минут назад
+
+
+# Screen 8 (Email)
+;an hour ago
+час назад
+
+
+# Screen 8 (Email)
+;Yesterday
+Вчера
+
+
+# Screen 8 (Email)
+;2 days ago
+2 дня назад
+
+
+# Screen 8 (Email)
+;1 week ago
+1 неделю назад
+
+
+# Screen 9 and 10 (Dialer) NOTE: provide a fake phone number that complies to your country’s phone number format
+;[fake local phone number]
+8 495 100 1254
+
+
+# Screen 10 (Outgoing Call)
+;Connecting
+Соединяюсь
+
+
+# Screen 10 (Outgoing Call) NOTE: use the same fake name provided in the Contact screen.
+;[fake name from Contact list]
+Наталия Воробьёва
+
+
+# Screen 11 (Browser)
+;Firefox Start Page
+Начальная страница Firefox
+
+
+# Screen 11 (Browser)
+;Top Sites
+Топ сайтов
+
+
+# Screen 13 (Usage)
+;Mobile usage
+по сотовой сети
+
+
+# Screen 13 (Usage)
+;Wi-fi Usage
+по Wi-fi
+
+
+# Screen 18 (Usage)
+;1GB
+1ГБ
+
+
+# Screen 13 (Usage)
+;200MB
+200МБ
+
+
+# Screen 13 (Usage)
+;0 B
+0 байт
+
+
+# Screen 13 (Usage)
+;643.49 KB
+643,49 КБ
+
+
+# Screen 13 (Usage)
+;May 1, May 20, May 30
+1 мая, 20 мая, 30 мая
+
+
+# Screen 14 (e.me)
+;Bollywood
+Bollywood {ok}
+
+
+# Screen 14 (e.me)
+;Everything Bollywood
+Everything Bollywood {ok}
+
+
+# Screen 14 (e.me)
+;Ratings
+Ratings {ok}
+
+
+# Screen 14 (e.me)
+;Bollywood Songs
+Bollywood Songs {ok}
+
+
+# Screen 14 (e.me)
+;Reviews
+Reviews {ok}
+
+
+# Screen 14 (e.me)
+;Tickets
+Tickets {ok}
+
+
+# Screen 14 (e.me)
+;Movies Nearby
+Movies Nearby {ok}
+
+
+# Screen 14 (e.me)
+;ShowTiming
+ShowTiming {ok}
+
+
+# Screen 14 (e.me)
+;Bollywood Stars
+Bollywood Stars {ok}
+
+
+# Screen 15 (e.me)
+;Cricket
+Cricket {ok}
+
+
+# Screen 15 (e.me)
+;Everything Cricket
+Everything Cricket {ok}
+
+
+# Screen 15 (e.me)
+;Cricket Info
+Cricket Info {ok}
+
+
+# Screen 15 (e.me)
+;Score
+Score {ok}
+
+
+# Screen 15 (e.me)
+;Cricket Latest
+Cricket Latest {ok}
+
+
+# Screen 15 (e.me)
+;Cricket TV
+Cricket TV {ok}
+
+
+# Screen 15 (e.me)
+;Cricket Live
+Cricket Live {ok}
+
+
+# Screen 15 (e.me)
+;My Fav Team
+My Fav Team {ok}
+
+
+# Screen 15 (e.me)
+;Schedule
+Schedule {ok}
+
+
+# Screen 15 (e.me)
+;Notes
+Notes {ok}
+
+
+# Screen 16 (e.me)
+;Café
+Кафе
+
+
+# Screen 16 (e.me)
+;Everything Cafe
+Жизнь кафе
+
+
+# Screen 16 (e.me)
+;Cafe Calories
+Кафе и калории
+
+
+# Screen 16 (e.me)
+;Caffeine Diaries
+Дневники кофеина
+
+
+# Screen 16 (e.me)
+;D.I.Y Barista
+Сам себе бариста
+
+
+# Screen 16 (e.me)
+;Coffee Addicts
+Кофеманы
+
+
+# Screen 16 (e.me)
+;Java Spotter
+В поисках Явы
+
+
+# Screen 16 (e.me)
+;Join Up
+Присоединяйтесь
+
+
+# Screen 16 (e.me)
+;MyGrubber
+MyGrubber {ok}
+
+
+# Screen 16 (e.me)
+;Park It Here
+Припаркуй это
+
+
+# Screen 16 (e.me)
+;Bookclub Finder
+Новинки книжного клуба
+
+
+# Screen 16 (e.me)
+;Book Beamer
+Книга под фокусом
+
+
+# Screen 16 (e.me)
+;Results Simulated
+Симуляция результата
+
+
+# Screen 17 (Markeplace)
+;Home
+Дом
+
+
+# Screen 17 (Markeplace)
+;Tools
+Инструменты
+
+
+# Screen 17 (Markeplace)
+;Lifestyle
+Стиль жизни
+
+
+# Screen 17 (Markeplace)
+;Open
+Открытый
+
+
+# Screen 17 (Markeplace)
+;Free
+Свободный
+
+
+# 18 Screen 18 (Gallery)
+;Edit
+Изменить
+
+
+# 18 Screen 18 (Gallery)
+;Done
+Готово
+
+

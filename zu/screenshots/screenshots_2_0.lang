@@ -1,0 +1,834 @@
+## NOTE: 2.0 English source for context: https://mozilla.app.box.com/files/0/f/2606100649
+## NOTE: If without FFOX phone, for the latest terms used in product, check http://transvision.mozfr.org/
+## NOTE: When a contact is listed on a screen, try to be consistent with the English set of names and same gender.  This is easier for the graphic person to know which one is a woman and man.  Some have photos next to the names.  If the image is not culturally relevant or appropriate, we will replace them in the localized version.
+
+
+# Screen 1  (Browser) NOTE: If all caps is not appropriate in your language, you don’t need to follow the same style.  Be mindful the 3rd string below has limited space. Try to be concise.
+;Made with a mission to put you first
+Yenziwe ngenjongo yokubeka wena phambili
+
+
+;We’ve always designed Firefox to protect and respect your private information.
+Selokhu sasihlela i-Firefox ukuze ikwazi ukuvikela nokuhlonipha imininingwane yakho.
+
+
+;That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
+Yingakho siziqhenya ngokuba sivotelwe ukuba Yinkampani Ye-inthanethi Eyethenjwa Kakhulu Kwezokuvikeleka Kwemininingwane.
+
+
+;MOST TRUSTED INTERNET COMPANY FOR PRIVACY
+INKAMPANI YE-INTHANETHI EYETHENJWA KAKHULU KWEZOKUVIKELEKA KWEMINININGWANE
+
+
+# Global Settings
+# Time Format (i.e. 12:34 PM for en-US)
+;12:34 PM
+12:34 PM {ok}
+
+
+# Date Format (i.e. 01/21/2015 for January 21st, 2015)
+;01/21/2015
+21/01/2015
+
+
+# Screen 2 (Browser Start Page)
+;Firefox Start Page
+Ikhasi lokuqala le-Firefox
+
+
+;Top Sites
+Amasayithi aphambili
+
+
+# Screen 3 (Calendar Day)
+;Nov 1, Tuesday
+NgoLwesibili, mhla lu-1 kuLwezi
+
+
+# NOTE: make a local sounding name, or use one of the names in Contact list
+;[Harly’s] Birthday
+Usuku Lokuzalwa LukaSimphiwe
+
+
+# NOTE: choose any location, doesn’t have to be a conference room or hotel room
+;Room 801
+Igumbi 801
+
+
+# NOTE: no need to be a technical meeting, Social event is fine
+;HTML5 Conference
+Ingqungquthela YoSolwazi Bezemfundo
+
+
+# NOTE: choose any location that suits the event above
+;Palace Ho
+Isibaya Casino
+
+
+;Month
+Inyanga
+
+
+;Week
+Iviki
+
+
+;Day
+Usuku
+
+
+# Screen 4 (Calendar Event): NOTE: Indicate time and date display format that’s appropriate in your country. Check product UI terms for the actual strings.
+;Add Event
+Faka Umcimbi
+
+
+;Done
+Kwenziwe
+
+
+;Title
+Isihloko
+
+
+;Where
+Kuphi
+
+
+;All day event?
+Umcimbi Wosuku Lonke?
+
+
+;Calendar
+Ikhalenda
+
+
+;Attendees
+Izihambeli
+
+
+;Repeat
+Phinda
+
+
+;Never
+Ungaphindi
+
+
+# Screen 5 (Calendar Event Detail): NOTE: this page has content that should be localized instead of translated.  Find event that is more applicable than what’s presented.
+;Event Details
+Imininingwane Yomcimbi
+
+
+;Edit
+Lungisa
+
+
+# NOTE: subject of meeting can be something else
+;Productivity Meeting
+Umhlangano Wokuqanjwa Kabusha Kwezindawo
+
+
+;From 3:00PM Thursday, Dec 8, 2014 to 4:00 PM Friday, Dec 8, 2014
+Kusukela ngehora lesi-3:NTAMBAMA NgoLwesine, mhla ziyisi-8 kuZibandlela, 2014 kuya ehoreni lesi-4: NTAMBAMA Ngolwesihlanu, mhla zizi-8 kuZibandlela 2014
+
+
+# NOTE: if the event is personal in nature, please change to personal calendar
+;Work Calendar
+Ikhalenda lomsebenzi
+
+
+;Reminder:
+Isikhumbuzi:
+
+
+;10 minutes before
+Imizuzu eyi-10 ngaphambilini
+
+
+;1 day before
+Usuku olu-1 ngaphambilini
+
+
+;2 hours before
+Amahora ama-2 ngaphambilini
+
+
+;1 hour before
+Ihora eli-1 ngaphambilini
+
+
+;All time of event
+Sonke isikhathi somcimbi
+
+
+;7 Invites
+Izimemo eziyisi-7
+
+
+# NOTE: feel free to use a localized name as file name
+;file 1.png (150k)
+ifayela 1.png (150k)
+
+
+# NOTE: use the locally appropriate way to address the attendees
+;Dear all,
+Ngiyanibingelela nonke
+
+
+# NOTE: made up message that corresponds to the subject of the meeting.
+;[Please reserve your time for the productivity meeting on this Tuesday, De-]
+Niyacelwa ukuba nizilungiselele Umhlangano Wokuqanjwa Kabusha Kwezindawo
+
+
+;Accept
+Yamukela
+
+
+;Maybe
+Mhlawumbe kungenzeka
+
+
+;Decline
+Yenqaba
+
+
+# Screen 7 (Clock Analog)
+;Monday, March 25
+NgoMsombuluko mhla zingama-25, ku Ndasa
+
+
+;Alarm
+I-alamu
+
+
+;Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Mso, Lwesibili, Lwesithathu, Lwesine, Lwesihlanu, Mgqibelo, ISonto
+
+
+;Timer
+I-Timer
+
+
+;Stopwatch
+I-Stopwatch
+
+
+# Screen 9 (Clock Edit Alarm)
+;New alarm
+I-alamu Elisha
+
+
+;Alarm name
+Igama le-alamu
+
+
+;Time
+Isikhathi
+
+
+;Sound
+Umsindo
+
+
+;Classic Buzz
+I-Classic Buzz
+
+
+;Snooze
+Lala kancane
+
+
+;5 minutes
+Imizuzu emi-5
+
+
+# Screen 10 (Contact Detail); NOTE: In this section, everything is made up.  1). Name should be from one of the contacts for easy tracking and consistency within the screenshot file. 2). The phone number should have correct country code, area code.  3). Company name is made up; 4). Email name can be fake, and made up domain name.
+;[name of one of the contacts, male]
+Baphelele
+
+
+;[made up company name]
+T. Huletts
+
+
+;MOBILE
+UMAKHALEKHUKHWINI
+
+
+;[made up mobile phone number, with correct area code]
+082 566 3737
+
+
+;HOME
+EKHAYA
+
+
+;[made up landline phone number, with correct country code and area code]
+(031) 908 8813
+
+
+;WORK
+EMSEBENZINI
+
+
+;[fake work email address]
+bcele@thuletts.co.za]
+
+
+;PERSONAL
+IMINININGWANE YAKHO
+
+
+;[fake personal email address]
+bcele@gmail.com
+
+
+;Remove from favorites
+Susa Kokuyintandokazi
+
+
+# Screen 11 (Contact List): NOTE: this is the most difficult page to localize.  Make sure you provide FAKE contacts following these guidelines: 1). 12 contacts, 6 male names and 6 female names.  Indicate which one is which; 2). At least half of the 12 have company names indicated, they can be made up companies; 3). Indicate if the sorting order of names is by family name or given name; 4). Following the sorting order, please provide names with consecutive initials (abc or jkl, xyz, etc).
+;Contacts
+Izinombolo zocingo
+
+
+;Search
+Cinga
+
+
+;[contact #1: Travis Allen (m)/T. Tray Photography]
+Imininingwane yomuntu wesi-#2: Celiwe Cebisa (m)/Addington Hospital Studios
+
+
+;[contact #2: Will Amber (m)/CBN Studios]
+Imininingwane yomuntu woku-#1: Baphelele Cele (m)/T. Huletts
+
+
+;[contact #3: Kevin Baker (m)/Mozilla]
+Imininingwane yomuntu wesi-#3: Eyami Chiliza (m)/Ukhozi FM
+
+
+;[contact #4: Noah Benson (m)/Benson Studios]
+Imininingwane yomuntu wesi-#4: Fakazile Dlakude (m)/Office of the Premier KZN
+
+
+;[contact #5: Ava Brown (f)/Atsara Kitchen]
+Imininingwane yomuntu wesi-#5: Gabisile Dlamini (f)/Umlazi V Police Station
+
+
+;[contact #6: Name (gender)/Company]
+Imininingwane yomuntu wesi-#6: Izwakele Jama (f)/Port Shepstone Social Services
+
+
+;[contact #7: Name (gender)/Company]
+Imininingwane yomuntu wesi-#7: Iminathi Jili (m)/Velabahleke High School
+
+
+;[contact #8: Name (gender)/Company]
+Imininingwane yomuntu wesi-#8: Jabulisile Khumalo (f)/Sinakho Publishers
+
+
+;[contact #9: Name (gender)/Company]
+Imininingwane yomuntu wesi-#9: Lulama Mbhele(f)/Umsakazi WoKhozi
+
+
+;[contact #10: Name (gender)/Company]
+Imininingwane yomuntu wesi-#10: Lungile Mkhwanazi (m)/Qalakabusha Engineers
+
+
+;[contact #11: Name (gender)/Company]
+Imininingwane yomuntu wesi-#11: Yanela Zango (f)/Federal Mogul
+
+
+;[contact #12: Name (gender)/Company]
+Imininingwane yomuntu wesi-#12: Yonayethu Zulu (f)/Parliament of RSA
+
+
+# Screen 12 (Data Usage):
+;Usage
+Ukusetshenziswa
+
+
+;Oct 1, Oct 20, Oct 31
+Mhla lu-1 kuMfumfu, Mhla zingama-20 kuMfumfu, Mhla zingama-31 kuMfumfu
+
+
+;Mobile usage
+Ukusetshenziswa Kocingo
+
+
+;Wi-Fi usage
+Ukusetshenziswa kwe-Wi-Fi
+
+
+# Screen 14 (Dialer Outgoing call) NOTE: Several strings in #13 can be leveraged from screens #10 and 11, thus not repeated here
+;Connecting
+Isaxhuma
+
+
+# Screen 15 (Email Compose) NOTE: Names in the To: field can be from the contact list
+;Compose
+Bhala umyalezo
+
+
+;To
+Iya
+
+
+;cc
+cc {ok}
+
+
+;bcc
+bcc {ok}
+
+
+# E-mail subject, replace "[made up subject]" with something relevant, e.g. "Subject: Getting together"
+;Subject: [made up subject]
+Isihloko: Usuku Lwami Lokuzalwa
+
+
+;Hi [one of the contacts in screen #11]
+Sawubona Yonayethu
+
+
+;[Make up a fake message that corresponds to the subject.]
+Usazofika nje kwami namuhla kusihlwa?
+
+
+;SPACE
+ISIKHALA
+
+
+;NEXT
+OKULANDELAYO
+
+
+# Screen 16 (Email list) NOTE: we will use the names from the Contact list provided in screen #11
+;Inbox
+Ibhokisi lemiyalezo
+
+
+;RE: Send photos please/You’re the best! Thanks so much!
+RE: Ngicel' uthumele izithombe/Uyiskhokho! Ngibonga kakhulu!
+
+
+;RE: Please Confirm Subscription/I’ve been wanting to visit that place
+RE: Ngicela uqinisekise i-subscription/Kade ngangifuna ukuvakashela le ndawo…
+
+
+;RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
+RE: Nohambo lwethu ngempelasonto?/Kwakuhle lokhu! Nakanjani ngizobuza ku…
+
+
+;We’re Moving!/Hello Friends! Join us on Saturday for a fun and
+Siyathutha!/Sanibona bangani! Hlanganyela nathi ngoMgqibelo…
+
+
+;RE: It was nice meeting you!/Hi mate, I heard you're going to the show
+RE: Bekumnandi ukukubona!/Sawubona mfethu, Ngizwe kuthiwa uyaya embukisweni
+
+
+;Yesterday
+Izolo
+
+
+;1 week ago
+Evikini elilodwa elidlule
+
+
+;Last sync: Just now
+Kugcinwe ukumataniswa: Khona manje nje
+
+
+# Screen 17 (Email Reading): NOTE: we will use names from contact list in screen #10 and #11
+;Re: [fake subject, can pick one in screen #16]
+Re: Ngicel' uthumele izithombe/Uyiskhokho! Ngibonga kakhulu!
+
+
+;10 hours ago
+Emahoreni ayi-10 edlule
+
+
+# Image attachment filename example
+;image20150813.jpg
+image20150813.jpg {ok}
+
+
+;Hi All [or whatever the proper greeting is]
+Sanibonani nonke
+
+
+;[fake message that corresponds to the subject]
+Ngiyajabula ukuba yingxenye yenu namuhla
+
+
+;Thanks!
+Ngiyabonga!
+
+
+# Screen 18 (EME Party) NOTE: the screen contains popular apps; names will remain as they are.
+;Social
+Ukuxhumana nabanye
+
+
+;Phone
+Ucingo
+
+
+;Messages
+Imiyalezo
+
+
+;E-Mail
+I-imeyli
+
+
+# Screen 21 (Gallery Thumbmails)
+;February 2014
+Febhuwari 2014
+
+
+# Screen 22 (Home Screen 3 Column Layout)
+;Search or enter address
+Cinga noma faka ikheli
+
+
+;Dialer
+Isishayizinombolo
+
+
+;Browser
+Isibukisi
+
+
+;Games
+Imidlalo
+
+
+;Music
+Umculo
+
+
+# Screen 23 (Home Screen 4 Column Layout)
+;Camera
+Ikhamera
+
+
+;Gallery
+Igalari
+
+
+;Showbiz
+Ezikaqedisizungu
+
+
+;Clock
+Iwashi
+
+
+;Video
+Ividiyo
+
+
+;FM Radio
+I-FM Radio
+
+
+# Screen 24 (Lock Screen Normal)
+;Carrier
+Hlanganani Network
+
+
+;Friday March 1
+Ngolwesihlanu Mashi 1
+
+
+# Screen 25 (Lock Screen Notification/Music Player) NOTE: We will use one of the contacts in screen #11);
+;[Wanna grab lunch tomorrow? Or change to something more appropriate]
+Uyafuna siyodla isidlo sasemini kusasa?
+
+
+;Hi!
+Sawubona!
+
+
+;16m ago, 19m ago
+Emizuzwini eyi-16 edlule, emizuzwini eyisi-19 edlule
+
+
+;[Fake song title/fake musician name]
+Sondel' eduze/Izishoshovu
+
+
+# Screen 26 (Messaging Compose): NOTE: We will use one of the contacts in screen #11 for the name
+;Your subject here
+Isihloko sakho lapha
+
+
+;Write your message…
+Bhala umyalezo wakho…
+
+
+# Screen 27 (Messaging Conversation): NOTE: Contact and Subject line are from screen #26.
+;[fake message #1 relevant to the subject]
+Ugcine uzwile ukuthi kuthiwe sivala nini emsebenzini kusasa?
+
+
+;[fake message #2 relevant to the subject]
+Angazi kusho ukuthi sebeyositshela kusasa.
+
+
+;[fake message #3 relevant to the subject]
+Kulungile.
+
+
+# Screen 28 (Messaging List) NOTE: Use Contact list for this page; messages can be leveraged from Screen #16
+# Screen 29 (Music Grid) NOTE: Provide fake band and album titles for this screen.  You can translate some titles to match the images.  You can leverage some of the existing fake titles/artists on the screen.
+;[Fake album title/band or artist #1]
+Inguquko/Simon Zwane
+
+
+;[Fake album title/band or artist #2]
+Inhlonipho/Mafikekugcineni
+
+
+;[Fake album title/band or artist #3]
+Uthando nomculo/Izingane zobaba
+
+
+;[Fake album title/band or artist #4]
+Ithuba lesibili/TKO
+
+
+;[Fake album title/band or artist #5]
+Isikhathi sikaKhisimusi/Kwazini Choir
+
+
+;[Fake album title/band or artist #6]
+Azibuye emasisweni/Khulani Zulu
+
+
+;[Fake album title/band or artist #7]
+Ngiyabonga Jesu/Umlazi Singers
+
+
+;[Fake album title/band or artist #8]
+Rezista Kanjani/LGEE
+
+
+# Screen 30 (Music Player) NOTE: Leverage one set from screen #29
+;Song Title
+Isihloko seculo
+
+
+# Screen 31 (Notifications) NOTE: Leverage messages from screen #16 and time from #25
+;Notifications
+Izaziso
+
+
+;Clear All
+Sula Konke
+
+
+;Missed Call
+Ucingo lukuphuthile
+
+
+;New SIM inserted
+Kufakwe i-SIM entsha
+
+
+;Tap to track your internet usage
+Thinta ukuze ulandelele ukusetshenziswa kwe-inthanethi
+
+
+# Screen 32 (Ringtone)
+;Manage Ringtones
+Lawula iminkenenezo
+
+
+;Classics
+I-Classics
+
+
+;Classic Electric
+I-Classic Electric
+
+
+;Classic Wallphone
+I-Classic Wallphone
+
+
+;Disco Drive
+I-Disco Drive
+
+
+;Vamos La Electro
+I-Vamos La Electro
+
+
+;Created Ringtones
+Iminkenenezo eqanjiwe
+
+
+;[fake song title/artist #1]
+Seveni Phezulu/Izazi
+
+
+;[fake song title/artist #2]
+Ngiyazikhethela/Naima Zee
+
+
+;[fake song title/artist #3]
+Kuyoze kuyovalwa/Zola nabashana
+
+
+# Screen 33 (Settings)
+;Settings
+Amasethingi
+
+
+;Network & Connectivity
+Inethiwekhi Nokuxhumeka
+
+
+;Airplane mode
+Imodi yasebhanoyini
+
+
+;Geolocation
+Ukwaziswa Kwendawo Okuyo
+
+
+;Wi-Fi
+i-Wi-Fi
+
+
+# Replace the fake network name with one of your choice
+;Connected to [fake network name]
+Uxhumekile ku Hlanganani network
+
+
+;SIM manager
+Imenenja ye-SIM
+
+
+;Call Settings
+Amasethingi Okufona
+
+
+;Messaging Settings
+Amasethingi Emiyalezo
+
+
+;Cellular & Data
+Iselula Nedatha
+
+
+;Bluetooth
+i-Bluetooth
+
+
+# Screen 34 (Settings Sound)
+;Vibrate
+Vayibretha
+
+
+;Volume
+Ivolumu
+
+
+;Media
+Imidiya
+
+
+;Ringer & Notifications
+Ukukhala Kocingo neSaziso
+
+
+;Tones
+Umnkenenezo
+
+
+;Ringer
+Ukukhala Kocingo
+
+
+;Alerts
+Izikhumbuzi
+
+
+# Screenshot 35 (Video List) NOTE: Replace the following names with culturally appropriate names for these video clips.  We will try to find appropriate images suitable for the targeted country
+;July 2014
+Ntulikazi wezi-2014
+
+
+;August 2014
+Ncwaba wezi-2014
+
+
+;Happy Birthday Ty
+Usuku Lokuzalwa Olumnandi Sandile
+
+
+;Beach day with Uncle Ben
+Usuku lwasolwandle noMalume US'celo
+
+
+;Dixie’s First Snow Day
+Usuku Lokuqala lukaNdalo Kukhithika
+
+
+;Backyard BBQ with Eva’s Friends
+I-BBQ yaThulile Nabangani
+
+
+# Screens 36 (Video Play)
+;Happy Birthday…
+Usuku Lokuzalwa Olumnandi…
+
+
+# Screen 39-Bluetooth
+;Visible to all
+Kubonakala kubo bonke
+
+
+;Suzy's Phone [local name]
+Suzy's Phone [local name]
+
+
+;Rename my device
+Qamba kabusha idivayisi yami
+
+
+;Devices in the area
+Amadivayisi akule ndawo
+
+
+;Tap to connect
+Thinta kancane ukuze uxhumeke
+
+
+;Search for devices
+Cinga amadivayisi
+
+
+# Screen 40-FindMyDevice
+;Sign Out
+Sayinela Ukuphuma
+
+
+# Screen 41-Create_Ringtone
+;Create Ringtone
+Yenza Umknenenezo Wokukhala Kocingo
+
+
+;Save
+Londoloza
+
+
+;Use as default ringtone
+Sebenzisa njengomnkenenezo wakhona
+
+

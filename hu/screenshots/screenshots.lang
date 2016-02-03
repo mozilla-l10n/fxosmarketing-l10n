@@ -1,0 +1,470 @@
+## NOTE: the 1.1 screenshots can be found here - proceed to your locale: https://mozilla.app.box.com/files/0/f/1165468421/1.1
+## NOTE: the 1.3 screesnshots can be found here: https://mozilla.app.box.com/files/0/f/1894864735/320x480
+## NOTE: the diff between 1.1 and 1.3 in English can be found here: https://docs.google.com/a/mozilla.com/presentation/d/136_Z8LiBaXeguy7tjRwh8qSdNd9VXToTGocoB2NjvPw/edit#slide=id.p36
+
+
+# Screen 1 (Music App): provide fictional items, DO NOT TRANSLATE the original string and remove the brackets in your translation.
+;[made up song title]
+Szombat esti láz
+
+
+# Screen 1 (Music App): provide a fictional band and artist
+;[made up local artist or band]
+Novák Sára
+
+
+# Screen 1 (Music App):
+;[made up local album title]
+Újrakezdés
+
+
+# Screen 2 (Music), screen 6 (Icon Grid), screen 11 (e.me party)
+;Music
+Zene
+
+
+# Screen 3 (Video)
+;Happy birthday
+Boldog születésnapot
+
+
+# Screen 3 (Video)
+;Summer vacation fun
+Vidám nyaralás
+
+
+# Screen 3 (Video)
+;Hanging out with the family
+Családi piknik
+
+
+# Screen 3 (Video)
+;Dinner with the gang/friends
+Baráti vacsora
+
+
+# Screen 4 (Markeplace)
+;Search
+Keresés
+
+
+# Screen 4 (Markeplace)
+;All Categories
+Összes kategória
+
+
+# Screen 4 (Markeplace)
+;Featured Apps
+Kiemelt alkalmazások
+
+
+# Screen 4 (Markeplace)
+;View All
+Összes megjelenítése
+
+
+# Screen 4 (Markeplace)
+;Popular
+Népszerű
+
+
+# Screen 4 (Markeplace)
+;New
+Új
+
+
+# Screen 4 (Markeplace)
+;Free
+Ingyenes
+
+
+# Screen 5 (Homescreen)
+;I’m thinking of…
+Erre gondolok…
+
+
+# Screen 5 (Homescreen):
+;Social
+Közösség
+
+
+# Screen 5 (Homescreen):
+;Games
+Játék
+
+
+# Screen 5 (Homescreen):
+;ShowBiz
+Szórakozás
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Gallery
+Galéria
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Camera
+Kamera
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Calendar
+Naptár
+
+
+# Screen 6 (Icon Grid)
+;Clock
+Óra
+
+
+# Screen 6 (Icon Grid), screen 18 (Usage)
+;Usage
+Költségek
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Video
+Videó
+
+
+# Screen 6 (Icon Grid)
+;Email
+Levelező
+
+
+# Screen 6 (Icon Grid)
+;FM Radio
+FM rádió
+
+
+# Screen 6 (Icon Grid)
+;Settings
+Beállítások
+
+
+# Screen 7 (Here Maps)
+;Cafe
+Kávézó
+
+
+# Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
+;[local street name#1]
+Akácfa utca
+
+
+# Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
+;[local street name#2]
+Várfok utca
+
+
+# Screen 7 (Here Maps), screen 11 (e.me party), screen 12 (e.me party)
+;Results Simulated
+Az eredmény csak illusztráció
+
+
+# Screen 8 (Gallery)
+;June 2014
+2014. Június
+
+
+# Screen 9 (Gallery with Filters)
+;Edit
+Szerkesztés
+
+
+# Screen 9 (Gallery with Filters)
+;Done
+Kész
+
+
+# Screen 11 (e.me party)
+;Party
+Buli
+
+
+# Screen 11 (e.me party)
+;Everything Party
+Minden: buli
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;EzGift
+Ajándékot Neked
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Cater Girls
+Jó Buli Szolgálat
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Quickvite
+Ide megyünk!
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Balloonies
+PufiLufi
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Flowerettes
+Virágkiállítás
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;My Bulletin
+Tennivalóim
+
+
+# Screen 11 (e.me party)
+;Notes
+Jegyzetek
+
+
+# Screen 12 (e.me party)
+;Café
+Kávézó
+
+
+# Screen 12 (e.me party)
+;Everything Cafe
+Minden: kávézó
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Cafe Calories
+Kávé kalória
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Caffeine Diaries
+Kávénapló
+
+
+# Screen 12 (e.me party) NOTE: fictional; DIY=Do It Yourself
+;D.I.Y. Barista
+Önjelölt barista
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Coffee Addicts
+Kávéfüggők
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Java Spotter
+Virtuális kávéház
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Join Up
+Egy csapat!
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;MyGrubber
+Kincskereső
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Park It Here
+Parkolj itt
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Bookclub Finder
+Könyvkereső
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Book Beamer
+Könyv-elő
+
+
+# Screen 13 (Contacts)
+;Contacts
+Névjegyek
+
+
+# Screen 13 (Contacts)
+;Search…
+Keresés
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #1]
+Klára Jakab
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #2]
+Bence Jámbor;Jámbor borbár
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #3]
+Szandra Jánosi;Két mókus étkezde
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #4]
+Márton Jókai
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #5]
+Erika Kapitány
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #6]
+László Kerekes
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #7]
+Judit Kertész;Falunapok Kft.
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #8]
+Sándor Kovács;132 Media
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #9]
+Andrea Lázár;Középpont Hostel
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #10]
+Róbert Levente
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #11]
+Zita Lóránt
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #12]
+Péter Ludasi;Gyökkettő bár
+
+
+# Screen 14 (Email)
+;Inbox (2)
+Beérkező levelek (2)
+
+
+# Screen 14 (Email)
+;Re:
+Re: {ok}
+
+
+# Screen 14 (Email)
+;Send photos please / You 're the best! Thanks so…
+Kérlek küldd át a fényképeket / Te vagy a legjobb! Nagyon köszönöm…
+
+
+# Screen 14 (Email)
+;Road trip next weekend / I've been wanting to visit that place…
+Körutazás most hétvégén / Már régóta szeretnék egyszer eljutni…
+
+
+# Screen 14 (Email)
+;You might like this / Great find! I'll definitely check with you
+Ezt talán tetszeni fog / Telitalálat! Nézzük meg ezt közösen
+
+
+# Screen 14 (Email)
+;We're moving! / Hello Friends! Join us on Saturday to…
+Költözünk! / Drága Barátaink! Segítsetek nekünk most szombaton…
+
+
+# Screen 14 (Email)
+;It was nice meeting you! I heard you are going the…
+Örülök hogy találkoztunk! Úgy hallottam hamarosan elutazol…
+
+
+# Screen 14 (Email)
+;Yesterday
+tegnap
+
+
+# Screen 14 (Email)
+;1 week ago
+1 héttel ezelőtt
+
+
+# Screen 14 (Email)
+;May 25
+Május 25
+
+
+# Screen 15 and 16 (Dialer) NOTE: provide a fake phone number that complies to your country’s phone number format
+;[fake local phone number]
++36 99 5559867
+
+
+# Screen 16 (Outgoing Call)
+;Connecting
+Kapcsolódás
+
+
+# Screen 16 (Outgoing Call) NOTE: use the same fake name provided in the Contact screen.
+;[fake name from Contact list]
+Róbert Levente
+
+
+# Screen 17 (Browser)
+;Firefox Start Page
+Keresés vagy cím
+
+
+# Screen 17 (Browser)
+;Top Sites
+Népszerű oldalak
+
+
+# Screen 18 (Usage)
+;3G Usage
+3G használat
+
+
+# Screen 18 (Usage)
+;Wifi Usage
+Wi-Fi használat
+
+
+# Screen 18 (Usage)
+;May 1, May 20, May 30
+Máj 1, Máj 20, Máj 30
+
+
+# Screen 19 (Lock Screen)
+;Carrier
+Szolgáltató
+
+
+# Screen 19 (Lock Screen)
+;8:36PM
+20:36
+
+
+# Screen 19 (Lock Screen)
+;Friday, May 26
+Május 26. Péntek
+
+
+# Screen 20 (Lock Screen 2 )  NOTE: use the same title provided in Music App screen)
+;[song title]
+Szombat esti láz
+
+
+# Screen 20 (Lock Screen 2 )  NOTE: use the same artist provided in Music App screen)
+;[artist]
+Novák Sára
+
+

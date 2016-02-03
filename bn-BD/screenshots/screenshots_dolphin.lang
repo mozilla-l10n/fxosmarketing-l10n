@@ -1,0 +1,469 @@
+## NOTE: 1.4 Dolphin Screenshots
+## NOTE: Tracking your progress: http://l10n.mozilla-community.org/~pascalc/langchecker/?locale=all&website=9&file=screenshots_dolphin.lang
+
+
+# Screen 1 (Music App): provide fictional items, DO NOT TRANSLATE the original string and remove the brackets in your translation.
+;[made up song title]
+গানের শিরোনাম তৈরী করুন
+
+
+# Screen 1 (Music App): provide a fictional band and artist
+;[made up local artist or band]
+লোকাল শিল্পী বা ব্যান্ড তৈরী করুন
+
+
+# Screen 1 (Music App):
+;[made up local album title]
+লোকাল এলবাম শিরনাম তৈরী করুন
+
+
+# Screen 2 (Music), screen 6 (Icon Grid), screen 11 (e.me party)
+;Music
+সঙ্গীত
+
+
+# Screen 3 (Video)
+;Happy birthday
+শুভ জন্মদিন
+
+
+# Screen 3 (Video)
+;Summer vacation fun
+গ্রীষ্মের ছুটির মজা
+
+
+# Screen 3 (Video)
+;Hanging out with the family
+পরিবারের সাথে সময় কাটানো
+
+
+# Screen 3 (Video)
+;Dinner with the gang/friends
+বন্ধুদের সাথে রাতের খাবার
+
+
+# Screen 4 (Markeplace)
+;Search
+অনুসন্ধান
+
+
+# Screen 4 (Markeplace)
+;All Categories
+সকল ক্যাটাগরি
+
+
+# Screen 4 (Markeplace)
+;Featured Apps
+বৈশ্যিষ্ট্যপূর্ণ অ্যাপ
+
+
+# Screen 4 (Markeplace)
+;View All
+সব প্রদর্শণ
+
+
+# Screen 4 (Markeplace)
+;Popular
+জনপ্রিয়
+
+
+# Screen 4 (Markeplace)
+;New
+নতুন
+
+
+# Screen 4 (Markeplace)
+;Free
+বিনামূল্যে
+
+
+# Screen 5 (Homescreen)
+;I’m thinking of…
+আমি যা চিন্তা করছি…
+
+
+# Screen 5 (Homescreen):
+;Social
+সামাজিক
+
+
+# Screen 5 (Homescreen):
+;Games
+গেমস
+
+
+# Screen 5 (Homescreen):
+;ShowBiz
+শোবিজ
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Gallery
+গ্যালারী
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Camera
+ক্যামেরা
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Calendar
+ক্যালেন্ডার
+
+
+# Screen 6 (Icon Grid)
+;Clock
+ঘড়ি
+
+
+# Screen 6 (Icon Grid), screen 18 (Usage)
+;Usage
+ব্যবহার
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Video
+ভিডিও
+
+
+# Screen 6 (Icon Grid)
+;Email
+ইমেইল
+
+
+# Screen 6 (Icon Grid)
+;FM Radio
+এফএম রেডিও
+
+
+# Screen 6 (Icon Grid)
+;Settings
+সেটিংস
+
+
+# Screen 7 (Here Maps)
+;Cafe
+ক্যাফে
+
+
+# Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
+;[local street name#1]
+বেইলী রোড
+
+
+# Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
+;[local street name#2]
+গুলশান এক
+
+
+# Screen 7 (Here Maps), screen 11 (e.me party), screen 12 (e.me party)
+;Results Simulated
+ফলাফল সিমুলেটেড
+
+
+# Screen 8 (Gallery)
+;June 2014
+জুন ২০১৪
+
+
+# Screen 9 (Gallery with Filters)
+;Edit
+সম্পাদনা
+
+
+# Screen 9 (Gallery with Filters)
+;Done
+শেষ
+
+
+# Screen 11 (e.me party)
+;Party
+পার্টি
+
+
+# Screen 11 (e.me party)
+;Everything Party
+পার্টির সবকিছু
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;EzGift
+ইজিগিফট
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Cater Girls
+মেয়েদের জন্যে
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Quickvite
+চটপটেচার্লি
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Balloonies
+বালোনিজ
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Flowerettes
+অনুসরণকারী
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;My Bulletin
+আমার বুলেটিন
+
+
+# Screen 11 (e.me party)
+;Notes
+নোটস
+
+
+# Screen 12 (e.me party)
+;Café
+ক্যাফে
+
+
+# Screen 12 (e.me party)
+;Everything Cafe
+ক্যাফের সবকিছু
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Cafe Calories
+ক্যাফে ক্যালোরি
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Caffeine Diaries
+ক্যাফেইন ডায়েরী
+
+
+# Screen 12 (e.me party) NOTE: fictional; DIY=Do It Yourself
+;D.I.Y. Barista
+নিজের করুন বারিস্তা
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Coffee Addicts
+কফি আসক্ত
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Java Spotter
+জাভা পাগল
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Join Up
+যোগ দিন
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;MyGrubber
+মাই গ্রাবার
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Park It Here
+এখানে পার্ক করুন
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Bookclub Finder
+বইয়ের ক্লাব অনুসন্ধান
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Book Beamer
+বই প্রক্ষেপক
+
+
+# Screen 13 (Contacts)
+;Contacts
+পরিচিতি
+
+
+# Screen 13 (Contacts)
+;Search…
+অনুসন্ধান…
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #1]
+অপু হাসনাত
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #2]
+অপু হাসনাত
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #3]
+অপু হাসনাত
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #4]
+অপু হাসনাত
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #5]
+অপু হাসনাত
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #6]
+অপু হাসনাত
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #7]
+অপু হাসনাত
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #8]
+অপু হাসনাত
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #9]
+অপু হাসনাত
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #10]
+অপু হাসনাত
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #11]
+অপু হাসনাত
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #12]
+অপু হাসনাত
+
+
+# Screen 14 (Email)
+;Inbox (2)
+ইনবক্স (2)
+
+
+# Screen 14 (Email)
+;Re:
+Re:
+
+
+# Screen 14 (Email)
+;Send photos please / You 're the best! Thanks so…
+অনুগ্রহ করে ছবি প্রেরণ করুন / তুমিই সেরা! তাই ধন্যবাদ…
+
+
+# Screen 14 (Email)
+;Road trip next weekend / I've been wanting to visit that place…
+আগামী সপ্তাহান্তে সড়কে ভ্রমণ / ওই স্থানটিতে আমি ঘুরতে যেতে চাচ্ছিলাম…
+
+
+# Screen 14 (Email)
+;You might like this / Great find! I'll definitely check with you
+তোমার এটা পছন্দ হতে পারে / ভাল জিনিস খুঁজেছো! আমি নিশ্চিত তোমার সাথে আছি
+
+
+# Screen 14 (Email)
+;We're moving! / Hello Friends! Join us on Saturday to…
+আমরা বেড়াতে যাচ্ছি! / হ্যালো বন্ধুরা! শনিবার আমাদের সাথে চলো…
+
+
+# Screen 14 (Email)
+;It was nice meeting you! I heard you are going the…
+তোমার সাথে দেখা করে ভাল লেগেছো! আমি শুনেছি তুমি যাচ্ছো…
+
+
+# Screen 14 (Email)
+;Yesterday
+গতকাল
+
+
+# Screen 14 (Email)
+;1 week ago
+এক সপ্তাহ পূর্বে
+
+
+# Screen 14 (Email)
+;May 25
+২৫শে মে
+
+
+# Screen 15 and 16 (Dialer) NOTE: provide a fake phone number that complies to your country’s phone number format
+;[fake local phone number]
+০১৯৪৩১৩১৩১৩
+
+
+# Screen 16 (Outgoing Call)
+;Connecting
+সংযোগ করা হচ্ছে
+
+
+# Screen 16 (Outgoing Call) NOTE: use the same fake name provided in the Contact screen.
+;[fake name from Contact list]
+ইফসাত সিদ্দিকী
+
+
+# Screen 17 (Browser)
+;Firefox Start Page
+Firefox শুরুর পেজ
+
+
+# Screen 17 (Browser)
+;Top Sites
+টপ সাইটসমূহ
+
+
+# Screen 18 (Usage)
+;3G Usage
+থ্রীজি ব্যবহার
+
+
+# Screen 18 (Usage)
+;Wifi Usage
+ওয়াইফাই ব্যবহার
+
+
+# Screen 18 (Usage)
+;May 1, May 20, May 30
+১লা মে, ২০ই মে, ৩০শে মে
+
+
+# Screen 19 (Lock Screen)
+;Carrier
+ক্যারিয়ার
+
+
+# Screen 19 (Lock Screen)
+;8:36PM
+রাত ৮টা ৩৬
+
+
+# Screen 19 (Lock Screen)
+;Friday, May 26
+২৬শে মে, শুক্রবার
+
+
+# Screen 20 (Lock Screen 2 )  NOTE: use the same title provided in Music App screen)
+;[song title]
+বিন্দু আমি তুমি আমায় ঘিরে
+
+
+# Screen 20 (Lock Screen 2 )  NOTE: use the same artist provided in Music App screen)
+;[artist]
+তাহসান
+
+

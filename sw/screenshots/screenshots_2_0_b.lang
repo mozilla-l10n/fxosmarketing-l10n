@@ -1,0 +1,834 @@
+## NOTE: 2.0 English source for context: https://mozilla.app.box.com/files/0/f/2606100649
+## NOTE: If without FFOX phone, for the latest terms used in product, check http://transvision.mozfr.org/
+## NOTE: When a contact is listed on a screen, try to be consistent with the English set of names and same gender.  This is easier for the graphic person to know which one is a woman and man.  Some have photos next to the names.  If the image is not culturally relevant or appropriate, we will replace them in the localized version.
+
+
+# Screen 1  (Browser) NOTE: If all caps is not appropriate in your language, you don’t need to follow the same style.  Be mindful the 3rd string below has limited space. Try to be concise.
+;Made with a mission to put you first
+Imeundwa na dhamira ya kukujali wewe kwanza
+
+
+;We’ve always designed Firefox to protect and respect your private information.
+Tumeunda Firefox ili kulinda na kuheshimu mambo yako wa siri kila wakati.
+
+
+;That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
+Ndio Maana tunajivunia kua Kampuni ya Mtandao Inayoaminika Zaidi kwa Usiri.
+
+
+;MOST TRUSTED INTERNET COMPANY FOR PRIVACY
+KAMPUNI INAYOAMINIKA ZAIDI KWA USIRI
+
+
+# Global Settings
+# Time Format (i.e. 12:34 PM for en-US)
+;12:34 PM
+6:34 MCHANA
+
+
+# Date Format (i.e. 01/21/2015 for January 21st, 2015)
+;01/21/2015
+21/01/2015
+
+
+# Screen 2 (Browser Start Page)
+;Firefox Start Page
+Page ya Kuanza ya Firefox
+
+
+;Top Sites
+Tovuti bora
+
+
+# Screen 3 (Calendar Day)
+;Nov 1, Tuesday
+Nov 1, Jumanne
+
+
+# NOTE: make a local sounding name, or use one of the names in Contact list
+;[Harly’s] Birthday
+Siku ya Kuzaliwa ya Fatuma
+
+
+# NOTE: choose any location, doesn’t have to be a conference room or hotel room
+;Room 801
+Chumba 801
+
+
+# NOTE: no need to be a technical meeting, Social event is fine
+;HTML5 Conference
+Kongamano la HTML5
+
+
+# NOTE: choose any location that suits the event above
+;Palace Ho
+Jumba Ho
+
+
+;Month
+Mwezi
+
+
+;Week
+Wiki
+
+
+;Day
+Siku
+
+
+# Screen 4 (Calendar Event): NOTE: Indicate time and date display format that’s appropriate in your country. Check product UI terms for the actual strings.
+;Add Event
+Ongeza Tukio
+
+
+;Done
+Imefanyika
+
+
+;Title
+Mada
+
+
+;Where
+Wapi
+
+
+;All day event?
+Tukio la siku nzima
+
+
+;Calendar
+Kalenda
+
+
+;Attendees
+Wahudhuriaji
+
+
+;Repeat
+Rudia
+
+
+;Never
+Kamwe
+
+
+# Screen 5 (Calendar Event Detail): NOTE: this page has content that should be localized instead of translated.  Find event that is more applicable than what’s presented.
+;Event Details
+Maelezo ya Tukio
+
+
+;Edit
+Hariri
+
+
+# NOTE: subject of meeting can be something else
+;Productivity Meeting
+Mkutano wa Uzalishaji
+
+
+;From 3:00PM Thursday, Dec 8, 2014 to 4:00 PM Friday, Dec 8, 2014
+Kutoka 3:00 Mchana Alhamisi, Dec 8, 2014 hadi 4:00 Mchana Ijumaa, Dec 8, 2014
+
+
+# NOTE: if the event is personal in nature, please change to personal calendar
+;Work Calendar
+Kalenda ya Kazini
+
+
+;Reminder:
+Kumbusho:
+
+
+;10 minutes before
+Dakika 10 kabla
+
+
+;1 day before
+Siku 1 kabla
+
+
+;2 hours before
+Masaa 2 kabla
+
+
+;1 hour before
+Saa 1 kabla
+
+
+;All time of event
+Tukio la wakati wote
+
+
+;7 Invites
+Mialiko 7
+
+
+# NOTE: feel free to use a localized name as file name
+;file 1.png (150k)
+faili 1.png (150k)
+
+
+# NOTE: use the locally appropriate way to address the attendees
+;Dear all,
+Hamjambo nyote,
+
+
+# NOTE: made up message that corresponds to the subject of the meeting.
+;[Please reserve your time for the productivity meeting on this Tuesday, De-]
+[Tafadhali hifadhi muda wa mkutani wa uzalishaji Jumanne ijayo, De-]
+
+
+;Accept
+Kubali
+
+
+;Maybe
+Labda
+
+
+;Decline
+Kataa
+
+
+# Screen 7 (Clock Analog)
+;Monday, March 25
+Jumatatu, Machi 25
+
+
+;Alarm
+Kengele
+
+
+;Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Jumatatu, Jumanne, Jumatano, Alhamisi, Ijumaa, Jumamosi, Jumapili
+
+
+;Timer
+Kipima wakati
+
+
+;Stopwatch
+Saa ya michezo
+
+
+# Screen 9 (Clock Edit Alarm)
+;New alarm
+Kengele mpya
+
+
+;Alarm name
+Jina ya kengele
+
+
+;Time
+Saa
+
+
+;Sound
+Sauti
+
+
+;Classic Buzz
+Classic Buzz {ok}
+
+
+;Snooze
+Ahirisha
+
+
+;5 minutes
+Dakika 5
+
+
+# Screen 10 (Contact Detail); NOTE: In this section, everything is made up.  1). Name should be from one of the contacts for easy tracking and consistency within the screenshot file. 2). The phone number should have correct country code, area code.  3). Company name is made up; 4). Email name can be fake, and made up domain name.
+;[name of one of the contacts, male]
+James
+
+
+;[made up company name]
+Tufanye Enterprise
+
+
+;MOBILE
+SIMU
+
+
+;[made up mobile phone number, with correct area code]
++254 799 123456
+
+
+;HOME
+NYUMBANI
+
+
+;[made up landline phone number, with correct country code and area code]
++254 22 654321
+
+
+;WORK
+KAZINI
+
+
+;[fake work email address]
+james@tufanye.com
+
+
+;PERSONAL
+BINAFSI
+
+
+;[fake personal email address]
+james@email.com
+
+
+;Remove from favorites
+Kuondoa kutoka vipendwa
+
+
+# Screen 11 (Contact List): NOTE: this is the most difficult page to localize.  Make sure you provide FAKE contacts following these guidelines: 1). 12 contacts, 6 male names and 6 female names.  Indicate which one is which; 2). At least half of the 12 have company names indicated, they can be made up companies; 3). Indicate if the sorting order of names is by family name or given name; 4). Following the sorting order, please provide names with consecutive initials (abc or jkl, xyz, etc).
+;Contacts
+Anwani
+
+
+;Search
+Tafuta
+
+
+;[contact #1: Travis Allen (m)/T. Tray Photography]
+John Katana(m)/Tufanye Ltd
+
+
+;[contact #2: Will Amber (m)/CBN Studios]
+Karim Kirui(m)/Nafaka Enterprises
+
+
+;[contact #3: Kevin Baker (m)/Mozilla]
+Yusuf Kipkemoi(m)/Matunda Ltd
+
+
+;[contact #4: Noah Benson (m)/Benson Studios]
+Joseph Kiplang'at(m)/Mashariki Cremeries
+
+
+;[contact #5: Ava Brown (f)/Atsara Kitchen]
+Cliff Kirui(m)/Twende Taxi Services
+
+
+;[contact #6: Name (gender)/Company]
+Peter Kiptanui(m)/SawaSawa Transporters
+
+
+;[contact #7: Name (gender)/Company]
+Caroline Jelagat(f)/Tumbuiza Ltd
+
+
+;[contact #8: Name (gender)/Company]
+Brenda Jeptoo(f)/Picha Enterprises
+
+
+;[contact #9: Name (gender)/Company]
+Irene Jepchirchir(f)/Yetu Sacco
+
+
+;[contact #10: Name (gender)/Company]
+Jane Jepkorir(f)/Rafiki Bank
+
+
+;[contact #11: Name (gender)/Company]
+Aisha Jemtai(f)/Utulivu Hotel
+
+
+;[contact #12: Name (gender)/Company]
+Sarah Jepruto(f)/Baraka Company Limited
+
+
+# Screen 12 (Data Usage):
+;Usage
+Matumizi
+
+
+;Oct 1, Oct 20, Oct 31
+Oct 1, Oct 20, Oct 31
+
+
+;Mobile usage
+Matumizi wa Simu
+
+
+;Wi-Fi usage
+Matumizi ya Wi-Fi
+
+
+# Screen 14 (Dialer Outgoing call) NOTE: Several strings in #13 can be leveraged from screens #10 and 11, thus not repeated here
+;Connecting
+Inaunganisha
+
+
+# Screen 15 (Email Compose) NOTE: Names in the To: field can be from the contact list
+;Compose
+Tunga
+
+
+;To
+Kwa
+
+
+;cc
+cc{ok}
+
+
+;bcc
+bcc{ok}
+
+
+# E-mail subject, replace "[made up subject]" with something relevant, e.g. "Subject: Getting together"
+;Subject: [made up subject]
+Mada: Kupata Pamoja
+
+
+;Hi [one of the contacts in screen #11]
+Jambo Juma,
+
+
+;[Make up a fake message that corresponds to the subject.]
+Natumahi barua pepe hii imekupata ukiwa mzima. Ningependa kukualika katika mkutano wa marafiki ambao umepangiwa kufanyika
+
+
+;SPACE
+NAFASI
+
+
+;NEXT
+IJAYO
+
+
+# Screen 16 (Email list) NOTE: we will use the names from the Contact list provided in screen #11
+;Inbox
+Kasha pokezi
+
+
+;RE: Send photos please/You’re the best! Thanks so much!
+RE: Tuma picha tafadhali/Wewe ndio bora zaidi! Ahsante sana!
+
+
+;RE: Please Confirm Subscription/I’ve been wanting to visit that place
+RE: Tafadhali Dhibitisha kujiandikisha/Nimekuwa nikitaka kutembelea mahali hapo
+
+
+;RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
+RE: Safari ya barabara mwishoni mwa wiki ijayo?/Kupata makubwa!Nitadhibitisha na kila mtu
+
+
+;We’re Moving!/Hello Friends! Join us on Saturday for a fun and
+Tunasonga!/Hamjambo Marafiki! Ungana nasi Jumamosi kwa ajili ya kujifurahisha na
+
+
+;RE: It was nice meeting you!/Hi mate, I heard you're going to the show
+RE: Ilikuwa vizuri kukutana nawe! / Jambo rafiki, nilisikia unaenda kwenye onyesho
+
+
+;Yesterday
+Jana
+
+
+;1 week ago
+Wiki 1 iliyopita
+
+
+;Last sync: Just now
+Kuladanisha kwa mwisho: Sasa hivi
+
+
+# Screen 17 (Email Reading): NOTE: we will use names from contact list in screen #10 and #11
+;Re: [fake subject, can pick one in screen #16]
+RE: Tuma picha tafadhali/Wewe ndio bora zaidi! Ahsante sana!
+
+
+;10 hours ago
+Masaa 10 yaliyopita
+
+
+# Image attachment filename example
+;image20150813.jpg
+picha20150813.jpg
+
+
+;Hi All [or whatever the proper greeting is]
+Hamjambo Nyote
+
+
+;[fake message that corresponds to the subject]
+Ningependa kuomba wale wote walioweza kupiga picha wakati wa kongamanao lililopita wanitumie. Picha hizo zitatumika kwa njia ambazo utaniruhusu nizitumie. Picha hizo ni za dhamani kwangu maanake zinanikumbusha nyakati za furaha tulizokuwa nazo pamoja.
+
+
+;Thanks!
+Ahsante!
+
+
+# Screen 18 (EME Party) NOTE: the screen contains popular apps; names will remain as they are.
+;Social
+Kijamii
+
+
+;Phone
+Simu
+
+
+;Messages
+Ujumbe
+
+
+;E-Mail
+Barua pepe
+
+
+# Screen 21 (Gallery Thumbmails)
+;February 2014
+Februari 2014
+
+
+# Screen 22 (Home Screen 3 Column Layout)
+;Search or enter address
+Tafuta au uingize anwani
+
+
+;Dialer
+Kipiga simu
+
+
+;Browser
+Kivinjari
+
+
+;Games
+Michezo
+
+
+;Music
+Muziki
+
+
+# Screen 23 (Home Screen 4 Column Layout)
+;Camera
+Kamera
+
+
+;Gallery
+Albamu
+
+
+;Showbiz
+Onyesho
+
+
+;Clock
+Saa
+
+
+;Video
+Video {ok}
+
+
+;FM Radio
+FM Redio
+
+
+# Screen 24 (Lock Screen Normal)
+;Carrier
+Mtoa huduma
+
+
+;Friday March 1
+Ijumaa Mechi 1
+
+
+# Screen 25 (Lock Screen Notification/Music Player) NOTE: We will use one of the contacts in screen #11);
+;[Wanna grab lunch tomorrow? Or change to something more appropriate]
+Je, unataka tunywe chai kesho?
+
+
+;Hi!
+Jambo!
+
+
+;16m ago, 19m ago
+Dakika 16 zilizopita, Dakika 19 zilizopita
+
+
+;[Fake song title/fake musician name]
+Kupata kile/
+
+
+# Screen 26 (Messaging Compose): NOTE: We will use one of the contacts in screen #11 for the name
+;Your subject here
+Unakuja leo?
+
+
+;Write your message…
+Ningependa kukuliza kama bado utanitemebelea leo?
+
+
+# Screen 27 (Messaging Conversation): NOTE: Contact and Subject line are from screen #26.
+;[fake message #1 relevant to the subject]
+Ndio, iwapo nitapewa ruhusa kazini.
+
+
+;[fake message #2 relevant to the subject]
+Hamna neno. Nijulishe kwa wakati mzuri ili nitume gari ikuchukue.
+
+
+;[fake message #3 relevant to the subject]
+Sawa. Nitakujulisha.
+
+
+# Screen 28 (Messaging List) NOTE: Use Contact list for this page; messages can be leveraged from Screen #16
+# Screen 29 (Music Grid) NOTE: Provide fake band and album titles for this screen.  You can translate some titles to match the images.  You can leverage some of the existing fake titles/artists on the screen.
+;[Fake album title/band or artist #1]
+[Fake album title/band or artist #1]
+
+
+;[Fake album title/band or artist #2]
+[Fake album title/band or artist #2]
+
+
+;[Fake album title/band or artist #3]
+[Fake album title/band or artist #3]
+
+
+;[Fake album title/band or artist #4]
+[Fake album title/band or artist #4]
+
+
+;[Fake album title/band or artist #5]
+[Fake album title/band or artist #5]
+
+
+;[Fake album title/band or artist #6]
+[Fake album title/band or artist #6]
+
+
+;[Fake album title/band or artist #7]
+[Fake album title/band or artist #7]
+
+
+;[Fake album title/band or artist #8]
+[Fake album title/band or artist #8]
+
+
+# Screen 30 (Music Player) NOTE: Leverage one set from screen #29
+;Song Title
+Jina la Wimbo
+
+
+# Screen 31 (Notifications) NOTE: Leverage messages from screen #16 and time from #25
+;Notifications
+Taarifa
+
+
+;Clear All
+Futa Zote
+
+
+;Missed Call
+Simu Uliyokosa
+
+
+;New SIM inserted
+SIM mpya imeingizwa
+
+
+;Tap to track your internet usage
+Guza ufuatilie matumizi yako ya mtandao
+
+
+# Screen 32 (Ringtone)
+;Manage Ringtones
+Dhibiti Toni za simu
+
+
+;Classics
+Classics{ok}
+
+
+;Classic Electric
+Classic Electric {ok}
+
+
+;Classic Wallphone
+Classic Wallphone {ok}
+
+
+;Disco Drive
+Disco Drive {ok}
+
+
+;Vamos La Electro
+Vamos La Electro {ok}
+
+
+;Created Ringtones
+Toni Zilizoundwa
+
+
+;[fake song title/artist #1]
+[Wimbo Wa uongo Jina/msanii#1]
+
+
+;[fake song title/artist #2]
+[Wimbo Wa uongo Jina/msanii #2]
+
+
+;[fake song title/artist #3]
+[Wimbo Wa uongo Jina/msanii #3]
+
+
+# Screen 33 (Settings)
+;Settings
+Mipangilio
+
+
+;Network & Connectivity
+Mtandao & Muunganisho
+
+
+;Airplane mode
+Modi ya ndege
+
+
+;Geolocation
+Eneo la jiogorafia
+
+
+;Wi-Fi
+Wi-Fi {ok}
+
+
+# Replace the fake network name with one of your choice
+;Connected to [fake network name]
+Imeunganishwa kwa WasilianaCom
+
+
+;SIM manager
+Kidhibiti cha SIM
+
+
+;Call Settings
+Mipnagilio ya kupiga
+
+
+;Messaging Settings
+Mipangilio ya ujumbe
+
+
+;Cellular & Data
+Simu & Data{ok}
+
+
+;Bluetooth
+Bluetooth {ok}
+
+
+# Screen 34 (Settings Sound)
+;Vibrate
+Mtetemo
+
+
+;Volume
+Sauti
+
+
+;Media
+Midia
+
+
+;Ringer & Notifications
+Programu ya mlio & Taarifa
+
+
+;Tones
+Toni
+
+
+;Ringer
+Programu ya mlio
+
+
+;Alerts
+Tahadhari
+
+
+# Screenshot 35 (Video List) NOTE: Replace the following names with culturally appropriate names for these video clips.  We will try to find appropriate images suitable for the targeted country
+;July 2014
+Julai 2014
+
+
+;August 2014
+Agosti 2014
+
+
+;Handmade arts and crafts
+Vifaa vya sanaa vilivyoundwa kwa mikono
+
+
+;Out on the water
+Huko baharini
+
+
+;Soccer in the street
+Kandanda ufukoni
+
+
+;Taking a break
+Kuchukua muda wa kupumzika
+
+
+# Screens 36 (Video Play)
+;Happy Birthday…
+Furahia Siku ya Kuzaliwa…
+
+
+# Screen 39-Bluetooth
+;Visible to all
+Inaonekana kwa wote
+
+
+;Suzy's Phone [local name]
+Simu ya Janet
+
+
+;Rename my device
+Pea kifaa changu jina upya
+
+
+;Devices in the area
+Vifaa katika eneo
+
+
+;Tap to connect
+Gusa ili kuunganisha
+
+
+;Search for devices
+Tafuta vifaa
+
+
+# Screen 40-FindMyDevice
+;Sign Out
+Toka
+
+
+# Screen 41-Create_Ringtone
+;Create Ringtone
+Unda Mlio
+
+
+;Save
+Hifadhi
+
+
+;Use as default ringtone
+Tumia kama mlio chaguo-msingi
+
+

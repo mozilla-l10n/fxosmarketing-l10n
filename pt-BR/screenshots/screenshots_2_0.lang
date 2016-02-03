@@ -1,0 +1,834 @@
+## NOTE: 2.0 English source for context: https://mozilla.app.box.com/files/0/f/2606100649
+## NOTE: If without FFOX phone, for the latest terms used in product, check http://transvision.mozfr.org/
+## NOTE: When a contact is listed on a screen, try to be consistent with the English set of names and same gender.  This is easier for the graphic person to know which one is a woman and man.  Some have photos next to the names.  If the image is not culturally relevant or appropriate, we will replace them in the localized version.
+
+
+# Screen 1  (Browser) NOTE: If all caps is not appropriate in your language, you don’t need to follow the same style.  Be mindful the 3rd string below has limited space. Try to be concise.
+;Made with a mission to put you first
+Feito com a missão de priorizar você
+
+
+;We’ve always designed Firefox to protect and respect your private information.
+Projetamos o Firefox para proteger e respeitar suas informações pessoais.
+
+
+;That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
+Por isso, estamos orgulhosos de sermos escolhidos como a empresa mais confiável da internet em privacidade.
+
+
+;MOST TRUSTED INTERNET COMPANY FOR PRIVACY
+EMPRESA MAIS CONFIÁVEL DA INTERNET EM PRIVACIDADE
+
+
+# Global Settings
+# Time Format (i.e. 12:34 PM for en-US)
+;12:34 PM
+12:34
+
+
+# Date Format (i.e. 01/21/2015 for January 21st, 2015)
+;01/21/2015
+21/01/2015
+
+
+# Screen 2 (Browser Start Page)
+;Firefox Start Page
+Página inicial do Firefox
+
+
+;Top Sites
+Destaques
+
+
+# Screen 3 (Calendar Day)
+;Nov 1, Tuesday
+Terça, 01 de Nov
+
+
+# NOTE: make a local sounding name, or use one of the names in Contact list
+;[Harly’s] Birthday
+Aniversário da Débora
+
+
+# NOTE: choose any location, doesn’t have to be a conference room or hotel room
+;Room 801
+Ap do João
+
+
+# NOTE: no need to be a technical meeting, Social event is fine
+;HTML5 Conference
+Conferência de HTML5
+
+
+# NOTE: choose any location that suits the event above
+;Palace Ho
+Hotel Plaza
+
+
+;Month
+Mês
+
+
+;Week
+Semana
+
+
+;Day
+Dia
+
+
+# Screen 4 (Calendar Event): NOTE: Indicate time and date display format that’s appropriate in your country. Check product UI terms for the actual strings.
+;Add Event
+Adicionar evento
+
+
+;Done
+Concluir
+
+
+;Title
+Título
+
+
+;Where
+Local
+
+
+;All day event?
+Dia inteiro?
+
+
+;Calendar
+Calendário
+
+
+;Attendees
+Participantes
+
+
+;Repeat
+Repetir
+
+
+;Never
+Nunca
+
+
+# Screen 5 (Calendar Event Detail): NOTE: this page has content that should be localized instead of translated.  Find event that is more applicable than what’s presented.
+;Event Details
+Detalhes do evento
+
+
+;Edit
+Editar
+
+
+# NOTE: subject of meeting can be something else
+;Productivity Meeting
+Apresentação dos resultados
+
+
+;From 3:00PM Thursday, Dec 8, 2014 to 4:00 PM Friday, Dec 8, 2014
+De: Terça-feira, 8 de dezembro, 15:00 até Terça-feira, 8 de dezembro, 16:00
+
+
+# NOTE: if the event is personal in nature, please change to personal calendar
+;Work Calendar
+Calendário profissional
+
+
+;Reminder:
+Lembrete:
+
+
+;10 minutes before
+10 minutos antes
+
+
+;1 day before
+1 dia antes
+
+
+;2 hours before
+2 horas antes
+
+
+;1 hour before
+1 hora antes
+
+
+;All time of event
+Durante o evento
+
+
+;7 Invites
+7 convidados
+
+
+# NOTE: feel free to use a localized name as file name
+;file 1.png (150k)
+relatório 1.png (150k)
+
+
+# NOTE: use the locally appropriate way to address the attendees
+;Dear all,
+Prezados,
+
+
+# NOTE: made up message that corresponds to the subject of the meeting.
+;[Please reserve your time for the productivity meeting on this Tuesday, De-]
+Por favor, reservem um horário em suas agendas para a apresentação dos re-
+
+
+;Accept
+Aceitar
+
+
+;Maybe
+Talvez
+
+
+;Decline
+Recusar
+
+
+# Screen 7 (Clock Analog)
+;Monday, March 25
+Segunda, 25 de março
+
+
+;Alarm
+Alarme
+
+
+;Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Seg, Ter, Qua, Qui, Sex, Sáb, Dom
+
+
+;Timer
+Regressivo
+
+
+;Stopwatch
+Cronômetro
+
+
+# Screen 9 (Clock Edit Alarm)
+;New alarm
+Novo alarme
+
+
+;Alarm name
+Nome do alarme
+
+
+;Time
+Horário
+
+
+;Sound
+Som
+
+
+;Classic Buzz
+Classic Buzz {ok}
+
+
+;Snooze
+Soneca
+
+
+;5 minutes
+5 minutos
+
+
+# Screen 10 (Contact Detail); NOTE: In this section, everything is made up.  1). Name should be from one of the contacts for easy tracking and consistency within the screenshot file. 2). The phone number should have correct country code, area code.  3). Company name is made up; 4). Email name can be fake, and made up domain name.
+;[name of one of the contacts, male]
+Enzo Carvalho
+
+
+;[made up company name]
+Enzo C. Advocacia
+
+
+;MOBILE
+CELULAR
+
+
+;[made up mobile phone number, with correct area code]
++55 11 96783 4593
+
+
+;HOME
+CASA
+
+
+;[made up landline phone number, with correct country code and area code]
++55 11 5412 9843
+
+
+;WORK
+TRABALHO
+
+
+;[fake work email address]
+enzocarvalho@enzocadvocacia.com.br
+
+
+;PERSONAL
+PESSOAL
+
+
+;[fake personal email address]
+enzo.carvalho@emailsonline.com.br
+
+
+;Remove from favorites
+Remover dos favoritos
+
+
+# Screen 11 (Contact List): NOTE: this is the most difficult page to localize.  Make sure you provide FAKE contacts following these guidelines: 1). 12 contacts, 6 male names and 6 female names.  Indicate which one is which; 2). At least half of the 12 have company names indicated, they can be made up companies; 3). Indicate if the sorting order of names is by family name or given name; 4). Following the sorting order, please provide names with consecutive initials (abc or jkl, xyz, etc).
+;Contacts
+Contatos
+
+
+;Search
+Pesquisar
+
+
+;[contact #1: Travis Allen (m)/T. Tray Photography]
+André Pinto (m)/Imobiliária Silva
+
+
+;[contact #2: Will Amber (m)/CBN Studios]
+Bruna Oliveira (f)/Mozilla
+
+
+;[contact #3: Kevin Baker (m)/Mozilla]
+Carla Martins (f)/Plaza Resort
+
+
+;[contact #4: Noah Benson (m)/Benson Studios]
+Clara Fernandes (f)
+
+
+;[contact #5: Ava Brown (f)/Atsara Kitchen]
+Diogo Lima (m)/Estúdio Artesix
+
+
+;[contact #6: Name (gender)/Company]
+Enzo Carvalho (m)/Enzo C. Advocacia
+
+
+;[contact #7: Name (gender)/Company]
+Emily Ribeiro (f)/Decorações Ribeiro
+
+
+;[contact #8: Name (gender)/Company]
+Felipe Martins (m)
+
+
+;[contact #9: Name (gender)/Company]
+Isabela Rodriguies (f)
+
+
+;[contact #10: Name (gender)/Company]
+Giovane da Silva (m)
+
+
+;[contact #11: Name (gender)/Company]
+Gabriela Araújo (f)
+
+
+;[contact #12: Name (gender)/Company]
+João Gomes (m)
+
+
+# Screen 12 (Data Usage):
+;Usage
+Consumo
+
+
+;Oct 1, Oct 20, Oct 31
+Out 1, Out 20, Out 31
+
+
+;Mobile usage
+Dados móveis
+
+
+;Wi-Fi usage
+Wi-Fi
+
+
+# Screen 14 (Dialer Outgoing call) NOTE: Several strings in #13 can be leveraged from screens #10 and 11, thus not repeated here
+;Connecting
+Conectando
+
+
+# Screen 15 (Email Compose) NOTE: Names in the To: field can be from the contact list
+;Compose
+Escrever
+
+
+;To
+Para
+
+
+;cc
+cc {ok}
+
+
+;bcc
+cco
+
+
+# E-mail subject, replace "[made up subject]" with something relevant, e.g. "Subject: Getting together"
+;Subject: [made up subject]
+Assunto: reunião semanal
+
+
+;Hi [one of the contacts in screen #11]
+Olá Giovane
+
+
+;[Make up a fake message that corresponds to the subject.]
+Você viu o e-mail sobre a apresentação dos resultados? Acredito que deveríamos revisar a apresentação antes da reunião. Me avisa quando você estiver disponível.
+
+
+;SPACE
+Espaço
+
+
+;NEXT
+Próximo
+
+
+# Screen 16 (Email list) NOTE: we will use the names from the Contact list provided in screen #11
+;Inbox
+Entrada
+
+
+;RE: Send photos please/You’re the best! Thanks so much!
+RE: Me envia as fotos/Você é fantástico! Obrigado!
+
+
+;RE: Please Confirm Subscription/I’ve been wanting to visit that place
+RE: Por favor confirme a reserva/Estava com vontade de conhecer este lugar
+
+
+;RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
+RE: Viagem fim de semana que vem?/Boa ideia! Vou falar com a galera
+
+
+;We’re Moving!/Hello Friends! Join us on Saturday for a fun and
+Estamos de mudança!/E aí pessoal! Venham nos visitar no sábado para
+
+
+;RE: It was nice meeting you!/Hi mate, I heard you're going to the show
+RE: Foi bom te conhecer!/E aí cara, fiquei sabendo que você vai ir no show
+
+
+;Yesterday
+Ontem
+
+
+;1 week ago
+Há uma 1 semana
+
+
+;Last sync: Just now
+Sincronizado: agora mesmo
+
+
+# Screen 17 (Email Reading): NOTE: we will use names from contact list in screen #10 and #11
+;Re: [fake subject, can pick one in screen #16]
+Re: Confirmação de inscrição
+
+
+;10 hours ago
+10 horas atrás
+
+
+# Image attachment filename example
+;image20150813.jpg
+image20150813.jpg {ok}
+
+
+;Hi All [or whatever the proper greeting is]
+E aí!
+
+
+;[fake message that corresponds to the subject]
+Preciso da sua confirmação para fazer a inscrição no evento sobre carros esportivos. Tenho certeza que vamos nos divertir muito. Eles vão trazer aqueles modelos que não vieram na última edição.
+
+
+;Thanks!
+Abraço!
+
+
+# Screen 18 (EME Party) NOTE: the screen contains popular apps; names will remain as they are.
+;Social
+Social {ok}
+
+
+;Phone
+Telefone
+
+
+;Messages
+Mensagens
+
+
+;E-Mail
+E-Mail {ok}
+
+
+# Screen 21 (Gallery Thumbmails)
+;February 2014
+Fevereiro de 2014
+
+
+# Screen 22 (Home Screen 3 Column Layout)
+;Search or enter address
+Pesquisa ou digite um endereço
+
+
+;Dialer
+Discador
+
+
+;Browser
+Navegador
+
+
+;Games
+Jogos
+
+
+;Music
+Música
+
+
+# Screen 23 (Home Screen 4 Column Layout)
+;Camera
+Câmera
+
+
+;Gallery
+Galeria
+
+
+;Showbiz
+Entretenimento
+
+
+;Clock
+Relógio
+
+
+;Video
+Vídeo
+
+
+;FM Radio
+Rádio FM
+
+
+# Screen 24 (Lock Screen Normal)
+;Carrier
+Operadora
+
+
+;Friday March 1
+Sexta, 1º de Março
+
+
+# Screen 25 (Lock Screen Notification/Music Player) NOTE: We will use one of the contacts in screen #11);
+;[Wanna grab lunch tomorrow? Or change to something more appropriate]
+Vamos almoçar juntos amanhã?
+
+
+;Hi!
+Olá!
+
+
+;16m ago, 19m ago
+16m atrás, 19m atrás
+
+
+;[Fake song title/fake musician name]
+Árvores sem folhas/Pedro João
+
+
+# Screen 26 (Messaging Compose): NOTE: We will use one of the contacts in screen #11 for the name
+;Your subject here
+Assunto
+
+
+;Write your message…
+Escreva sua mensagem
+
+
+# Screen 27 (Messaging Conversation): NOTE: Contact and Subject line are from screen #26.
+;[fake message #1 relevant to the subject]
+Olá! Só queria confirmar o horário que você vai chegar...
+
+
+;[fake message #2 relevant to the subject]
+Oi! Acho que chegarei perto das 16:00. Pode ser?
+
+
+;[fake message #3 relevant to the subject]
+Perfeito!
+
+
+# Screen 28 (Messaging List) NOTE: Use Contact list for this page; messages can be leveraged from Screen #16
+# Screen 29 (Music Grid) NOTE: Provide fake band and album titles for this screen.  You can translate some titles to match the images.  You can leverage some of the existing fake titles/artists on the screen.
+;[Fake album title/band or artist #1]
+Santuário/João Almeida
+
+
+;[Fake album title/band or artist #2]
+Conquistas/Grupo Prateado
+
+
+;[Fake album title/band or artist #3]
+Reflexões Normais/Wilson Freitas
+
+
+;[Fake album title/band or artist #4]
+Concrete Waves/Static Colletion
+
+
+;[Fake album title/band or artist #5]
+The Bayos Solemn/The Bayos
+
+
+;[Fake album title/band or artist #6]
+Dias Ensolarados/Banda Rocalheira
+
+
+;[Fake album title/band or artist #7]
+Secretas/Joana Almeida
+
+
+;[Fake album title/band or artist #8]
+Acústico Ao Vivo/Os Automotivos
+
+
+# Screen 30 (Music Player) NOTE: Leverage one set from screen #29
+;Song Title
+Santuário
+
+
+# Screen 31 (Notifications) NOTE: Leverage messages from screen #16 and time from #25
+;Notifications
+Notificações
+
+
+;Clear All
+Limpar todas
+
+
+;Missed Call
+Ligação perdida
+
+
+;New SIM inserted
+Novo SIM inserido
+
+
+;Tap to track your internet usage
+Toque para visualizar seu consumo de Internet
+
+
+# Screen 32 (Ringtone)
+;Manage Ringtones
+Gerenciar toques
+
+
+;Classics
+Clássicos
+
+
+;Classic Electric
+Classic Electric {ok}
+
+
+;Classic Wallphone
+Classic Wallphone {ok}
+
+
+;Disco Drive
+Disco Drive {ok}
+
+
+;Vamos La Electro
+Vamos La Electro {ok}
+
+
+;Created Ringtones
+Toques criados
+
+
+;[fake song title/artist #1]
+Nunca vou desistir/João Almeida
+
+
+;[fake song title/artist #2]
+Hora certa/Os Automotivos
+
+
+;[fake song title/artist #3]
+Santuário/Penny Adelaide
+
+
+# Screen 33 (Settings)
+;Settings
+Configurações
+
+
+;Network & Connectivity
+Rede e Conexões
+
+
+;Airplane mode
+Modo avião
+
+
+;Geolocation
+Geolocalização
+
+
+;Wi-Fi
+Wi-Fi {ok}
+
+
+# Replace the fake network name with one of your choice
+;Connected to [fake network name]
+Conectado com João
+
+
+;SIM manager
+Gerenciador do SIM
+
+
+;Call Settings
+Chamadas
+
+
+;Messaging Settings
+Mensagens
+
+
+;Cellular & Data
+Dados
+
+
+;Bluetooth
+Bluetooth {ok}
+
+
+# Screen 34 (Settings Sound)
+;Vibrate
+Vibrar
+
+
+;Volume
+Volume {ok}
+
+
+;Media
+Mídia
+
+
+;Ringer & Notifications
+Notificaçoes
+
+
+;Tones
+Toques
+
+
+;Ringer
+Chamadas
+
+
+;Alerts
+Alertas
+
+
+# Screenshot 35 (Video List) NOTE: Replace the following names with culturally appropriate names for these video clips.  We will try to find appropriate images suitable for the targeted country
+;July 2014
+Julho de 2014
+
+
+;August 2014
+Agosto de 2014
+
+
+;Happy Birthday Ty
+Feliz aniversário Pedro
+
+
+;Beach day with Uncle Ben
+Praia com as crianças
+
+
+;Dixie’s First Snow Day
+Primeiro mergulho da Zati
+
+
+;Backyard BBQ with Eva’s Friends
+Churrasco com o pessoal da empresa
+
+
+# Screens 36 (Video Play)
+;Happy Birthday…
+Feliz aniversário...
+
+
+# Screen 39-Bluetooth
+;Visible to all
+Visível para todos
+
+
+;Suzy's Phone [local name]
+Telefone de Débora
+
+
+;Rename my device
+Renomear meu dispositivo
+
+
+;Devices in the area
+Dispositivos ao seu redor
+
+
+;Tap to connect
+Toque para conectar
+
+
+;Search for devices
+Buscar dispositivos
+
+
+# Screen 40-FindMyDevice
+;Sign Out
+Sair
+
+
+# Screen 41-Create_Ringtone
+;Create Ringtone
+criar toque
+
+
+;Save
+Salvar
+
+
+;Use as default ringtone
+Definir como toque padrão
+
+

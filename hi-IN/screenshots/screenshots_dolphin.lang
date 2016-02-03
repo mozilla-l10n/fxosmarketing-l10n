@@ -1,0 +1,469 @@
+## NOTE: 1.4 Dolphin Screenshots
+## NOTE: Tracking your progress: http://l10n.mozilla-community.org/~pascalc/langchecker/?locale=all&website=9&file=screenshots_dolphin.lang
+
+
+# Screen 1 (Music App): provide fictional items, DO NOT TRANSLATE the original string and remove the brackets in your translation.
+;[made up song title]
+चाँदनी रात हैं तू मेरे...
+
+
+# Screen 1 (Music App): provide a fictional band and artist
+;[made up local artist or band]
+ए.आर. रहमान
+
+
+# Screen 1 (Music App):
+;[made up local album title]
+किक
+
+
+# Screen 2 (Music), screen 6 (Icon Grid), screen 11 (e.me party)
+;Music
+संगीत
+
+
+# Screen 3 (Video)
+;Happy birthday
+Happy birthday
+
+
+# Screen 3 (Video)
+;Summer vacation fun
+Summer vacation fun
+
+
+# Screen 3 (Video)
+;Hanging out with the family
+Hanging out with the family
+
+
+# Screen 3 (Video)
+;Dinner with the gang/friends
+Dinner with the gang/friends
+
+
+# Screen 4 (Markeplace)
+;Search
+खोज...
+
+
+# Screen 4 (Markeplace)
+;All Categories
+All Categories
+
+
+# Screen 4 (Markeplace)
+;Featured Apps
+Featured Apps
+
+
+# Screen 4 (Markeplace)
+;View All
+View All
+
+
+# Screen 4 (Markeplace)
+;Popular
+Popular
+
+
+# Screen 4 (Markeplace)
+;New
+New
+
+
+# Screen 4 (Markeplace)
+;Free
+मुफ्त
+
+
+# Screen 5 (Homescreen)
+;I’m thinking of…
+मैँ सोच रहा हूँ....
+
+
+# Screen 5 (Homescreen):
+;Social
+सामाजिक
+
+
+# Screen 5 (Homescreen):
+;Games
+खेल
+
+
+# Screen 5 (Homescreen):
+;ShowBiz
+ShowBiz {ok}
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Gallery
+गैलरी
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Camera
+कैमरा
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Calendar
+कैलेंडर
+
+
+# Screen 6 (Icon Grid)
+;Clock
+Clock
+
+
+# Screen 6 (Icon Grid), screen 18 (Usage)
+;Usage
+डाटा
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Video
+वीडियो
+
+
+# Screen 6 (Icon Grid)
+;Email
+Email
+
+
+# Screen 6 (Icon Grid)
+;FM Radio
+एफएम रेडियो
+
+
+# Screen 6 (Icon Grid)
+;Settings
+सेटिंग्स
+
+
+# Screen 7 (Here Maps)
+;Cafe
+Cafe
+
+
+# Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
+;[local street name#1]
+[local street name#1]
+
+
+# Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
+;[local street name#2]
+[local street name#2]
+
+
+# Screen 7 (Here Maps), screen 11 (e.me party), screen 12 (e.me party)
+;Results Simulated
+नकली परिणाम
+
+
+# Screen 8 (Gallery)
+;June 2014
+June 2014
+
+
+# Screen 9 (Gallery with Filters)
+;Edit
+संपादित करें
+
+
+# Screen 9 (Gallery with Filters)
+;Done
+सम्पन्न
+
+
+# Screen 11 (e.me party)
+;Party
+Party
+
+
+# Screen 11 (e.me party)
+;Everything Party
+Everything Party
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;EzGift
+EzGift
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Cater Girls
+Cater Girls
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Quickvite
+Quickvite
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Balloonies
+Balloonies
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Flowerettes
+Flowerettes
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;My Bulletin
+My Bulletin
+
+
+# Screen 11 (e.me party)
+;Notes
+नोट्स
+
+
+# Screen 12 (e.me party)
+;Café
+कैफे
+
+
+# Screen 12 (e.me party)
+;Everything Cafe
+सबकुछ कैफे
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Cafe Calories
+कैफे कैलोरी
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Caffeine Diaries
+कैफीन डायरी
+
+
+# Screen 12 (e.me party) NOTE: fictional; DIY=Do It Yourself
+;D.I.Y. Barista
+D.I.Y. Barista
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Coffee Addicts
+कॉफी नशा
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Java Spotter
+जावा स्पोटर
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Join Up
+शामिल होयें
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;MyGrubber
+MyGrubber {ok}
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Park It Here
+यहां पार्क करें
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Bookclub Finder
+Bookclub खोजक
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Book Beamer
+पुस्तक बीमर
+
+
+# Screen 13 (Contacts)
+;Contacts
+संपर्क
+
+
+# Screen 13 (Contacts)
+;Search…
+Search…
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #1]
+राकेश कुमार (Rakesh Kumar)
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #2]
+सुमित कुमार (Sumit Kumar)
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #3]
+सुष्मिता सेन (Shusmita Sen)
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #4]
+सुरेश कोठारी (Suresh Kothari)
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #5]
+शाहरुख़ खान (Shahrukh Khan)
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #6]
+अमिताभ बच्चन (Amitabh Bhachchan)
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #7]
+सुरेश रैना (Suresh Raina)
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #8]
+करीना कपूर (Kareena Kapoor)
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #9]
+दीपिका पादुकोण (Deepika Padukon)
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #10]
+रेखा चोपड़ा (Rekha Chopra)
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #11]
+मोनिका शेखावत (Monika Shekhawat)
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #12]
+रेणुका कोठारी (Renuka Kothari)
+
+
+# Screen 14 (Email)
+;Inbox (2)
+इनबॉक्स (2)
+
+
+# Screen 14 (Email)
+;Re:
+जवाब:
+
+
+# Screen 14 (Email)
+;Send photos please / You 're the best! Thanks so…
+कृपया तस्वीरें भेजें / आप सबसे अच्छा हैं! धन्यवाद...
+
+
+# Screen 14 (Email)
+;Road trip next weekend / I've been wanting to visit that place…
+सड़क यात्रा अगले सप्ताह के अंत में हैं / मैं उस जगह की यात्रा करना चाहता हूँ…
+
+
+# Screen 14 (Email)
+;You might like this / Great find! I'll definitely check with you
+आप शायद इसे पसंद करें / अच्छी खोज! मैं निश्चित रूप से आप के साथ देखूंगा
+
+
+# Screen 14 (Email)
+;We're moving! / Hello Friends! Join us on Saturday to…
+हम आगे बढ़ रहे हैं! / हैलो दोस्तो! शनिवार को हमसे जुड़ें...
+
+
+# Screen 14 (Email)
+;It was nice meeting you! I heard you are going the…
+आपके साथ बैठक अच्छी रही! मैंने सुना हैं आप जा रहे हैं...;
+
+
+# Screen 14 (Email)
+;Yesterday
+कल
+
+
+# Screen 14 (Email)
+;1 week ago
+एक सप्ताह पहले
+
+
+# Screen 14 (Email)
+;May 25
+May 25
+
+
+# Screen 15 and 16 (Dialer) NOTE: provide a fake phone number that complies to your country’s phone number format
+;[fake local phone number]
++91 9672245535
+
+
+# Screen 16 (Outgoing Call)
+;Connecting
+कनेक्ट हो रहा हैं
+
+
+# Screen 16 (Outgoing Call) NOTE: use the same fake name provided in the Contact screen.
+;[fake name from Contact list]
+सुरेंदर कुमार (Surendar Kumar)
+
+
+# Screen 17 (Browser)
+;Firefox Start Page
+Firefox आरंभ पृष्ठ
+
+
+# Screen 17 (Browser)
+;Top Sites
+शीर्ष साइटें
+
+
+# Screen 18 (Usage)
+;3G Usage
+3G Usage
+
+
+# Screen 18 (Usage)
+;Wifi Usage
+Wifi Usage
+
+
+# Screen 18 (Usage)
+;May 1, May 20, May 30
+1 मई, 20 मई, 30 मई
+
+
+# Screen 19 (Lock Screen)
+;Carrier
+कैरियर
+
+
+# Screen 19 (Lock Screen)
+;8:36PM
+8:36 अपराह्न
+
+
+# Screen 19 (Lock Screen)
+;Friday, May 26
+शुक्रवार, 26 मई
+
+
+# Screen 20 (Lock Screen 2 )  NOTE: use the same title provided in Music App screen)
+;[song title]
+अगर तुम मिल जाओ
+
+
+# Screen 20 (Lock Screen 2 )  NOTE: use the same artist provided in Music App screen)
+;[artist]
+ए.आर. रहमान
+
+

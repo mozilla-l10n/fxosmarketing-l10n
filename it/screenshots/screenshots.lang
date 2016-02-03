@@ -1,0 +1,470 @@
+## NOTE: the 1.1 screenshots can be found here - proceed to your locale: https://mozilla.app.box.com/files/0/f/1165468421/1.1
+## NOTE: the 1.3 screesnshots can be found here: https://mozilla.app.box.com/files/0/f/1894864735/320x480
+## NOTE: the diff between 1.1 and 1.3 in English can be found here: https://docs.google.com/a/mozilla.com/presentation/d/136_Z8LiBaXeguy7tjRwh8qSdNd9VXToTGocoB2NjvPw/edit#slide=id.p36
+
+
+# Screen 1 (Music App): provide fictional items, DO NOT TRANSLATE the original string and remove the brackets in your translation.
+;[made up song title]
+La ballata di Mozilla
+
+
+# Screen 1 (Music App): provide a fictional band and artist
+;[made up local artist or band]
+I panda rossi
+
+
+# Screen 1 (Music App):
+;[made up local album title]
+Navigando contro corrente
+
+
+# Screen 2 (Music), screen 6 (Icon Grid), screen 11 (e.me party)
+;Music
+Musica
+
+
+# Screen 3 (Video)
+;Happy birthday
+Buon compleanno
+
+
+# Screen 3 (Video)
+;Summer vacation fun
+Vacanze estive
+
+
+# Screen 3 (Video)
+;Hanging out with the family
+Momenti in famiglia
+
+
+# Screen 3 (Video)
+;Dinner with the gang/friends
+Cena tra amici
+
+
+# Screen 4 (Markeplace)
+;Search
+Cerca
+
+
+# Screen 4 (Markeplace)
+;All Categories
+Tutte le categorie
+
+
+# Screen 4 (Markeplace)
+;Featured Apps
+App consigliate
+
+
+# Screen 4 (Markeplace)
+;View All
+Mostra tutto
+
+
+# Screen 4 (Markeplace)
+;Popular
+Popolari
+
+
+# Screen 4 (Markeplace)
+;New
+Novità
+
+
+# Screen 4 (Markeplace)
+;Free
+Gratuita
+
+
+# Screen 5 (Homescreen)
+;I’m thinking of…
+Pensavo a…
+
+
+# Screen 5 (Homescreen):
+;Social
+Social {ok}
+
+
+# Screen 5 (Homescreen):
+;Games
+Giochi
+
+
+# Screen 5 (Homescreen):
+;ShowBiz
+Spettacoli
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Gallery
+Galleria
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Camera
+Fotocamera
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Calendar
+Agenda
+
+
+# Screen 6 (Icon Grid)
+;Clock
+Orologio
+
+
+# Screen 6 (Icon Grid), screen 18 (Usage)
+;Usage
+Traffico
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Video
+Video {ok}
+
+
+# Screen 6 (Icon Grid)
+;Email
+Email {ok}
+
+
+# Screen 6 (Icon Grid)
+;FM Radio
+Radio FM
+
+
+# Screen 6 (Icon Grid)
+;Settings
+Impostaz.
+
+
+# Screen 7 (Here Maps)
+;Cafe
+Bar
+
+
+# Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
+;[local street name#1]
+Via Giuseppe Garibaldi, 23
+
+
+# Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
+;[local street name#2]
+Via Gugliemo Marconi, 37
+
+
+# Screen 7 (Here Maps), screen 11 (e.me party), screen 12 (e.me party)
+;Results Simulated
+Risultati simulati
+
+
+# Screen 8 (Gallery)
+;June 2014
+giugno 2014
+
+
+# Screen 9 (Gallery with Filters)
+;Edit
+Modifica
+
+
+# Screen 9 (Gallery with Filters)
+;Done
+Fatto
+
+
+# Screen 11 (e.me party)
+;Party
+Festa
+
+
+# Screen 11 (e.me party)
+;Everything Party
+Tutto festa
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;EzGift
+Idee regalo
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Cater Girls
+Servizi Catering
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Quickvite
+Quickvite {ok}
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Balloonies
+Palloncini
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Flowerettes
+Fiori
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;My Bulletin
+Notiziario
+
+
+# Screen 11 (e.me party)
+;Notes
+Note
+
+
+# Screen 12 (e.me party)
+;Café
+Caffè
+
+
+# Screen 12 (e.me party)
+;Everything Cafe
+Tutto sul caffè
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Cafe Calories
+Calorie caffè
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Caffeine Diaries
+diari della caffeina
+
+
+# Screen 12 (e.me party) NOTE: fictional; DIY=Do It Yourself
+;D.I.Y. Barista
+Barista Fai da te
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Coffee Addicts
+Amanti del caffè
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Java Spotter
+Trova Caffè
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Join Up
+Incontri
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;MyGrubber
+MyGrubber {ok}
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Park It Here
+Parcheggia qui
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Bookclub Finder
+Trova club del libro
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Book Beamer
+Feed libri
+
+
+# Screen 13 (Contacts)
+;Contacts
+Contatti
+
+
+# Screen 13 (Contacts)
+;Search…
+Cerca…
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #1]
+Emanuela Cardillo (female)Emanuela Cardillo (female)
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #2]
+Francesco Casati (male)
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #3]
+Luca Cerri (male)
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #4]
+Marina Conti (female)
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #5]
+Giancarlo Damiani (male)
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #6]
+Umberto Davi (male)
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #7]
+Luisa Donnini (female)
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #8]
+Anna Elisei (female)
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #9]
+Piero Emanuelli (male)
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #10]
+Giuseppe Ercolani (male)
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #11]
+Rebecca Evangelista (female)
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #12]
+Chiara Durante (female)
+
+
+# Screen 14 (Email)
+;Inbox (2)
+Posta in arrivo (2)
+
+
+# Screen 14 (Email)
+;Re:
+Re: {ok}
+
+
+# Screen 14 (Email)
+;Send photos please / You 're the best! Thanks so…
+Invia foto, grazie / Sei il migliore.
+
+
+# Screen 14 (Email)
+;Road trip next weekend / I've been wanting to visit that place…
+Viaggio per prossimo weekend? / Ho sempre voluto andarci…
+
+
+# Screen 14 (Email)
+;You might like this / Great find! I'll definitely check with you
+Questo potrebbe piacerti / Interessante! Lo guarderò sicuramente…
+
+
+# Screen 14 (Email)
+;We're moving! / Hello Friends! Join us on Saturday to…
+Ci trasferiamo! / Ciao a tutti! Ci troviamo sabato a…
+
+
+# Screen 14 (Email)
+;It was nice meeting you! I heard you are going the…
+È stato un piacere conoscerti. Ho sentito che stai per…
+
+
+# Screen 14 (Email)
+;Yesterday
+Ieri
+
+
+# Screen 14 (Email)
+;1 week ago
+una settimana fa
+
+
+# Screen 14 (Email)
+;May 25
+25 maggio
+
+
+# Screen 15 and 16 (Dialer) NOTE: provide a fake phone number that complies to your country’s phone number format
+;[fake local phone number]
+33531415926
+
+
+# Screen 16 (Outgoing Call)
+;Connecting
+Connessione…
+
+
+# Screen 16 (Outgoing Call) NOTE: use the same fake name provided in the Contact screen.
+;[fake name from Contact list]
+Rebecca Evangelista
+
+
+# Screen 17 (Browser)
+;Firefox Start Page
+Pagina iniziale di Firefox
+
+
+# Screen 17 (Browser)
+;Top Sites
+Siti principali
+
+
+# Screen 18 (Usage)
+;3G Usage
+Traffico 3G
+
+
+# Screen 18 (Usage)
+;Wifi Usage
+Traffico Wifi
+
+
+# Screen 18 (Usage)
+;May 1, May 20, May 30
+Primo maggio, 20 maggio, 30 maggio
+
+
+# Screen 19 (Lock Screen)
+;Carrier
+Operatore telefonico
+
+
+# Screen 19 (Lock Screen)
+;8:36PM
+20:36
+
+
+# Screen 19 (Lock Screen)
+;Friday, May 26
+Venerdì 26 maggio
+
+
+# Screen 20 (Lock Screen 2 )  NOTE: use the same title provided in Music App screen)
+;[song title]
+la ballata di Firefox
+
+
+# Screen 20 (Lock Screen 2 )  NOTE: use the same artist provided in Music App screen)
+;[artist]
+I panda rossi
+
+

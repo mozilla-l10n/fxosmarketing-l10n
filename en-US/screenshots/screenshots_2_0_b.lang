@@ -1,0 +1,834 @@
+## NOTE: 2.0 English source for context: https://mozilla.app.box.com/files/0/f/2606100649
+## NOTE: If without FFOX phone, for the latest terms used in product, check http://transvision.mozfr.org/
+## NOTE: When a contact is listed on a screen, try to be consistent with the English set of names and same gender.  This is easier for the graphic person to know which one is a woman and man.  Some have photos next to the names.  If the image is not culturally relevant or appropriate, we will replace them in the localized version.
+##NOTE: If you don’t see a string listed under a particular screen, this is because the string appears in another screen prior.  We try not to duplicate the same strings.
+##VERY IMPORTANT: when you see [text in side brackets], DO NOT TRANSLATE the original string and remove the brackets in your translation. Translate the 2nd string in each pair.
+
+
+# Screen 1  (Browser) NOTE: If all caps is not appropriate in your language, you don’t need to follow the same style.  Be mindful the 3rd string below has limited space. Try to be concise.
+;Made with a mission to put you first
+Made with a mission to put you first
+
+
+;We’ve always designed Firefox to protect and respect your private information.
+We’ve always designed Firefox to protect and respect your private information.
+
+
+;That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
+That’s why we’re proud to be voted the Most Trusted Internet Company for Privacy.
+
+
+;MOST TRUSTED INTERNET COMPANY FOR PRIVACY
+MOST TRUSTED INTERNET COMPANY FOR PRIVACY
+
+
+# Global Settings
+# Time Format (i.e. 12:34 PM for en-US)
+;12:34 PM
+12:34 PM
+
+
+# Date Format (i.e. 01/21/2015 for January 21st, 2015)
+;01/21/2015
+01/21/2015
+
+
+# Screen 2 (Browser Start Page)
+;Firefox Start Page
+Firefox Start Page
+
+
+;Top Sites
+Top Sites
+
+
+# Screen 3 (Calendar Day)
+;Nov 1, Tuesday
+Nov 1, Tuesday
+
+
+#NOTE: make a local sounding name, or use one of the names in Contact list
+;[Harly’s] Birthday
+[Harly’s] Birthday
+
+
+#NOTE: choose any location, doesn’t have to be a conference room or hotel room
+;Room 801
+Room 801
+
+
+#NOTE: no need to be a technical meeting, Social event is fine
+;HTML5 Conference
+HTML5 Conference
+
+
+#NOTE: choose any location that suits the event above
+;Palace Ho
+Palace Ho
+
+
+;Month
+Month
+
+
+;Week
+Week
+
+
+;Day
+Day
+
+
+# Screen 4 (Calendar Event): NOTE: Indicate time and date display format that’s appropriate in your country. Check product UI terms for the actual strings.
+;Add Event
+Add Event
+
+
+;Done
+Done
+
+
+;Title
+Title
+
+
+;Where
+Where
+
+
+;All day event?
+All day event?
+
+
+;Calendar
+Calendar
+
+
+;Attendees
+Attendees
+
+
+;Repeat
+Repeat
+
+
+;Never
+Never
+
+
+# Screen 5 (Calendar Event Detail): NOTE: this page has content that should be localized instead of translated.  Find event that is more applicable than what’s presented.
+;Event Details
+Event Details
+
+
+;Edit
+Edit
+
+
+#NOTE: subject of meeting can be something else
+;Productivity Meeting
+Productivity Meeting
+
+
+;From 3:00PM Thursday, Dec 8, 2014 to 4:00 PM Friday, Dec 8, 2014
+From 3:00PM Thursday, Dec 8, 2014 to 4:00 PM Friday, Dec 8, 2014
+
+
+#NOTE: if the event is personal in nature, please change to personal calendar
+;Work Calendar
+Work Calendar
+
+
+;Reminder:
+Reminder:
+
+
+;10 minutes before
+10 minutes before
+
+
+;1 day before
+1 day before
+
+
+;2 hours before
+2 hours before
+
+
+;1 hour before
+1 hour before
+
+
+;All time of event
+All time of event
+
+
+;7 Invites
+7 Invites
+
+
+#NOTE: feel free to use a localized name as file name
+;file 1.png (150k)
+file 1.png (150k)
+
+
+#NOTE: use the locally appropriate way to address the attendees
+;Dear all,
+Dear all,
+
+
+#NOTE: made up message that corresponds to the subject of the meeting.
+;[Please reserve your time for the productivity meeting on this Tuesday, De-]
+[Please reserve your time for the productivity meeting on this Tuesday, De-]
+
+
+;Accept
+Accept
+
+
+;Maybe
+Maybe
+
+
+;Decline
+Decline
+
+
+# Screen 7 (Clock Analog)
+;Monday, March 25
+Monday, March 25
+
+
+;Alarm
+Alarm
+
+
+;Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Mon, Tue, Wed, Thu, Fri, Sat, Sun
+
+
+;Timer
+Timer
+
+
+;Stopwatch
+Stopwatch
+
+
+# Screen 9 (Clock Edit Alarm)
+;New alarm
+New alarm
+
+
+;Alarm name
+Alarm name
+
+
+;Time
+Time
+
+
+;Sound
+Sound
+
+
+;Classic Buzz
+Classic Buzz
+
+
+;Snooze
+Snooze
+
+
+;5 minutes
+5 minutes
+
+
+# Screen 10 (Contact Detail); NOTE: In this section, everything is made up.  1). Name should be from one of the contacts for easy tracking and consistency within the screenshot file. 2). The phone number should have correct country code, area code.  3). Company name is made up; 4). Email name can be fake, and made up domain name.
+;[name of one of the contacts, male]
+[name of one of the contacts, male]
+
+
+;[made up company name]
+[made up company name]
+
+
+;MOBILE
+MOBILE
+
+
+;[made up mobile phone number, with correct area code]
+[made up mobile phone number, with correct area code]
+
+
+;HOME
+HOME
+
+
+;[made up landline phone number, with correct country code and area code]
+[made up landline phone number, with correct country code and area code]
+
+;WORK
+WORK
+
+
+;[fake work email address]
+[fake work email address]
+
+
+;PERSONAL
+PERSONAL
+
+
+;[fake personal email address]
+[fake personal email address]
+
+
+;Remove from favorites
+Remove from favorites
+
+
+# Screen 11 (Contact List): NOTE: this is the most difficult page to localize.  Make sure you provide FAKE contacts following these guidelines: 1). 12 contacts, 6 male names and 6 female names.  Indicate which one is which; 2). At least half of the 12 have company names indicated, they can be made up companies; 3). Indicate if the sorting order of names is by family name or given name; 4). Following the sorting order, please provide names with consecutive initials (abc or jkl, xyz, etc).
+;Contacts
+Contacts
+
+
+;Search
+Search
+
+
+;[contact #1: Travis Allen (m)/T. Tray Photography]
+[contact #1: Travis Allen (m)/T. Tray Photography]
+
+
+;[contact #2: Will Amber (m)/CBN Studios]
+[contact #2: Will Amber (m)/CBN Studios]
+
+
+;[contact #3: Kevin Baker (m)/Mozilla]
+[contact #3: Kevin Baker (m)/Mozilla]
+
+
+;[contact #4: Noah Benson (m)/Benson Studios]
+[contact #4: Noah Benson (m)/Benson Studios]
+
+
+;[contact #5: Ava Brown (f)/Atsara Kitchen]
+[contact #5: Ava Brown (f)/Atsara Kitchen]
+
+
+;[contact #6: Name (gender)/Company]
+[contact #6: Name (gender)/Company]
+
+
+;[contact #7: Name (gender)/Company]
+[contact #7: Name (gender)/Company]
+
+
+;[contact #8: Name (gender)/Company]
+[contact #8: Name (gender)/Company]
+
+
+;[contact #9: Name (gender)/Company]
+[contact #9: Name (gender)/Company]
+
+
+;[contact #10: Name (gender)/Company]
+[contact #10: Name (gender)/Company]
+
+
+;[contact #11: Name (gender)/Company]
+[contact #11: Name (gender)/Company]
+
+
+;[contact #12: Name (gender)/Company]
+[contact #12: Name (gender)/Company]
+
+
+# Screen 12 (Data Usage):
+;Usage
+Usage
+
+;Oct 1, Oct 20, Oct 31
+Oct 1, Oct 20, Oct 31
+
+
+;Mobile usage
+Mobile usage
+
+
+;Wi-Fi usage
+Wi-Fi usage
+
+
+# Screen 14 (Dialer Outgoing call) NOTE: Several strings in #13 can be leveraged from screens #10 and 11, thus not repeated here
+;Connecting
+Connecting
+
+
+# Screen 15 (Email Compose) NOTE: Names in the To: field can be from the contact list
+;Compose
+Compose
+
+
+;To
+To
+
+
+;cc
+cc
+
+
+;bcc
+bcc
+
+
+# E-mail subject, replace "[made up subject]" with something relevant, e.g. "Subject: Getting together"
+;Subject: [made up subject]
+Subject: [made up subject]
+
+
+;Hi [one of the contacts in screen #11]
+Hi [one of the contacts in screen #11]
+
+
+;[Make up a fake message that corresponds to the subject.]
+[Make up a fake message that corresponds to the subject.]
+
+
+;SPACE
+SPACE
+
+
+;NEXT
+NEXT
+
+
+# Screen 16 (Email list) NOTE: we will use the names from the Contact list provided in screen #11
+;Inbox
+Inbox
+
+
+;RE: Send photos please/You’re the best! Thanks so much!
+RE: Send photos please/You’re the best! Thanks so much!
+
+
+;RE: Please Confirm Subscription/I’ve been wanting to visit that place
+RE: Please Confirm Subscription/I’ve been wanting to visit that place
+
+
+;RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
+RE: Road trip next weekend?/Great finds! I’ll definitely check with everyone
+
+
+;We’re Moving!/Hello Friends! Join us on Saturday for a fun and
+We’re Moving!/Hello Friends! Join us on Saturday for a fun and
+
+
+;RE: It was nice meeting you!/Hi mate, I heard you're going to the show
+RE: It was nice meeting you!/Hi mate, I heard you're going to the show
+
+
+;Yesterday
+Yesterday
+
+
+;1 week ago
+1 week ago
+
+
+;Last sync: Just now
+Last sync: Just now
+
+
+# Screen 17 (Email Reading): NOTE: we will use names from contact list in screen #10 and #11
+;Re: [fake subject, can pick one in screen #16]
+Re: [fake subject, can pick one in screen #16]
+
+
+;10 hours ago
+10 hours ago
+
+
+# Image attachment filename example
+;image20150813.jpg
+image20150813.jpg
+
+
+;Hi All [or whatever the proper greeting is]
+Hi All [or whatever the proper greeting is]
+
+
+;[fake message that corresponds to the subject]
+[fake message that corresponds to the subject]
+
+
+;Thanks!
+Thanks!
+
+
+# Screen 18 (EME Party) NOTE: the screen contains popular apps; names will remain as they are.
+;Social
+Social
+
+
+;Phone
+Phone
+
+
+;Messages
+Messages
+
+
+;E-Mail
+E-Mail
+
+
+# Screen 21 (Gallery Thumbmails)
+;February 2014
+February 2014
+
+
+# Screen 22 (Home Screen 3 Column Layout)
+;Search or enter address
+Search or enter address
+
+
+;Dialer
+Dialer
+
+
+;Browser
+Browser
+
+
+;Games
+Games
+
+
+;Music
+Music
+
+
+# Screen 23 (Home Screen 4 Column Layout)
+;Camera
+Camera
+
+
+;Gallery
+Gallery
+
+
+;Showbiz
+Showbiz
+
+
+;Clock
+Clock
+
+
+;Video
+Video
+
+
+;FM Radio
+FM Radio
+
+
+# Screen 24 (Lock Screen Normal)
+;Carrier
+Carrier
+
+
+;Friday March 1
+Friday March 1
+
+
+# Screen 25 (Lock Screen Notification/Music Player) NOTE: We will use one of the contacts in screen #11);
+;[Wanna grab lunch tomorrow? Or change to something more appropriate]
+[Wanna grab lunch tomorrow? Or change to something more appropriate]
+
+
+;Hi!
+Hi!
+
+
+;16m ago, 19m ago
+16m ago, 19m ago
+
+
+;[Fake song title/fake musician name]
+[Fake song title/fake musician name]
+
+
+# Screen 26 (Messaging Compose): NOTE: We will use one of the contacts in screen #11 for the name
+;Your subject here
+Your subject here
+
+
+;Write your message…
+Write your message…
+
+
+# Screen 27 (Messaging Conversation): NOTE: Contact and Subject line are from screen #26.
+;[fake message #1 relevant to the subject]
+[fake message #1 relevant to the subject]
+
+
+;[fake message #2 relevant to the subject]
+[fake message #2 relevant to the subject]
+
+
+;[fake message #3 relevant to the subject]
+[fake message #3 relevant to the subject]
+
+# Screen 28 (Messaging List) NOTE: Use Contact list for this page; messages can be leveraged from Screen #16
+
+
+# Screen 29 (Music Grid) NOTE: Provide fake band and album titles for this screen.  You can translate some titles to match the images.  You can leverage some of the existing fake titles/artists on the screen.
+;[Fake album title/band or artist #1]
+[Fake album title/band or artist #1]
+
+
+;[Fake album title/band or artist #2]
+[Fake album title/band or artist #2]
+
+
+;[Fake album title/band or artist #3]
+[Fake album title/band or artist #3]
+
+
+;[Fake album title/band or artist #4]
+[Fake album title/band or artist #4]
+
+
+;[Fake album title/band or artist #5]
+[Fake album title/band or artist #5]
+
+
+;[Fake album title/band or artist #6]
+[Fake album title/band or artist #6]
+
+
+;[Fake album title/band or artist #7]
+[Fake album title/band or artist #7]
+
+
+;[Fake album title/band or artist #8]
+[Fake album title/band or artist #8]
+
+
+# Screen 30 (Music Player) NOTE: Leverage one set from screen #29
+;Song Title
+Song Title
+
+
+# Screen 31 (Notifications) NOTE: Leverage messages from screen #16 and time from #25
+;Notifications
+Notifications
+
+
+;Clear All
+Clear All
+
+
+;Missed Call
+Missed Call
+
+
+;New SIM inserted
+New SIM inserted
+
+
+;Tap to track your internet usage
+Tap to track your internet usage
+
+
+# Screen 32 (Ringtone)
+;Manage Ringtones
+Manage Ringtones
+
+
+;Classics
+Classics
+
+
+;Classic Electric
+Classic Electric
+
+
+;Classic Wallphone
+Classic Wallphone
+
+
+;Disco Drive
+Disco Drive
+
+
+;Vamos La Electro
+Vamos La Electro
+
+
+;Created Ringtones
+Created Ringtones
+
+
+;[fake song title/artist #1]
+[fake song title/artist #1]
+
+
+;[fake song title/artist #2]
+[fake song title/artist #2]
+
+
+;[fake song title/artist #3]
+[fake song title/artist #3]
+
+
+# Screen 33 (Settings)
+;Settings
+Settings
+
+
+;Network & Connectivity
+Network & Connectivity
+
+
+;Airplane mode
+Airplane mode
+
+
+;Geolocation
+Geolocation
+
+
+;Wi-Fi
+Wi-Fi
+
+
+# Replace the fake network name with one of your choice
+;Connected to [fake network name]
+Connected to [fake network name]
+
+
+;SIM manager
+SIM manager
+
+
+;Call Settings
+Call Settings
+
+
+;Messaging Settings
+Messaging Settings
+
+
+;Cellular & Data
+Cellular & Data
+
+
+;Bluetooth
+Bluetooth
+
+
+# Screen 34 (Settings Sound)
+;Vibrate
+Vibrate
+
+
+;Volume
+Volume
+
+
+;Media
+Media
+
+
+;Ringer & Notifications
+Ringer & Notifications
+
+
+;Tones
+Tones
+
+
+;Ringer
+Ringer
+
+
+;Alerts
+Alerts
+
+
+# Screenshot 35 (Video List) NOTE: Replace the following names with culturally appropriate names for these video clips.  We will try to find appropriate images suitable for the targeted country
+;July 2014
+July 2014
+
+
+;August 2014
+August 2014
+
+
+;Handmade arts and crafts
+Handmade arts and crafts
+
+
+;Out on the water
+Out on the water
+
+
+;Soccer in the street
+Soccer in the street
+
+
+;Taking a break
+Taking a break
+
+
+# Screens 36 (Video Play)
+;Happy Birthday…
+Happy Birthday…
+
+
+# Screen 39-Bluetooth
+;Visible to all
+Visible to all
+
+
+;Suzy's Phone [local name]
+Suzy's Phone [local name]
+
+
+;Rename my device
+Rename my device
+
+
+;Devices in the area
+Devices in the area
+
+
+;Tap to connect
+Tap to connect
+
+
+;Search for devices
+Search for devices
+
+
+# Screen 40-FindMyDevice
+;Sign Out
+Sign Out
+
+
+# Screen 41-Create_Ringtone
+;Create Ringtone
+Create Ringtone
+
+
+;Save
+Save
+
+
+;Use as default ringtone
+Use as default ringtone
+

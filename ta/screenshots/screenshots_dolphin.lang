@@ -1,0 +1,469 @@
+## NOTE: 1.4 Dolphin Screenshots
+## NOTE: Tracking your progress: http://l10n.mozilla-community.org/~pascalc/langchecker/?locale=all&website=9&file=screenshots_dolphin.lang
+
+
+# Screen 1 (Music App): provide fictional items, DO NOT TRANSLATE the original string and remove the brackets in your translation.
+;[made up song title]
+பிடித்த பாடல்கள்
+
+
+# Screen 1 (Music App): provide a fictional band and artist
+;[made up local artist or band]
+டி.எம். சௌந்தரராஜன்
+
+
+# Screen 1 (Music App):
+;[made up local album title]
+தூங்காதே தம்பி தூங்காதே
+
+
+# Screen 2 (Music), screen 6 (Icon Grid), screen 11 (e.me party)
+;Music
+இசை
+
+
+# Screen 3 (Video)
+;Happy birthday
+Happy birthday
+
+
+# Screen 3 (Video)
+;Summer vacation fun
+Summer vacation fun
+
+
+# Screen 3 (Video)
+;Hanging out with the family
+Hanging out with the family
+
+
+# Screen 3 (Video)
+;Dinner with the gang/friends
+Dinner with the gang/friends
+
+
+# Screen 4 (Markeplace)
+;Search
+தேடு
+
+
+# Screen 4 (Markeplace)
+;All Categories
+All Categories
+
+
+# Screen 4 (Markeplace)
+;Featured Apps
+Featured Apps
+
+
+# Screen 4 (Markeplace)
+;View All
+View All
+
+
+# Screen 4 (Markeplace)
+;Popular
+Popular
+
+
+# Screen 4 (Markeplace)
+;New
+New
+
+
+# Screen 4 (Markeplace)
+;Free
+இலவச
+
+
+# Screen 5 (Homescreen)
+;I’m thinking of…
+நான் நினைப்பது...
+
+
+# Screen 5 (Homescreen):
+;Social
+சமூகம்
+
+
+# Screen 5 (Homescreen):
+;Games
+ஆட்டம்
+
+
+# Screen 5 (Homescreen):
+;ShowBiz
+ஷோபிஸ்
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Gallery
+படங்கள்
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Camera
+படக்கருவி
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Calendar
+நாள்காட்டி
+
+
+# Screen 6 (Icon Grid)
+;Clock
+Clock
+
+
+# Screen 6 (Icon Grid), screen 18 (Usage)
+;Usage
+பயனளவு
+
+
+# Screen 6 (Icon Grid), screen 11 (e.me party)
+;Video
+காணொளி
+
+
+# Screen 6 (Icon Grid)
+;Email
+Email
+
+
+# Screen 6 (Icon Grid)
+;FM Radio
+வானொலி
+
+
+# Screen 6 (Icon Grid)
+;Settings
+அமைவுகள்
+
+
+# Screen 7 (Here Maps)
+;Cafe
+Cafe
+
+
+# Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
+;[local street name#1]
+[local street name#1]
+
+
+# Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
+;[local street name#2]
+[local street name#2]
+
+
+# Screen 7 (Here Maps), screen 11 (e.me party), screen 12 (e.me party)
+;Results Simulated
+மாதிரி முடிவுகள்
+
+
+# Screen 8 (Gallery)
+;June 2014
+June 2014
+
+
+# Screen 9 (Gallery with Filters)
+;Edit
+தொகு
+
+
+# Screen 9 (Gallery with Filters)
+;Done
+முடிந்தது
+
+
+# Screen 11 (e.me party)
+;Party
+Party
+
+
+# Screen 11 (e.me party)
+;Everything Party
+Everything Party
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;EzGift
+EzGift
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Cater Girls
+Cater Girls
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Quickvite
+Quickvite
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Balloonies
+Balloonies
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;Flowerettes
+Flowerettes
+
+
+# Screen 11 (e.me party) NOTE: fictional
+;My Bulletin
+My Bulletin
+
+
+# Screen 11 (e.me party)
+;Notes
+குறிப்புகள்
+
+
+# Screen 12 (e.me party)
+;Café
+கஃபே
+
+
+# Screen 12 (e.me party)
+;Everything Cafe
+அனைத்தும் கஃபே
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Cafe Calories
+கஃபே கலோரிகள்
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Caffeine Diaries
+காஃபின் டயரீஸ்
+
+
+# Screen 12 (e.me party) NOTE: fictional; DIY=Do It Yourself
+;D.I.Y. Barista
+D.I.Y. Barista
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Coffee Addicts
+காபி அடிக்ட்ஸ்
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Java Spotter
+ஜாவா ஸ்பாட்டர்
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Join Up
+சேருங்கள்
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;MyGrubber
+மைகிரப்பர்
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Park It Here
+அதை இங்கு நிறுத்து
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Bookclub Finder
+புக்கிளஃப் கண்டுபிடிப்பான்
+
+
+# Screen 12 (e.me party) NOTE: fictional
+;Book Beamer
+புத்தக பீமர்
+
+
+# Screen 13 (Contacts)
+;Contacts
+தொடர்பு
+
+
+# Screen 13 (Contacts)
+;Search…
+Search…
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #1]
+கயல்விழி
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #2]
+ப சித்தன் எழுத்தாளர்
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #3]
+வேந்தன்
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #4]
+தென்றல்
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #5]
+அருண் பொறியாளர்
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #6]
+குப்பம்மா கூலி தொழிலாளி
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #7]
+பூங்குழலி
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #8]
+கருப்பாயி வங்கி மேலாளர்
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #9]
+தேன்மொழி
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #10]
+திகழ் இணியாள்
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #11]
+நரசிம்மன் விவசாயம்
+
+
+# Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
+;[made up name #12]
+முனியம்மாள் பொறியாளர்
+
+
+# Screen 14 (Email)
+;Inbox (2)
+மடல்பெட்டி (2)
+
+
+# Screen 14 (Email)
+;Re:
+பதில்:
+
+
+# Screen 14 (Email)
+;Send photos please / You 're the best! Thanks so…
+படங்களை அனுப்பு / நீங்க தான் சிறந்தவர்! மிக்க நன்றி...
+
+
+# Screen 14 (Email)
+;Road trip next weekend / I've been wanting to visit that place…
+அடுத்த வார சாலை பயணம் / அந்த இடத்தைப் பார்க்க ஆவளாக இருக்கிறேன்...
+
+
+# Screen 14 (Email)
+;You might like this / Great find! I'll definitely check with you
+நீங்கள் இதை விரும்பலாம் / நல்ல காணல்! உங்களிடம் மறுமுறை கண்டிப்பாக பேசுவேன்
+
+
+# Screen 14 (Email)
+;We're moving! / Hello Friends! Join us on Saturday to…
+நாங்கள் போகிறோம் / நண்பர்களே! சனிக்கிழமை அன்று சேரவும்...
+
+
+# Screen 14 (Email)
+;It was nice meeting you! I heard you are going the…
+உங்களை சந்தித்ததில் மகிழ்ச்சி! நீங்கள் செல்வதாக கேள்விப்பட்டோம்...
+
+
+# Screen 14 (Email)
+;Yesterday
+நேற்று
+
+
+# Screen 14 (Email)
+;1 week ago
+1 வாமு
+
+
+# Screen 14 (Email)
+;May 25
+May 25
+
+
+# Screen 15 and 16 (Dialer) NOTE: provide a fake phone number that complies to your country’s phone number format
+;[fake local phone number]
++919488000707
+
+
+# Screen 16 (Outgoing Call)
+;Connecting
+இணைக்கிறது
+
+
+# Screen 16 (Outgoing Call) NOTE: use the same fake name provided in the Contact screen.
+;[fake name from Contact list]
+தமிழா
+
+
+# Screen 17 (Browser)
+;Firefox Start Page
+Firefox முதல் பக்கம்
+
+
+# Screen 17 (Browser)
+;Top Sites
+முக்கிய தளங்கள்
+
+
+# Screen 18 (Usage)
+;3G Usage
+3G Usage
+
+
+# Screen 18 (Usage)
+;Wifi Usage
+Wifi Usage
+
+
+# Screen 18 (Usage)
+;May 1, May 20, May 30
+மே 1, மே 20, மே 30
+
+
+# Screen 19 (Lock Screen)
+;Carrier
+சுமப்பி
+
+
+# Screen 19 (Lock Screen)
+;8:36PM
+8:36பிப
+
+
+# Screen 19 (Lock Screen)
+;Friday, May 26
+வெள்ளி, மே 26
+
+
+# Screen 20 (Lock Screen 2 )  NOTE: use the same title provided in Music App screen)
+;[song title]
+தோல்வி நிலையென நினைத்தால்
+
+
+# Screen 20 (Lock Screen 2 )  NOTE: use the same artist provided in Music App screen)
+;[artist]
+பி. பி. சிறீநிவாசு
+
+
